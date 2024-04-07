@@ -1,0 +1,2 @@
+N'oubliez pas de faire une sauvegarde votre 00000000.cfsi original ! Car celui-ci va être remplacé !
+Le patch étant à ses débuts, je ne garantis pas une fonctionnalité à 100%
