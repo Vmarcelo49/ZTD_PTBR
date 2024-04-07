@@ -1,0 +1,180 @@
+==== 7172 ====
+Isto é...\\
+==== 7173 ====
+A Sala de Descontaminação.\\
+==== 7174 ====
+Descontaminação...\\
+==== 7175 ====
+Huh. Isso é estranho...\\
+==== 7176 ====
+Estranho?\\
+==== 7177 ====
+Eu sinto como se já tivesse ficado preso nesta\\
+sala antes.\\
+==== 7178 ====
+Você deve estar imaginando coisas.\\
+==== 7179 ====
+Eu acho...?\\
+==== 7180 ====
+Este botão...\\
+==== 7181 ====
+Estou com um pressentimento ruim sobre isso...\\
+==== 7182 ====
+Sim, algo não está certo...\\
+==== 7183 ====
+Talvez tenhamos esquecido deste lugar?\\
+==== 7184 ====
+As drogas nos braceletes?\\
+==== 7185 ====
+O que...\\
+==== 7186 ====
+Não...\\
+==== 7187 ====
+Talvez o outro time...!\\
+==== 7195 ====
+Agora anunciando... os atuais feridos...\\
+==== 7196 ====
+Equipe Q: Q, Mira, Eric\\
+==== 7197 ====
+Equipe D: Diana, Phi, Sigma\\
+==== 7198 ====
+Esses seis já faleceram.\\
+==== 7199 ====
+Como resultado...seis Passes X...serão revelados.\\
+==== 7200 ====
+PRÓPRIO... DESCANSE EM PAZ... LAGO... PÁSSARO...\\
+GÊMEO... VELHO...\\
+==== 7201 ====
+É só isso.\\
+==== 7202 ====
+Está certo, eu...\\
+==== 7203 ====
+Seria...inconveniente se você esquecesse que\\
+causou as mortes de outras pessoas...\\
+==== 7204 ====
+Nossa, isso foi rápido...\\
+==== 7205 ====
+Nós inserimos essas senhas, podemos chegar à\\
+superfície.\\
+==== 7206 ====
+Mas para consegui-los, as outras equipes...\\
+==== 7208 ====
+Não é sua culpa, Carlos...\\
+==== 7209 ====
+Eu tenho trabalhado muito nos últimos dez anos...\\
+==== 7210 ====
+Eu queria salvar o maior número de vidas que eu\\
+conseguisse.\\
+==== 7211 ====
+Eu trabalhei duro para fazer isso...\\
+==== 7212 ====
+Mas agora...\\
+==== 7213 ====
+Leucochloridium.\\
+==== 7214 ====
+Ou Spinochordodes tellinii. Você já ouviu falar\\
+de algum deles, Carlos?\\
+==== 7215 ====
+Por que você está de repente...\\
+==== 7216 ====
+Eles habitam e controlam as ações de criaturas\\
+maiores do que eles. Parasitas.\\
+==== 7217 ====
+Você está sugerindo que fomos controlados por\\
+qualquer coisa que você disse...?\\
+==== 7218 ====
+Leucochloridium são parasitas de caracóis.\\
+Louva-a-deus e gafanhotos pegam.\\
+==== 7219 ====
+Então eles não se prendem aos humanos?\\
+==== 7220 ====
+Correto.\\
+==== 7221 ====
+Eu já ouvi falar de um, no entanto. Toxoplasma\\
+gondii...\\
+==== 7222 ====
+Toxoplasma gondii?\\
+==== 7223 ====
+Eu vi isso no noticiário.\\
+==== 7224 ====
+Diga, se você comer carnes malpassadas,\\
+==== 7225 ====
+Ou trabalhar na terra, isso pode entrar no seu\\
+sistema. O parasita afeta embriões também,\\
+correto?\\
+==== 7226 ====
+Sim.\\
+==== 7227 ====
+Ratos com toxoplasmose não têm mais medo de seu\\
+predador, o gato.\\
+==== 7228 ====
+e são, de fato, atraídos pelo cheiro da urina\\
+deles.\\
+==== 7229 ====
+Os ratos são atraídos por gatos?\\
+==== 7230 ====
+Para humanos infectados com Toxoplasma gondii,\\
+==== 7231 ====
+Você se torna um tomador de riscos, suas\\
+reações se tornam lentas, ou você se torna\\
+extremamente sensível...\\
+==== 7232 ====
+Você está dizendo que o Carlos apertou aquele\\
+botão por causa de algo assim?\\
+==== 7233 ====
+Eu não sei...\\
+==== 7234 ====
+Mas é mais realista do que dizer que você estava\\
+possuído por um diabo...\\
+==== 7235 ====
+Um parasita controlador de humanos...\\
+==== 7236 ====
+Vocês estão prontos?\\
+==== 7237 ====
+Sim.\\
+==== 7238 ====
+Sem problemas aqui.\\
+==== 7239 ====
+Tudo bem, então vamos inserir as senhas.\\
+==== 7240 ====
+Ei, abriu! Abriu!\\
+==== 7241 ====
+Vamos logo!\\
+==== 7242 ====
+A porta vai fechar imediatamente!\\
+==== 7243 ====
+Ei, para que você está aí parado?!\\
+==== 7244 ====
+Carlos...?\\
+==== 7245 ====
+Eu...\\
+==== 7246 ====
+Eu não consigo sair com vocês...\\
+==== 7247 ====
+O que...?!\\
+==== 7248 ====
+Huh...?\\
+==== 7249 ====
+Eu fiz uma promessa em outra história de que\\
+definitivamente salvaria vocês dois...\\
+==== 7250 ====
+Outra...história?\\
+==== 7251 ====
+Sobre o que você está tagarelando como um\\
+absurdo?\\
+==== 7252 ====
+Vamos, apresse-se!\\
+==== 7253 ====
+Até mais, pessoal...\\
+==== 7254 ====
+Carlos!\\
+==== 7255 ====
+Carlooos!\\
+==== 7256 ====
+Aguenta aí!\\
+==== 7257 ====
+Eu vou te salvar agora!\\
+==== 17218 ====
+Spinochordodes tellinii.\\
+==== 17230 ====
+Mudanças nas ações e personalidades foram detectadas.\\

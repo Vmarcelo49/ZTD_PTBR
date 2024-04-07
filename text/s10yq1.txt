@@ -1,0 +1,590 @@
+==== 518 ====
+Isso é estranho...\\
+==== 519 ====
+Deve haver outro quarto por aqui em algum lugar.\\
+==== 520 ====
+Deixe-me ver.\\
+==== 521 ====
+Ei.\\
+==== 522 ====
+Cala a boca!\\
+==== 523 ====
+Por que diabos eu deveria mostrar – !\\
+==== 524 ====
+Ele também tem o direito de ver.\\
+==== 525 ====
+Mira...\\
+==== 526 ====
+Obrigado.\\
+==== 527 ====
+Não faz muito sentido ficar por aqui esperando\\
+sem fazer nada.\\
+==== 528 ====
+Vamos voltar para o Saguão.\\
+==== 529 ====
+O que é isso...?\\
+==== 530 ====
+[Let's inhibit the virus!]\\
+==== 531 ====
+Talvez alguém vá remover ou controlar algum tipo\\
+de vírus?\\
+==== 532 ====
+Vírus? Que vírus?\\
+==== 533 ====
+Sobre o voto. O que faremos?\\
+==== 534 ====
+Não me pergunte...\\
+==== 535 ====
+Mas se não fizermos isso, não significa que\\
+iremos morrer?\\
+==== 536 ====
+Sim.\\
+==== 537 ====
+Mesmo que a Equipe C tenha votado na Equipe D, e a\\
+Equipe D tenha feito o contrário,\\
+==== 538 ====
+Se recusarmos, então teremos automaticamente dois\\
+votos contra nós...\\
+==== 539 ====
+E a Equipe Q seria morta...\\
+==== 540 ====
+Eu suponho que seja verdade, se esse jogo é real.\\
+==== 541 ====
+Então você está dizendo que é uma piada...?\\
+==== 542 ====
+Você não acha que isso faria muito mais sentido?\\
+==== 543 ====
+A equipe do Dcom provavelmente vai aparecer\\
+naquela porta ali gritando "Surpresa!"\\
+==== 544 ====
+Entendi! Você está certa!\\
+==== 545 ====
+Então, ele estar aqui faz sentido agora!\\
+==== 546 ====
+Eu aposto que isso significa que você faz parte\\
+da surpresa!\\
+==== 547 ====
+N-Não...\\
+==== 548 ====
+Vamos lá, tire esse capacete.\\
+==== 549 ====
+Eu não posso.\\
+==== 550 ====
+Hã?\\
+==== 551 ====
+Eu disse que não consigo tirá-lo!\\
+==== 552 ====
+Maldito pirralho! Pare de me enrolar!\\
+==== 553 ====
+Ah! Pare, pare!\\
+==== 554 ====
+Você vai quebrar meu pescoço!\\
+==== 555 ====
+Caramba. Está realmente preso aí...\\
+==== 556 ====
+Aguarde.\\
+==== 557 ====
+Eu vejo algo ao lado deste objeto.\\
+==== 558 ====
+Que diabos...\\
+==== 559 ====
+Não é uma entrada de senha?\\
+==== 560 ====
+Isso significa que o capacete sai com os números\\
+certos?\\
+==== 561 ====
+Ou talvez a cabeça dele exploda.\\
+==== 562 ====
+Ah! Ei!\\
+==== 563 ====
+Quem é você de verdade?\\
+==== 564 ====
+Eu não sei.\\
+==== 565 ====
+Eu não me lembro.\\
+==== 566 ====
+Eu acordei, e eu estava aqui...\\
+==== 567 ====
+Você está dizendo que tem amnésia?\\
+==== 568 ====
+Talvez...?\\
+==== 569 ====
+Posso te fazer uma pergunta?\\
+==== 570 ====
+O quê?\\
+==== 571 ====
+Eu estava me perguntando, quem é Zero?\\
+==== 572 ====
+Ah, vai. Pare de brincar.\\
+==== 573 ====
+Você sabe de tudo, não sabe?\\
+==== 574 ====
+Eu disse que não...\\
+==== 575 ====
+Então você vai manter a ideia de que isso não\\
+é uma grande surpresa?\\
+==== 576 ====
+Eu não sei.\\
+==== 577 ====
+Eu não me lembro de nada...\\
+==== 578 ====
+Se isso não for uma piada, então as coisas\\
+estão realmente sérias.\\
+==== 579 ====
+Então, você está dizendo que um dos times vai\\
+ser realmente eliminado?!\\
+==== 580 ====
+Mas por que alguém faria isso...\\
+==== 581 ====
+Zero disse...\\
+==== 582 ====
+É um jogo.\\
+==== 583 ====
+Então ele é um psicopata.\\
+==== 584 ====
+Esse tal de Zero provavelmente está por aí, se\\
+divertindo vendo a gente surtar...\\
+==== 585 ====
+Ele poderia ser aquele assassino em série das\\
+notícias...\\
+==== 586 ====
+Esse é o "Arrancador de Corações", certo?\\
+==== 587 ====
+Sim.\\
+==== 588 ====
+O rumor é que matou 18 pessoas, todas nos\\
+últimos anos...\\
+==== 589 ====
+15 de março de 2026. O corpo de uma jovem mulher\\
+foi encontrado em um parque em Roseville.\\
+==== 590 ====
+O nome da vítima era Virginia Bailey, 28 anos.\\
+==== 591 ====
+O peito foi rasgado e o coração foi\\
+completamente removido.\\
+==== 592 ====
+Aconteceu novamente em 22 de maio de 2026.\\
+==== 593 ====
+O corpo de um homem foi encontrado em uma lata de\\
+lixo perto de uma residência em Sacramento.\\
+==== 594 ====
+O nome da vítima era Jeffery Foret, 37 anos.\\
+==== 595 ====
+Seu corpo estava igual ao de Virginia, com o\\
+coração totalmente arrancado.\\
+==== 596 ====
+Dois meses depois, em 29 de julho-\\
+==== 597 ====
+E-Ei, e-espera um minuto.\\
+==== 598 ====
+Você não tem amnésia ou algo parecido?\\
+==== 599 ====
+Por que você sabe de tudo isso?\\
+==== 600 ====
+Eu não sei...\\
+==== 601 ====
+Eu não sei por que... mas eu sabia.\\
+==== 602 ====
+Você está brincando comigo!\\
+==== 603 ====
+Eu estava pensando, onde estamos?\\
+==== 604 ====
+Você não estava ouvindo o Zero antes?\\
+==== 605 ====
+Estamos a 50 metros debaixo da terra em um abrigo\\
+anti-bombas.\\
+==== 606 ====
+Eu sei disso, mas onde exatamente?\\
+==== 607 ====
+Uhhh...\\
+==== 608 ====
+Duvido que estejamos muito longe do Dcom...\\
+==== 609 ====
+Dcom?\\
+==== 610 ====
+[Dwelling for the Cohabitation Of Mars]\\
+Moradia para a Coabitação de Marte.\\
+==== 611 ====
+Então, é um experimento para ver se poderíamos\\
+sobreviver em Marte?\\
+==== 612 ====
+Ahã.\\
+==== 613 ====
+Nós todos moramos juntos naquele complexo por\\
+cinco dias.\\
+==== 614 ====
+A equipe C e a equipe D também estavam lá.\\
+==== 615 ====
+Ah, e havia um cachorro.\\
+==== 616 ====
+Era incrivelmente antigo.\\
+==== 617 ====
+Acho que seu nome era Gab...\\
+==== 618 ====
+Mas não você.\\
+==== 619 ====
+Você não estava lá.\\
+==== 620 ====
+É muito suspeito.\\
+==== 621 ====
+Para o que eles estavam testando?\\
+==== 622 ====
+Dados psicológicos principalmente.\\
+==== 623 ====
+Era um ambiente fechado para um grupo de pessoas\\
+por um longo período de tempo.\\
+==== 624 ====
+Então como isso afetaria os participantes\\
+mentalmente?\\
+==== 625 ====
+Isso foi o que eles estavam tentando investigar.\\
+==== 626 ====
+O que fez você se inscrever?\\
+==== 627 ====
+Hmm. Questão difícil.\\
+==== 628 ====
+Parecia que poderia ser meio divertido, eu acho?\\
+==== 629 ====
+Eric?\\
+==== 630 ====
+Eu me juntei porque Mira queria...\\
+==== 631 ====
+É isso?\\
+==== 632 ====
+Bem, talvez não completamente...\\
+==== 633 ====
+Mira.\\
+==== 634 ====
+Eric.\\
+==== 635 ====
+O que está acontecendo entre vocês dois?\\
+==== 636 ====
+Acontecendo? Ah, bom...\\
+==== 637 ====
+Você estão namorando?\\
+==== 638 ====
+Idiota! Não, nós não estamos!\\
+==== 639 ====
+Nós não estamos?\\
+==== 640 ====
+Bem, não somos NÃO, mas...!\\
+==== 641 ====
+Espera... O quê?\\
+==== 642 ====
+Sabe, tenho tentado descobrir algo por um tempo.\\
+==== 643 ====
+O que é essa coisa?\\
+==== 644 ====
+Talvez seja um presente do Zero?\\
+==== 645 ====
+E daí, você acha que tem chás variados aqui\\
+dentro?\\
+==== 646 ====
+Presentes não precisam ser algo bom, não é\\
+mesmo?\\
+==== 647 ====
+Ei! Que diabos! Pare!\\
+==== 648 ====
+E se for algum tipo de bomba?!\\
+==== 649 ====
+Uma bomba?\\
+==== 650 ====
+Hmm, eu não acho que seja...\\
+==== 651 ====
+Ah, algo está na parte de trás...\\
+==== 652 ====
+Acho que isso está de cabeça para baixo.\\
+==== 653 ====
+Então... este seria a frente...\\
+==== 654 ====
+[Force Quit Box]\\
+==== 655 ====
+Acha que isso vai parar algo?\\
+==== 656 ====
+Olha, também tem um teclado.\\
+==== 657 ====
+Parece que você deve inserir um código de algum\\
+tipo...\\
+==== 658 ====
+E se acertarmos?\\
+==== 659 ====
+Então "algo" será forçado a terminar?\\
+==== 660 ====
+Mas, o quê?\\
+==== 661 ====
+Talvez...\\
+==== 662 ====
+Sua vida?\\
+==== 663 ====
+Qual foi esse som?\\
+==== 664 ====
+Veio por aquele caminho.\\
+==== 665 ====
+Vamos!\\
+==== 666 ====
+Gab? Como você...\\
+==== 667 ====
+Você entrou pelo duto de ventilação?\\
+==== 668 ====
+Está muito escuro. Não consigo ver nada.\\
+==== 669 ====
+Por que você não entra?\\
+==== 670 ====
+Não consigo...\\
+==== 671 ====
+Apenas faça isso, está bem?\\
+==== 672 ====
+Entendeu?\\
+==== 673 ====
+Se você não tivesse essa coisa estúpida na sua\\
+cabeça...\\
+==== 674 ====
+Ei, confira isso.\\
+==== 675 ====
+Há algo dentro do estojo.\\
+==== 676 ====
+Isso é um porta-copos?\\
+==== 677 ====
+Ah, tem algo nele!\\
+==== 678 ====
+Olá. Aqui é o Carlos.\\
+==== 679 ====
+A equipe C está votando na equipe D.\\
+==== 680 ====
+Então, a Equipe D deve votar na Equipe Q, e a\\
+Equipe Q na Equipe C.\\
+==== 681 ====
+O que isso significa?\\
+==== 682 ====
+Você não entende?\\
+==== 683 ====
+Eles estão dizendo para espalhar os votos.\\
+==== 684 ====
+Hein? Espalhar?\\
+==== 685 ====
+Entendi!\\
+==== 686 ====
+Se cada equipe acabar com um voto...\\
+==== 687 ====
+Tudo termina em empate e nenhum time será\\
+eliminado.\\
+==== 688 ====
+Ah! Que ótima ideia!\\
+==== 689 ====
+Certo, agora temos um plano. Vamos fazer isso!\\
+==== 690 ====
+Mas espera...\\
+==== 691 ====
+Por que devemos esperar?\\
+==== 692 ====
+Bem... E se essa mensagem ainda não foi entregue\\
+para a Equipe D?\\
+==== 693 ====
+Você está certo.\\
+==== 694 ====
+A posição deste respiradouro indica que ele se\\
+conecta apenas à Ala C.\\
+==== 695 ====
+Duvido que Gab tenha chegado à Ala D até agora.\\
+==== 696 ====
+Precisamos descobrir como notificar a Equipe D\\
+então.\\
+==== 697 ====
+Espera um segundo!\\
+==== 698 ====
+Eu vou pegar uma caneta e queijo!\\
+==== 699 ====
+Tinha um pouco no bar, certo...?\\
+==== 700 ====
+Uma caneta...\\
+==== 701 ====
+E queijo...?\\
+==== 702 ====
+Isso deve resolver...\\
+==== 703 ====
+O que exatamente você está fazendo?\\
+==== 704 ====
+Ah, entendi.\\
+==== 705 ====
+Se a Ala C e a Ala Q possuem dutos conectados-\\
+==== 706 ====
+Então Q e D provavelmente também estão\\
+conectados.\\
+==== 707 ====
+Sim.\\
+==== 708 ====
+Só precisamos pegar o queijo e...\\
+==== 709 ====
+Tudo depende de você, Gab.\\
+==== 710 ====
+Acha que vai funcionar...?\\
+==== 711 ====
+Tenho certeza que sim.\\
+==== 712 ====
+Cinco minutos até o prazo final.\\
+==== 713 ====
+Eu me pergunto se Gab chegou a ala D\\
+ou não.\\
+==== 714 ====
+Mesmo que ele tenha feito, quem sabe se Diana\\
+votará da maneira como está escrito na nota.\\
+==== 715 ====
+O que? Você acha que ela vai nos trair?\\
+==== 716 ====
+Não está fora do alcance da possibilidade.\\
+==== 717 ====
+Eu nem quero considerar a alternativa.\\
+==== 718 ====
+Qual é...?\\
+==== 719 ====
+Que toda a carta da Equipe C é uma armadilha.\\
+==== 720 ====
+Armadilha?\\
+==== 721 ====
+Eles poderiam ter escrito, mas talvez Carlos\\
+esteja planejando votar na Equipe Q ao invés disso.\\
+==== 722 ====
+Ei, espere um minuto agora...\\
+==== 723 ====
+Isso... não é bom. De jeito nenhum.\\
+==== 724 ====
+Você disse isso.\\
+==== 725 ====
+Se estiver correto, então precisamos que Diana\\
+faça o oposto do que está escrito.\\
+==== 726 ====
+O quê? Mas...\\
+==== 727 ====
+O prazo para votar... é de três minutos.\\
+==== 728 ====
+O voto deve ser decidido pelo líder, mas...\\
+==== 729 ====
+O que devemos fazer...\\
+==== 730 ====
+Não temos tempo para um comitê.\\
+==== 731 ====
+Então teremos que usar a força -!\\
+==== 732 ====
+E-Espera!\\
+==== 733 ====
+Seu voto...foi aceito.\\
+==== 734 ====
+Seguindo a nota, huh...\\
+==== 735 ====
+Ah, acho que está tudo bem. Não foi uma escolha\\
+ruim.\\
+==== 736 ====
+Agora esperamos e vemos o que exatamente Carlos e\\
+Diana farão.\\
+==== 737 ====
+Se esse plano não funcionar, então há dois\\
+resultados que poderiam acontecer.\\
+==== 738 ====
+Ou os três da Equipe C morrem...\\
+==== 739 ====
+Ou nós somos os executados...\\
+==== 740 ====
+Não. Há mais uma possibilidade.\\
+==== 741 ====
+Sim?\\
+==== 742 ====
+É uma piada.\\
+==== 743 ====
+Alguém com certeza está nos enganando...!\\
+==== 744 ====
+Então é você -!\\
+==== 745 ====
+Noventa minutos se passaram. Seu limite de tempo\\
+acabou.\\
+==== 746 ====
+Durma bem, pois o próximo jogo começará quando\\
+você acordar.\\
+==== 747 ====
+Infelizmente, a equipe que receber dois votos não\\
+poderá participar...\\
+==== 748 ====
+Uma última coisa.\\
+==== 749 ====
+Você seguiu com o voto exatamente como eu mandei.\\
+==== 750 ====
+Você merece uma recompensa por obedecer.\\
+==== 751 ====
+O medicamento para perda de memória não será\\
+injetado em vocês três.\\
+==== 752 ====
+Quando acordar novamente, aqueles que sobreviveram\\
+serão capazes de se arrepender da decisão que\\
+tomaram.\\
+==== 753 ====
+Como todos os membros de um única equipe perecerão\\
+como resultado da votação que você entrou.\\
+==== 754 ====
+Bons sonhos...\\
+==== 755 ====
+Seu voto...foi aceito.\\
+==== 756 ====
+Ah, a trama se complica.\\
+==== 757 ====
+Por que você...?!\\
+==== 758 ====
+Se Carlos votou na Equipe D, como ele disse na\\
+nota...!\\
+==== 759 ====
+Talvez esse tenha sido o resultado que ele estava\\
+buscando.\\
+==== 760 ====
+Ele queria matar os três da Equipe D...\\
+==== 761 ====
+Não...\\
+==== 762 ====
+Você disse isso antes, não disse Mira...?\\
+==== 763 ====
+O bilhete que Gab trouxe poderia ter sido uma\\
+armadilha da Equipe C...\\
+==== 764 ====
+Certo.\\
+==== 765 ====
+Mas isso não significa que votar na Equipe D\\
+possa ser justificado.\\
+==== 766 ====
+Se realmente foi uma armadilha, ainda não há um\\
+motivo sólido para ir contra o que está escrito\\
+no bilhete.\\
+==== 767 ====
+Porque independentemente,\\
+==== 768 ====
+Desde que Diana não nos trair, podemos estar de\\
+qualquer maneira ferrados.\\
+==== 769 ====
+Mira...\\
+==== 770 ====
+Não há como justificar dizendo que votamos dessa\\
+maneira em legítima defesa.\\
+==== 771 ====
+Noventa minutos se passaram. Seu limite de tempo\\
+acabou.\\
+==== 772 ====
+Durma bem, pois o próximo jogo começará quando\\
+você acordar.\\
+==== 773 ====
+Infelizmente, a equipe que receber dois votos não\\
+poderá participar...\\
+==== 774 ====
+Uma última coisa.\\
+==== 775 ====
+Você seguiu com o voto exatamente como eu\\
+ordenei.\\
+==== 776 ====
+Você merece uma recompensa por obedecer.\\
+==== 777 ====
+O remédio para perda de memória não será\\
+injetado em vocês três.\\
+==== 778 ====
+Quando você acordar novamente, aqueles que\\
+sobreviveram serão capazes de se arrepender da\\
+decisão que tomaram.\\
+==== 779 ====
+Como todos os membros de um única equipe perecerão\\
+como resultado do voto que você inseriu.\\
+==== 780 ====
+Bons sonhos...\\

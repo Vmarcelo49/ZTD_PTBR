@@ -1,0 +1,597 @@
+==== 1316 ====
+Nos deixem sair!\\
+==== 1317 ====
+Nos deixe sair daqui!\\
+==== 1318 ====
+Por quanto tempo você planeja fazer isso?\\
+==== 1319 ====
+Não adianta, não é?\\
+==== 1320 ====
+Pode bater o quanto quiser. Não vai abrir.\\
+==== 1321 ====
+Maldição.\\
+==== 1322 ====
+Apenas tire um segundo e se acalme.\\
+==== 1323 ====
+Precisamos de cabeças frias.\\
+==== 1324 ====
+OI!\\
+==== 1325 ====
+O que diabos você está fazendo ?!\\
+==== 1326 ====
+Peço desculpas.\\
+==== 1327 ====
+Você sabe o que esse botão faz?\\
+==== 1328 ====
+Bem, não. Mas...\\
+==== 1329 ====
+Talvez a porta abra com isso...\\
+==== 1330 ====
+Eu... eu não ia realmente insistir nisso.\\
+==== 1331 ====
+Aff. Crianças são um incômodo.\\
+==== 1332 ====
+Mas ele poderia estar certo.\\
+==== 1333 ====
+Não ouvimos nada do Zero. Apenas ficar parado\\
+aqui é inútil...\\
+==== 1334 ====
+Talvez apenas um empurrãozinho?\\
+==== 1335 ====
+Oi, Mira.\\
+==== 1336 ====
+Brincadeira! Eu não sou tão imprudente.\\
+==== 1337 ====
+Não me assuste assim.\\
+==== 1338 ====
+Mas na verdade, não sabemos quase nada. Talvez\\
+estejamos no ponto de tomar decisões loucas.\\
+==== 1339 ====
+A única coisa que sabemos com certeza é que\\
+horas são.\\
+==== 1340 ====
+18:08...\\
+==== 1341 ====
+Deve ter sido por volta das 13:30 quando nós\\
+caímos no sono na Sala, então...\\
+==== 1342 ====
+Quatro horas e meia.\\
+==== 1343 ====
+Uau. Você calculou rápido.\\
+==== 1344 ====
+E na sua idade, ainda.\\
+==== 1345 ====
+Foi bom?\\
+==== 1346 ====
+Eu... Eu estava prestes a dizer a mesma coisa.\\
+==== 1347 ====
+Parece que você ainda tem aquele problema com\\
+números, Eric.\\
+==== 1348 ====
+Eu lembro de você tendo dificuldade para calcular\\
+troco quando nos conhecemos pela primeira vez...\\
+==== 1349 ====
+O-Oi. Vamos lá agora...\\
+==== 1350 ====
+Você está me constrangendo.\\
+==== 1351 ====
+Foi assim que vocês se conheceram?!\\
+==== 1352 ====
+Eu quero ouvir! Eu quero ouvir!\\
+==== 1353 ====
+S-Sim?\\
+==== 1354 ====
+Meu rosto deve estar todo vermelho.\\
+==== 1355 ====
+Eu ainda lembro de cada detalhe.\\
+==== 1356 ====
+O encontro fatídico foi em uma segunda-feira.\\
+==== 1357 ====
+O céu naquela manhã em Nebraska estava cheio de\\
+nuvens densas.\\
+==== 1358 ====
+Embora a escuridão tenha se dissipado em um\\
+instante, como um milagre.\\
+==== 1359 ====
+Sempre despendia o meu melhor sorriso para os\\
+clientes.\\
+==== 1360 ====
+Eu ainda ofereci o sorvete mais delicioso para\\
+eles.\\
+==== 1361 ====
+Eu estava ficando cansado disso, no entanto.\\
+==== 1362 ====
+Oh, agora não pense que foi meu trabalho com o\\
+qual eu estava insatisfeito.\\
+==== 1363 ====
+Eu realmente amo sorvete de verdade.\\
+==== 1364 ====
+Mas à medida que os dias passavam, tudo parecia\\
+vazio. Como se houvesse um buraco no meu\\
+coração.\\
+==== 1365 ====
+Eu pensei que era apenas mais um dia normal.\\
+==== 1366 ====
+Eu não estava esperando o momento em que mudou.\\
+==== 1367 ====
+Eu não podia acreditar em meus olhos.\\
+==== 1368 ====
+Eu não imaginava que uma vista tão linda\\
+existisse neste mundo.\\
+==== 1369 ====
+Meu Deus, os sentimentos que me atingiram. Nunca\\
+senti nada assim antes.\\
+==== 1370 ====
+Foi quando eu percebi...\\
+==== 1371 ====
+Isso. Isso tinha que ser um milagre.\\
+==== 1372 ====
+Mm hm. Mira entrou na minha vida. Ela era um anjo\\
+que parecia uma cliente!\\
+==== 1373 ====
+Hmm, não deveria ser ao contrário?\\
+==== 1374 ====
+Os detalhes não são importantes.\\
+==== 1375 ====
+Você parece que não entende.\\
+==== 1376 ====
+Bem, eu não te culpo.\\
+==== 1377 ====
+Eu também não entendi.\\
+==== 1378 ====
+Mira era simplesmente uma visão vivaz de beleza.\\
+==== 1379 ====
+Eu era apenas um humilde funcionário de uma\\
+sorveteria. Ao lado disso...\\
+==== 1380 ====
+Não havia como eu ser uma boa combinação.\\
+==== 1381 ====
+Mas então, Mira-\\
+==== 1382 ====
+Pare com isso.\\
+==== 1383 ====
+Eu, um anjo? Você deve estar brincando.\\
+==== 1384 ====
+Mas é verdade!\\
+==== 1385 ====
+Você realmente é um anjo para mim, Mira!\\
+==== 1389 ====
+Ah. Parece que agora você é uma pessoa\\
+completamente diferente, Eric.\\
+==== 1390 ====
+Huh?\\
+==== 1391 ====
+Bem, mais cedo... você estava sendo... Seu rosto\\
+estava bastante assustador.\\
+==== 1392 ====
+Eu te assustei tanto assim?\\
+==== 1393 ====
+Sim...\\
+==== 1394 ====
+Ah... Meu Deus.\\
+==== 1395 ====
+Eu sinto muito.\\
+==== 1396 ====
+Está tudo bem.\\
+==== 1397 ====
+Você provavelmente apenas ficou abalado com o que\\
+aconteceu conosco.\\
+==== 1398 ====
+Eu poderia dizer que você era uma pessoa legal\\
+por baixo de tudo isso!\\
+==== 1399 ====
+Ha ha. O que você...\\
+==== 1400 ====
+Você é um pato estranho.\\
+==== 1401 ====
+Rs rs.\\
+==== 1402 ====
+Parece que você voltou para sua expressão tola\\
+novamente.\\
+==== 1403 ====
+Imagino que você tenha se acalmado, não é?\\
+==== 1404 ====
+Bobo... Cara, você é realmente severo, Mira.\\
+==== 1405 ====
+Mas sim, estou bem agora.\\
+==== 1406 ====
+Isso mesmo. Estou bem...\\
+==== 1407 ====
+Com certeza posso sorrir, não importa o que\\
+aconteça...\\
+==== 1408 ====
+Eu me pergunto por que Zero decidiu nos trancar\\
+aqui de qualquer maneira.\\
+==== 1409 ====
+Certo. Parece ser um esforço muito grande para\\
+ser apenas uma piada.\\
+==== 1410 ====
+Muito dinheiro foi investido nessa coisa toda.\\
+==== 1411 ====
+Talvez tudo isso faça parte do experimento da\\
+Dcom...?\\
+==== 1412 ====
+Eles queriam investigar como um espaço fechado\\
+afetava a mudança nas emoções, certo?\\
+==== 1413 ====
+Mas então por que eles queriam que pessoas\\
+normais como nós nos candidatássemos?\\
+==== 1414 ====
+Você não gostaria que pessoas em profissões\\
+úteis fossem para Marte?\\
+==== 1415 ====
+Assim como os oficiais militares, os\\
+pesquisadores... Outros profissionais\\
+especializados também são assim?\\
+==== 1416 ====
+Talvez o motivo de terem escolhido civis como\\
+sujeitos seja\\
+==== 1417 ====
+Porque eles estão planejando enviar esse tipo de\\
+pessoa para Marte no futuro?\\
+==== 1418 ====
+Hmm, parece correto.\\
+==== 1419 ====
+Estranhos vivendo juntos em Marte por um período\\
+prolongado.\\
+==== 1420 ====
+Que tipo de problemas isso traria?\\
+==== 1421 ====
+Como os sujeitos descobririam soluções para as\\
+situações problemáticas resultantes.\\
+==== 1422 ====
+De acordo com a equipe do Dcom, isso é o que o\\
+experimento estava tentando determinar.\\
+==== 1423 ====
+Assim como o velho homem preso à cadeira...\\
+==== 1424 ====
+Eles nos colocaram em uma posição difícil de\\
+propósito, para observar como sairíamos.\\
+==== 1425 ====
+O patrocinador é uma organização civil que\\
+espera expandir negócios pelo mundo.\\
+==== 1426 ====
+Talvez esperem fazer parte de uma colonização de\\
+Marte no futuro?\\
+==== 1427 ====
+Colonizando Marte...\\
+==== 1428 ====
+Ei, você já ouviu isso antes?\\
+==== 1429 ====
+Se você deseja transportar carpas vivas do Brasil\\
+para o Japão,\\
+==== 1430 ====
+Colocar apenas peixes koi em um aquário\\
+resultará na maioria deles morrendo.\\
+==== 1431 ====
+Mas ao adicionar algo a esse mesmo recipiente,\\
+você não perderá nenhum.\\
+==== 1432 ====
+O que é isso?\\
+==== 1433 ====
+Uma piranha.\\
+==== 1434 ====
+Uma piranha?\\
+==== 1435 ====
+Mas, como isso funciona mesmo?\\
+==== 1436 ====
+Eu acho que os instintos de autopreservação\\
+deles estão entrando em ação.\\
+==== 1437 ====
+Entendi...\\
+==== 1438 ====
+Os peixes ficam tão com medo das piranhas que\\
+fazem um esforço para sobreviver.\\
+==== 1439 ====
+Esse estado nervoso se torna o poder de mantê-los\\
+vivos.\\
+==== 1440 ====
+Ah, entendi.\\
+==== 1441 ====
+Para sobreviver, você precisa desse senso de\\
+urgência.\\
+==== 1442 ====
+Entendi...\\
+==== 1443 ====
+Então, para uma missão real em Marte, seria uma\\
+boa ideia ter um assassino na tripulação, né?\\
+==== 1444 ====
+Brincadeira!\\
+==== 1445 ====
+Eric, não diga coisas assustadoras assim.\\
+==== 1446 ====
+Ah! Então talvez tudo isso seja algo similar?\\
+==== 1447 ====
+Viver tranquilamente em Dcom se torna entediante,\\
+então o estado emocional irá desaparecer.\\
+==== 1448 ====
+Se você intencionalmente injetar um senso de\\
+emergência -\\
+==== 1449 ====
+Um pouco tarde talvez, mas agora anunciarei os\\
+resultados da votação.\\
+==== 1450 ====
+Todos os três grupos votaram em times diferentes.\\
+==== 1451 ====
+Portanto, nenhum foi executado.\\
+==== 1452 ====
+O número atual de mortes: 0.\\
+==== 1453 ====
+Eu não posso dizer que esta é uma situação\\
+ideal para nenhum de nós envolvidos.\\
+==== 1454 ====
+Parece que nenhum de vocês compreende totalmente\\
+a essência deste jogo.\\
+==== 1455 ====
+Pense nas regras que lhe foram ensinadas...\\
+==== 1456 ====
+Você permanecerá neste abrigo pela eternidade\\
+até que seis pessoas sejam mortas.\\
+==== 1457 ====
+Eu te darei uma última chance.\\
+==== 1458 ====
+Uma única ação sua pode resultar em sua fuga\\
+das profundezas.\\
+==== 1459 ====
+O que você deve fazer?\\
+==== 1460 ====
+É simples. Vou te mostrar.\\
+==== 1461 ====
+As outras duas equipes estão ouvindo uma mensagem\\
+exatamente como essa...\\
+==== 1462 ====
+Na Sala de Descontaminação de sua ala...\\
+==== 1463 ====
+O Que...?!\\
+==== 1464 ====
+A construção de todos eles é a mesma.\\
+==== 1465 ====
+Existe um botão amarelo na parede de cada um.\\
+==== 1466 ====
+Pressionando-o ativa os chuveiros nas outras alas.\\
+==== 1467 ====
+Ah, não... Não!\\
+==== 1468 ====
+Não é apenas ácido o suficiente para derreter\\
+um corpo, mas até mesmo dissolve vidro e ferro.\\
+==== 1469 ====
+Explicar o que aconteceria se você estivesse\\
+embaixo parece desnecessário.\\
+==== 1470 ====
+Aquele botão na parede é o seu caminho para a\\
+liberdade.\\
+==== 1471 ====
+Usar isso vai eliminar as outras equipes, e você\\
+obterá os Passes X necessários para escapar.\\
+==== 1472 ====
+Eu tenho uma última coisa para te contar.\\
+==== 1473 ====
+Quem madruga, Deus ajuda.\\
+==== 1474 ====
+Depois que o primeiro time pressionar, o botão\\
+ficará inativo para os outros dois times.\\
+==== 1475 ====
+Seu limite de tempo é de três minutos.\\
+==== 1476 ====
+O que você vai fazer?\\
+==== 1477 ====
+Você vai apertar? Ou recusar?\\
+==== 1478 ====
+No fim das contas, tudo depende de você decidir.\\
+==== 1479 ====
+Precisamos nos apressar senão vamos morrer!\\
+==== 1480 ====
+É matar primeiro ou seremos nós!\\
+==== 1481 ====
+Não se preocupe!\\
+==== 1482 ====
+Precisamos confiar nos outros!\\
+==== 1483 ====
+Os outros...?\\
+==== 1484 ====
+Os outros, você diz?\\
+==== 1485 ====
+O que diabos você sabe?!\\
+==== 1486 ====
+E-Ei, pare!\\
+==== 1487 ====
+Para onde foi o simpático Eric-?!\\
+==== 1488 ====
+Cala a boca, pirralho maldito!\\
+==== 1489 ====
+Por que, Eric...?!\\
+==== 1490 ====
+Por quê...?!\\
+==== 1493 ====
+Mira...\\
+==== 1494 ====
+Pelo menos ele está calado agora.\\
+==== 1495 ====
+Deixarei o restante disso com você.\\
+==== 1496 ====
+Huh...?\\
+==== 1497 ====
+Será interessante ver como você irá lidar com\\
+isso.\\
+==== 1498 ====
+O que...\\
+==== 1499 ====
+Parece que as outras equipes também não\\
+pressionaram.\\
+==== 1500 ====
+Eu... Estou tão feliz...\\
+==== 1502 ====
+Estamos...seguros...?\\
+==== 1503 ====
+Quem realmente sabe?\\
+==== 1504 ====
+Mira...\\
+==== 1506 ====
+O que foi? Olha por onde você está olhando!\\
+==== 1507 ====
+Você tem um problema com–!\\
+==== 1508 ====
+Parece que pode haver um mal-entendido, então vou\\
+esclarecer para você.\\
+==== 1509 ====
+Eu nunca disse que os chuveiros iriam ativar assim\\
+que o botão fosse pressionado.\\
+==== 1510 ====
+O que significa...\\
+==== 1511 ====
+Você ainda não descobriu se o botão foi ativado\\
+por alguém ou não.\\
+==== 1512 ====
+O que? Então...\\
+==== 1513 ====
+Temos que acordar para descobrir se estamos vivos\\
+ou não.\\
+==== 1514 ====
+Agora é hora de vocês dormirem.\\
+==== 1515 ====
+Quando vocês acordarem novamente, saiba que não\\
+terá memória destes últimos noventa minutos.\\
+==== 1516 ====
+Bons sonhos...\\
+==== 1517 ====
+Nãoooo!\\
+==== 1519 ====
+O- O que aconteceu?!\\
+==== 1520 ====
+Eu... Eu...\\
+==== 1521 ====
+Entendi.\\
+==== 1522 ====
+Interessante.\\
+==== 1523 ====
+Você apertou o botão...?\\
+==== 1524 ====
+Isso significa que seremos salvos?\\
+==== 1525 ====
+Mas então... os outros irão...\\
+==== 1526 ====
+Você... Você os matou...!\\
+==== 1527 ====
+Equipe C e Equipe D vão...!\\
+==== 1528 ====
+Não. Fizemos.\\
+==== 1529 ====
+Tivemos que fazer isso para sobreviver.\\
+==== 1530 ====
+Não tinha como evitar.\\
+==== 1531 ====
+M-Mas...\\
+==== 1532 ====
+Não é minha culpa!\\
+==== 1533 ====
+Eu te disse desde o início para não insistir!\\
+==== 1534 ====
+Do que você está falando!\\
+==== 1535 ====
+Estava óbvio que você estava planejando\\
+pressionar!\\
+==== 1536 ====
+Mas você é quem realmente fez!\\
+==== 1537 ====
+Foi você! Você empurrou!\\
+==== 1538 ====
+Você tomou uma decisão sábia.\\
+==== 1539 ====
+Você sacrificou a vida de outros para continuar\\
+sua própria sobrevivência.\\
+==== 1540 ====
+Zero...\\
+==== 1541 ====
+É realmente uma reação natural do ser humano.\\
+==== 1542 ====
+Você simplesmente fez uma evacuação de\\
+emergência. A ação é legalmente justificável.\\
+==== 1543 ====
+Não há culpa a ser atribuída a você pela sua\\
+decisão.\\
+==== 1544 ====
+Agora, tenho certeza de que você gostaria de sair\\
+daqui imediatamente.\\
+==== 1545 ====
+Mas antes disso... Peço desculpas, mas vocês\\
+devem todos dormir novamente.\\
+==== 1546 ====
+Por quê?!\\
+==== 1547 ====
+Me tire daqui agora!\\
+==== 1548 ====
+19:29...\\
+==== 1549 ====
+Você fez exatamente como eu ordenei.\\
+==== 1550 ====
+A droga para perda de memória não será injetada\\
+em nenhum de vocês três.\\
+==== 1551 ====
+Não! Não!\\
+==== 1552 ====
+Eu não fiz isso!\\
+==== 1553 ====
+Ele é quem empurrou. Então ele é–!\\
+==== 1554 ====
+Seria inconveniente se você esquecesse que causou\\
+a morte de outras pessoas...\\
+==== 1555 ====
+Mas eu já te disse!\\
+==== 1556 ====
+Eu não matei ninguém!\\
+==== 1557 ====
+Eu estava apenas observando!\\
+==== 1558 ====
+Pai, eu estava apenas assistindo!\\
+==== 1559 ====
+Não...\\
+==== 1560 ====
+Chris não fez nada de errado...\\
+==== 1561 ====
+Fui eu quem...\\
+==== 1562 ====
+Por favor... Perdoe-o, Papai...\\
+==== 1563 ====
+Tire suas mãos dele...\\
+==== 1564 ====
+Está frio. Está frio...\\
+==== 1565 ====
+A água estava tão... tão fria...\\
+==== 1566 ====
+Bons sonhos...\\
+==== 1567 ====
+Mãe...\\
+==== 7874 ====
+Que diabos. O que é isso?!\\
+==== 7875 ====
+Tire isso! Eu disse para tirar!\\
+==== 7876 ====
+AH! ABRE ISSO DROGA!\\
+==== 7878 ====
+Que descanse em paz.\\
+==== 7879 ====
+A morte é certa, a hora é incerta.\\
+==== 7882 ====
+Que... Que diabos...\\
+==== 7883 ====
+H-Huh...?\\
+==== 7884 ====
+Eu pensei que tínhamos morrido...\\
+==== 7885 ====
+Hã...?\\
+==== 7886 ====
+Uma bomba...em nossos colares explodiu...\\
+==== 7887 ====
+Você disse bomba?\\
+==== 7888 ====
+Talvez tenha sido algum tipo de pesadelo?\\
+==== 7889 ====
+Sonhe...\\
+==== 7890 ====
+Espero que seja isso...\\
+==== 11359 ====
+Até mesmo os habitués chatos de sempre, eu\\
+estava cansado de ver.\\
+==== 11466 ====
+e terão um banho de uma solução de fluoreto\\
+de hidrogénio.\\

@@ -1,0 +1,1929 @@
+==== 3117 ====
+Este quarto está...\\
+==== 3118 ====
+A Sala de Descarte de Lixo.\\
+==== 3119 ====
+Isso não é o que está escrito no mapa?\\
+==== 3120 ====
+Espera, onde está Phi...?\\
+==== 3121 ====
+Eu não sei...\\
+==== 3122 ====
+Você não sabe...?\\
+==== 3123 ====
+Quando eu acordei, ela já tinha ido embora.\\
+==== 3124 ====
+Talvez ela tenha conseguido sair desta sala.\\
+==== 3125 ====
+Você acha que podemos?\\
+==== 3126 ====
+Abriu...\\
+==== 3127 ====
+Sigma! Abriu!\\
+==== 3128 ====
+E?\\
+==== 3129 ====
+Bem, eu realmente não esperava que isso\\
+acontecesse, então...\\
+==== 3130 ====
+Puxa!\\
+==== 3131 ====
+Que diabos você está fazendo aí dentro?!\\
+==== 3132 ====
+Gravando meu próximo álbum. O que você acha que\\
+estou fazendo?!\\
+==== 3133 ====
+Estou trancado aqui!\\
+==== 3134 ====
+Você está trancado...?\\
+==== 3135 ====
+Por que...?\\
+==== 3136 ====
+Como eu deveria saber?!\\
+==== 3137 ====
+Aqui é onde eu estava quando acordei!\\
+==== 3138 ====
+Preso dentro deste incinerador!\\
+==== 3139 ====
+Espere, vamos tirar você agora!\\
+==== 3140 ====
+Maldição, está trancado!\\
+==== 3141 ====
+Tem uma fechadura?\\
+==== 3142 ====
+Eu não vejo um.\\
+==== 3143 ====
+Provavelmente uma fechadura eletrônica.\\
+==== 3144 ====
+Estou com um pressentimento ruim sobre isso...\\
+==== 3145 ====
+Iniciando incinerador...irá começar agora.\\
+==== 3146 ====
+Incineration in...trinta minutos.\\
+==== 3147 ====
+Vai ficar tudo bem, Phi!\\
+==== 3148 ====
+Fique calmo!\\
+==== 3149 ====
+Você é quem está se debatendo e surtando aqui!\\
+==== 3150 ====
+De qualquer forma, precisamos fazer alguma coisa!\\
+==== 3151 ====
+Ou pare o início da incineradora...\\
+==== 3152 ====
+Ou destranque a porta...\\
+==== 3153 ====
+Okay, vou ver se consigo fazer algo por aqui!\\
+==== 3154 ====
+Estou contando com você!\\
+==== 3155 ====
+Isso deveria ser o que eu digo!\\
+==== 3156 ====
+Eu gostaria de evitar o pior queimadura de sol da\\
+minha vida aqui!\\
+==== 3157 ====
+Vamos nos apressar!\\
+==== 3158 ====
+Certo!\\
+==== 3159 ====
+Parece que os preparativos estão completos.\\
+==== 3160 ====
+Zero...\\
+==== 3161 ====
+Mas primeiro, eu vou te contar uma história sobre\\
+o passado.\\
+==== 3162 ====
+Dezessete anos atrás, uma mulher foi morta.\\
+==== 3163 ====
+Como resultado, após um homem injustamente\\
+acusado ser condenado à morte,\\
+==== 3164 ====
+Um motorista de táxi morreu em um acidente\\
+juntamente com seu passageiro, um cirurgião.\\
+==== 3165 ====
+A criança que aguardava uma operação crítica\\
+também faleceu.\\
+==== 3166 ====
+Seis pessoas ao todo...\\
+==== 3167 ====
+Por que esses seis morreram?\\
+==== 3168 ====
+Por causa de um caramujo.\\
+==== 3169 ====
+Uma única e solitária lesma tirou a vida de seis\\
+pessoas.\\
+==== 3170 ====
+Não apenas seis...mas seis bilhões...\\
+==== 3171 ====
+Seis bilhões de pessoas perderão suas vidas como\\
+resultado desse único caramujo.\\
+==== 3172 ====
+A vida é simplesmente injusta. Você não acha?\\
+==== 3174 ====
+Agora, para explicar as regras.\\
+==== 3175 ====
+Deve ficar claro que um revólver está\\
+posicionado ao lado da cadeira neste momento.\\
+==== 3176 ====
+Contém seis rodadas.\\
+==== 3177 ====
+Três estão vivos, e três estão em branco,\\
+embora estejam aleatoriamente distribuídos dentro\\
+da câmara.\\
+==== 3178 ====
+Puxe o gatilho, e a chance de um tiro vivo\\
+disparar da arma é de seis para três, ou 50%.\\
+==== 3179 ====
+Ah, e a porta para o incinerador...\\
+==== 3180 ====
+Ele se abre automaticamente no momento em que\\
+detecta o som do disparo do revólver.\\
+==== 3181 ====
+Projétil vivo ou falso, não importa qual seja\\
+disparado.\\
+==== 3182 ====
+Três minutos restam até o incinerador disparar.\\
+==== 3183 ====
+O que você irá fazer? Apertar o gatilho, ou se\\
+abster...?\\
+==== 3184 ====
+Diana, a vida dos dois depende da sua decisão.\\
+==== 3185 ====
+Caralho! Droga!\\
+==== 3186 ====
+Não há tempo, Diana.\\
+==== 3187 ====
+Puxe o gatilho.\\
+==== 3188 ====
+O que...?!\\
+==== 3189 ====
+Logicamente, qual tem mais a ganhar?\\
+==== 3190 ====
+Se não apertarmos o gatilho,\\
+==== 3191 ====
+Eu obviamente ficaria vivo. Minha chance de\\
+sobrevivência seria claramente de 100%.\\
+==== 3192 ====
+Mas então garantiria a morte de Phi, pois sua\\
+taxa de sobrevivência seria 0.\\
+==== 3193 ====
+O que acontece se a puxarmos então?\\
+==== 3194 ====
+A porta do incinerador se abriria, e Phi escapa.\\
+==== 3195 ====
+Chance de sobrevivência - 100%.\\
+==== 3196 ====
+E esta escolha ainda permite a possibilidade de\\
+que eu possa viver.\\
+==== 3197 ====
+Um tiro em branco, e minha cabeça não tem de\\
+repente um novo buraco.\\
+==== 3198 ====
+É 50:50.\\
+==== 3199 ====
+Para que você entende, certo?\\
+==== 3200 ====
+É ou "100 e 0" ou "100 e 50." É óbvio qual é a\\
+escolha mais sábia.\\
+==== 3201 ====
+Quem diabos se importa com a lógica?! Você está\\
+agindo como se quisesse morrer!\\
+==== 3202 ====
+Como você se atreve a nem mesmo considerar os\\
+sentimentos de todos os outros, Sigma!\\
+==== 3203 ====
+E se o tiro for uma bala de verdade?!\\
+==== 3204 ====
+Você realmente quer que a Diana termine\\
+explodindo sua cabeça com as próprias mãos?!\\
+==== 3205 ====
+Você acha que ela seria capaz de lidar com isso?!\\
+==== 3206 ====
+Use seu cérebro e pense em todas as pessoas que\\
+você deixaria para trás!\\
+==== 3207 ====
+Mas Phi... Se eu não puxar o gatilho, você\\
+vai...\\
+==== 3208 ====
+Não se preocupe comigo...\\
+==== 3209 ====
+Não...\\
+==== 3210 ====
+Diana, por favor, me escute.\\
+==== 3211 ====
+Qual seria o resultado mais ideal disso?\\
+==== 3212 ====
+Não está óbvio?\\
+==== 3213 ====
+Que ambos vocês permaneçam vivos.\\
+==== 3214 ====
+Okay, então pense. Qual dessas opções tem esse\\
+resultado como possibilidade?\\
+==== 3215 ====
+Se você não puxar, um de nós definitivamente\\
+vai morrer.\\
+==== 3216 ====
+Se você realmente quer nos salvar a ambos–\\
+==== 3217 ====
+Eu vou ter que...puxar o gatilho...\\
+==== 3218 ====
+Diana, não!\\
+==== 3219 ====
+Cale a boca!\\
+==== 3220 ====
+A incineração começa em... vinte segundos.\\
+==== 3221 ====
+Não se preocupe. Apenas confie em mim.\\
+==== 3222 ====
+Não! Não faça isso!\\
+==== 3223 ====
+A porta do incinerador está aberta.\\
+==== 3224 ====
+Processo de incineração...terminado.\\
+==== 3225 ====
+Sigma...\\
+==== 3226 ====
+Sigma!\\
+==== 3227 ====
+E aí! Tudo bem?! Você está machucado/a?\\
+==== 3228 ====
+Ai...\\
+==== 3229 ====
+Huh...?\\
+==== 3230 ====
+Caramba, minha orelhas estão doendo muito. Estão\\
+me matando...\\
+==== 3231 ====
+Isso pode ter rompido meu tímpano...\\
+==== 3233 ====
+O que diabos você estava pensando, Diana?! Por\\
+que você puxou o gatilho?\\
+==== 3234 ====
+Tivemos sorte que foi um tiro em branco, mas se\\
+tivesse sido real, então Sigma--\\
+==== 3235 ====
+Ei, está tudo bem. Tudo acabou bem.\\
+==== 3236 ====
+Não está bem!\\
+==== 3237 ====
+Não há como eu aceitar que o fim justifique os\\
+meios!\\
+==== 3238 ====
+Escute, Sigma!\\
+==== 3239 ====
+Diana tomou a decisão. Foi escolha dela puxar o\\
+gatilho!\\
+==== 3240 ====
+Isso significa que ela não se importou que havia\\
+uma chance de 50% de você morrer!\\
+==== 3241 ====
+Então, para onde você está indo com isso?\\
+==== 3242 ====
+Era para te salvar...\\
+==== 3243 ====
+E ela fez. Ela salvou sua vida.\\
+==== 3244 ====
+Ora, você provavelmente deveria estar agradecendo\\
+a ela.\\
+==== 3245 ====
+Eu não pedi ajuda...\\
+==== 3246 ====
+Alguém não está sendo honesto...\\
+==== 3247 ====
+Não, eu realmente-!\\
+==== 3248 ====
+Agora anunciamos...os atuais feridos...\\
+==== 3249 ====
+Equipe Q: Q, Mira, Eric\\
+==== 3250 ====
+Esses três já faleceram.\\
+==== 3251 ====
+Como resultado... três Passes X... serão\\
+revelados.\\
+==== 3252 ====
+EYE... KILL... FOOL...\\
+==== 3253 ====
+É isso.\\
+==== 3254 ====
+Caramba. Não consigo acreditar...\\
+==== 3255 ====
+Então, por causa da votação às 13:30...eles\\
+foram executados...\\
+==== 3256 ====
+Mas, mesmo Q...?\\
+==== 3257 ====
+Ele teve que lidar com um handicap...\\
+==== 3258 ====
+Ele provavelmente nem percebeu que algo estava\\
+errado...\\
+==== 3260 ====
+Que diabos. O que é isso?!\\
+==== 3261 ====
+Tire isso! Eu disse para tirar isso!\\
+==== 3262 ====
+AARGH! ABRA ISSO LOGO!\\
+==== 3264 ====
+Descanse em paz.\\
+==== 3265 ====
+Morte certa, hora incerta.\\
+==== 3266 ====
+AHHHH!\\
+==== 3268 ====
+O- O que há de errado, Diana?!\\
+==== 3270 ====
+Você também...?\\
+==== 3271 ====
+O que está acontecendo?\\
+==== 3273 ====
+O que...\\
+==== 3274 ====
+O que está... acontecendo...\\
+==== 3275 ====
+Eu acho... que fomos envenenados...\\
+==== 3276 ====
+Envenenado?!\\
+==== 3277 ====
+Provavelmente enquanto...estávamos dormindo...\\
+==== 3278 ====
+Por que...?\\
+==== 3279 ====
+Quem realmente se importa agora...\\
+==== 3280 ====
+Nós apenas...\\
+==== 3281 ====
+Nós só precisamos salvar...\\
+==== 3282 ====
+Gab...!\\
+==== 3283 ====
+Espera...\\
+==== 3284 ====
+Estes são...\\
+==== 3285 ====
+Sim...\\
+==== 3286 ====
+Estamos... Estamos salvos...!\\
+==== 3287 ====
+Este é o antídoto...!\\
+==== 3288 ====
+Gab... Ele nos trouxe o antídoto!\\
+==== 3289 ====
+Vamos lá... Vamos beber isso...\\
+==== 3290 ====
+Espera, aguarde...\\
+==== 3291 ====
+O que estava escrito no bilhete...?\\
+==== 3292 ====
+Estes são o antídoto. Por favor, beba-os. Akane.\\
+==== 3293 ====
+Está bem. É da Akane...\\
+==== 3294 ====
+Podemos confiar nela...\\
+==== 3295 ====
+A caligrafia é definitivamente dela...\\
+==== 3296 ====
+Carlos poderia tê-la ameaçado para que ela\\
+escrevesse isso...\\
+==== 3297 ====
+O que você está tentando dizer...?\\
+==== 3298 ====
+Quando votamos, Carlos escolheu a Equipe Q...\\
+==== 3299 ====
+O bilhete deles dizia que votariam na Equipe D...\\
+==== 3300 ====
+Então aquele bilhete inteiro... era mentira...?\\
+==== 3301 ====
+Eu não sei...\\
+==== 3302 ====
+Mas não é difícil imaginar que Carlos pretende\\
+matar todos nós...\\
+==== 3303 ====
+Ele o que...? \\
+==== 3304 ====
+Se formos eliminados, então a Equipe C pode sair\\
+daqui...\\
+==== 3305 ====
+Então você está dizendo que esses não são um\\
+antídoto, mas...\\
+==== 3306 ====
+Exatamente. Eles podem ser poison...\\
+==== 3307 ====
+Não, eu não consigo acreditar nisso...\\
+==== 3308 ====
+Já tivemos uma mistura bombeada em nossas veias\\
+que está nos matando...\\
+==== 3309 ====
+Por que se incomodar em continuar com o veneno...\\
+==== 3310 ====
+Vamos contar com a Equipe C...\\
+==== 3311 ====
+Independentemente disso, se não fizermos nada,\\
+nós vamos–\\
+==== 3313 ====
+Você escolhe... Diana...\\
+==== 3314 ====
+Huh...?\\
+==== 3315 ====
+Você nos salvou antes...\\
+==== 3316 ====
+Eu confio em você para fazer isso...\\
+==== 3317 ====
+Mas...\\
+==== 3318 ====
+Eu...\\
+==== 3319 ====
+Eu também vou confiar na Equipe C!\\
+==== 3320 ====
+Vamos bebê-los!\\
+==== 3321 ====
+Eu ainda não entendi.\\
+==== 3322 ====
+No mundo, o que a equipe C pensa?\\
+==== 3323 ====
+Eles tiveram uma briga...?\\
+==== 3324 ====
+Quer dizer que Akane e Carlos tomaram posições\\
+opostas...?\\
+==== 3325 ====
+Essa é a única explicação que faz sentido.\\
+==== 3326 ====
+Akane enviou Gab com o antídoto para nos salvar.\\
+==== 3327 ====
+Mas isso teria sido um resultado incrivelmente\\
+desfavorável para Carlos.\\
+==== 3328 ====
+Se não fosse isso que ele quisesse, então ele\\
+não teria votado na Equipe Q.\\
+==== 3329 ====
+Você não está pensando demais?\\
+==== 3330 ====
+Eu realmente duvido que Carlos tenha tido a\\
+intenção de que o Time Q fosse executado.\\
+==== 3331 ====
+Como você pode ter tanta certeza?\\
+==== 3332 ====
+Ele é um bombeiro honorável que salva vidas.\\
+==== 3333 ====
+Simplesmente como sempre.\\
+==== 3334 ====
+Nós o conhecemos e convivemos com ele por apenas\\
+cinco dias...\\
+==== 3335 ====
+Como poderíamos ter ideia do que ele está\\
+pensando?\\
+==== 3336 ====
+Não, não é uma questão de tempo.\\
+==== 3337 ====
+Apenas não é tão fácil ver o verdadeiro eu de\\
+uma pessoa.\\
+==== 3338 ====
+Mesmo o seu, Phi?\\
+==== 3339 ====
+Sim...\\
+==== 3340 ====
+Isso significa que você está escondendo algo de\\
+nós?\\
+==== 3341 ====
+Sim.\\
+==== 3342 ====
+O que é?\\
+==== 3343 ====
+Não ria, está bem?\\
+==== 3344 ====
+Meu cabelo é... na verdade, vermelho.\\
+==== 3346 ====
+Eu disse para não rir!\\
+==== 3347 ====
+Mas, quero dizer...\\
+==== 3348 ====
+É algo importante para mim, tudo bem? Tenho um\\
+complexo em relação a isso!\\
+==== 3349 ====
+Mas essa cor...\\
+==== 3350 ====
+Está pintado.\\
+==== 3351 ====
+Eu achei que poderia muito bem torná-lo algo\\
+único.\\
+==== 3352 ====
+Bom, eu também sou ruiva.\\
+==== 3353 ====
+Sim...\\
+==== 3354 ====
+Você está sendo rude com Diana.\\
+==== 3355 ====
+Bem, fica bem nela, é claro.\\
+==== 3356 ====
+Quero dizer, tente imaginar.\\
+==== 3357 ====
+Meu rosto...mas com cabelo ruivo.\\
+==== 3358 ====
+Eu acho que seria muito fofo...\\
+==== 3359 ====
+Hmm, não seria ruim.\\
+==== 3360 ====
+Isso seria um bom visual para você.\\
+==== 3361 ====
+Ah, bom. Parece que vocês três estão bem.\\
+==== 3362 ====
+Zero...\\
+==== 3363 ====
+É bom que vocês se alegrem enquanto podem.\\
+==== 3364 ====
+Você pode esperar um futuro sombrio pela frente.\\
+==== 3365 ====
+O que isso significa...\\
+==== 3366 ====
+Agora é hora de vocês dormirem.\\
+==== 3367 ====
+Quando acordar novamente, saiba que não terá\\
+nenhuma lembrança destes últimos noventa\\
+minutos.\\
+==== 3368 ====
+Bons sonhos...\\
+==== 3369 ====
+Diana...! O que você está fazendo...?!\\
+==== 3370 ====
+Eu acho que Phi...estava certa sobre eles...\\
+==== 3371 ====
+Há...veneno...nas ampolas...\\
+==== 3372 ====
+Então que diabos você chamaria a razão pela\\
+qual estamos contorcendo e gemendo...?\\
+==== 3373 ====
+Talvez seja algum tipo de... remédio para dor...\\
+==== 3374 ====
+Não deveria nos matar...se...nós apenas...\\
+==== 3375 ====
+A porta do incinerador...está aberta.\\
+==== 3376 ====
+Processo de incineração... terminado.\\
+==== 3377 ====
+Não... Não pode ser...\\
+==== 3378 ====
+Por quê?! Por quê você fez isso?!\\
+==== 3379 ====
+Assassino! Assassino!\\
+==== 3380 ====
+Eu não estava... Eu não importava de jeito\\
+nenhum!\\
+==== 3381 ====
+Eu não...! Eu não...!\\
+==== 3382 ====
+Então, por que... Por que você...\\
+==== 3384 ====
+Por favor, espere por mim...Sigma...\\
+==== 3385 ====
+Eu vou me juntar a você...em breve...\\
+==== 3386 ====
+Espera, Diana! Pare!\\
+==== 3387 ====
+Diana... Diana...\\
+==== 3389 ====
+Incinerção...iniciando.\\
+==== 3390 ====
+Vamos lá! Pare com isso! Por favor!\\
+==== 3391 ====
+Zero! Zero! Você consegue me ouvir, certo?!\\
+==== 3392 ====
+Eu não me importo com o que aconteça comigo!\\
+==== 3393 ====
+Então, por favor!\\
+==== 3394 ====
+Salve a Phi! Apenas salve a Phi!\\
+==== 3395 ====
+Era tudo o que eu precisava ouvir de você, Sigma.\\
+==== 3396 ====
+Obrigado.\\
+==== 3397 ====
+Phi...\\
+==== 3398 ====
+E Diana, você não pode se culpar. Não importa o\\
+quê.\\
+==== 3399 ====
+Você tomou a decisão correta.\\
+==== 3400 ====
+É estranho, mas...eu sinto que nós nos veremos\\
+de novo.\\
+==== 3401 ====
+Então não vou dizer adeus.\\
+==== 3402 ====
+Eu quero que os dois continuem vivendo.\\
+==== 3403 ====
+Eu te amo...\\
+==== 3404 ====
+Phi...\\
+==== 3406 ====
+Incineration... completa.\\
+==== 3407 ====
+Porta... agora abrindo.\\
+==== 3408 ====
+Phi...?\\
+==== 3409 ====
+O que você está fazendo aqui?\\
+==== 3410 ====
+Eu só queria ficar sozinho por um tempo.\\
+==== 3411 ====
+Algum problema?\\
+==== 3412 ====
+Não, na verdade...\\
+==== 3413 ====
+Já se passaram três dias desde que vim para o\\
+Dcom...\\
+==== 3414 ====
+Mas nada aconteceu. Nada estranho mesmo...\\
+==== 3415 ====
+Um, isso não é algo bom?\\
+==== 3416 ====
+O que é isso?\\
+==== 3417 ====
+É uma lembrança da minha mãe... Eu acho.\\
+==== 3418 ====
+Você não tem certeza?\\
+==== 3419 ====
+Um casal idoso me criou. Eles eram pesquisadores.\\
+==== 3420 ====
+Mas nós não éramos parentes por sangue de jeito\\
+nenhum...\\
+==== 3421 ====
+Eles eram seus pais adotivos...?\\
+==== 3422 ====
+Eles me contaram o que aconteceu.\\
+==== 3423 ====
+Disseram que minha mãe morreu imediatamente após\\
+me dar à luz...\\
+==== 3424 ====
+E ela me deixou esse broche...\\
+==== 3425 ====
+Eu...vejo...\\
+==== 3426 ====
+E quanto ao seu pai...?\\
+==== 3427 ====
+Eu não sei. Também não há pistas...\\
+==== 3428 ====
+Ah, acho que vejo algo escrito na parte de trás\\
+disso?\\
+==== 3429 ====
+É latim.\\
+==== 3430 ====
+O que isso significa?\\
+==== 3431 ====
+" Nem mesmo Júpiter pode encontrar uma\\
+oportunidade perdida."\\
+==== 3432 ====
+O que minha mãe estava tentando me dizer? Eu\\
+pensei sobre isso por tanto tempo.\\
+==== 3433 ====
+Talvez não haja um ponto específico para isso\\
+afinal.\\
+==== 3434 ====
+Mas ainda sinto que estou perdendo alguma mensagem\\
+importante dentro disso...\\
+==== 3435 ====
+" Nem os deuses podem voltar ao passado, então\\
+viva o momento para não ter arrependimentos."\\
+==== 3436 ====
+Essa não é a interpretação correta?\\
+==== 3437 ====
+Bem, se você levar ao pé da letra.\\
+==== 3438 ====
+Eu acho que faria sentido, se eu fosse um ser\\
+humano normal.\\
+==== 3439 ====
+Isso significa que você não está?\\
+==== 3440 ====
+Ei, Diana. Eu quero te perguntar algo...\\
+==== 3441 ====
+Você se importaria... em me dar um abraço?\\
+==== 3442 ====
+...Huh?\\
+==== 3443 ====
+Estou apenas... realmente cansado...\\
+==== 3444 ====
+Obrigado...\\
+==== 3445 ====
+Isso parece... realmente relaxante...\\
+==== 3446 ====
+Se for tudo o que você precisa, então não há\\
+problema...\\
+==== 3447 ====
+Poderíamos, talvez...ficar assim por um tempo?\\
+==== 3448 ====
+Não me importo.\\
+==== 3449 ====
+Ei, isso não é normal, certo?\\
+==== 3450 ====
+É.\\
+==== 3451 ====
+Você é uma garota completamente normal, Phi.\\
+==== 3452 ====
+Você é realmente legal...\\
+==== 3453 ====
+As pessoas me dizem que é um erro meu.\\
+==== 3454 ====
+Obrigado...\\
+==== 3455 ====
+Você já disse isso.\\
+==== 3456 ====
+Está bem. Boa noite, então...\\
+==== 3457 ====
+Boa noite, Phi.\\
+==== 3460 ====
+Agora anunciando...os atuais feridos...\\
+==== 3461 ====
+Time D: Phi\\
+==== 3462 ====
+Equipe Q: Q, Mira, Eric\\
+==== 3463 ====
+Esses quatro agora estão falecidos.\\
+==== 3464 ====
+Como resultado...quatro Passes X...serão\\
+reveladas.\\
+==== 3465 ====
+FUTURO... OLHO... MATAR... TOLO...\\
+==== 3466 ====
+É isso.\\
+==== 3467 ====
+Equipe Q, huh...\\
+==== 3468 ====
+Eles devem ter sido executados... A votação às\\
+13:30...\\
+==== 3469 ====
+Nos esfaqueou pelas costas, hein Carlos...\\
+==== 3470 ====
+Os planos estão progredindo sem problemas.\\
+==== 3471 ====
+E tudo isso é graças a você, Diana.\\
+==== 3472 ====
+Zero...\\
+==== 3473 ====
+Agora é hora de vocês dormirem.\\
+==== 3474 ====
+Quando você acordar na próxima vez, saiba que\\
+você não terá memória destes últimos noventa\\
+minutos.\\
+==== 3475 ====
+Bons sonhos...\\
+==== 7891 ====
+Você vai parar de falar besteira!\\
+==== 7892 ====
+Zero! Você não vai sair impune com isso! Eu juro\\
+que vou...!\\
+==== 7893 ====
+Descanse em paz.\\
+==== 7894 ====
+Plaudite, acta est fabula.\\
+A peça acabou.\\
+==== 7895 ====
+NÃOOOOOO!\\
+==== 7897 ====
+O que houve?! Você está bem?!\\
+==== 7898 ====
+Estamos vivos...\\
+==== 7899 ====
+Huh...?\\
+==== 7900 ====
+Nós realmente estamos vivos, certo...?\\
+==== 7901 ====
+Oi. Você tem certeza de que está tudo bem...?\\
+==== 7902 ====
+Foi...um pesadelo.\\
+==== 7903 ====
+O que aconteceu...?\\
+==== 7904 ====
+Nossos pescoços...\\
+==== 7905 ====
+Não, deixa pra lá.\\
+==== 13163 ====
+sua esposa tirou a própria vida.\\
+==== 1010100 ====
+Esta porta não está trancada, então podemos\\
+entrar no corredor sempre que quisermos, mas...\\
+==== 1010101 ====
+De jeito nenhum vamos abandonar o Phi! Temos que\\
+impedir o processo ou abrir a porta do\\
+incinerador!\\
+==== 1010200 ====
+Não está trancado, mas não é hora de sair!\\
+==== 1010300 ====
+Não está trancado, mas sair não vai ajudar... O\\
+tempo restante é... Ah, pelo amor de Deus!\\
+==== 1020100 ====
+Isso é... oh, entendi. Isso mostra como o lixo é\\
+categorizado.\\
+==== 1020101 ====
+Podemos colocar Phi sob o- Ah, não é hora para\\
+piadas!\\
+==== 1020102 ====
+Vamos apenas apressar e salvá-la.\\
+==== 1020200 ====
+Este pôster mostra como o lixo é categorizado.\\
+==== 1020300 ====
+Ah! Há letras flutuando acima do pôster!\\
+==== 1020301 ====
+...Huh? Onde?\\
+==== 1020302 ====
+Aqui mesmo. O "tic" em "plástico" está circulado\\
+e em letras grandes.\\
+==== 1020303 ====
+Ah, você deve estar conseguindo ver isso por\\
+causa das gafas que está usando.\\
+==== 1020304 ====
+Eu acho que você chama isso de... realidade\\
+aumentada? Mas por que apenas essas letras\\
+aparecem?\\
+==== 1020400 ====
+Eu consigo ver "tic" flutuando no ar enquanto eu\\
+estou com os óculos.\\
+==== 1020401 ====
+Se é um esforço tão grande para ver, deve ser\\
+algum tipo de pista.\\
+==== 1020500 ====
+Algumas letras estão flutuando quando eu olho\\
+através das lentes.\\
+==== 1020501 ====
+Certo. Talvez seja algum tipo de dica...\\
+==== 1020502 ====
+Vamos olhar de novo se esquecermos.\\
+==== 1020600 ====
+Algumas letras estão flutuando no cartaz quando\\
+eu uso os óculos para olhar.\\
+==== 1020700 ====
+As letras que eu vi eram a dica para abrir a\\
+persiana.\\
+==== 1020800 ====
+Este é o cartaz categorizando lixo e... Ah, por\\
+que estou olhando para isso!\\
+==== 1020900 ====
+É um pôster sobre as categorias para o lixo.\\
+==== 1021000 ====
+Com os óculos de proteção, consigo ver "tic"\\
+flutuando no ar aqui.\\
+==== 1021001 ====
+Hm. Parece ser algum tipo de tecnologia de\\
+realidade aumentada.\\
+==== 1021002 ====
+E foi a dica para abrir o obturador.\\
+==== 1030100 ====
+Acho que tem algo na caixa pendurada no teto.\\
+==== 1030101 ====
+Isso... Eu acho que é um revolver. Se for real,\\
+talvez possamos usá-lo para alguma coisa.\\
+==== 1030102 ====
+Mas não podemos alcançar isso daqui.\\
+==== 1030103 ====
+Certo. E mesmo se chegarmos lá, tem um cadeado.\\
+Hum, o que devemos fazer...\\
+==== 1030200 ====
+Acho que há um revólver na caixa, mas não\\
+conseguimos alcançá-lo e ela têm um cadeado...\\
+==== 1030300 ====
+Isso estava pendurado no teto. Talvez eu possa\\
+usar a arma se conseguir tirá-la...!\\
+==== 1040100 ====
+Eu me pergunto se há algo que podemos usar dentro\\
+deste armário...\\
+==== 1040200 ====
+É uma caixa de ferramentas!\\
+==== 1040300 ====
+É esta uma máscara...com óculos de proteção?\\
+==== 1040400 ====
+Não há mais nada aqui que possamos usar.\\
+==== 1050100 ====
+Isso parece um funil de poeira.\\
+==== 1050101 ====
+Se for, você acha que está conectado ao interior\\
+do incinerador?\\
+==== 1050102 ====
+Possivelmente, mas parece que está trancado...\\
+==== 1050103 ====
+Ah, acho que podemos inserir alguns números aqui.\\
+==== 1050200 ====
+Hmm... Bem, vamos tentar algo diferente.\\
+==== 1050300 ====
+Ei Sigma, aqui! Eu consigo ver algumas imagens no\\
+ar!\\
+==== 1050301 ====
+O que são eles?\\
+==== 1050302 ====
+Um... Uma chave de fenda e dois parafusos, eu\\
+acho.\\
+==== 1050303 ====
+Talvez seja algum tipo de pista. Vamos fazer uma\\
+anotação dela.\\
+==== 1050304 ====
+Eu acho que podemos colocar alguns números aqui.\\
+Que tal tentarmos?\\
+==== 1050400 ====
+Eu consigo ver uma chave de fenda e dois\\
+parafusos.\\
+==== 1050401 ====
+E podemos colocar alguns números aqui. Vamos\\
+tentar novamente.\\
+==== 1050500 ====
+Eu vi um chave de fenda e parafusos quando eu\\
+estava usando os óculos de proteção.\\
+==== 1050501 ====
+Talvez eles tenham algo a ver com o número que\\
+vai aqui... Vamos tentar.\\
+==== 1050600 ====
+Vamos tentar de novo.\\
+==== 1050700 ====
+Ah... Acho que estava certo. Eu só coloquei algo\\
+aleatoriamente...\\
+==== 1050701 ====
+O resultado é tudo o que importa. Vamos encarar\\
+como sorte.\\
+==== 1050702 ====
+Eu acho... E agora podemos enviar coisas para o\\
+outro lado! Um passo à frente!\\
+==== 1050800 ====
+Ah, está aberto! Eu sabia que esses eram os\\
+números corretos!\\
+==== 1050801 ====
+Bem feito. Agora podemos enviar coisas para o\\
+outro lado.\\
+==== 1050900 ====
+U-Um... Adivinhar não vai funcionar, suponho.\\
+==== 1050901 ====
+Ainda não temos informações suficientes. Vamos\\
+procurar uma dica.\\
+==== 1051000 ====
+Isso não foi... Deve ter algo a ver com a chave\\
+de fenda e os parafusos que eu vi...\\
+==== 1051001 ====
+Então isso significa que não temos informações\\
+suficientes. Não podemos ter sorte o tempo todo.\\
+==== 1051002 ====
+Você está certo. Vamos procurar por mais pistas\\
+para abrir isso.\\
+==== 1051100 ====
+Ah. Acho que estava errado... Um número de três\\
+dígitos...\\
+==== 1051101 ====
+Se forem números, então o "g" ali representa uma\\
+unidade de medida?\\
+==== 1051102 ====
+Ah, então "g" é para gramas, é isso?\\
+==== 1051200 ====
+Mais uma vez errado. Se "g" é gramas, então\\
+deveríamos estar digitando um peso aqui.\\
+==== 1051201 ====
+Que tal nós inserirmos o peso dos objetos que\\
+você viu com os óculos de realidade aumentada?\\
+==== 1051202 ====
+O peso... Você acha que o Phi saberia algo?\\
+==== 1051300 ====
+Eu acho que podemos enviar itens para o outro lado\\
+usando essa abertura de poeira.\\
+==== 1051400 ====
+Phi! Estou deixando a tocha de gás cair no tubo\\
+de poeira! Por favor, pegue-a!\\
+==== 1051401 ====
+Entendi...!\\
+==== 1051500 ====
+Vamos levar essa caixa de ferramentas para Phi.\\
+==== 1051501 ====
+Sim. Ela deveria conseguir abrir, já que tem uma\\
+chave de fenda ali.\\
+==== 1051502 ====
+Phi! Estou enviando a caixa de ferramentas pelo\\
+escorregador. Por favor, pegue!\\
+==== 1051503 ====
+Entendi!\\
+==== 1051600 ====
+Ah, os óculos não cabem no funil...\\
+==== 1051601 ====
+Eles parecem muito grandes.\\
+==== 1051700 ====
+E aí Phi! Você quer essa moeda?\\
+==== 1051701 ====
+Não!\\
+==== 1051702 ====
+Okay!\\
+==== 1051800 ====
+Eu acho que não precisamos enviar essa moeda para\\
+Phi. Ela nos disse que não quer.\\
+==== 1052000 ====
+Ah! Se eu segurar a corrente e deixá-la cair,\\
+poderei puxá-la de volta!\\
+==== 1052001 ====
+Phi, estou baixando a caixa! Você poderia abrir o\\
+cadeado para nós?\\
+==== 1052002 ====
+Tudo bem, estou nisso!\\
+==== 1052003 ====
+...Mas como eu vou abrir isso. Deixe-me examinar\\
+primeiro.\\
+==== 1052100 ====
+Espera aí! Não posso enviar essa arma! Preciso\\
+ver se posso usá-la deste lado...\\
+==== 1052200 ====
+Se eu puxar a corrente para cima, posso pegar a\\
+arma!\\
+==== 1052300 ====
+Eu devo.. enviar para Phi o que... ela precisa...\\
+Qualquer coisa... H-Havia mais alguma coisa...\\
+==== 1052400 ====
+Este não é o momento de enviar coisas...!\\
+==== 1052500 ====
+Phi! Estou deixando algo cair no conduto de pó!\\
+Por favor, pegue!\\
+==== 1052501 ====
+Chute...? Desculpe, não consigo ver minha mão na\\
+frente do rosto aqui. Está muito escuro!\\
+==== 1052502 ====
+Você pode verificar se consegue deixar mais claro\\
+por aqui primeiro?\\
+==== 1052600 ====
+Podemos enviar coisas para Phi com isso, mas\\
+melhor iluminar o ambiente primeiro...\\
+==== 1052700 ====
+Deveríamos enviar a caixa de ferramentas para\\
+Phi?\\
+==== 1052701 ====
+Sim. Não temos uma chave de fenda aqui, então\\
+vamos ver se ela consegue abrir...\\
+==== 1052702 ====
+Phi! Estou deixando uma caixa de ferramentas cair\\
+pelo chute! Por favor, pegue!\\
+==== 1052703 ====
+Entendi!\\
+==== 1052800 ====
+Será que Phi consegue abrir essa caixa de\\
+ferramentas...\\
+==== 1052801 ====
+Ufa! Estou deixando uma caixa de ferramentas cair\\
+pelo alçapão! Por favor, pegue-a!\\
+==== 1052802 ====
+Entendi!\\
+==== 1052900 ====
+...Não está abrindo. Parece que está trancado.\\
+==== 1053000 ====
+Essas gafas estão mostrando um chave de fenda e\\
+alguns parafusos aqui.\\
+==== 1053001 ====
+Talvez essa seja a dica para abri-lo...?\\
+==== 1053002 ====
+Ah, bem, nós já abrimos. Eu acho que não\\
+importa mais.\\
+==== 1053100 ====
+Os óculos são muito grandes para passar pelo\\
+escorregador!\\
+==== 1060100 ====
+Aqui tem um monte de medidores.\\
+==== 1060101 ====
+Isso é um termômetro? Deve medir a temperatura\\
+dentro do incinerador...\\
+==== 1060102 ====
+É uma moeda na base da agulha...? Por que isso\\
+estaria ali?\\
+==== 1060200 ====
+Este é provavelmente um termômetro. Há uma\\
+moeda na base da agulha.\\
+==== 1060300 ====
+Ah, a moeda caiu.\\
+==== 1060400 ====
+É um termômetro. Eu acho que não podemos mais\\
+mudá-lo.\\
+==== 1060500 ====
+Um termômetro... Isso não vai me ajudar! Ah!\\
+Preciso me apressar e fazer alguma coisa!\\
+==== 1070100 ====
+... Hum. Acho que mover este controle deslizante\\
+muda a letra.\\
+==== 1070101 ====
+Eu me pergunto para que serve isso?\\
+==== 1070102 ====
+Talvez conseguir a combinação correta pare a\\
+incineração... Ah, é pouco provável.\\
+==== 1070103 ====
+Mas ainda vale a pena tentar ver se funciona.\\
+==== 1070200 ====
+Hmm... Vamos tentar de novo?\\
+==== 1070300 ====
+Eu acho que as letras podem ser mudadas neste\\
+medidor.\\
+==== 1070301 ====
+Sim, parece que precisamos usar os controles\\
+deslizantes.\\
+==== 1070302 ====
+Três letras... Sinto como se as tivesse visto\\
+algum lugar.\\
+==== 1070400 ====
+Vamos tentar novamente.\\
+==== 1070500 ====
+Oooh, já chega! Que tal... isso!\\
+==== 1070501 ====
+Ah, a persiana abriu!\\
+==== 1070502 ====
+O quê? Como você sabia a resposta? Não pode ser\\
+uma coincidência...\\
+==== 1070503 ====
+Mas foi... Eu apenas tive sorte. Eu também não\\
+esperava que abrisse...\\
+==== 1070504 ====
+Entendi... Que chances, né?\\
+==== 1070505 ====
+Okay, agora está mais claro aqui! Vou procurar\\
+algo... Ei, pessoal? Vocês estão bem?\\
+==== 1070600 ====
+Er, esta DEVERIA ser a resposta correta...\\
+==== 1070601 ====
+Bom trabalho. A obturação abriu.\\
+==== 1070602 ====
+Eu fiz isso!\\
+==== 1070603 ====
+Agora que posso ver por aqui, vou tentar procurar\\
+algo útil.\\
+==== 1070700 ====
+Hmm... Bem, isso estava errado...\\
+==== 1070701 ====
+Eu não acho que temos todas as informações.\\
+Precisamos encontrar uma pista primeiro...\\
+==== 1070800 ====
+Ah, isso está errado novamente...\\
+==== 1070801 ====
+Três cartas... Melhor procurarmos por mais\\
+pistas.\\
+==== 1070900 ====
+Ah, acho que estava errado.\\
+==== 1070901 ====
+Três letras... Vocês as viu antes, certo?\\
+==== 1070902 ====
+Sim, eu vi eles.... Um...\\
+==== 1071000 ====
+Eu errei de novo...\\
+==== 1071001 ====
+Ei, você não viu algo usando essas gafas? No\\
+cartaz...\\
+==== 1071002 ====
+Ah sim, tinha três letras nele! Vamos dar uma\\
+olhada de novo.\\
+==== 1071100 ====
+Não precisamos realmente mexer com isso de novo.\\
+==== 1071200 ====
+Nós já fizemos isso... Próximo!\\
+==== 1080100 ====
+Phi está do outro lado desta persiana...\\
+==== 1080101 ====
+Acho que não podemos usar nossas mãos para abrir\\
+isso... Mas Phi deve ver melhor quando estiver.\\
+==== 1080200 ====
+Não podemos abrir a persiana com as mãos.\\
+Precisamos encontrar uma maneira de abri-la...\\
+==== 1080300 ====
+Podemos ver o Phi daqui. Ei! Você está bem?!\\
+==== 1080301 ====
+Caramba, Zero. Ela parece tão nervosa trancada em\\
+um lugar assim! Eu tenho que tirá-la de lá!\\
+==== 1080302 ====
+Certo! Temos que encontrar um jeito de tirá-la de\\
+lá ou parar o processo de incineração!\\
+==== 1080303 ====
+Ei, eu não consigo realmente ouvir vocês, mas\\
+poderiam por favor se mexer e fazer algo?!\\
+==== 1080400 ====
+Precisamos tirá-la de lá.\\
+==== 1080500 ====
+Phi e Sigma não podem se mover agora... Eu... É\\
+tudo comigo!\\
+==== 1090100 ====
+Phi, está tudo bem com você?\\
+==== 1090101 ====
+Você pode ver que estou muito bem. No entanto, o\\
+fedor do monte de lixo lá atrás está me fazendo\\
+passar mal.\\
+==== 1090102 ====
+Graças a Deus... Precisamos tirar você daqui\\
+rapidamente... Você encontrou algo útil por aí?\\
+==== 1090103 ====
+Ainda não. Está muito escuro para olhar em\\
+volta. Você consegue ver se consegue deixar mais\\
+claro aqui?\\
+==== 1090104 ====
+Tudo bem, entendi. Vamos ver o que podemos fazer.\\
+==== 1090200 ====
+Phi, você encontrou alguma coisa?\\
+==== 1090201 ====
+Não... Mas posso fazer uma pesquisa mais\\
+aprofundada se você conseguir acender as luzes\\
+aqui...\\
+==== 1090300 ====
+Como você está indo aí, Phi?\\
+==== 1090301 ====
+Tudo bem. Estou dando uma olhada por aqui.\\
+==== 1090400 ====
+Oi! Você encontrou algo por aí?!\\
+==== 1090401 ====
+Não, acho que é tudo por este lado... Droga,\\
+não há tempo...!\\
+==== 1090500 ====
+O que devo fazer... O tempo está...! Phi,\\
+encontrou alguma coisa aí dentro?!\\
+==== 1090501 ====
+Você puxou a caixa para cima? Veja se a arma pode\\
+fazer alguma coisa!\\
+==== 1090502 ====
+O-Okay!\\
+==== 1090600 ====
+O que eu deveria... Phi! Você... Você encontrou\\
+alguma coisa?!\\
+==== 1090601 ====
+Calm down, Diana. Você tem a arma aí, certo?\\
+Veja se pode fazer algo!\\
+==== 1090602 ====
+Arma... Ok, use a arma. Sim, ok, mas em que...\\
+==== 1090700 ====
+O que devo fazer com essa arma...!\\
+==== 1090701 ====
+Diana! Não há tempo! Olhe ao redor com cuidado,\\
+deve haver algo restante!\\
+==== 1100100 ====
+...Isso é uma tocha de gás?\\
+==== 1110100 ====
+A porta está trancada, mas não há buraco da\\
+fechadura... Provavelmente uma fechadura\\
+eletrônica.\\
+==== 1110101 ====
+Esta porta conecta ao incinerador, certo? Se\\
+pudermos abri-la, então a Phi pode...\\
+==== 1110200 ====
+A porta se conecta ao incinerador... Está\\
+trancada.\\
+==== 1110300 ====
+Abra... Por favor, abra! Rápido! Ou eles\\
+vão...vão...!\\
+==== 1120100 ====
+O que é isso...? Isso é um botão?\\
+==== 1120101 ====
+Hmm, parece que sim. Existem quatro parafusos\\
+segurando a tampa no lugar.\\
+==== 1120200 ====
+Podemos ver um botão aqui, mas a cobertura sobre\\
+ele está parafusada...\\
+==== 1120300 ====
+Oh, poderíamos usar essa moeda para desparafusar\\
+isso...?\\
+==== 1120301 ====
+Sim! Eles saíram!\\
+==== 1120302 ====
+Parece que não precisávamos de uma chave de\\
+fenda afinal.\\
+==== 1120400 ====
+Há um botão sob a tampa, mas precisamos primeiro\\
+tirar os parafusos.\\
+==== 1120401 ====
+Aqui não temos uma chave de fenda... Poderíamos\\
+usar algo mais para removê-los?\\
+==== 1130100 ====
+Nós removemos a tampa, mas...devemos realmente\\
+apertar esse botão de forma tão descuidada...\\
+==== 1130101 ====
+Eu gostaria que uma pequena guilhotina saísse\\
+quando você empurrasse e cortasse sua mão...\\
+==== 1130102 ====
+Q-Quê...?! E-Eu vou esquecer que você disse\\
+isso, muito obrigado. Eu estou me esforçando!\\
+==== 1130103 ====
+Ah, bom, minha mão ainda está intacta.\\
+==== 1130104 ====
+Algo saiu do chão. O que é? Parece meio que uma\\
+cadeira daqui.\\
+==== 1130200 ====
+Pressionar o botão novamente não abaixa a\\
+cadeira.\\
+==== 1130300 ====
+Talvez esse botão solte as restrições... Claro\\
+que não! Vamos lá!\\
+==== 1140100 ====
+Hm? O piso não está nivelado aqui. Parece que\\
+poderia abrir.\\
+==== 1140101 ====
+Talvez seja uma armadilha?\\
+==== 1140102 ====
+...Melhor não ficarmos em cima dela, se pudermos\\
+evitar.\\
+==== 1140200 ====
+Há uma parte do piso que não está no nível.\\
+Isso significa alguma coisa?\\
+==== 1150100 ====
+Esta é uma cadeira... não é? Devíamos tentar\\
+sentar nela.\\
+==== 1150101 ====
+Ei! Não seja apressado!\\
+==== 1150102 ====
+...Nada está acontecendo.\\
+==== 1150103 ====
+Entendi. Não faz mal... Por que está aqui,\\
+então?\\
+==== 1150104 ====
+Você quer experimentar também? É um pouco\\
+difícil, no entanto.\\
+==== 1150105 ====
+Ah, claro. Talvez possamos descobrir algo pensando\\
+melhor sobre isso...\\
+==== 1150106 ====
+Ah.\\
+==== 1150107 ====
+O que?!\\
+==== 1150108 ====
+Que diabos! Eu não consigo me mexer!\\
+==== 1150109 ====
+Incêndio em... três minutos.\\
+==== 1150110 ====
+O que?! Ei Sigma! Diana! O que diabos está\\
+acontecendo!\\
+==== 1150111 ====
+Acho que algo disparou! Estou contido, mas a Diana\\
+está bem!\\
+==== 1150112 ====
+O que você disse?!\\
+==== 1150113 ====
+N-Não... Por que isso aconteceu... Estava tudo\\
+bem quando sentei nele, então por que...?!\\
+==== 1150114 ====
+Respire fundo, Diana. Podemos superar isso se\\
+lidarmos com calma.\\
+==== 1150115 ====
+Urg... O-Okay... espere! Vou encontrar uma forma\\
+de tirar vocês dois daí!\\
+==== 1150116 ====
+Estou contando com você. A Phi está em primeiro,\\
+ela não tem muito tempo restante...!\\
+==== 1150117 ====
+Não se esqueça de olhar para trás! A caixa que\\
+estava pendurada no teto caiu!\\
+==== 1150200 ====
+E agora Sigma também está preso... Oh, o que eu\\
+devo fazer...\\
+==== 1150201 ====
+Pare de focar em mim, Diana! Eu estou apenas sendo\\
+contido. Phi! Ela não tem muito tempo!\\
+==== 1150202 ====
+Você está certo... Eu preciso parar com isso!\\
+==== 1150300 ====
+Sigma...\\
+==== 1150301 ====
+Eu disse, não se preocupe comigo! Phi não tem\\
+muito tempo...!\\
+==== 1150400 ====
+Ei Diana, me deixa ver a arma que você pegou da\\
+caixa.\\
+==== 1150401 ====
+Ah? Isso?\\
+==== 1150402 ====
+Hmm, você sabe o que. A focinheira pode se\\
+encaixar na fechadura bem ao meu lado.\\
+==== 1150403 ====
+Ah... Eu acho que pode sim! Ok, vou tentar!\\
+==== 1150500 ====
+Diana, apenas insira a arma na fechadura com\\
+"PARAR"! Depressa!\\
+==== 1150600 ====
+D-Diana, você perdeu o juízo?! Por que está me\\
+encarando com essas gafas?\\
+==== 1150601 ====
+Eu-Eu sinto muito! Nem sei o que estou fazendo\\
+agora...\\
+==== 1150700 ====
+Mrff, o que-você, está gaaah fazendo - PARE. O\\
+que você está fazendo com o meu rosto?!\\
+==== 1150701 ====
+Desculpe...! Eu só achei que talvez tivesse\\
+algo...\\
+==== 1150702 ====
+Se você tem tempo para mexer com os rostos das\\
+pessoas, então vá procurar em outro lugar!\\
+==== 1150800 ====
+Ah...! Nossa, seu peito é...forte.\\
+==== 1150801 ====
+...Satisfeito?\\
+==== 1150900 ====
+Oh Sigma, o que devo fazer...\\
+==== 1150901 ====
+Fique calmo. Primeiro, você terá que soltar a\\
+minha mão. Está tudo bem, apenas procure por\\
+algumas pistas.\\
+==== 1151000 ====
+O que você está fazendo?\\
+==== 1151001 ====
+Um... Eu só pensei, talvez uma pista importante\\
+esteja escondida em algum lugar...\\
+==== 1151002 ====
+...Bem, há algo importante lá.\\
+==== 1151003 ====
+Ah, meu Deus, me desculpe! Não é isso! Eu não\\
+quis dizer... Não é assim!\\
+==== 1160100 ====
+Diz "PARAR" aqui, então talvez pare o processo de\\
+incineração!\\
+==== 1160101 ====
+Hmm, se for isso, então é uma preocupação a\\
+menos. Vamos encontrar a chave que se encaixa\\
+nisso.\\
+==== 1160102 ====
+Nós definitivamente nos sentiríamos mais calmos\\
+quando a Phi estiver segura. Espere um segundo...\\
+Esse buraco da fechadura não está muito grande?\\
+==== 1160200 ====
+É uma fechadura com a palavra "PARADA" escrita\\
+acima dela. Mas será que o buraco não está\\
+grande demais para uma chave...?\\
+==== 1160300 ====
+Augh...! Se eu tivesse a chave que combina com\\
+isso, talvez eu pudesse parar a incineração...!\\
+==== 1160400 ====
+Ah...! Talvez isso possa se encaixar nesta\\
+fechadura...\\
+==== 1160500 ====
+Eu acho que a arma vai entrar aqui... Por favor,\\
+encaixe...!\\
+==== 1170100 ====
+Você consegue me ouvir, Diana? Como está indo\\
+aí?\\
+==== 1170101 ====
+Estamos procurando em todos os lugares...\\
+==== 1170200 ====
+Droga! Não tem nada aqui! Diana! E quanto a esse\\
+lado?\\
+==== 1170201 ====
+Ah, o que eu devo fazer... Não há tempo!\\
+==== 1170300 ====
+Eu preciso abrir a caixa presa primeiro. Diana\\
+está esperando do outro lado do alçapão.\\
+==== 1180100 ====
+Diana e Sigma estão ali... Droga! Por que estou\\
+aqui...\\
+==== 1180101 ====
+Mas é melhor que eu seja o único que ficou\\
+preso.\\
+==== 1180102 ====
+Diana... Sigma... Estou contando com vocês.\\
+==== 1180200 ====
+Agora consigo enxergar muito melhor, agora que a\\
+cortina saiu do caminho.\\
+==== 1180201 ====
+Mesmo que eu quebrasse o vidro, duvido que eu\\
+conseguiria passar por ele.\\
+==== 1180300 ====
+Maldição, Sigma disse que não consegue se\\
+mover, mas ele está realmente bem? Devo me focar\\
+em mim primeiro...\\
+==== 1190100 ====
+Este é o buraco para o tubo de poeira...? É\\
+impossível enviar coisas deste lado.\\
+==== 1190200 ====
+É o buraco para a saída de poeira...\\
+==== 1190201 ====
+Phi, você pode me ouvir?\\
+==== 1190202 ====
+Sim, o que é?\\
+==== 1190203 ====
+Este é o seu momento! Rasteje até aqui através\\
+deste buraco! Você consegue!\\
+==== 1190204 ====
+Seu velho desgraçado... Isso é impossível. Eu\\
+só iria ficar presa por causa do meu peito\\
+grande.\\
+==== 1190205 ====
+Chega! Você sequer sabe o que é grande... Ah.\\
+Diana, você poderia tirar suas roupas?\\
+==== 1190206 ====
+O que? Eu?! E-Espera, sobre o que vocês dois\\
+estão falando?! Precisamos ser sérios sobre\\
+isso!\\
+==== 1190300 ====
+...Eu não acho que vou conseguir passar pelo\\
+buraco.\\
+==== 1190400 ====
+As coisas seriam melhores se eu conseguisse passar\\
+por esse buraco... Droga, não posso me distrair\\
+agora!\\
+==== 1200100 ====
+Não há nada que eu possa usar nessa pilha de\\
+lixo. ...Caramba, realmente fede.\\
+==== 1200200 ====
+Só tem lixo aqui...e o fedor é...\\
+==== 1210100 ====
+Talvez eu conseguiria sair se removesse as grades\\
+de ferro... Mas elas estão parafusadas\\
+firmemente.\\
+==== 1210200 ====
+...Não adianta. Essas grades não vão sair.\\
+==== 1220100 ====
+É um termômetro. Mas por que tem um aqui? Para\\
+verificar a temperatura do lixo?\\
+==== 1220101 ====
+Eu devo ter em mente qual será a temperatura\\
+quando a incineração começar...\\
+==== 1220200 ====
+É um termômetro. Mas por que ele está no\\
+incinerador...?\\
+==== 1220300 ====
+Talvez eu possa aquecer esse termômetro...?\\
+==== 1220301 ====
+...A temperatura está subindo.\\
+==== 1220302 ====
+...\\
+==== 1220303 ====
+Ei Phi! Tudo bem?!\\
+==== 1220304 ====
+Ah? Bem, eu ainda não sou bacon... Aconteceu\\
+alguma coisa?\\
+==== 1220305 ====
+O termômetro aqui está subindo rápido! Está\\
+esquentando aí?!\\
+==== 1220306 ====
+Não, estou bem. Entendi, então está conectado\\
+ao termômetro externo.\\
+==== 1220307 ====
+Estou tão feliz... Huh? A moeda aqui está...\\
+==== 1220400 ====
+Um termômetro... Acho que Diana disse algo sobre\\
+um...\\
+==== 1220401 ====
+...Isso está relacionado?\\
+==== 1220500 ====
+Um termômetro... É a agulha no papel a mesma do\\
+termômetro ali?\\
+==== 1220501 ====
+Então, maximizar a agulha significaria...\\
+==== 1220600 ====
+Se o termômetro do lado estiver conectado ao\\
+daqui, então quando eu aquecê-lo...\\
+==== 1220601 ====
+...A temperatura está subindo.\\
+==== 1220602 ====
+Eu me pergunto quanto calor eu preciso para levar\\
+a agulha no limite ali.\\
+==== 1220603 ====
+Eu gostaria de marcar uma consulta com o dentista.\\
+==== 1220604 ====
+Ei Phi! Tudo bem?!\\
+==== 1220605 ====
+Huh? Bem, eu ainda não sou bacon... Aconteceu\\
+alguma coisa?\\
+==== 1220606 ====
+O termômetro aqui está subindo! Está\\
+esquentando aí?!\\
+==== 1220607 ====
+Não, estou bem. Entendi, então realmente está\\
+ligado ao termômetro externo.\\
+==== 1220608 ====
+Fico tão feliz... Hein? A moeda aqui está...\\
+==== 1220700 ====
+Esse termômetro provavelmente é só para\\
+resolver o truque na outra sala...\\
+==== 1230100 ====
+Então este é o local de onde as chamas\\
+sairão... Fico pensando o quão poderoso isso é.\\
+==== 1230101 ====
+Talvez tenha algo em que eu possa me esconder ou\\
+atrás se a incineração começar...\\
+==== 1230102 ====
+... Sim, eu não pensei isso.\\
+==== 1230103 ====
+Eu sei, talvez se eu enfiar o lixo na fornalha...\\
+Droga, isso fede até o céu!\\
+==== 1230104 ====
+Eu preciso parar de me exaltar ou então realmente\\
+serei...\\
+==== 1230105 ====
+... Fique calmo, Phi.\\
+==== 1230200 ====
+Parece ser de onde as chamas vão sair... Vou\\
+queimar até virar cinzas...?\\
+==== 1230300 ====
+Oi, isso é...!\\
+==== 1240100 ====
+Há algo estranho sobre essa parede. Como se algo\\
+estivesse preso a ela...\\
+==== 1240101 ====
+Ah, algo está errado aqui.\\
+==== 1240200 ====
+Esta seção da parede está parafusada.\\
+==== 1240300 ====
+Esta parede está parafusada. Duvido que esteja\\
+conectada ao exterior, no entanto.\\
+==== 1240301 ====
+...Pode muito bem tirá-la.\\
+==== 1240302 ====
+Isso é algum tipo de pista? 188 libras...?\\
+==== 1240303 ====
+...Vou guardar os parafusos só por precaução.\\
+==== 1240400 ====
+Bem, 188 libras são cerca de 85 quilos. O que há\\
+de errado com esse peso? ... Oh, talvez.\\
+==== 1240401 ====
+Sigma! Quanto você pesa?\\
+==== 1240402 ====
+HEIN? O que é isso de repente ... Quanto VOCÊ\\
+pesa?\\
+==== 1240403 ====
+Chame o RH, isso é assédio sexual, velho. Apenas\\
+responda. São 188 libras?\\
+==== 1240404 ====
+Sim, mais ou menos... Como você sabia?\\
+==== 1240405 ====
+É uma coincidência dizer isso? Não, não pode\\
+ser. Deve fazer parte do plano de Zero...\\
+==== 1240500 ====
+Isso é apenas sobre o quanto Sigma pesa...\\
+==== 1240600 ====
+Os 188 libras. O peso do Sigma. Droga, eu sabia\\
+que não era coincidência. Nós estragamos tudo!\\
+==== 1240700 ====
+Apenas esta seção da parede está estranha, e\\
+tem parafusos... Isso está gritando "Olhe para\\
+mim!"\\
+==== 1240701 ====
+Eu acho que consigo tirar isso...\\
+==== 1240800 ====
+Esta parte da parede tem parafusos... Acho que\\
+consigo removê-la com a chave de fenda.\\
+==== 1250100 ====
+Isso parece uma estação de peso... Por que uma\\
+delas está dentro de um incinerador...\\
+==== 1250101 ====
+Ah! Eu devo ter que pesar algo!\\
+==== 1250200 ====
+Eu não tenho muita vontade de me pesar.\\
+==== 1250300 ====
+Eu deveria tentar pesar algo aqui.\\
+==== 1250400 ====
+É uma estação de peso. Vou tentar pesar este\\
+chave de fenda.\\
+==== 1250401 ====
+133 gramas...\\
+==== 1250500 ====
+Este chave de fenda pesa 133 gramas.\\
+==== 1250600 ====
+Uma estação de peso. Eu vou pesar esses\\
+parafusos.\\
+==== 1250601 ====
+Ok, 22 gramas. Então cada um é 11 gramas.\\
+==== 1250700 ====
+Dois parafusos pesam 22 gramas.\\
+==== 1250800 ====
+Agora vou ver o peso desse maçarico a gás...\\
+==== 1250801 ====
+360 gramas...\\
+==== 1250900 ====
+Este maçarico a gás pesa 360 gramas.\\
+==== 1260100 ====
+Uma caixa de ferramentas. Espero que tenha algumas\\
+ferramentas internas que eu possa usar...\\
+==== 1260101 ====
+Hm... Não está abrindo. Está parafusado\\
+fechado.\\
+==== 1260200 ====
+Está parafusado. Heh... Imagine só, uma caixa de\\
+ferramentas que precisa de uma ferramenta para\\
+abrir.\\
+==== 1260300 ====
+Okay, o que tem dentro... Hã? É algum tipo de\\
+quebra-cabeça aqui dentro.\\
+==== 1260400 ====
+Parece que as ferramentas não estão configuradas\\
+corretamente... É como um quebra-cabeça.\\
+==== 1260500 ====
+Vou tentar novamente.\\
+==== 1260600 ====
+Bom. Todos estão no lugar agora.\\
+==== 1260601 ====
+Ah, o compartimento inferior abriu.\\
+==== 1260602 ====
+Diz "Maximize a agulha!" Agulha... Hmm...\\
+==== 1260603 ====
+Diana! Tem uma agulha ali?\\
+==== 1260604 ====
+Uma agulha? Não, eu não acho... Ah, mas tem uma\\
+agulha ali no medidor.\\
+==== 1260605 ====
+Qual medidor?\\
+==== 1260606 ====
+Eu acho que é para um termômetro.\\
+==== 1260607 ====
+Entendi...\\
+==== 1260700 ====
+Eles não estão servindo corretamente.\\
+==== 1260800 ====
+Não vão servir...\\
+==== 1260801 ====
+Eu devo encontrar a ferramenta que se encaixa no\\
+canto superior esquerdo para começar.\\
+==== 1260900 ====
+Tudo se encaixa. Eu não tenho mais que lidar com\\
+isso.\\
+==== 1261000 ====
+Okay, todos eles estão configurados corretamente.\\
+==== 1261001 ====
+Ah, o compartimento inferior abriu.\\
+==== 1261002 ====
+"Máximo a agulha!" Agulha ... Hmm ...\\
+==== 1261003 ====
+Diana! Tem uma agulha ali?\\
+==== 1261004 ====
+Uma agulha? Não, acho que não... Ah, mas há uma\\
+agulha lá no medidor.\\
+==== 1261005 ====
+Qual medidor?\\
+==== 1261006 ====
+Ah, acho que é para um termômetro? Mas a agulha\\
+já atingiu o máximo e não está se movendo.\\
+==== 1261007 ====
+Ah, então eu já esquentei... Droga, este bilhete\\
+não ajuda em nada.\\
+==== 1261100 ====
+Uma caixa de ferramentas. Espero que tenha\\
+ferramentas lá dentro que eu possa usar...\\
+==== 1261101 ====
+Hã? A tampa está bem apertada.\\
+==== 1261200 ====
+A tampa está parafusada e não abre... Droga,\\
+não tenho tempo para isso...\\
+==== 1261300 ====
+Okay, por dentro... Isso... é um quebra-cabeça?\\
+Em um momento como este?!\\
+==== 1261400 ====
+As ferramentas não estão encaixadas\\
+corretamente. Isso significa que eu preciso\\
+consertá-las? Preciso me apressar.\\
+==== 1261500 ====
+Não há tempo... Mas vou tentar de novo.\\
+==== 1261600 ====
+...Droga! Eles não estão servindo corretamente.\\
+==== 1261700 ====
+Eu não consigo fazer isso... Não, calma...\\
+==== 1261701 ====
+Eu tenho que começar com a ferramenta que se\\
+encaixa no canto superior esquerdo primeiro.\\
+==== 1261800 ====
+Não há nada útil aqui.\\
+==== 1270100 ====
+Um cadeado... Eu não consigo abrir sem uma chave.\\
+Oh?\\
+==== 1270101 ====
+A fechadura é em formato de hexágono... hmm.\\
+==== 1270200 ====
+Um cadeado... O furo tem a forma de um hexágono.\\
+Algo vai caber aqui...\\
+==== 1270300 ====
+Se eu usar o agarre assim...\\
+==== 1270301 ====
+Sim! Está aberto!\\
+==== 1270302 ====
+Diana, eu abri o cadeado! Puxe a corrente pra\\
+cima!\\
+==== 1270303 ====
+Entendi!\\
+==== 1280100 ====
+Não é hora de examinar isso. Ah, cara, meus\\
+nervos estão prestes a se romper.\\
+==== 1280101 ====
+Eu preciso encontrar uma maneira de abrir aquela\\
+caixa...!\\
+==== 1280200 ====
+Não há tempo. Eu preciso abrir essa caixa...!\\
+==== 1290100 ====
+Isso deve ser a saída... Não, trancada.\\
+==== 1290101 ====
+Eu não vejo uma fechadura, então ela deve estar\\
+trancada eletronicamente.\\
+==== 1290200 ====
+Essa é a saída, mas está trancada.\\
+==== 1290300 ====
+Abra! ABRA! ...Maldição! Não está cedendo. Eu\\
+não vou queimar até a morte aqui dentro!\\
+==== 1300100 ====
+Parece um console de controle. Mas nada acontece\\
+quando tocamos nele.\\
+==== 1300200 ====
+Abra... Por favor, abra! Por que isso... O que eu\\
+devo fazer?!\\
+==== 1310100 ====
+Luzes fluorescentes. Elas são bem comuns.\\
+==== 1310200 ====
+Deve haver um jeito... Um jeito de...! Por\\
+favor... Não, eu não posso desistir...!\\
+==== 1320100 ====
+Isso é... Ah, entendi. Quando abrir, as cinzas\\
+caem aqui.\\
+==== 1320101 ====
+...Espero que isso não acabe sendo eu.\\
+==== 1320200 ====
+Isso é para a disposição do lixo incinerado...\\
+Preciso sair daqui logo.\\
+==== 2010100 ====
+É um pequeno maçarico a gás.\\
+==== 2010101 ====
+Isso me faz pensar em grelhar um pouco de carne ou\\
+peixe...\\
+==== 2010102 ====
+Se conseguirmos sair em segurança, com certeza\\
+quero comer algo gostoso.\\
+==== 2010200 ====
+É uma pequena tocha de gás. Precisamos\\
+manuseá-la com cuidado.\\
+==== 2010300 ====
+Pequeno maçarico de gás.\\
+==== 2010301 ====
+Combata o fogo com fogo, eles dizem... Como se.\\
+Como se essa pequena tocha pudesse superar um\\
+incinerador.\\
+==== 2010400 ====
+É uma pequena tocha de gás. Posso queimar ou\\
+aquecer algo com ela...\\
+==== 2010500 ====
+Uma pequena tocha de gás. Eu a coloquei na\\
+estação de pesos e ela pesa 360 gramas.\\
+==== 2020100 ====
+É uma caixa de ferramentas. Não podemos abri-la\\
+porque está parafusada.\\
+==== 2020101 ====
+E a ferramenta para abri-lo está DENTRO da\\
+caixa... Maldito seja, Zero.\\
+==== 2020200 ====
+É uma caixa de ferramentas. Não podemos abri-la\\
+porque está parafusada.\\
+==== 2020300 ====
+É uma caixa de ferramentas. Está parafusada.\\
+==== 2020301 ====
+Poderíamos abri-lo com a moeda que temos?\\
+==== 2020302 ====
+Ah, vamos tentar!\\
+==== 2020303 ====
+...Hmm, parece que a moeda está muito grossa.\\
+Precisamos de uma chave de fenda de verdade para\\
+isso.\\
+==== 2030100 ====
+Isso parece uma máscara de gás... Por que algo\\
+assim estaria aqui?\\
+==== 2030101 ====
+Por que não experimentar? Você pode ficar bem.\\
+==== 2030102 ====
+Se você acha que elogiar tudo o que uma mulher\\
+veste é aceitável, você está muito enganado,\\
+senhor.\\
+==== 2030200 ====
+É uma máscara de proteção para os olhos...\\
+Para que podemos usar isso?\\
+==== 2030300 ====
+Eu consigo ver coisas flutuando no ar quando eu\\
+coloco isso!\\
+==== 2030301 ====
+Provavelmente tem algum tipo de função de RA...\\
+Realidade Aumentada.\\
+==== 2040100 ====
+Nada de especial sobre uma chave de fenda comum. O\\
+cabo é hexagonal.\\
+==== 2040101 ====
+É apenas uma ferramenta para tirar parafusos.\\
+==== 2040200 ====
+Uma chave de fenda com cabo hexagonal.\\
+==== 2040300 ====
+Chave de fenda com cabo hexagonal. Pesa 133\\
+gramas.\\
+==== 2050100 ====
+Dois parafusos que eu removi da parede... Talvez\\
+eu possa usá-los para algo?\\
+==== 2050200 ====
+Dois parafusos que removi da parede...\\
+==== 2050300 ====
+Dois parafusos que removi da parede. Seu peso\\
+total é de 22 gramas.\\
+==== 2060100 ====
+Isso parece apenas uma moeda comum.\\
+==== 2060101 ====
+Duvido que tenha algo a ver com isso. Mas aposto\\
+que podemos usar para algo.\\
+==== 2060200 ====
+É uma moeda comum. Talvez possamos usá-la para\\
+alguma coisa?\\
+==== 2070100 ====
+A caixa presa que estava pendurada no teto...\\
+Preciso abrir o cadeado.\\
+==== 2070101 ====
+Eu acho que a fechadura é hexagonal... Ah, que\\
+horas são...!\\
+==== 2070200 ====
+Como posso abrir essa caixa acorrentada...! O\\
+buraco para a chave é hexagonal...\\
+==== 2080100 ====
+Um revólver... É pesado, então deve ser real.\\
+Talvez eu consiga atirar nas restrições de\\
+Sigma...\\
+==== 2080101 ====
+Não, eu não acho que isso funcionaria... Não\\
+há tempo e não consigo pensar direito! O que eu\\
+faço?!\\
+==== 2080200 ====
+Um revólver... Eu não posso simplesmente sair\\
+atirando por aí, então o que devo fazer com\\
+ele?!\\
+==== 2080300 ====
+Um revólver... O que eu devo fazer... Hein?\\
+==== 2080301 ====
+O cano... Talvez sirva...\\
+==== 2080400 ====
+Talvez o cano da arma sirva nessa fechadura!\\

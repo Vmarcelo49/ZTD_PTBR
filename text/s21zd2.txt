@@ -1,0 +1,2116 @@
+==== 2486 ====
+Essas coisas...são robôs?\\
+==== 2487 ====
+Sim.\\
+==== 2488 ====
+Eles são reais?\\
+==== 2489 ====
+Duvido que sejam brinquedos de modelo.\\
+==== 2490 ====
+Oii! Oiiee??\\
+==== 2491 ====
+Bem, ele não é muito amigável.\\
+==== 2492 ====
+Provavelmente está apenas sem bateria.\\
+==== 2493 ====
+Ainda assim, por que essas coisas estariam neste\\
+quarto...\\
+==== 2494 ====
+Olhando ao redor, diria que eles estão sendo\\
+feitos aqui.\\
+==== 2495 ====
+Feitos aqui?\\
+==== 2496 ====
+Sim. Zero provavelmente os está fabricando...\\
+==== 2497 ====
+Realmente diz que esta sala é "Produção" no\\
+mapa.\\
+==== 2498 ====
+Ah, um, Sigma? Por que você ficou quieto\\
+subitamente?\\
+==== 2499 ====
+Ah. Sem motivo...\\
+==== 2500 ====
+Danado. Está trancado.\\
+==== 2501 ====
+Acho que estamos presos aqui.\\
+==== 2502 ====
+De novo...?\\
+==== 2503 ====
+De novo?\\
+==== 2504 ====
+Diana, que horas são?\\
+==== 2505 ====
+São 18:10.\\
+==== 2506 ====
+Não vale a pena perder tempo em um lugar como\\
+este.\\
+==== 2507 ====
+Vamos apenas encontrar um jeito de sair daqui.\\
+==== 2508 ====
+Certo. Vamos lá.\\
+==== 2509 ====
+Parece que deu tudo certo.\\
+==== 2510 ====
+Vamos.\\
+==== 2511 ====
+Nós já estamos nesta sala assustadora tempo\\
+suficiente.\\
+==== 2512 ====
+Onde está Gab?\\
+==== 2513 ====
+Eu não o vejo...\\
+==== 2514 ====
+Talvez ele tenha ido para outra ala?\\
+==== 2515 ====
+Vou lá e verificar na Sala de Preparação.\\
+==== 2516 ====
+Por quê lá?\\
+==== 2517 ====
+Ele pode estar entrando pelo duto de ar?\\
+==== 2518 ====
+Sigma, aqueles robôs fizeram você se lembrar de\\
+algo?\\
+==== 2519 ====
+Os robôs...?\\
+==== 2520 ====
+Os que vimos quando estávamos na Fabricação.\\
+==== 2521 ====
+Você começou a agir tão estranho depois que\\
+entramos naquele quarto...\\
+==== 2522 ====
+Eu já... fiz alguns antes. No passado.\\
+==== 2523 ====
+Você fez robôs?\\
+==== 2524 ====
+Bem, tudo o que realmente fiz foi a aparência\\
+externa e a inteligência artificial.\\
+==== 2525 ====
+A estrutura foi construída em outro lugar.\\
+==== 2526 ====
+Por que você os fez...?\\
+==== 2527 ====
+É uma história longa.\\
+==== 2528 ====
+Vamos dizer que foi fundamental para a conclusão\\
+do meu plano.\\
+==== 2529 ====
+Não, talvez isso não seja exatamente verdade.\\
+==== 2530 ====
+Poderia ter sido apenas minha capa. Para dizer a\\
+verdade...\\
+==== 2531 ====
+Eu estava simplesmente solitário...\\
+==== 2532 ====
+Passei várias décadas da minha vida sozinho.\\
+==== 2533 ====
+No meio de um deserto desolado...\\
+==== 2534 ====
+Eu vivia em uma instalação construída\\
+profundamente abaixo da terra, muito semelhante a\\
+este abrigo.\\
+==== 2535 ====
+Às vezes, um conhecido passava por lá, mas era\\
+só isso. Sem telefonemas ou até mesmo emails.\\
+==== 2536 ====
+Era um lugar de completa e absoluta tranquilidade.\\
+==== 2537 ====
+Sem chuva. Sem vento. Apenas um zumbido que ecoava\\
+constantemente em meus ouvidos.\\
+==== 2538 ====
+Ainda assim, não era como se eu estivesse\\
+completamente sozinho no começo.\\
+==== 2539 ====
+Alguém estava lá para me ajudar por um curto\\
+período de tempo depois que comecei a morar nas\\
+instalações.\\
+==== 2540 ====
+Uma mulher.\\
+==== 2541 ====
+Ela era muito adorável. Gentil e doce.\\
+==== 2542 ====
+Seu nome era... Bom, vamos apenas chamá-la de D.\\
+==== 2543 ====
+D e eu, moramos juntos por três anos.\\
+==== 2544 ====
+Passamos o tempo pesquisando genética.\\
+==== 2545 ====
+e estudando diversos assuntos como mecânica\\
+quântica, cosmologia, bioquímica,\\
+==== 2546 ====
+Mas...\\
+==== 2547 ====
+A mulher...faleceu...\\
+==== 2548 ====
+Por que...\\
+==== 2549 ====
+O ambiente da instalação era muito particular.\\
+==== 2550 ====
+Para ser breve, tinha uma gravidade fraca.\\
+==== 2551 ====
+Como resultado, uma doença se desenvolveu em seu\\
+sistema circulatório.\\
+==== 2552 ====
+Minha tristeza me dominou.\\
+==== 2553 ====
+Dois, três anos se passaram, e a dor estava tão\\
+fresca como sempre.\\
+==== 2554 ====
+Por isso é que os robôs...\\
+==== 2555 ====
+Recriei a aparência de D da melhor maneira\\
+possível.\\
+==== 2556 ====
+Eu fiz com que seus padrões de pensamento\\
+coincidissem o máximo possível.\\
+==== 2557 ====
+Passei vinte e cinco anos completando-a.\\
+==== 2558 ====
+Claro que era impossível replicar perfeitamente\\
+tudo sobre o D.\\
+==== 2559 ====
+Mesmo assim, ela acabou ficando bem perto... para\\
+um robô.\\
+==== 2560 ====
+Eu a nomeei de Luna.\\
+==== 2561 ====
+Luna era muito dedicada a mim.\\
+==== 2562 ====
+Eu também descobri que realmente a amava.\\
+==== 2563 ====
+Não como uma mulher, mas mais como uma filha...\\
+==== 2564 ====
+Você me odeia?\\
+==== 2565 ====
+Não, eu nunca...\\
+==== 2566 ====
+Estou apenas... realmente confuso...\\
+==== 2567 ====
+Levou vinte e cinco anos para você criar aquele\\
+robô...\\
+==== 2568 ====
+Sigma...quantos anos você tem?\\
+==== 2569 ====
+Tenho 67 anos...\\
+==== 2570 ====
+Não... Você deve estar brincando...?\\
+==== 2571 ====
+Ei! Diana, Sigma, venham aqui!\\
+==== 2572 ====
+O que é isso?\\
+==== 2573 ====
+Eu elaborei um plano.\\
+==== 2574 ====
+Um plano?\\
+==== 2575 ====
+Você poderia pegar o mapa, Diana?\\
+==== 2576 ====
+O que há além da Sala de Descontaminação?\\
+==== 2577 ====
+O hall para o elevador...\\
+==== 2578 ====
+Então, isso significaria...?\\
+==== 2579 ====
+Se abrirmos esta porta, conseguimos sair daqui?\\
+==== 2580 ====
+Mas como conseguiríamos abri-lo?\\
+==== 2581 ====
+Está soldado. Nada menos que uma bomba\\
+conseguiria danificá-lo.\\
+==== 2582 ====
+Então...vamos usar um.\\
+==== 2583 ====
+O quê?\\
+==== 2584 ====
+Vamos apenas usar uma bomba, e PUFF! A porta será\\
+explodida.\\
+==== 2585 ====
+Espera, você não quer dizer...\\
+==== 2586 ====
+Ah! Podemos usar a bomba na Produção!\\
+==== 2587 ====
+Se eu me lembro bem, só precisamos ajustar o\\
+timer e pressionar o botão Iniciar?\\
+==== 2588 ====
+Correto. Depois que o temporizador acaba, as bolas\\
+vermelhas e azuis são liberadas.\\
+==== 2589 ====
+Quando ambos se tocam...é aí que acontece a\\
+explosão.\\
+==== 2590 ====
+Sim, certinho, vá em frente Sigma.\\
+==== 2591 ====
+Hein?\\
+==== 2592 ====
+Nós dois...te veremos de volta no Lounge.\\
+==== 2593 ====
+E-Espera um segundo!\\
+==== 2594 ====
+Você quer que eu carregue tudo sozinho?!\\
+==== 2595 ====
+Homens levantam coisas pesadas.\\
+==== 2596 ====
+É assim desde tempos antigos.\\
+==== 2597 ====
+Eu sou o velho!\\
+==== 2598 ====
+Mas o seu corpo tem 22 anos, certo?\\
+==== 2599 ====
+Não se esqueça de ter cuidado ao movê-lo,\\
+certo?\\
+==== 2600 ====
+Se essas duas bolas se tocarem cedo, estamos\\
+perdidos.\\
+==== 2601 ====
+Diana e eu não teremos mais uma saída.\\
+==== 2602 ====
+Sua preocupação por mim é tocante...\\
+==== 2603 ====
+Okay, vamos lá, Diana.\\
+==== 2604 ====
+Ah, um, okay...\\
+==== 2605 ====
+Sério...?\\
+==== 2606 ====
+Tudo pronto para ir.\\
+==== 2607 ====
+Parabéns.\\
+==== 2608 ====
+Quem diabos te fez o chefão...?\\
+==== 2609 ====
+Me chame de Chefe Phi.\\
+==== 2610 ====
+Quando você ficou tão superior e arrogante?\\
+==== 2611 ====
+Desde o nascimento.\\
+==== 2612 ====
+Seus pais devem ter sido personagens reais.\\
+==== 2613 ====
+Por favor, vocês dois... Mais importante...\\
+==== 2614 ====
+Parece que o cronômetro só pode ir até 300\\
+segundos.\\
+==== 2615 ====
+Cinco minutos, né...\\
+==== 2616 ====
+Cinco minutos são tempo suficiente para obter\\
+distância suficiente.\\
+==== 2617 ====
+Tudo bem, vou apertar o botão agora.\\
+==== 2618 ====
+Vocês estão todos prontos?\\
+==== 2619 ====
+Sim.\\
+==== 2620 ====
+Pronto quando estiver.\\
+==== 2621 ====
+Tudo bem, aqui vamos nós!\\
+==== 2622 ====
+3, 2, 1...!\\
+==== 2623 ====
+Eu acho que isso é longe o suficiente.\\
+==== 2624 ====
+Quanto tempo falta?\\
+==== 2625 ====
+Eu diria 4 minutos, 30 segundos - não, 20\\
+segundos.\\
+==== 2626 ====
+Agora anunciando...as baixas atuais...\\
+==== 2627 ====
+Time C: Carlos, Akane, Junpei\\
+==== 2628 ====
+Esses três agora estão falecidos.\\
+==== 2629 ====
+Como resultado...três Passes X...serão\\
+revelados.\\
+==== 2630 ====
+FOGO... ACIDENTE... CINCO...\\
+==== 2631 ====
+Isso é tudo.\\
+==== 2632 ====
+Não... Como...?\\
+==== 2633 ====
+A execução.\\
+==== 2634 ====
+O que...?\\
+==== 2635 ====
+Você esqueceu?\\
+==== 2636 ====
+Diana escolheu a Equipe C durante a votação às\\
+13h30.\\
+==== 2637 ====
+É por isso–\\
+==== 2638 ====
+Aguarde, o que você está dizendo...?\\
+==== 2639 ====
+Diana escolheu votar no Time Q.\\
+==== 2640 ====
+Não é mesmo...?\\
+==== 2641 ====
+Eu... Eu...\\
+==== 2642 ====
+Que tipo de besteira você está tentando fazer.\\
+==== 2643 ====
+Você realmente achou que eu não ia perceber?\\
+==== 2644 ====
+Zero...\\
+==== 2645 ====
+O que você está fazendo agora é considerado uma\\
+infração às regras.\\
+==== 2646 ====
+Você não tem permissão para sair por meios que\\
+não seja a Porta X.\\
+==== 2647 ====
+Essa é uma das regras do jogo.\\
+==== 2648 ====
+Nunca ouvimos essa regra antes!\\
+==== 2649 ====
+Sendo assim, decidi que também devo quebrar as\\
+regras.\\
+==== 2650 ====
+A equipe Q está do outro lado da Sala de\\
+Descontaminação neste momento.\\
+==== 2651 ====
+Eles estão inconscientes por terem sido injetados\\
+com o anestésico em suas pulseiras.\\
+==== 2652 ====
+Apenas para você saber, a bomba que você ativou\\
+é realmente muito poderosa.\\
+==== 2653 ====
+É verdade que se detonar, a porta na Sala de\\
+Descontaminação será explodida.\\
+==== 2654 ====
+Ao mesmo tempo, isso significa a morte da equipe\\
+Q, que dormia sem saber.\\
+==== 2655 ====
+Então, o que você vai fazer?\\
+==== 2656 ====
+Faltam três minutos.\\
+==== 2657 ====
+Você pode parar o cronômetro e salvar a Equipe\\
+Q.\\
+==== 2658 ====
+Ou deixá-los para morrer e fazer sua própria\\
+fuga...\\
+==== 2659 ====
+A escolha é sua.\\
+==== 2660 ====
+Deixo a decisão com você.\\
+==== 2661 ====
+Espera aí, Diana!\\
+==== 2668 ====
+O que diabos foi isso?!\\
+==== 2669 ====
+Eu acredito que seja ácido fluorídrico líquido.\\
+Ou ácido fluorídrico.\\
+==== 2670 ====
+Ácido fluorídrico?!\\
+==== 2671 ====
+É um ácido poderoso que pode até mesmo derreter\\
+vidro ou metal.\\
+==== 2672 ====
+Como você sabe disso?\\
+==== 2673 ====
+Eu sei porque eu simplesmente sei!\\
+==== 2674 ====
+Não importa. Isso definitivamente é algum tipo\\
+de líquido ácido.\\
+==== 2675 ====
+Não tem como nós entrarmos.\\
+==== 2676 ====
+Isso é...\\
+==== 2677 ====
+Um traje de proteção.\\
+==== 2678 ====
+Podemos entrar se colocarmos isso!\\
+==== 2679 ====
+Mas há apenas um...\\
+==== 2680 ====
+Eu farei.\\
+==== 2681 ====
+Não, Diana!\\
+==== 2682 ====
+Mas se alguém não entrar, o Time Q irá–\\
+==== 2683 ====
+Então eu vou!\\
+==== 2684 ====
+Não, eu não vou te deixar!\\
+==== 2685 ====
+Pare, já estamos muito atrasados!\\
+==== 2686 ====
+Mesmo que alguém coloque o terno, não vamos\\
+conseguir chegar a tempo!\\
+==== 2687 ====
+Vamos lá. Vamos sair desta sala.\\
+==== 2688 ====
+Não há outra maneira.\\
+==== 2689 ====
+O que você está dizendo, Sigma...?\\
+==== 2690 ====
+Huh? Onde está o Sigma...?\\
+==== 2691 ====
+Ele ainda está lá.\\
+==== 2692 ====
+Sigma! Sigma!\\
+==== 2693 ====
+O que você está fazendo?! Abra esta porta!\\
+==== 2694 ====
+Eu tenho que fazer isso.\\
+==== 2695 ====
+O que você quer dizer?!\\
+==== 2696 ====
+Você teria tentado me segurar se eu dissesse que\\
+iria, certo?\\
+==== 2697 ====
+Você...mentiu?\\
+==== 2698 ====
+De qualquer forma, não há tempo.\\
+==== 2699 ====
+Vocês dois precisam ir o mais longe possível.\\
+==== 2700 ====
+Para de brincadeira! Você só vai morrer?!\\
+==== 2701 ====
+Não é isso.\\
+==== 2702 ====
+É só por precaução.\\
+==== 2703 ====
+Eu não vou morrer.\\
+==== 2704 ====
+Vou salvar todos os membros da Equipe Q.\\
+==== 2705 ====
+Então...\\
+==== 2706 ====
+Sigma!\\
+==== 2707 ====
+Sigma!\\
+==== 2708 ====
+Sigmaaa!\\
+==== 2709 ====
+Não...\\
+==== 2710 ====
+Sigma!\\
+==== 2711 ====
+Sigma! Sigma! Segure-se!\\
+==== 2712 ====
+Meu Deus...\\
+==== 2713 ====
+Precisamos levá-lo para atendimento médico!\\
+==== 2714 ====
+Certo!\\
+==== 2715 ====
+Vou verificar o outro cômodo.\\
+==== 2716 ====
+Está tudo bem! Os chuveiros pararam e a porta\\
+desapareceu!\\
+==== 2717 ====
+Então...\\
+==== 2718 ====
+Estamos saindo daqui! Vamos!\\
+==== 2719 ====
+Não... Por favor, não...\\
+==== 2720 ====
+Caramba, por que...\\
+==== 2721 ====
+Essa criança...\\
+==== 2722 ====
+Por que... uma criança tão pequena...\\
+==== 2724 ====
+E aí! Está tudo bem?!\\
+==== 2725 ====
+Phi...\\
+==== 2726 ====
+Onde estão os outros...?\\
+==== 2727 ====
+Eu vejo... Todos estão mortos...\\
+==== 2728 ====
+Em breve estarei me juntando a eles...\\
+==== 2729 ====
+Zero nos contou...\\
+==== 2730 ====
+Foi você, não foi? Você colocou a bomba...\\
+==== 2731 ====
+Tudo bem...\\
+==== 2732 ====
+Você merece algo bom em troca...\\
+==== 2734 ====
+O que... O que você acabou de me injetar...?\\
+==== 2735 ====
+Talvez você já tenha ouvido falar...? Aquele\\
+vírus...Radical-6...\\
+==== 2736 ====
+Se alguém contaminado com o vírus saísse,\\
+então...\\
+==== 2737 ====
+A humanidade... Seis bilhões de pessoas...vão\\
+morrer.\\
+==== 2738 ====
+O que você...\\
+==== 2739 ====
+E então...?\\
+==== 2740 ====
+Você...gosta...?\\
+==== 2741 ====
+Meu presente...para...você...\\
+==== 2742 ====
+Phi, espera!\\
+==== 2743 ====
+Não...\\
+==== 2744 ====
+Heh... Quem diria que isso iria acontecer...\\
+==== 2745 ====
+Meu corpo assim... Phi injetada com Radical-6...\\
+==== 2746 ====
+Tudo aponta para uma única verdade...\\
+==== 2747 ====
+Qual verdade...?\\
+==== 2748 ====
+Parece que esta história é a que se conecta a\\
+esse futuro...\\
+==== 2749 ====
+Bem, eu acho que para Phi seria o passado...\\
+==== 2750 ====
+Diana, você não pode usar esse elevador...\\
+==== 2751 ====
+O que você está dizendo?!\\
+==== 2752 ====
+Precisamos te levar para o hospital o mais rápido\\
+possível ou –\\
+==== 2753 ====
+Não se preocupe comigo...\\
+==== 2754 ====
+Então...\\
+==== 2755 ====
+Não, vocês dois precisam sair daqui!\\
+==== 2756 ====
+Eu sou o único que deve ficar!\\
+==== 2757 ====
+Não adianta...\\
+==== 2758 ====
+Uma equipe de resgate eventualmente aparecerá se\\
+Diana e eu conseguirmos chegar à superfície...\\
+==== 2759 ====
+E você sabe que eles vão descer e te pegar\\
+também...\\
+==== 2760 ====
+Então me mate!\\
+==== 2761 ====
+Me mate e queime meus restos! Agora!\\
+==== 2762 ====
+Phi...\\
+==== 2763 ====
+Não há outra maneira... Essa é a única forma\\
+de impedir a propagação do vírus...\\
+==== 2765 ====
+Vamos lá! Depressa! Seis bilhões de vidas estão\\
+em perigo!\\
+==== 2766 ====
+Eu... eu não consigo...\\
+==== 2767 ====
+Não há como! Eu não consigo fazer isso!\\
+==== 2769 ====
+Diana, você... Você sabe o que está fazendo...\\
+não sabe?\\
+==== 2770 ====
+Sim, eu faço...\\
+==== 2771 ====
+Eu vou te salvar e o Phi.\\
+==== 2772 ====
+Ei, você consegue me ouvir?!\\
+==== 2773 ====
+O que está acontecendo?!\\
+==== 2776 ====
+Aqui é Controle, repito, aqui é Controle. Por\\
+favor, responda!\\
+==== 2777 ====
+Esta é Diana...\\
+==== 2778 ====
+Ah, graças a Deus! Você realmente me deixou\\
+preocupado/a aqui.\\
+==== 2779 ====
+O que aconteceu?\\
+==== 2780 ====
+Seis de nós estão...mortos.\\
+==== 2781 ====
+O quê?\\
+==== 2782 ====
+Contando comigo, só restam três.\\
+==== 2783 ====
+Como... Por que está...?\\
+==== 2784 ====
+Eles foram mortos.\\
+==== 2785 ====
+O- O quê?!\\
+==== 2786 ====
+Eu... Eu acho que você poderia dizer que eu os\\
+matei.\\
+==== 2787 ====
+Não...não, isso não está totalmente certo.\\
+Não apenas eles. Não apenas esses seis...\\
+==== 2788 ====
+Todos eles... Todos os seis bilhões...\\
+==== 2789 ====
+Em breve terei matado seis bilhões de pessoas...\\
+==== 2790 ====
+Você está aí?! Responda!\\
+==== 2791 ====
+Eu suponho que isso era pra ser...\\
+==== 2792 ====
+Vamos depositar nossa esperança no próximo\\
+Sigma...\\
+==== 2793 ====
+O "eu" que voltará aqui do futuro...\\
+==== 2794 ====
+Sinto muito por isso, Sigma.\\
+==== 2796 ====
+Diana... você...\\
+==== 2797 ====
+Phi, eu tenho um pedido.\\
+==== 2798 ====
+Leve Sigma até a superfície.\\
+==== 2799 ====
+Não posso -\\
+==== 2800 ====
+Então você está dizendo que não consegue\\
+fazer?\\
+==== 2801 ====
+Então eu não tenho escolha.\\
+==== 2802 ====
+Espera, o que você está fazendo...\\
+==== 2803 ====
+Isso.\\
+==== 2805 ====
+Eu tenho que me apressar!\\
+==== 2806 ====
+Por favor, eu preciso chegar na hora certa!\\
+==== 2807 ====
+Não...\\
+==== 7891 ====
+Você poderia parar de falar bobagens!\\
+==== 7892 ====
+Zero! Você não vai sair impune! Eu juro que\\
+vou...!\\
+==== 7893 ====
+Que você descanse em paz.\\
+==== 7894 ====
+Aplauda, a peça acabou.\\
+==== 7895 ====
+NÃÃÃOOOOO!\\
+==== 7897 ====
+O que aconteceu?! Você está bem?!\\
+==== 7898 ====
+Estamos vivos...\\
+==== 7899 ====
+Huh...?\\
+==== 7900 ====
+Nós realmente estamos vivos, não é...?\\
+==== 7901 ====
+Oi. Você tem certeza de que está tudo bem...?\\
+==== 7902 ====
+Foi...um pesadelo.\\
+==== 7903 ====
+O que aconteceu...?\\
+==== 7904 ====
+Nossos pescoços...\\
+==== 7905 ====
+Não, deixa pra lá. \\
+==== 12545 ====
+e inteligência artificial.\\
+==== 12653 ====
+Assim como você havia planejado.\\
+==== 1010100 ====
+A porta não abre...\\
+==== 1010101 ====
+Vamos procurar pistas nesta sala para podermos\\
+sair daqui.\\
+==== 1010102 ====
+...Não temos muito tempo. Vamos lá.\\
+==== 1010200 ====
+A porta está trancada. Precisamos encontrar uma\\
+maneira de sair...\\
+==== 1020100 ====
+Ah? Tem algo escrito nele.\\
+==== 1020101 ====
+O contato entre as bolas vermelha e azul\\
+resultará em uma explosão imediata e poderosa.\\
+==== 1020102 ====
+Configure o temporizador com os botões acima.\\
+==== 1020103 ====
+Ah, entendi... Espera, isso é uma bomba?!\\
+==== 1020104 ====
+Explode apenas quando as bolas vermelha e azul se\\
+tocam... É melhor mantermos distância.\\
+==== 1020200 ====
+As bolas vermelhas e azuis estão dentro. Mas não\\
+parece ser tão perigoso...\\
+==== 1020201 ====
+Algo está impedindo que eles se movam, mas quem\\
+sabe o que poderia derrubar isso...\\
+==== 1020202 ====
+Eu já vi brinquedos assim. Mas não temos vidas\\
+suficientes para brincar com este.\\
+==== 1020300 ====
+Uma pequena bolinha vermelha e uma bolinha azul\\
+estão dentro. Elas vão explodir uma vez que\\
+entrar em contato.\\
+==== 1020400 ====
+Esta é uma exibição de tempo. Acho que você\\
+pode definir um horário para esta bomba.\\
+==== 1020401 ====
+Uma bomba-relógio... Por que algo assim está\\
+aqui...\\
+==== 1020402 ====
+Sem ideia. Acho que isso não é padrão em um\\
+abrigo nuclear. Zero deve ter preparado isso.\\
+==== 1020403 ====
+Apenas o que está passando na cabeça dele...\\
+==== 1020500 ====
+Este é o display do temporizador da bomba.\\
+==== 1020501 ====
+Está configurado para 300 segundos, mas não\\
+está fazendo a contagem regressiva no momento.\\
+==== 1020600 ====
+O display para o timer da bomba...\\
+==== 1020601 ====
+Acabamos de mudar para 0... Vai explodir\\
+imediatamente se apertarmos iniciar?\\
+==== 1020602 ====
+Acho que as bolas serão liberadas e a explosão\\
+acontecerá quando elas colidirem.\\
+==== 1020603 ====
+E não pudemos fazer nada para impedir. Só\\
+pudemos ficar lá e assistir eles caírem...\\
+==== 1020604 ====
+Isso é tão cruel...\\
+==== 1020700 ====
+O temporizador está programado para 0 segundos.\\
+Temos que garantir que não tocamos no botão de\\
+iniciar.\\
+==== 1020800 ====
+O contato entre as bolas vermelha e azul\\
+resultará em uma explosão imediata e poderosa.\\
+==== 1020801 ====
+Ajuste o temporizador com os botões acima.\\
+==== 1020802 ====
+Está falando daquelas bolas ali? Elas são\\
+pequenas, mas definitivamente têm um impacto...\\
+==== 1020803 ====
+Esses devem ser os botões do temporizador.\\
+==== 1020804 ====
+Há um botão para ajustar o tempo, um botão de\\
+início, e um botão de parar.\\
+==== 1020900 ====
+Mensagem de aviso.\\
+==== 1020901 ====
+O contato entre as bolas vermelha e azul\\
+resultará em uma explosão imediata e poderosa.\\
+==== 1020902 ====
+Ajuste o timer com os botões acima.\\
+==== 1020903 ====
+Uma explosão poderosa... Talvez seja o suficiente\\
+para explodir essa sala.\\
+==== 1021000 ====
+Diz "Iniciar". O que este botão ativaria?\\
+==== 1021001 ====
+Deve ser o botão para iniciar o temporizador da\\
+bomba. Certifique-se de não tocá-lo.\\
+==== 1021002 ====
+Isso só te dá mais vontade de empurrar...\\
+Ninguém é tão burro se for uma bomba, espero.\\
+==== 1021100 ====
+É um botão de iniciar para começar o\\
+temporizador na bomba. Não podemos pressionar\\
+isso de jeito nenhum.\\
+==== 1021200 ====
+Isso parece o botão de iniciar.\\
+==== 1021201 ====
+Ele ativar o temporizador para a bomba.\\
+==== 1021202 ====
+Está configurado para 0 agora. Vai explodir assim\\
+que o pressionarmos.\\
+==== 1021203 ====
+Espera... explosão? Vocês estão levando isso um\\
+pouco casualmente para o quão sério é?!\\
+==== 1021204 ====
+...Verdade o suficiente. Vamos deixar isso de lado\\
+por enquanto.\\
+==== 1021300 ====
+É o botão de iniciar do timer. Atualmente está\\
+configurado para 0 segundos, então não devemos\\
+pressioná-lo!\\
+==== 1021400 ====
+Parece um botão de parar.\\
+==== 1021401 ====
+Provavelmente para o cronômetro da bomba.\\
+==== 1021402 ====
+Então é melhor lembrarmos disso. Apenas por\\
+precaução, sabe.\\
+==== 1021500 ====
+É o botão de parada. Não precisamos\\
+pressioná-lo agora.\\
+==== 1021600 ====
+Parece o botão de parada.\\
+==== 1021601 ====
+Pode ser o que para o timer da bomba. Está\\
+configurado para 0 segundos.\\
+==== 1021602 ====
+O botão de parada não serviria de nada se\\
+começássemos agora.\\
+==== 1021603 ====
+Você está certo. É melhor não confundir qual\\
+botão é qual...\\
+==== 1021700 ====
+O botão de parar para o cronômetro.\\
+==== 1021701 ====
+O temporizador está definido para 0 segundos\\
+agora, então o botão não é útil no momento.\\
+==== 1021800 ====
+Este botão define o horário.\\
+==== 1021801 ====
+Isso significa que podemos programar o horário\\
+para esta bomba.\\
+==== 1021802 ====
+Mas não precisamos fazer isso agora.\\
+==== 1021900 ====
+Este é o botão que ajusta o tempo na bomba. Não\\
+precisamos tocá-lo agora.\\
+==== 1022000 ====
+O botão que define o tempo...\\
+==== 1022001 ====
+Betty disse "definir timer para 0 segundos!"\\
+==== 1022002 ====
+Por que não?\\
+==== 1022003 ====
+Espera, nós realmente estamos fazendo o que\\
+dizia? Zero poderia estar controlando isso.\\
+==== 1022004 ====
+Mas não temos mais nenhuma pista.\\
+==== 1022005 ====
+Sim, mas não sabemos o que irá acontecer.\\
+==== 1022006 ====
+Verdade. Somente Deus sabe... Vou definir para 0\\
+segundos.\\
+==== 1022007 ====
+O que...é...isso...\\
+==== 1022008 ====
+A caixa de detonação. Betty acabou de ativar o\\
+temporizador dentro da caixa.\\
+==== 1022009 ====
+O sinal de ignição será transmitido em cinco\\
+minutos...\\
+==== 1022010 ====
+Cinco minutos?!\\
+==== 1022011 ====
+Caramba! Eu sabia! Nós nunca deveríamos ter\\
+ouvido aquele robô...!\\
+==== 1022012 ====
+Pode ser desarmado se você escolher. Você só\\
+precisa cortar os fios corretos por dentro.\\
+==== 1022013 ====
+Não escolha o errado. As dicas para os fios\\
+corretos devem ser deixadas pelo designer.\\
+==== 1022014 ====
+Então só precisamos cortar os fios corretos na\\
+caixa de detonação?!\\
+==== 1022015 ====
+Isso significa que há um projeto por aqui?\\
+==== 1022016 ====
+Vamos nos apressar! Não há tempo!\\
+==== 1022100 ====
+O botão do ajuste de tempo não está\\
+respondendo!\\
+==== 1022101 ====
+Como está definido para 0 segundos, ela irá\\
+explodir assim que o sinal de ignição alcançar\\
+a bomba.\\
+==== 1022102 ====
+Se não podemos mudar isso, então precisamos\\
+desarmar a caixa de detonação de alguma forma.\\
+==== 1022200 ====
+O botão do temporizador não está respondendo!\\
+Precisamos desarmar a caixa de detonação!\\
+==== 1022201 ====
+Não há tempo! Depressa!\\
+==== 1030100 ====
+Isso é algum tipo de jogo?\\
+==== 1030101 ====
+Parece um controle de fliperama, mas não está\\
+respondendo.\\
+==== 1030102 ====
+Eu acho que pode controlar as coisas segurando as\\
+bolas vermelha e azul...\\
+==== 1030103 ====
+Ah, eu pensei que poderíamos dar uma pausa e\\
+jogar um jogo divertido... Que pena.\\
+==== 1030200 ====
+Parece um jogo, mas o controle não está\\
+funcionando, então não podemos jogar.\\
+==== 1030300 ====
+As bolas vermelhas e azuis dentro estão...\\
+==== 1030301 ====
+A bomba... Elas vão explodir quando colidirem uma\\
+na outra...\\
+==== 1030302 ====
+É perigoso mexer com isso agora, então vamos\\
+deixar pra lá.\\
+==== 1030400 ====
+As bolas vermelhas e azuis dentro são ótimas.\\
+Vamos tentar não tocar no controle.\\
+==== 1030500 ====
+As bolas vermelhas e azuis dentro são demais...\\
+==== 1030501 ====
+Certo. Devemos nos manter afastados disso.\\
+==== 1030502 ====
+Esquece isso! Preocupe-se com a caixa de\\
+detonação! Se não a desarmarmos, estaremos em\\
+perigo de qualquer forma!\\
+==== 1030600 ====
+Não há sentido em examinar isso agora.\\
+Precisamos desarmar a caixa de detonação...\\
+==== 1030700 ====
+Fiquei ansioso quando isso começou a se mover...\\
+==== 1030701 ====
+Sim, foi tão repentino. Mas conseguimos evitar o\\
+pior desfecho...\\
+==== 1030702 ====
+Este não é o momento para relaxar! Precisamos\\
+voltar para a caixa de detonação!\\
+==== 1030800 ====
+As bolas dentro começaram a se mexer quando\\
+falhamos em desarmar a caixa... Nós temos que ter\\
+cuidado.\\
+==== 1030900 ====
+Este ainda está no lugar.\\
+==== 1030901 ====
+Sim. A rota deste é mais simples e mais curta.\\
+==== 1030902 ====
+Mas nós não precisamos movê-lo de qualquer\\
+maneira, certo? Mais importante, precisamos\\
+desarmar a caixa!\\
+==== 1031000 ====
+Ainda não jogamos este jogo.\\
+==== 1031100 ====
+Ah, que bom... Conseguimos evitar a colisão. De\\
+alguma forma.\\
+==== 1031101 ====
+Eu admito que estava preocupado. Então essa coisa\\
+começa a se mover se falharmos em desarmar a\\
+caixa.\\
+==== 1031102 ====
+Parece que sim. Precisamos ser mais cautelosos...\\
+==== 1040100 ====
+Você acha que este dispositivo estava\\
+originalmente no abrigo nuclear?\\
+==== 1040101 ====
+Hmm. Parece um jogo não importa como você olhe\\
+para ele... Talvez seja um hobby do Zero?\\
+==== 1040102 ====
+Agora sim, uma imagem. Zero joga isso quando está\\
+entediado.\\
+==== 1040103 ====
+Mas o controlador não está reagindo de jeito\\
+nenhum... Parece que ele não está nos deixando\\
+jogar.\\
+==== 1040200 ====
+Um dispositivo que parece um jogo. Mas não está\\
+se movendo.\\
+==== 1040300 ====
+As bolas vermelhas e azuis são...uma bomba, né?\\
+==== 1040301 ====
+Isso é o que a mensagem de aviso diz, sim.\\
+==== 1040302 ====
+Eles vão explodir quando colidirem. Teremos que\\
+ter cuidado ao examiná-los.\\
+==== 1040400 ====
+As bolas vermelhas e azuis são bombas. É melhor\\
+não se aproximar.\\
+==== 1040500 ====
+Então, essas são bombas.\\
+==== 1040501 ====
+Sim. Não devemos ficar muito próximos.\\
+==== 1040502 ====
+Não há muito tempo restante na caixa de\\
+detonação! Vamos desarmá-la rapidamente...!\\
+==== 1040600 ====
+Devemos desarmar a caixa de detonação, não\\
+ficar olhando para isso! Não temos muito tempo!\\
+==== 1040700 ====
+Que diabos é isso?! Não é um jogo, ia explodir\\
+a gente...!\\
+==== 1040701 ====
+Eu pensei que tinha acabado para nós...\\
+==== 1040702 ====
+Estamos ficando sem tempo, então precisamos\\
+voltar a desarmar!\\
+==== 1040800 ====
+Temos que jogar isso se errarmos? Por que diabos\\
+tinha que ser tão complicado, Zero?\\
+==== 1040900 ====
+Este dispositivo ainda não está ativado.\\
+==== 1040901 ====
+Como resolveríamos este aqui...?\\
+==== 1040902 ====
+Ei! Não temos tempo! Precisamos desarmar a caixa\\
+de detonação!\\
+==== 1041000 ====
+Isso ainda não está ativado. Espero que continue\\
+assim...\\
+==== 1041100 ====
+Conseguimos de alguma forma...!\\
+==== 1041101 ====
+Eu fiquei assustado... Eu não consegui\\
+acompanhar...\\
+==== 1041102 ====
+Ok, vamos focar mais no próximo.\\
+==== 1041200 ====
+Já aguentei tudo o que consigo dessa situação.\\
+Precisamos ter cuidado para não cometer erros...!\\
+==== 1050100 ====
+O Zero fez isso...?\\
+==== 1050101 ====
+Eu não sei se ele fez ou não, mas eu sei que ele\\
+foi quem preparou.\\
+==== 1050102 ====
+Mas como você sabe disso?\\
+==== 1050103 ====
+Essas coisas como jogos e robôs não são\\
+necessários em um abrigo nuclear.\\
+==== 1050104 ====
+Ah, isso faz sentido. De qualquer forma, este não\\
+parece estar funcionando agora.\\
+==== 1050200 ====
+Há um aparelho que podemos jogar, mas o controle\\
+não está funcionando.\\
+==== 1050300 ====
+As bolas vermelhas e azuis vão explodir quando se\\
+tocarem.\\
+==== 1050301 ====
+Eu vejo quatro deles nisso.\\
+==== 1050302 ====
+Mantenha distância! Será o fim de nós se você\\
+acidentalmente bater nele!\\
+==== 1050303 ====
+Oh, eu gostaria de poder dizer que isso não vai\\
+acontecer, mas vamos tomar cuidado extra de\\
+qualquer maneira...\\
+==== 1050400 ====
+Um total de quatro bolas... Quão grande seria a\\
+explosão se todas colidissem juntas?\\
+==== 1050500 ====
+Existem quatro bolas que explodem ao colidir.\\
+==== 1050501 ====
+Por que há tantos deles quando são tão\\
+perigosos...\\
+==== 1050502 ====
+Vamos desarmar a caixa de detonação e sair desta\\
+maldita sala!\\
+==== 1050600 ====
+Não há sentido em examinar isso agora.\\
+Precisamos desarmar a caixa de detonação...\\
+==== 1050700 ====
+Pensei que estávamos mortos quando todos\\
+começaram a se mover...\\
+==== 1050701 ====
+Eu também...\\
+==== 1050702 ====
+Eu também...\\
+==== 1050703 ====
+Fico feliz que todos estejamos vivos...\\
+==== 1050800 ====
+Como conseguimos limpar isso... Eu estava com\\
+tanto medo!\\
+==== 1050900 ====
+Este dispositivo ainda não está se movendo.\\
+==== 1050901 ====
+Huh? Como é que passamos isso...\\
+==== 1050902 ====
+Não precisaremos nos preocupar com isso se não\\
+fizermos besteira. Vamos para a caixa de\\
+detonação!\\
+==== 1051000 ====
+Isso ainda não está se movendo. Temos que torcer\\
+para não precisarmos vê-lo em movimento...\\
+==== 1051100 ====
+Nós conseguimos... Nós conseguimos!\\
+==== 1051101 ====
+Sim. Sim! Conseguimos! Obrigado, fomos salvos...\\
+==== 1051102 ====
+Não, ainda temos que terminar de desarmar a caixa\\
+de detonação! Depressa! Não há tempo!\\
+==== 1060100 ====
+Isso é um torno? Uma máquina-ferramenta para\\
+perfurar furos em metal.\\
+==== 1060101 ====
+Ah, tem algo aqui...\\
+==== 1060200 ====
+Nada de estranho sobre esta máquina...\\
+==== 1070100 ====
+Eu não acho que essa máquina está funcionando.\\
+==== 1070101 ====
+Hein? Isso é...?\\
+==== 1070200 ====
+Nada de estranho nesta máquina...\\
+==== 1080100 ====
+Isso parece algum tipo de ferramenta...\\
+==== 1080200 ====
+Ah, é uma arma de choque.\\
+==== 1080201 ====
+Hã? Por que isso estaria aqui?\\
+==== 1080300 ====
+O que é isso? Uma planta para algo? Está escrito\\
+"Corte Betty" nela...\\
+==== 1080400 ====
+Diz "Corta, Charley."\\
+==== 1080500 ====
+Ei, olha, isso é algum tipo de planta baixa.\\
+==== 1080600 ====
+Há uma nota escrita à mão.\\
+==== 1080601 ====
+Ah? O que diz?\\
+==== 1080602 ====
+Da extrema esquerda -> 4 direita -> 1 esquerda ->\\
+2 esquerda -> 4 direita -> 3 esquerda ->\\
+Inicialização! O que é isso...\\
+==== 1080700 ====
+Não há mais nada nele.\\
+==== 1090100 ====
+Algo está no chão.\\
+==== 1090200 ====
+O que é isso?\\
+==== 1100100 ====
+Tem uma grua lá em cima. Tenho certeza de que\\
+podemos usá-la para levantar algo.\\
+==== 1100101 ====
+Mas eu não vejo nada que precisaríamos levantar.\\
+==== 1100102 ====
+Voltaremos a isso quando precisarmos.\\
+==== 1100200 ====
+É um guindaste. Seríamos capazes de levantar\\
+algo, mas não precisamos disso agora.\\
+==== 1110100 ====
+Isso diz que é um contato de alta voltagem.\\
+==== 1110101 ====
+Então é para ativar alguma coisa?\\
+==== 1110102 ====
+Talvez para os robôs por trás disso? Todos\\
+estão conectados por cabos.\\
+==== 1110103 ====
+Parece que sim. Se conseguirmos obter eletricidade\\
+para energizar isso...\\
+==== 1110200 ====
+Contator de alta voltagem... É para ativar\\
+aqueles robôs?\\
+==== 1110201 ====
+Acho que só precisamos de um pouco de\\
+eletricidade e ele vai ligar rapidinho.\\
+==== 1110300 ====
+Diz contato de alta voltagem.\\
+==== 1110301 ====
+Os cabos estão conectados nas costas do robô,\\
+então provavelmente os ativam.\\
+==== 1110302 ====
+Pode funcionar se passarmos alguma eletricidade\\
+por ele... Existe algo que possamos usar?\\
+==== 1110400 ====
+Contator de alta voltagem. Provavelmente podemos\\
+ativá-lo se passarmos eletricidade através dele.\\
+==== 1110401 ====
+Eletricidade... Oh, talvez possamos usar isso?\\
+==== 1110500 ====
+É o contato de alta tensão. Existe alguma\\
+maneira de passar eletricidade através dele...?\\
+==== 1110501 ====
+Que tal usar a arma de choque?\\
+==== 1110502 ====
+O quê? Nunca pensei nisso... Quem sabe se vai\\
+funcionar, mas vamos tentar.\\
+==== 1110600 ====
+É o contator de alta voltagem. Vamos tentar usar\\
+a arma de choque novamente.\\
+==== 1110700 ====
+Ah! Acho que deu certo!\\
+==== 1110701 ====
+É de enlouquecer que tenha começado assim...\\
+Não entendo nada...\\
+==== 1110702 ====
+...Uau. Ei, olha só, os robôs estão ligando!\\
+==== 1110703 ====
+Bem, os três estão ativados agora.\\
+==== 1110704 ====
+Eles estão em poses estranhas.\\
+==== 1110705 ====
+Bem, só espero que não tentem nos machucar...\\
+==== 1110800 ====
+Sim! Eu acredito que isso vai funcionar!\\
+==== 1110801 ====
+Sim... Hein? Ei, olha só, os robôs estão se\\
+ativando!\\
+==== 1110802 ====
+Bem, todos os três estão ativados agora.\\
+==== 1110803 ====
+Eles estão em poses estranhas.\\
+==== 1110804 ====
+Bem, eu só espero que eles não tentem nos\\
+machucar...\\
+==== 1110900 ====
+Ah. Bem, eu não pensei que isso funcionaria.\\
+==== 1110901 ====
+A arma de choque não é o problema. Só\\
+precisamos da ordem correta.\\
+==== 1110902 ====
+Existe uma ordem correta? Hum, vamos procurar por\\
+uma pista então.\\
+==== 1111000 ====
+Eu... não faço ideia de como isso funciona. Acho\\
+que fazer aleatoriamente não vai ajudar.\\
+==== 1111001 ====
+Certo. Talvez devêssemos procurar mais na sala.\\
+==== 1111100 ====
+Ah. Isso não funcionou.\\
+==== 1111101 ====
+Está reagindo ao taser, então sabemos que está\\
+correto. Só precisamos saber a ordem.\\
+==== 1111102 ====
+A ordem correta... Oh, não encontramos uma nota\\
+com esquerdas e direitas? Talvez seja sobre isso?\\
+==== 1111200 ====
+Ah... Eu me enganei de novo.\\
+==== 1111201 ====
+Acho que era algo como "Do extremo esquerdo -> 4\\
+para a direita -> 1 para a esquerda"... Qual era o\\
+resto?\\
+==== 1111202 ====
+Vamos ver essa nota novamente. Talvez tenha sido a\\
+ordem correta que precisávamos.\\
+==== 1111300 ====
+O contato de alta voltagem. Usamos isso para ligar\\
+os robôs.\\
+==== 1120100 ====
+É... um robô, certo? Vai... Vai se mover?\\
+==== 1120101 ====
+Talvez seja apenas para exibição.\\
+==== 1120102 ====
+Não, eu acho que vai se mover com força. Só\\
+precisamos descobrir.\\
+==== 1120200 ====
+É um robô... Será que ele realmente vai se\\
+mover?\\
+==== 1120300 ====
+Certo, iniciou tudo bem.\\
+==== 1120301 ====
+Prazer em conhecê-lo... Eu sou o Alex...\\
+==== 1120302 ====
+O que há de errado com isso? Está quebrado?\\
+==== 1120303 ====
+Talvez seja apenas um modelo mais antigo?\\
+==== 1120400 ====
+Eu sou o Alex... É um grande prazer meu...\\
+==== 1120500 ====
+...Huh? O-O que é isso? Aquela coisa está me\\
+encarando...?\\
+==== 1120501 ====
+É um modelo ANTIGO. Talvez ele sinta afinidade.\\
+==== 1120502 ====
+Por favor. Pegue. Isto...\\
+==== 1120503 ====
+O que ele tem na mão? É um bilhete?\\
+==== 1120600 ====
+Alex nos deu um bilhete.\\
+==== 1130100 ====
+Parece um robô.\\
+==== 1130101 ====
+A estrutura de todos eles parece a mesma.\\
+==== 1130102 ====
+Você está certo. Talvez todos tenham sido feitos\\
+pela mesma pessoa.\\
+==== 1130200 ====
+Parece um robô. Talvez comece a se mover quando\\
+tiver energia?\\
+==== 1130300 ====
+Oi Oi! Betty! Eu sou a Betty! He HeHe, prazer em\\
+conhecê-los! Hurrá!\\
+==== 1130301 ====
+O- O que aconteceu com este... Está estranhamente\\
+super hiper...\\
+==== 1130302 ====
+Não! Não! Não! Raiva! Coloque para baixo,\\
+ajuste o temporizador para 0 segundos por favor!\\
+==== 1130303 ====
+Eu acho que está zangado...?\\
+==== 1130304 ====
+Defina o temporizador para 0 segundos...? O que\\
+isso significa?\\
+==== 1130400 ====
+Ajuste o temporizador da bomba para 0 segundos!\\
+Ajuste, ajuste! Por favor! Você é estúpido?\\
+==== 1130500 ====
+Caramba! Pare o temporizador agora mesmo!\\
+==== 1130501 ====
+Aha? Ahahaha! Vai e vem no tempo!\\
+==== 1130502 ====
+Não adianta falar com este...\\
+==== 1130600 ====
+Tempo. Tempo! Para frente, para trás Ah! He He\\
+He! O quê? Nada para ver aqui! Vá embora!\\
+==== 1130700 ====
+Aquele plano que encontramos dizia "Corte Betty",\\
+não é verdade?\\
+==== 1130701 ====
+Então precisamos cortar esse robô? Talvez com\\
+uma espada! Swooosh! Hiya!\\
+==== 1130702 ====
+Isso está me incomodando. Vamos fazer isso.\\
+==== 1130703 ====
+...Falando sério, eu me pergunto o que a frase\\
+significa.\\
+==== 1130800 ====
+Encontramos o projeto que dizia "Corte a Betty"...\\
+Existem mais pistas?\\
+==== 1130900 ====
+Alex nos deu um bilhete que diz "Corte a Betty",\\
+mas duvido que esteja dizendo para cortar algo\\
+real.\\
+==== 1130901 ====
+Talvez signifique cortar o fio do fusível?\\
+==== 1130902 ====
+Se significa uma das três cores, qual delas\\
+corresponde à Betty então...\\
+==== 1131000 ====
+O bilhete que Alex nos deu dizia "Corte Betty"...\\
+==== 1131001 ====
+Se combinarmos com outra pista, pode haver algo...\\
+==== 1131100 ====
+Eu Amo Lâmpada. Eu Bebo Seu Milkshake! Eu Sou\\
+Spartacus! Geronimo! He He He?! Wooo!\\
+==== 1131101 ====
+O que diabos há de errado com isso? Quando é que\\
+se mudou para lá?\\
+==== 1131102 ====
+Não temos tempo para isso agora. Temos que\\
+desarmar essa caixa primeiro.\\
+==== 1131103 ====
+Certo!\\
+==== 1131200 ====
+Ninguém coloca Baby? Em um canto! Canto! Aqui\\
+está Johnny! Eu sou o Médico! Quem? QUEM! HaHa\\
+Tempo!\\
+==== 1131201 ====
+Ah, e-ei...! Aquela coisa se moveu de novo.\\
+==== 1131202 ====
+Hum... Não parece que aquele robô vai fazer\\
+alguma coisa...?\\
+==== 1131203 ====
+Precisamos nos concentrar! Temos mais coisas para\\
+desarmar!\\
+==== 1140100 ====
+Cada robô aqui parece um pouco diferente dos\\
+outros.\\
+==== 1140101 ====
+Hmm.. Provavelmente protótipos. Consigo ver um\\
+pouco de tentativa e erro nos designs.\\
+==== 1140102 ====
+Então os feitos depois são melhores do que os\\
+feitos no início?\\
+==== 1140200 ====
+São robôs protótipos. Acredito que este foi o\\
+último feito.\\
+==== 1140300 ====
+Prazer em conhecê-lo. Meu nome é Charley. Estou\\
+dizendo isso apenas uma vez, então preste\\
+atenção.\\
+==== 1140301 ====
+É mais fluido do que eu esperava... É\\
+tão...humano...\\
+==== 1140302 ====
+Seu tom de voz poderia melhorar...\\
+==== 1140400 ====
+O que foi? Poderia ser mais rude, humano...?\\
+==== 1140500 ====
+Parece que Betty começou o temporizador de\\
+detonação. O sinal de ignição será enviado em\\
+breve.\\
+==== 1140501 ====
+Eu posso muito bem te contar. Para desarmá-lo,\\
+você terá que cortar os fios corretos na caixa.\\
+==== 1140502 ====
+Nunca estrague isso. As instruções para cortar\\
+os fios devem ser deixadas pelo designer.\\
+==== 1140503 ====
+Ouvir ele realmente está me incomodando, mas\\
+devemos desarmar essa caixa...\\
+==== 1140600 ====
+Você terá que cortar os fios corretos na caixa\\
+de fusíveis se quiser desarmar o temporizador.\\
+==== 1140601 ====
+O sinal de ignição será enviado em breve. As\\
+indicações para os fios devem ser deixadas pelo\\
+designer.\\
+==== 1140602 ====
+Não há tempo... Vamos desarmar isto!\\
+==== 1140700 ====
+Diz "Corte Charley" na planta que encontramos\\
+anteriormente...\\
+==== 1140701 ====
+Eu não acho que esteja dizendo para cortar\\
+literalmente o robô. Então, o que mais poderia\\
+significar?\\
+==== 1140800 ====
+O plano que encontramos dizia "Corte Charley"...\\
+Existe outra pista em algum lugar?\\
+==== 1140900 ====
+Você só tem mais um fio para cortar, sabe. Os\\
+outros são falsos e vão explodir quando\\
+cortados.\\
+==== 1140901 ====
+Quem tem a memória mais antiga sabe qual fio\\
+cortar.\\
+==== 1140902 ====
+Aquele com a memória mais antiga?\\
+==== 1141000 ====
+Você ainda tem um último fio para cortar. Os\\
+demais são falsos, e vão explodir quando\\
+cortados.\\
+==== 1141001 ====
+A pessoa com a memória mais antiga tem a resposta\\
+sobre qual fio cortar.\\
+==== 1141002 ====
+Memória antiga... Estamos falando daquele robô?\\
+==== 1150100 ====
+Esta é a caixa de detonação...! Precisamos\\
+desarmar isso rapidamente!\\
+==== 1150101 ====
+Mas como? Não temos nenhuma ferramenta!\\
+==== 1150102 ====
+Ah, você está certo... Está bem apertado, além\\
+de precisarmos de algo para cortar os fios.\\
+==== 1150103 ====
+Então é melhor encontrarmos algumas ferramentas!\\
+==== 1150200 ====
+Temos que encontrar ferramentas para desarmar a\\
+caixa de detonação...rápido!\\
+==== 1150201 ====
+Eu realmente espero que tenha um chave de fenda e\\
+uma faca por perto... Até mesmo uns cortadores\\
+servirão.\\
+==== 1150300 ====
+É a caixa de detonação. Vamos desarmá-la\\
+rapidamente!\\
+==== 1150301 ====
+Espera, espera, com o que você planeja cortar os\\
+fios? Precisamos de algo afiado.\\
+==== 1150302 ====
+Certo. Deve haver algo nesta sala. Comece a\\
+procurar!\\
+==== 1150400 ====
+A caixa de detonação... Precisamos encontrar\\
+alguma ferramenta para cortar os fios com!\\
+==== 1150401 ====
+Se ao menos tivéssemos um alicate corta-fios...\\
+Deveríamos mesmo olhar ao redor.\\
+==== 1150500 ====
+É a caixa de detonação. Vamos desarmá-la\\
+rapidamente!\\
+==== 1150501 ====
+Não espere, a tampa está parafusada. Vamos\\
+precisar de uma chave de fenda ou algo parecido\\
+para retirá-la.\\
+==== 1150502 ====
+Encontramos alicate de corte, então provavelmente\\
+podemos encontrar uma ferramenta que funcione na\\
+sala. Vamos procurar!\\
+==== 1150600 ====
+A caixa de detonação... Precisamos encontrar uma\\
+ferramenta para desparafusar a tampa!\\
+==== 1150601 ====
+Se ao menos tivéssemos uma chave de fenda...\\
+Deveríamos procurar de qualquer modo.\\
+==== 1150700 ====
+A caixa de detonação... Nós só precisamos\\
+desarmar essa coisa, certo?\\
+==== 1150701 ====
+Sim. Temos que cortar o fio e então remover a\\
+tampa...\\
+==== 1150702 ====
+Tem um fio vermelho e outro azul. Eu suponho que\\
+não devemos cortar um deles.\\
+==== 1150703 ====
+Ah, não...! Então, qual deles cortamos...?!\\
+==== 1150800 ====
+A caixa de detonação... Temos que ter cuidado\\
+para desarmá-la.\\
+==== 1150900 ====
+Cortei a errada... Agora só precisamos cortar o\\
+fio vermelho e remover os parafusos.\\
+==== 1151000 ====
+Vamos cortar o fio primeiro. Temos que fazer isso\\
+mais cedo ou mais tarde.\\
+==== 1151100 ====
+Vamos cortar o fio primeiro. Só precisamos cortar\\
+o fio vermelho.\\
+==== 1151200 ====
+Este é o fusível...\\
+==== 1151201 ====
+Qual fio nós cortamos?!\\
+==== 1151202 ====
+Houve alguma pista?!\\
+==== 1151300 ====
+Qual fio cortamos...?! Se não nos apressarmos,\\
+nós...!\\
+==== 1151400 ====
+Apenas o fio vermelho restou.\\
+==== 1151401 ====
+Então o fio certo para cortar era o vermelho.\\
+Vamos fazer isso agora.\\
+==== 1151500 ====
+O fio azul está solto. Acho que não precisamos\\
+cortá-lo.\\
+==== 1151501 ====
+Você está certo. Agora é só remover os\\
+parafusos.\\
+==== 1151600 ====
+O fusível... Acabamos cortando ambos os fios...\\
+==== 1151601 ====
+Precisamos ser mais cuidadosos... De qualquer\\
+forma, agora só precisamos remover os parafusos.\\
+==== 1151700 ====
+Sim! Nós desarmamos!\\
+==== 1151701 ====
+Agora só precisamos remover os parafusos dos\\
+cantos.\\
+==== 1151800 ====
+Eu vou...cortar o fio vermelho! Está tudo bem?!\\
+==== 1151801 ====
+Sem objeções aqui. Faça!\\
+==== 1151802 ====
+...Nada está acontecendo?\\
+==== 1151803 ====
+Isso significa que acertamos?\\
+==== 1151804 ====
+Aquele robô disse "corte o fio certo."\\
+==== 1151805 ====
+Se nada acontecer, isso significaria que chegamos\\
+ao lugar certo, não é mesmo?\\
+==== 1151806 ====
+O-Oh, graças a Deus... Vamos tirar os parafusos\\
+agora!\\
+==== 1151900 ====
+Ok, vou cortar o fio azul...\\
+==== 1151901 ====
+Está bem, estou contando com você...!\\
+==== 1151902 ====
+O que está acontecendo?! Vai explodir?!\\
+==== 1151903 ====
+Merda...! Não era azul!\\
+==== 1151904 ====
+Olha! Aquele aparelho começou a se mexer!\\
+==== 1151905 ====
+O quê?! Não é bom! Se as bolas colidirem, elas\\
+vão explodir! Precisamos garantir que isso não\\
+aconteça!\\
+==== 1152000 ====
+Apenas o fio vermelho resta. Podemos cortar este,\\
+certo?\\
+==== 1152001 ====
+Sim, aquele robô disse "corte o fio certo".\\
+==== 1152002 ====
+Isso significa que não terminaremos com isso até\\
+que o certo seja cortado.\\
+==== 1152003 ====
+Entendi... Estou cortando!\\
+==== 1152004 ====
+...Hm, nada está acontecendo, como pensávamos.\\
+==== 1152005 ====
+Ah, que bom. Eu estava um pouco preocupado!\\
+==== 1152006 ====
+Agora só precisamos remover os parafusos.\\
+==== 1152100 ====
+Eu não acho que precisamos cortar esse fio azul,\\
+estou certo?\\
+==== 1152101 ====
+Sim, deixe isso pra lá. O vermelho estava certo.\\
+==== 1152102 ====
+Não temos ideia do que aconteceria se\\
+cortássemos o fio azul...\\
+==== 1152200 ====
+Ok, a capa foi removida!\\
+==== 1152201 ====
+Mas ainda há algo dentro da caixa de detonação.\\
+==== 1152202 ====
+Dessa vez tivemos sorte... Vamos continuar sem\\
+reunir pistas...?\\
+==== 1152300 ====
+Ok, a capa foi removida!\\
+==== 1152301 ====
+Então, os planos e notas eram pistas para\\
+desarmar isso.\\
+==== 1152302 ====
+Ah, olha! Ainda há algo dentro da caixa de\\
+detonação.\\
+==== 1152303 ====
+Tudo bem, é melhor continuarmos desarmar\\
+rapidamente!\\
+==== 1152400 ====
+Okay, a capa foi removida!\\
+==== 1152401 ====
+Mas ainda há algo dentro da caixa de detonação.\\
+==== 1152402 ====
+Conseguimos evitar a explosão desta\\
+vez...Continuamos a procurar pistas?\\
+==== 1152500 ====
+Ok, a capa está fora!\\
+==== 1152501 ====
+Eu sabia. Os projetos e as notas eram pistas para\\
+desarmar isso.\\
+==== 1152502 ====
+Caramba! Então é isso que eles queriam dizer. Se\\
+ao menos tivéssemos percebido mais cedo...\\
+==== 1152503 ====
+Ainda há algo dentro da caixa de detonação.\\
+Vamos não cometer outro erro.\\
+==== 1152600 ====
+Vamos primeiro remover os parafusos do fusível.\\
+==== 1152700 ====
+Nós cortamos o fio vermelho...\\
+==== 1152701 ====
+Se não houver uma reação, isso significa que\\
+tudo correu bem.\\
+==== 1152702 ====
+E conforme você diz isso, a coisa vai explodir...\\
+Acho que só nos resta ter fé.\\
+==== 1152800 ====
+O fio azul estava errado...\\
+==== 1152801 ====
+Então isso significa que precisamos cortar o\\
+vermelho.\\
+==== 1152900 ====
+Agora só precisamos remover os parafusos!\\
+==== 1160100 ====
+A caixa ainda não está completamente desarmada.\\
+Precisamos verificar o interior.\\
+==== 1160101 ====
+Dessa vez não é um fusível. São martelos... e\\
+um pêndulo?\\
+==== 1160200 ====
+São apenas parafusos agora... Vamos analisar tudo\\
+antes de retirar qualquer um...!\\
+==== 1160300 ====
+Um martelo bateu no pêndulo pela última vez...\\
+==== 1160301 ====
+Se o pêndulo tocar o anel no topo, o fusível é\\
+acionado.\\
+==== 1160302 ====
+Então precisamos ser mais cuidadosos da próxima\\
+vez.\\
+==== 1160400 ====
+Eu não quero falhar novamente desta vez...\\
+==== 1160401 ====
+Precisamos considerar como o martelo irá se mover\\
+quando removermos os parafusos.\\
+==== 1160500 ====
+Este parafuso está do outro lado da placa de\\
+vidro.\\
+==== 1160501 ====
+Temos que tirar os parafusos da frente primeiro,\\
+então.\\
+==== 1160600 ====
+Não! Um martelo atingiu o pêndulo!\\
+==== 1160601 ====
+Um alarme?! O que está acontecendo?!\\
+==== 1160602 ====
+Maldito, causar vibrações ao longo do pêndulo\\
+definitivamente não é bom!\\
+==== 1160603 ====
+Olha, o dispositivo ali começou a se mexer!\\
+==== 1160604 ====
+Isso é ruim! Se as bolas colidirem, elas vão\\
+explodir! Precisamos garantir que isso não\\
+aconteça!\\
+==== 1160700 ====
+Ah não! De novo não...!\\
+==== 1160701 ====
+E o alarme disparou novamente também! Isso\\
+significa...\\
+==== 1160702 ====
+Aquele aparelho começou a se mover! Vamos nos\\
+apressar!\\
+==== 1160800 ====
+Okay, nós removemos todos os parafusos da frente.\\
+==== 1160801 ====
+Ah, eu estava tão nervoso...\\
+==== 1160802 ====
+Assim que removermos os parafusos, seremos capazes\\
+de tirar essa coisa.\\
+==== 1160900 ====
+Eu tenho a sensação de que não devemos deixar\\
+os martelos tocarem no pêndulo...\\
+==== 1160901 ====
+Não conseguimos pegar em nada com essa placa de\\
+vidro aqui. Vamos tirar os parafusos primeiro.\\
+==== 1161000 ====
+Precisamos ter cuidado para não deixar os\\
+martelos tocarem no pêndulo...!\\
+==== 1161001 ====
+Estamos sob um limite de tempo, mas tome cuidado.\\
+==== 1161100 ====
+Agora não precisamos mais nos preocupar com os\\
+martelos.\\
+==== 1161101 ====
+Não balance o pêndulo com suas mãos trêmulas\\
+agora, velho.\\
+==== 1161200 ====
+É um pêndulo. Não acho uma boa ideia deixá-lo\\
+tocar no anel lá em cima.\\
+==== 1161201 ====
+Ah, estou ansioso só de olhar para isso...\\
+==== 1161300 ====
+Provavelmente não devemos balançar este\\
+pêndulo.\\
+==== 1161301 ====
+Certo. Os parafusos estão removidos, então só\\
+precisamos ter cuidado para não tocá-lo.\\
+==== 1161400 ====
+Ah, bom, os gatilhos ao redor do pêndulo estão\\
+desativados agora...\\
+==== 1161401 ====
+Ei! Ainda tem algo dentro dessa caixa?!\\
+==== 1161402 ====
+O quê?! Droga, não temos um momento de descanso!\\
+Quanto tempo ainda temos...?!\\
+==== 1161500 ====
+Ah, bom, os gatilhos ao redor do pêndulo se\\
+foram. Meu coração parou algumas vezes...\\
+==== 1161501 ====
+Ei! Olha a caixa! Ainda tem alguma coisa lá\\
+dentro!\\
+==== 1161502 ====
+O quê?! Droga, nem mesmo recebemos um descanso!\\
+Quanto tempo ainda temos...?!\\
+==== 1161600 ====
+Agora só precisamos remover os quatro parafusos.\\
+Depressa.\\
+==== 1170100 ====
+Bem, parece que ainda não o desarmamos\\
+completamente.\\
+==== 1170101 ====
+O quê?! Outra escolha entre vermelho ou azul...!\\
+==== 1170102 ====
+De novo?! O que devemos fazer...?!\\
+==== 1170200 ====
+F-Fique calmo... Vamos desarmar isso\\
+cuidadosamente!\\
+==== 1170300 ====
+O fio vermelho estava errado, mas agora só\\
+precisamos cortar o azul e remover os parafusos!\\
+==== 1170400 ====
+Este é o anel de prata.\\
+==== 1170401 ====
+Se o pêndulo tocar isso, o sinal de ignição é\\
+acionado.\\
+==== 1170500 ====
+Vamos cortar o fio do pavio primeiro. Teremos que\\
+cortá-lo mais cedo ou mais tarde.\\
+==== 1170600 ====
+Vamos cortar o fio primeiro. Só precisamos cortar\\
+o cordão azul agora.\\
+==== 1170700 ====
+Qual deles vamos cortar... P-Precisamos nos\\
+apressar!\\
+==== 1170701 ====
+Não há pistas...?!\\
+==== 1170800 ====
+O fio vermelho ainda está conectado, mas acho\\
+melhor não cortá-lo.\\
+==== 1170801 ====
+Você está certo. Vamos deixar isso de lado e\\
+apenas tirar os parafusos.\\
+==== 1170900 ====
+Resta apenas o fio azul.\\
+==== 1170901 ====
+Sim, o certo a cortar é o fio azul. Vamos acabar\\
+com isso...\\
+==== 1171000 ====
+Ambos os fios estão cortados.\\
+==== 1171001 ====
+Deveríamos ter sido mais cuidadosos... Agora só\\
+precisamos tirar os parafusos.\\
+==== 1171100 ====
+Sim! Nós desarmamos o fusível!\\
+==== 1171101 ====
+Agora só precisamos remover os parafusos.\\
+==== 1171200 ====
+Vou cortar o fio vermelho. Estão todos prontos?\\
+==== 1171201 ====
+Faça isso..!\\
+==== 1171202 ====
+O quê? Alarmes...?!\\
+==== 1171203 ====
+Não era o fio vermelho?! Droga!\\
+==== 1171204 ====
+Olha! Aquele aparelho começou a se mover!\\
+==== 1171205 ====
+Não bom! Quando as bolas colidirem, elas vão\\
+explodir! Precisamos garantir que isso não\\
+aconteça!\\
+==== 1171300 ====
+Eu vou cortar o fio azul, certo?\\
+==== 1171301 ====
+Faça isso...!\\
+==== 1171302 ====
+...Nada está acontecendo?\\
+==== 1171303 ====
+Parece que essa foi a escolha correta...\\
+==== 1171304 ====
+Agora só precisamos remover os parafusos.\\
+==== 1171400 ====
+Nós não precisamos cortar este fio vermelho,\\
+precisamos?\\
+==== 1171401 ====
+Certo. O que precisávamos cortar era o azul. Não\\
+sabemos o que acontecerá se cortarmos o vermelho.\\
+==== 1171500 ====
+Apenas o fio azul restou. Podemos cortar este,\\
+certo...?\\
+==== 1171501 ====
+Sim, parece que o correto é o azul. Faça.\\
+==== 1171502 ====
+Entendi. Estou cortando!\\
+==== 1171503 ====
+...Hm, nada está acontecendo, como pensávamos.\\
+==== 1171504 ====
+Estou tão feliz!\\
+==== 1171505 ====
+Agora só precisamos remover os parafusos.\\
+==== 1171600 ====
+Sim, está desligado!\\
+==== 1171601 ====
+...E é claro que ainda há algo lá atrás.\\
+==== 1171602 ====
+Nossos instintos estavam corretos, mas será que\\
+realmente vamos continuar sem nenhuma pista...\\
+==== 1171700 ====
+Sim, está desligado!\\
+==== 1171701 ====
+Os planos e notas eram as pistas para desarmar\\
+isso.\\
+==== 1171702 ====
+Huh? Espere... ainda tem algo atrás desta caixa!\\
+==== 1171703 ====
+Ainda não saímos dessa, hein... Caramba! Vamos\\
+logo, não temos muito tempo!\\
+==== 1171800 ====
+Sim, está desligado!\\
+==== 1171801 ====
+...E é claro que ainda tem algo lá atrás.\\
+==== 1171802 ====
+Conseguimos impedir a explosão desta vez. Vamos\\
+continuar procurando pistas?\\
+==== 1171900 ====
+Sim, está desligado!\\
+==== 1171901 ====
+Você sabe, não são os planos e notas pistas\\
+para desarmar isso?\\
+==== 1171902 ====
+Caramba, então era isso que eles queriam dizer!\\
+Se ao menos tivéssemos percebido antes...!\\
+==== 1171903 ====
+Olhe só! Ainda há algo dentro! Vamos nos\\
+apressar!\\
+==== 1172000 ====
+Devemos retirar os parafusos do fusível antes de\\
+removê-lo.\\
+==== 1172100 ====
+O fio vermelho estava errado...\\
+==== 1172101 ====
+Isso significa que só precisamos cortar o azul.\\
+==== 1172200 ====
+Nós cortamos o fio azul... Isso realmente está\\
+certo?\\
+==== 1172201 ====
+Se nada acontecer, isso significa que encontramos\\
+a pessoa certa. Tenho quase certeza... na maioria\\
+das vezes.\\
+==== 1172202 ====
+Isso não foi muito tranquilizador, mas acho que\\
+teremos que confiar em você.\\
+==== 1172300 ====
+Agora só precisamos tirar os parafusos. Depressa!\\
+==== 1180100 ====
+É hora de cortar os fios novamente. Mas agora\\
+são três deles!\\
+==== 1180101 ====
+O que devemos fazer? Qual fio devemos cortar...?!\\
+==== 1180102 ====
+Ei, pare de hesitar! Não temos tempo!\\
+==== 1180300 ====
+Três cabos, mas claramente dois são falsos.\\
+Apenas um fornece energia ao temporizador.\\
+==== 1180301 ====
+O que? O que ele está dizendo tão de repente...\\
+==== 1180302 ====
+Corte o fio do timer... Aquele com a memória mais\\
+antiga tem a resposta de qual é.\\
+==== 1180303 ====
+Ah, entendi! Isso é uma dica!\\
+==== 1180304 ====
+Aquele com a memória mais antiga... Isso\\
+significa o mais velho...?!\\
+==== 1180400 ====
+Será que é o ponteiro do cronômetro...?\\
+==== 1180401 ====
+Não há tempo... Depressa, corte o fio!\\
+==== 1180500 ====
+Não há tempo...!\\
+==== 1180600 ====
+Ah não! Qual fio devemos cortar?!\\
+==== 1180601 ====
+Charley disse que apenas um está certo, e aquele\\
+com a memória mais antiga tem a resposta.\\
+==== 1180602 ====
+Então devemos confiar nas informações daquele\\
+com a memória mais antiga?\\
+==== 1180700 ====
+Vermelho, azul, branco... Qual deles cortamos...?\\
+==== 1180800 ====
+Isso é realmente o certo?!\\
+==== 1180801 ====
+Sim! Se estiver correto, então o fio vermelho\\
+deve...!\\
+==== 1180802 ====
+Lá vou eu!\\
+==== 1180900 ====
+Este é mesmo o correto?!\\
+==== 1180901 ====
+Sim! Se estiver certo, então o fio azul deve...!\\
+==== 1180902 ====
+Lá vou eu!\\
+==== 1181000 ====
+Essa é realmente a certa?!\\
+==== 1181001 ====
+Sim! Se estiver certo, então o fio branco\\
+deve...!\\
+==== 1181002 ====
+Lá vou eu!\\
+==== 1190100 ====
+Para que serve isso?\\
+==== 1190101 ====
+Hmm, eu não sei...\\
+==== 1190102 ====
+Não vamos mexer nisso. Quem sabe o que poderia\\
+acontecer. ...Ou talvez seja apenas decoração.\\
+==== 1190200 ====
+Uma máquina estranha. Não sabemos como usá-la,\\
+então vamos deixá-la quieta.\\
+==== 1200100 ====
+Hmm, espere um momento?\\
+==== 1200101 ====
+O que há de errado?\\
+==== 1200102 ====
+Nada. Eu só... Eu pensei que tivesse explodido.\\
+==== 1200103 ====
+Hã? O que você está dizendo? Isso não\\
+aconteceu.\\
+==== 1200104 ====
+Não poderia ser... será...\\
+==== 1200200 ====
+...QUÊ?!\\
+==== 1200201 ====
+O que há de errado?\\
+==== 1200202 ====
+Ah... não, é nada. Deve ser minha imaginação.\\
+==== 1200300 ====
+H-Huh...?\\
+==== 1200301 ====
+O que é isso?\\
+==== 1200302 ====
+Ah, nada. É apenas... Uma sensação estranha? Eu\\
+me senti muito quente e estava sendo atingido por,\\
+hum...\\
+==== 1200303 ====
+Eu não sei do que você está falando, mas\\
+mantenha-se forte... Nós vamos sobreviver a isso!\\
+==== 1200400 ====
+AAAAAAUGH?!\\
+==== 1200401 ====
+O que está acontecendo?!\\
+==== 1200402 ====
+Ah... Que sensação é essa... De alguma forma,\\
+me sinto como se tivesse acabado de explodir...\\
+==== 1200403 ====
+Ainda não explodiu! Nós VAMOS conseguir! Com\\
+certeza vamos conseguir!\\
+==== 1200404 ====
+Não desista agora!\\
+==== 1210100 ====
+Apenas esta seção do piso é diferente... Será\\
+que tem algo a ver com isso?\\
+==== 1210101 ====
+Abaixo do piso de armazenamento? Mas eu não vejo\\
+uma alça...\\
+==== 1210102 ====
+...Isso também está me incomodando, mas devemos\\
+procurar em outros lugares agora.\\
+==== 1210200 ====
+Eu sinto que esta parte do piso é importante, mas\\
+não há maneira de abri-la agora.\\
+==== 1220100 ====
+O que são essas coisas exatamente?\\
+==== 1220101 ====
+Eu aposto que são estações de recarga para os\\
+robôs. Eles só precisam estar dentro.\\
+==== 1220102 ====
+Hmm... Eu entendi. Um dispositivo de transmissão\\
+de energia sem fio...\\
+==== 1220200 ====
+Cada uma dessas cobranças alimenta o robô\\
+interior.\\
+==== 1230100 ====
+Qual é aquela estrutura de aço lá em cima...?\\
+==== 1230101 ====
+Parece a trilha que o guindaste tem que se mover\\
+ao longo.\\
+==== 1230200 ====
+É o trilho para a grua se mover.\\
+==== 2010100 ====
+Eu acho que isso é uma arma de choque...?\\
+==== 2010101 ====
+Sim, mas não conseguimos dizer o quanto de\\
+potência ele tem.\\
+==== 2010102 ====
+...Talvez devêssemos experimentar?\\
+==== 2010103 ====
+A-AH! Pare! Não aponte essa coisa para mim!\\
+==== 2010200 ====
+É uma arma de choque... Espere, não interprete\\
+desta forma! Eu não serei sua cobaia!\\
+==== 2020100 ====
+O que é essa peça?\\
+==== 2020101 ====
+Acho que é o cabo de uma chave de fenda...\\
+==== 2020102 ====
+Bem, não podemos usá-lo no momento a menos que\\
+tenhamos algo para combinar.\\
+==== 2020200 ====
+Parece o cabo de uma chave de fenda.\\
+==== 2030100 ====
+Isso parece a cabeça de uma chave de fenda.\\
+==== 2030101 ====
+Sim, mas é difícil usar assim como está\\
+agora...\\
+==== 2030102 ====
+Não tem alça...\\
+==== 2030200 ====
+Parece a cabeça de uma chave de fenda.\\
+==== 2040100 ====
+Agora temos uma chave de fenda completa!\\
+==== 2040101 ====
+Nós definitivamente podemos usar agora.\\
+==== 2040200 ====
+Nós combinamos duas partes para obter uma chave\\
+de fenda totalmente funcional!\\
+==== 2050100 ====
+É um par de cortadores de arame. Deveríamos ser\\
+capazes de cortar coisas com eles.\\
+==== 2050101 ====
+Eles podem quebrar se tentarmos cortar algo muito\\
+grande.\\
+==== 2050200 ====
+Corta fios. Nós podemos cortar algo com isso.

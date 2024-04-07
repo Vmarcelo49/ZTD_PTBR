@@ -1,0 +1,281 @@
+==== 1 ====
+Ei! Abra!\\
+==== 2 ====
+Quem faria isso...\\
+==== 3 ====
+Merda... O que há de errado com você...\\
+==== 4 ====
+Um erro de uma noite de alguém...?\\
+==== 5 ====
+Um erro?\\
+==== 6 ====
+Talvez de Diana...?\\
+==== 7 ====
+Esse não é o momento para piadas!\\
+==== 8 ====
+Deixe-me adivinhar. Este capacete não pode ser\\
+removido, certo?\\
+==== 9 ====
+Tão assustador...\\
+==== 10 ====
+Huh?\\
+==== 11 ====
+Eu não quero isso perto de mim!\\
+==== 12 ====
+De onde diabos isso veio...\\
+==== 13 ====
+Esqueça. Não deveríamos estar tentando sair\\
+daqui?\\
+==== 14 ====
+Impossível.\\
+==== 15 ====
+Este é um quarto de confinamento.\\
+==== 16 ====
+As barras só abrem pelo outro lado...\\
+==== 17 ====
+Não há nada a fazer a não ser pedir a quem fez\\
+isso para nos deixar sair.\\
+==== 18 ====
+O culpado está bem ali!\\
+==== 19 ====
+Ele!\\
+==== 20 ====
+Aquele garoto nos trancou!\\
+==== 21 ====
+Então ele foi quem colocou esses em nós?\\
+==== 22 ====
+E...\\
+==== 23 ====
+Não fui eu.\\
+==== 24 ====
+Ele fala!\\
+==== 25 ====
+A vida é simplesmente injusta.\\
+==== 26 ====
+Não acha?\\
+==== 27 ====
+Existem momentos em que um único caracol pode\\
+fazer um mundo ser extinto.\\
+==== 28 ====
+Fazer... ser extinto?\\
+==== 29 ====
+O que diabos você está falando!\\
+==== 30 ====
+Quem é você...\\
+==== 31 ====
+Tenho certeza de que você vai descobrir isso\\
+eventualmente.\\
+==== 32 ====
+Por que você está fazendo isso...\\
+==== 33 ====
+Eu exijo que todos vocês participem de um jogo.\\
+==== 34 ====
+Um jogo...?\\
+==== 35 ====
+Com o destino seu, meu e da raça humana em jogo.\\
+==== 36 ====
+Que se dane isso!\\
+==== 37 ====
+Vamos começar, certo.\\
+==== 38 ====
+Debaixo do meu pé tem uma moeda.\\
+==== 39 ====
+De um lado é vermelho, enquanto o outro lado é\\
+azul.\\
+==== 40 ====
+Qual lado da moeda está virado para cima? Tente\\
+Adivinhar.\\
+==== 41 ====
+No entanto. Você só tem uma chance.\\
+==== 42 ====
+Vocês todos devem concordar com uma única\\
+resposta.\\
+==== 43 ====
+Nós ganhamos algo se acertarmos?\\
+==== 44 ====
+Sua liberdade.\\
+==== 45 ====
+Prometo que vou libertar todos vocês.\\
+==== 46 ====
+E se estivermos errados?\\
+==== 47 ====
+Vocês todos perdem.\\
+==== 48 ====
+Vocês terão que permanecer no jogo até pelo menos\\
+seis de vocês estejam mortos.\\
+==== 49 ====
+O que...?\\
+==== 50 ====
+Azul!\\
+==== 51 ====
+Vamos de azul!\\
+==== 52 ====
+É vermelho.\\
+==== 53 ====
+Certo! Vermelho!\\
+==== 54 ====
+Tem que ser vermelho!\\
+==== 55 ====
+Chance de cinquenta por cento.\\
+==== 56 ====
+As chances para cada um são as mesmas...\\
+==== 57 ====
+Então devemos votar.\\
+==== 58 ====
+Espera!\\
+==== 59 ====
+Eu não acredito em vocês!\\
+==== 60 ====
+Akane está certa!\\
+==== 61 ====
+Vocês vão simplesmente fazer o que ele diz?!\\
+==== 62 ====
+O que você acha, Carlos?\\
+==== 63 ====
+O que...?\\
+==== 64 ====
+Você é o líder deste grupo.\\
+==== 65 ====
+Eu tomarei a sua decisão como a resposta final de\\
+todos.\\
+==== 66 ====
+Sobre o que você está falando?!\\
+==== 67 ====
+Eu não vou aceitar isso!\\
+==== 68 ====
+Vou deixar o Carlos escolher.\\
+==== 69 ====
+Escolha vermelho!\\
+==== 70 ====
+É azul...\\
+==== 71 ====
+Então, o que você diz, Carlos...?\\
+==== 72 ====
+Eu...\\
+==== 73 ====
+Não, Carlos!\\
+==== 74 ====
+Não responda a ele!\\
+==== 75 ====
+Hora de escolher, Carlos.\\
+==== 76 ====
+Você é aquele caracol solitário.\\
+==== 77 ====
+O destino do mundo depende de sua decisão.\\
+==== 78 ====
+É vermelho.\\
+==== 79 ====
+Viu?\\
+==== 80 ====
+Te disse que era azul.\\
+==== 82 ====
+É azul.\\
+==== 83 ====
+Por isso que te disse vermelho!\\
+==== 85 ====
+Carlos, seu idiota! Você errou!\\
+==== 86 ====
+Carlos...\\
+==== 87 ====
+O que você estava pensando?!\\
+==== 88 ====
+Ei, espere um segundo!\\
+==== 89 ====
+Carlos não é o culpado por tudo isso!\\
+==== 90 ====
+Certo... A pessoa que começou isso é...\\
+==== 91 ====
+E agora?\\
+==== 92 ====
+Você deveria saber.\\
+==== 93 ====
+Você estava errado, então o jogo continua.\\
+==== 94 ====
+Até que seis pessoas estejam mortas, hein...\\
+==== 95 ====
+Pelo menos seis.\\
+==== 96 ====
+É possível que haja mais do que isso.\\
+==== 97 ====
+Por que não nos apressamos e resolvemos isso\\
+logo?\\
+==== 98 ====
+Quando é o próximo jogo -\\
+==== 99 ====
+Antes de começar, eu preciso que todos vocês\\
+durmam.\\
+==== 100 ====
+Dormir?\\
+==== 101 ====
+Quando você acordar novamente, terá esquecido\\
+tudo o que acabou de acontecer aqui.\\
+==== 102 ====
+Esquecer? Mas por quê...\\
+==== 103 ====
+Não adianta te contar agora.\\
+==== 104 ====
+Você não vai se lembrar de nada em um\\
+instante...\\
+==== 105 ====
+Bons sonhos...\\
+==== 107 ====
+É vermelho.\\
+==== 108 ====
+Está vendo?\\
+==== 109 ====
+Eu não disse que seria vermelho?\\
+==== 110 ====
+Sim, sim. Tanto faz.\\
+==== 111 ====
+É azul.\\
+==== 112 ====
+Então, quem foi que disse que era vermelho mesmo?\\
+==== 113 ====
+Hum.\\
+==== 114 ====
+Muito bem, Carlos!\\
+==== 115 ====
+Você é algum tipo de clarividente?\\
+==== 116 ====
+Foi apenas sorte.\\
+==== 117 ====
+Eu tinha 50% de chance.\\
+==== 118 ====
+Não é tão difícil acertar.\\
+==== 119 ====
+Ei, espere um segundo!\\
+==== 120 ====
+Ok, com certeza, você deu sorte no seu palpite.\\
+Mas e se você tivesse errado?\\
+==== 121 ====
+Qual é a importância disso.\\
+==== 122 ====
+Tudo deu certo.\\
+==== 123 ====
+Mas–!\\
+==== 124 ====
+Então. Você vai cumprir o nosso acordo?\\
+==== 125 ====
+Não tenha medo.\\
+==== 126 ====
+Eu sou uma pessoa justa.\\
+==== 127 ====
+Eu prometi libertar você, e assim farei.\\
+==== 128 ====
+Ah, mas antes disso... Peço desculpas, mas todos\\
+vocês devem dormir.\\
+==== 129 ====
+Dormir...?\\
+==== 130 ====
+Quando você acordar de novo, terá esquecido tudo\\
+o que acabou de acontecer aqui.\\
+==== 131 ====
+Por que nos esqueceríamos?\\
+==== 132 ====
+Hum, eu me pergunto...?\\
+==== 133 ====
+Bons sonhos...\\
+==== 134 ====
+Eu sei...\\
+==== 135 ====
+Você é...\\

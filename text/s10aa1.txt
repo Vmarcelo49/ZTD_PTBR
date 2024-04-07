@@ -1,0 +1,255 @@
+==== 136 ====
+Carlos!\\
+==== 137 ====
+Carlos!\\
+==== 138 ====
+Akane...\\
+==== 139 ====
+Seu desgraçado! O que diabos está acontecendo?!\\
+==== 140 ====
+Você trouxe todos nós aqui...\\
+==== 141 ====
+Admita!\\
+==== 142 ====
+Não...\\
+==== 143 ====
+Não fui eu...\\
+==== 144 ====
+Então que porcaria é essa coisa estúpida na sua\\
+cabeça?\\
+==== 145 ====
+Deixe pra lá, Eric.\\
+==== 146 ====
+Não precisa descontar tudo na criança.\\
+==== 147 ====
+Mira...\\
+==== 148 ====
+Eu me pergunto o que é isso?\\
+==== 150 ====
+Desista, Diana.\\
+==== 151 ====
+É melhor você não forçar isso.\\
+==== 152 ====
+Por que você diz isso?\\
+==== 153 ====
+Você deveria ouvi-la.\\
+==== 154 ====
+Eu tenho a sensação de que ela já viu isso\\
+antes.\\
+==== 155 ====
+Pulseira?\\
+==== 156 ====
+Foi assim que era chamado há um ano.\\
+==== 157 ====
+Certo, Akane...?\\
+==== 158 ====
+Junpei...\\
+==== 159 ====
+Bom dia.\\
+==== 160 ====
+Como você está se sentindo?\\
+==== 161 ====
+Quem é esse?\\
+==== 162 ====
+Eu sou Zero.\\
+==== 163 ====
+O segundo Zero.\\
+==== 164 ====
+O segundo...?\\
+==== 165 ====
+Deixe-me deixar uma coisa clara.\\
+==== 166 ====
+Esta é uma gravação.\\
+==== 167 ====
+Então, não se incomode em fazer perguntas, pois\\
+não posso respondê-las.\\
+==== 168 ====
+Eu gostaria de te contar uma história antiga.\\
+==== 169 ====
+Há dezessete anos, em uma manhã chuvosa, uma\\
+mulher saiu para correr em um grande parque.\\
+==== 170 ====
+Seu caminho habitual a levou a um entroncamento na\\
+estrada.\\
+==== 171 ====
+Normalmente ela seguiria pelo caminho da direita.\\
+Mas por alguma razão, neste dia ela escolheu o da\\
+esquerda.\\
+==== 172 ====
+No caminho, ela esbarrou em um idoso que ela via\\
+todos os dias.\\
+==== 173 ====
+Surpresos ao vê-la, eles perguntaram,\\
+==== 174 ====
+Por que você veio por este caminho hoje?\\
+==== 175 ====
+Essa foi a resposta dela.\\
+==== 176 ====
+Porque havia um caracol.\\
+==== 177 ====
+Seu corpo foi descoberto algumas horas depois.\\
+==== 178 ====
+Assassinada.\\
+==== 179 ====
+Eles a encontraram em alguns arbustos ao longo do\\
+caminho da esquerda.\\
+==== 180 ====
+Às vezes, a vida é simplesmente injusta.\\
+==== 181 ====
+Você não acha?\\
+==== 182 ====
+Que diabos é essa besteira...\\
+==== 183 ====
+É igual para todos vocês.\\
+==== 184 ====
+O peso de um destino injusto te levou até este\\
+momento.\\
+==== 185 ====
+Somente para se encontrarem neste abrigo\\
+anti-bombas a 50 metros abaixo do solo.\\
+==== 186 ====
+Espera, o quê?\\
+==== 187 ====
+Como você pode ver, esse lugar está dividido em\\
+três seções.\\
+==== 188 ====
+Carlos, Akane e Junpei. Vocês três estão na\\
+Ala C.\\
+==== 189 ====
+Vocês serão chamados daqui para frente de Equipe C.\\
+==== 190 ====
+Seu líder será Carlos.\\
+==== 191 ====
+Em seguida está Q, Mira e Eric. Vocês estão\\
+localizados na Ala Q.\\
+==== 192 ====
+Seu nome será Equipe Q.\\
+==== 193 ====
+Como evidenciado pelo nome, o líder é Q.\\
+==== 194 ====
+Espera aí!\\
+==== 195 ====
+Isso é uma piada?!\\
+==== 196 ====
+E finalmente, Diana, Phi e Sigma. Ala D é onde\\
+vocês três estão.\\
+==== 197 ====
+Diana é a líder.\\
+==== 198 ====
+Isso te torna a Equipe D.\\
+==== 199 ====
+Vocês podem ir onde quiserem, desde que\\
+permaneça dentro de suas alas.\\
+==== 200 ====
+Há um limite de tempo, no entanto.\\
+==== 201 ====
+Noventa minutos.\\
+==== 202 ====
+Quando os noventa minutos acabarem, um injetor em\\
+sua pulseira será ativado.\\
+==== 203 ====
+Um anestésico e um agente para apagar suas\\
+memórias serão injetados.\\
+==== 204 ====
+Drogas que apagam a memória...?\\
+==== 205 ====
+Como resultado, todos vocês cairão em um sono\\
+profundo e ininterrupto.\\
+==== 206 ====
+Vocês também vão esquecer tudo que ocorreu nessas\\
+últimas noventa minutos.\\
+==== 207 ====
+O que...\\
+==== 208 ====
+A pulseira tem uma função adicional.\\
+==== 209 ====
+Um relógio.\\
+==== 210 ====
+Pressionar os botões de cada lado simultaneamente\\
+exibirá a hora.\\
+==== 211 ====
+12:10...\\
+==== 212 ====
+Hoje é 31 de dezembro. Véspera de Ano Novo.\\
+==== 213 ====
+O ano se renova em menos de meio dia.\\
+==== 214 ====
+Infelizmente, muito poucos de vocês se\\
+encontrarão capazes de dar as boas-vindas ao ano\\
+de 2029.\\
+==== 215 ====
+Dê uma olhada na porta.\\
+==== 216 ====
+Está claramente marcado com um "X."\\
+==== 217 ====
+Além desta "Porta X" há um corredor com um\\
+elevador.\\
+==== 218 ====
+Subir de elevador irá levá-lo à superfície.\\
+Não há outra maneira de sair.\\
+==== 219 ====
+A porta é fácil o suficiente de abrir.\\
+==== 220 ====
+Basta obter os "Passes-X" e inseri-los no\\
+dispositivo de entrada ao lado.\\
+==== 221 ====
+São necessários seis Passes-X para desbloquear\\
+isso.\\
+==== 222 ====
+Um Passe X será anunciado sempre que alguém\\
+morrer.\\
+==== 223 ====
+Em termos mais diretos, se seis de vocês\\
+morrerem,\\
+==== 224 ====
+O resto receberá todas as senhas e será capaz de\\
+abrir a Porta X.\\
+==== 225 ====
+Isso é besteira...\\
+==== 226 ====
+Uma ressalva: a porta permanece aberta por apenas\\
+trinta segundos.\\
+==== 227 ====
+Assim que o tempo passar, ela fechará\\
+automaticamente. E nunca mais se abrirá.\\
+==== 228 ====
+Ah sim. Com essas informações, certamente alguns\\
+de vocês neste momento estão pensando,\\
+==== 229 ====
+Como posso matar seis pessoas...\\
+==== 230 ====
+O quê? Ninguém faria...\\
+==== 231 ====
+Eu te darei uma oportunidade.\\
+==== 232 ====
+Por voto majoritário, determinem um time para\\
+executar.\\
+==== 233 ====
+O que?!\\
+==== 234 ====
+Você vê o computador no canto da sala?\\
+==== 235 ====
+Os nomes das equipes dos seus novos inimigos\\
+serão exibidos naquele monitor.\\
+==== 236 ====
+Escolha a Equipe que você decidiu eliminar.\\
+==== 237 ====
+Cada equipe recebe um voto.\\
+==== 238 ====
+O líder deve submetê-lo ao grupo.\\
+==== 239 ====
+Seu prazo é 13:30.\\
+==== 240 ====
+Qualquer equipe que não tenha votado antes do\\
+prazo será penalizada com duas votos.\\
+==== 241 ====
+O grupo com dois ou mais votos perderá.\\
+==== 242 ====
+Cada membro daquela equipe...será executado.\\
+==== 243 ====
+Vamos começar.\\
+==== 244 ====
+Este é o Jogo da Decisão. Um jogo de destino.\\
+==== 245 ====
+As vidas de vocês, eu e da raça humana\\
+estão na balança.\\

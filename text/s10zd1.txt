@@ -1,0 +1,498 @@
+==== 781 ====
+[When a curious hate oozes calamity.]\\
+==== 782 ====
+Hmm... Então um momento em que o ódio curioso \\
+se torna calamidade, huh...\\
+==== 783 ====
+Eu me pergunto o que isso significa?\\
+==== 784 ====
+Não faço ideia.\\
+==== 785 ====
+Talvez não seja suposto ter um significado.\\
+==== 786 ====
+Hã?\\
+==== 787 ====
+É um anagrama.\\
+==== 788 ====
+Você reorganiza as letras em outra frase.\\
+==== 789 ====
+Por que você acha que é um anagrama?\\
+==== 790 ====
+Eu já vi algo parecido com isso antes.\\
+==== 791 ====
+Um outro lugar...\\
+==== 792 ====
+De qualquer forma. Onde está Sigma?\\
+==== 793 ====
+O que você está olhando?\\
+==== 794 ====
+Uma caixa.\\
+==== 795 ====
+Que tipo de caixa?\\
+==== 796 ====
+Bem, estou pesquisando para descobrir porque não\\
+sei.\\
+==== 797 ====
+Parece que tem algo escrito nele...\\
+==== 798 ====
+[Force Quit Box].\\
+==== 799 ====
+Isso é interessante...\\
+==== 800 ====
+Eu vejo um teclado nele também.\\
+==== 801 ====
+Use este teclado para inserir uma senha e forçar\\
+algo a parar.\\
+==== 802 ====
+Isso é o que isso significa?\\
+==== 803 ====
+O que isso impede?\\
+==== 804 ====
+Bem, a resposta óbvia seria o jogo que a Zero nos\\
+faz jogar.\\
+==== 805 ====
+Então devemos tentar!\\
+==== 806 ====
+Ah... Eu não deveria ter pensado que seria tão\\
+fácil...\\
+==== 807 ====
+Precisamos de uma dica...\\
+==== 808 ====
+Talvez diga algo na parte de baixo?\\
+==== 809 ====
+Não.\\
+==== 810 ====
+Não vai se mover.\\
+==== 811 ====
+Está pesado?\\
+==== 812 ====
+Pesado nem começa a cobrir.\\
+==== 813 ====
+Duvido que seja feito de algo da Terra.\\
+==== 814 ====
+Bem, você está chegando lá, Sigma.\\
+==== 815 ====
+O que você está dizendo?!\\
+==== 816 ====
+Meu corpo ainda consegue!\\
+==== 817 ====
+Eu só vou tentar.\\
+==== 818 ====
+Você não estava mentindo...\\
+==== 819 ====
+Vi! Eu te disse!\\
+==== 820 ====
+Este é o mapa para ala D, certo?\\
+==== 821 ====
+Parece que sim.\\
+==== 822 ====
+E podemos ir para onde quisermos, desde que seja\\
+dentro desta ala?\\
+==== 823 ====
+Sim. Foi isso que o Zero disse.\\
+==== 824 ====
+Tudo bem. Verificamos todos os quartos de cima a\\
+baixo, mas...\\
+==== 825 ====
+Você não encontrou nenhuma saída...?\\
+==== 826 ====
+Obviamente.\\
+==== 827 ====
+Estamos em um abrigo anti-bombas, afinal.\\
+==== 828 ====
+Se houvesse várias saídas, isso derrotaria o\\
+propósito para o qual foi construído.\\
+==== 829 ====
+Então o Zero disse a verdade...\\
+==== 830 ====
+Então abrir a Porta X é a única saída...\\
+==== 831 ====
+Mira!\\
+==== 832 ====
+Eric!\\
+==== 833 ====
+Você consegue me ouvir?\\
+==== 834 ====
+Carlos!\\
+==== 835 ====
+Akane!\\
+==== 836 ====
+Tenmyouji!\\
+==== 837 ====
+Não há sentido.\\
+==== 838 ====
+Não ouviríamos uma festa com togas bêbadas em\\
+volume máximo do outro lado.\\
+==== 840 ====
+Acho que precisamos de seis senhas para abrir essa\\
+porta, certo?\\
+==== 841 ====
+Sim. Esse tal de Passe X.\\
+==== 842 ====
+Para cada pessoa que morre, uma senha será\\
+revelada...\\
+==== 843 ====
+Isso é verdade, no entanto...?\\
+==== 844 ====
+Sigma, por que você não tenta morrer uma vez?\\
+==== 845 ====
+Eu de firme e educada forma, recuso.\\
+==== 846 ====
+E quanto a você, Diana?\\
+==== 847 ====
+Ei, uh, não...\\
+==== 848 ====
+Entendi.\\
+==== 849 ====
+Um, posso perguntar algo a vocês?\\
+==== 850 ====
+E aí?\\
+==== 851 ====
+Quem você acha que é o Zero?\\
+==== 852 ====
+Vocês sabem quem é o Zero?\\
+==== 853 ====
+Não faço a mínima ideia.\\
+==== 854 ====
+Mas eles se chamavam de "Zero".\\
+==== 855 ====
+No mínimo, eles sabem o que aconteceu há um ano.\\
+==== 856 ====
+O que você está...?\\
+==== 857 ====
+Tem mais uma coisa com certeza.\\
+==== 858 ====
+Pense sobre isso.\\
+==== 859 ====
+Por que o discurso de Zero para nós foi\\
+pré-gravado?\\
+==== 860 ====
+Tem que haver uma razão muito grande para as\\
+coisas não poderem ser em tempo real.\\
+==== 861 ====
+Existem duas possibilidades.\\
+==== 862 ====
+Ele já bateu as botas ou...\\
+==== 863 ====
+Zero está entre nós...\\
+==== 864 ====
+Você acha que alguém virá nos ajudar?\\
+==== 865 ====
+Quem?\\
+==== 866 ====
+Talvez a equipe experimental do experimento\\
+Dcom...?\\
+==== 867 ====
+Desculpe, mas isso é bastante improvável.\\
+==== 868 ====
+Lembrar?\\
+==== 869 ====
+A equipe estacionada em Dcom não pode se\\
+comunicar conosco no momento.\\
+==== 870 ====
+A simulação está tentando permanecer fiel a uma\\
+missão real em Marte.\\
+==== 871 ====
+São pelo menos seis meses entre a Terra e Marte.\\
+==== 872 ====
+Nesse período de tempo, a Terra terá girado\\
+metade do caminho ao redor do Sol.\\
+==== 873 ====
+O que significa-\\
+==== 874 ====
+Quando a nave espacial alcança Marte, a Terra\\
+está atrás dela.\\
+==== 875 ====
+Com a estrela no caminho, não podemos enviar um\\
+sinal.\\
+==== 876 ====
+Isso é a introdução... Nós estamos fazendo\\
+experimentos nos últimos cinco dias.\\
+==== 877 ====
+As transmissões serão retomadas em 31 de\\
+dezembro às 23h30.\\
+==== 878 ====
+O que nos deixa com mais de 10 horas.\\
+==== 879 ====
+Não adianta esperar por um resgate antes disso.\\
+==== 880 ====
+Tenho certeza de que a equipe do Dcom não notará\\
+problemas até esse momento.\\
+==== 881 ====
+Vocês são como irmãos.\\
+==== 882 ====
+Você está totalmente sincronizado...\\
+==== 883 ====
+Isso pode ser um pouco rude da minha parte dizer,\\
+mas...\\
+==== 884 ====
+A forma como você fala, Sigma, é um pouco\\
+incomum.\\
+==== 885 ====
+Perdoe-o.\\
+==== 886 ====
+A idade de sua mente e de seu corpo são\\
+completamente diferentes.\\
+==== 887 ====
+Ele mencionou isso de volta ao Dcom.\\
+==== 888 ====
+Que sua consciência havia voltado do ano 2074...\\
+==== 889 ====
+Isso está correto.\\
+==== 890 ====
+Por isso, eu sei o que vai acontecer no futuro.\\
+==== 891 ====
+Eu devo ter passado os últimos cinco dias\\
+avisando a todos vocês.\\
+==== 892 ====
+Se nada mudar, a humanidade será destruída...\\
+==== 893 ====
+Akane, Phi e eu nos infiltramos na Dcom para\\
+impedir que tudo isso acontecesse...\\
+==== 894 ====
+Phi, isso é verdade?\\
+==== 895 ====
+Bem, você acreditaria em mim... se eu dissesse\\
+que era?\\
+==== 896 ====
+Então por que todos nós estamos presos neste\\
+lugar estranho?\\
+==== 897 ====
+Se você sabe o futuro, então você poderia ter\\
+evitado isso -\\
+==== 898 ====
+Não tínhamos ideia do que aconteceu dentro das\\
+instalações da Dcom.\\
+==== 899 ====
+Também não sabíamos de nada sobre o que iria\\
+acontecer neste abrigo.\\
+==== 900 ====
+Por que isso tinha que acontecer comigo.\\
+==== 901 ====
+Eu nunca deveria ter dado ouvidos à Rebecca...\\
+==== 902 ====
+Rebecca?\\
+==== 903 ====
+Ela é a enfermeira-chefe no hospital onde eu\\
+trabalhava.\\
+==== 904 ====
+Ah sim. Você disse que é enfermeira.\\
+==== 905 ====
+Eu participei do experimento do Dcom porque\\
+Rebecca me sugeriu.\\
+==== 906 ====
+Ela me disse que estavam procurando por uma\\
+enfermeira disposta a participar.\\
+==== 907 ====
+Bem, para ser honesto, há outra razão pela qual\\
+decidi participar...\\
+==== 908 ====
+Gab...!\\
+==== 909 ====
+Por que Gab está aqui...\\
+==== 910 ====
+Acho que ele entrou pela abertura de ventilação.\\
+==== 911 ====
+Vê alguma coisa?\\
+==== 912 ====
+Não, está muito escuro...\\
+==== 913 ====
+Sua vez, Phi.\\
+==== 914 ====
+Você quer que eu entre aí?\\
+==== 915 ====
+É claramente impossível.\\
+==== 916 ====
+Você tem certeza?\\
+==== 917 ====
+Eu não vou repetir.\\
+==== 918 ====
+Meus seios são... Ds.\\
+==== 919 ====
+Suas calças estão pegando fogo.\\
+==== 920 ====
+É verdade.\\
+==== 921 ====
+Parece para mim que eles aumentaram um tamanho\\
+completo desde a última vez que você me disse.\\
+==== 922 ====
+Faz quarenta e cinco anos.\\
+==== 923 ====
+Crescer é natural.\\
+==== 924 ====
+Você estava apenas dormindo...\\
+==== 925 ====
+Um, posso interromper?\\
+==== 926 ====
+O que é isso?\\
+==== 927 ====
+Isso é um porta-copos?\\
+==== 928 ====
+Tem algo escrito nele.\\
+==== 929 ====
+Olá. Aqui é o Carlos.\\
+==== 930 ====
+Equipe C está votando em Equipe D.\\
+==== 931 ====
+Então, a Equipe D deve votar na Equipe Q, e a\\
+Equipe Q na Equipe C.\\
+==== 932 ====
+E alguém mais escreveu--\\
+==== 933 ====
+Equipe Q - Entendi.\\
+==== 934 ====
+Entendi. Ao distribuir os votos, eles estão\\
+sugerindo que deixemos empatado.\\
+==== 935 ====
+Parece que a Equipe Q concordou.\\
+==== 936 ====
+Parece que sim.\\
+==== 937 ====
+Acho que Gab passou pela ala C em direção a\\
+ala Q e acabou aqui...\\
+==== 938 ====
+Vai funcionar!\\
+==== 939 ====
+Agora nenhum dos times precisará morrer!\\
+==== 940 ====
+Eu me pergunto sobre isso...\\
+==== 941 ====
+O que...?\\
+==== 942 ====
+O prazo para votar...é em três minutos.\\
+==== 943 ====
+Caramba. Não temos muito tempo.\\
+==== 944 ====
+Precisamos ir até o dispositivo de votação.\\
+==== 945 ====
+O que exatamente você quis dizer anteriormente,\\
+Phi?\\
+==== 946 ====
+Estou dizendo que poderia ser uma mentira.\\
+==== 947 ====
+Você quer dizer que a Equipe-Q está planejando\\
+nos trair?\\
+==== 948 ====
+Não, duvido.\\
+==== 949 ====
+Se foi isso que eles pretendiam, eles não\\
+precisavam enviar Gab.\\
+==== 950 ====
+Eles só teriam que decidir votar na Equipe D.\\
+==== 951 ====
+Então você quer dizer...\\
+==== 952 ====
+Existe a possibilidade de Equipe C nos trair...\\
+==== 953 ====
+Talvez estejam dizendo que vão votar na Equipe D,\\
+mas na verdade votam na Equipe Q...\\
+==== 954 ====
+Mas por que eles fariam isso...\\
+==== 955 ====
+Para nos fazer escolher a Equipe Q.\\
+==== 956 ====
+Se você acha que é uma boa ideia espalhar os\\
+votos, então sua escolha é fácil, certo?\\
+==== 957 ====
+Estou apenas dizendo, é uma possibilidade...\\
+==== 958 ====
+O prazo para votar...é em um minuto.\\
+==== 959 ====
+O que eu devo fazer...?\\
+==== 960 ====
+O fato de Gab ter aparecido significa que podemos\\
+supor que a Equipe Q está votando na Equipe C.\\
+==== 961 ====
+Então não temos escolha a não ser escolher a\\
+Equipe Q.\\
+==== 962 ====
+Caso contrário...\\
+==== 963 ====
+Nosso voto único poderia causar a morte de toda a\\
+equipe C...\\
+==== 964 ====
+Seu voto...foi aceito.\\
+==== 965 ====
+Por quê, Diana?!\\
+==== 966 ====
+Por que você votou na Equipe C...?!\\
+==== 967 ====
+Eu... Eu não sei...\\
+==== 968 ====
+O quê?\\
+==== 969 ====
+Eu não sei!\\
+==== 970 ====
+Eu não faço ideia por que votei na Equipe C...\\
+==== 971 ====
+Do que você está falando...\\
+==== 972 ====
+Mas é verdade! Por favor, acredite em mim!\\
+==== 973 ====
+Noventa minutos se passaram. Seu tempo limite\\
+acabou.\\
+==== 974 ====
+Durma bem, pois o próximo jogo começará quando\\
+você acordar.\\
+==== 975 ====
+Infelizmente, a equipe que receber dois votos não\\
+poderá participar...\\
+==== 976 ====
+Só mais uma coisa.\\
+==== 977 ====
+Você seguiu com o voto exatamente como eu\\
+ordenei.\\
+==== 978 ====
+Você merece uma recompensa por obedecer.\\
+==== 979 ====
+O medicamento para perda de memória não será\\
+injetado em nenhum de vocês três.\\
+==== 980 ====
+Quando você acordar, aqueles que sobreviveram\\
+serão capazes de se arrepender da decisão que\\
+tomaram.\\
+==== 981 ====
+Todos os membros de um único time perecerão como\\
+resultado do voto que você entrou.\\
+==== 982 ====
+Bons sonhos...\\
+==== 983 ====
+Seu voto...foi aceito.\\
+==== 984 ====
+Bem, essa foi uma boa escolha.\\
+==== 985 ====
+Você acha que tudo ficará bem...?\\
+==== 986 ====
+Desde que a nota de Gab fosse verdade...\\
+==== 987 ====
+Tudo o que podíamos fazer era confiar neles.\\
+==== 988 ====
+Eu suponho...\\
+==== 989 ====
+Noventa minutos se passaram. Seu limite de tempo\\
+acabou.\\
+==== 990 ====
+Durma bem, pois o próximo jogo começará quando\\
+você acordar.\\
+==== 991 ====
+Infelizmente, a equipe que receber dois votos não\\
+poderá participar...\\
+==== 992 ====
+Uma coisa final.\\
+==== 993 ====
+Você seguiu com o voto exatamente como eu\\
+ordenei.\\
+==== 994 ====
+Você merece uma recompensa por obedecer.\\
+==== 995 ====
+A droga para perda de memória não será injetada\\
+em nenhum de vocês três.\\
+==== 996 ====
+Quando você acordar, aqueles que sobreviveram\\
+serão capazes de se arrepender da decisão que\\
+tomaram.\\
+==== 997 ====
+Todos os membros de um único time irão perecer\\
+como resultado do voto que você inseriu.\\
+==== 998 ====
+Bons sonhos...\\

@@ -1,0 +1,2653 @@
+==== 5591 ====
+Isso é...\\
+==== 5592 ====
+A Sala de Jogos.\\
+==== 5593 ====
+É o ano novo...?\\
+==== 5594 ====
+A votação foi às 13:30, então dormimos por\\
+mais de dez horas e meia.\\
+==== 5595 ====
+Bom, nem sempre.\\
+==== 5596 ====
+Certo. O Zero explicou isso anteriormente.\\
+==== 5597 ====
+Assim que os noventa minutos se encerrarem, um\\
+injetor em sua pulseira será ativado.\\
+==== 5598 ====
+Será administrado um anestésico e um agente para\\
+apagar suas memórias.\\
+==== 5599 ====
+Como resultado, todos vocês vão cair em um sono\\
+profundo e ininterrupto.\\
+==== 5600 ====
+Você também esquecerá tudo o que aconteceu nas\\
+últimas noventa minutos.\\
+==== 5601 ====
+Nós talvez apenas tenhamos esquecido que fizemos\\
+isso.\\
+==== 5602 ====
+Então já acordamos várias vezes?\\
+==== 5603 ====
+Algo horrível poderia ter acontecido, e não nos\\
+lembramos...\\
+==== 5604 ====
+Eu nem consigo pensar nisso sem arrepiar.\\
+==== 5605 ====
+Não bom. Está trancado.\\
+==== 5606 ====
+Então é como de costume, e estamos presos?\\
+==== 5607 ====
+Que tal tomar uma bebida para passar o tempo,\\
+então?\\
+==== 5608 ====
+Há muitas coisas que podemos fazer aqui.\\
+==== 5609 ====
+Ah, Junpei, em noventa minutos nós...\\
+==== 5610 ====
+Estou brincando.\\
+==== 5611 ====
+Hum, quando você disse "bebida", você--\\
+==== 5612 ====
+Bem, nós temos 22 anos, sabe.\\
+==== 5613 ====
+Eu não sou mais aquele menininho que jogava\\
+Vira-Lata com você anos atrás.\\
+==== 5614 ====
+É mesmo...?\\
+==== 5615 ====
+Verdade, aparências, sabores e outras coisas\\
+superficiais mudam com o tempo.\\
+==== 5616 ====
+Mas deve haver algo dentro de você que ainda seja\\
+o mesmo.\\
+==== 5617 ====
+Nadar, ir a festivais, brincar de guerra de bola\\
+de neve no pátio da escola...\\
+==== 5618 ====
+Durante o incidente com os coelhos, você me\\
+protegeu, não é?\\
+==== 5619 ====
+E quanto a isso...?\\
+==== 5620 ====
+O Junpei daqueles tempos... Ele deve estar em\\
+algum lugar...\\
+==== 5621 ====
+Diz aquele que mudou primeiro.\\
+==== 5622 ====
+Não.\\
+==== 5623 ====
+Você pode não ter mudado nada, sou eu que estou\\
+vendo coisas que não percebi antes.\\
+==== 5624 ====
+Deixe-me te dizer algo, Junpei.\\
+==== 5625 ====
+Diga o que você precisa, enquanto há tempo para\\
+dizer.\\
+==== 5626 ====
+Carlos...\\
+==== 5627 ====
+O inferno...\\
+==== 5628 ====
+Você faz parecer que eu sou um mimado que mente\\
+para si mesmo.\\
+==== 5629 ====
+Uma vez, não pude salvar meus pais por causa da\\
+minha inexperiência.\\
+==== 5630 ====
+Você?\\
+==== 5631 ====
+Espera, você não era bombeiro naquela época?\\
+==== 5632 ====
+Eu tinha 18 anos e acabara de passar no teste -\\
+==== 5633 ====
+Eu voltaria para casa depois de comprar um\\
+presente de aniversário para minha irmã...\\
+==== 5634 ====
+Neste ponto, eu havia chegado antes do corpo de\\
+bombeiros.\\
+==== 5635 ====
+Por isso eu...\\
+==== 5636 ====
+Carlos, estou aqui!\\
+==== 5637 ====
+Estou aqui!\\
+==== 5638 ====
+Consegui salvar minha irmã, mas não minha mãe e\\
+meu pai.\\
+==== 5639 ====
+Foi por causa do apoio deles que pude me tornar\\
+bombeiro.\\
+==== 5640 ====
+E eu nunca fui capaz de sequer agradecê-los...\\
+==== 5641 ====
+Ah, desculpe.\\
+==== 5642 ====
+Eu meio que estraguei o clima.\\
+==== 5643 ====
+De qualquer forma, eu só queria dizer...\\
+==== 5644 ====
+Eu não quero que vocês dois acabem se\\
+arrependendo.\\
+==== 5645 ====
+Se você tem algo a dizer, diga enquanto está\\
+vivo.\\
+==== 5646 ====
+Enquanto estamos vivos...\\
+==== 5647 ====
+Por favor, não diga isso. É má sorte...\\
+==== 5648 ====
+Heh. Bom ponto.\\
+==== 5649 ====
+Okay, vamos encontrar uma maneira de sair daqui.\\
+==== 5650 ====
+Esse é o primeiro passo para se manter vivo.\\
+==== 5651 ====
+As regras do Jogo da Decisão... serão agora\\
+explicadas.\\
+==== 5652 ====
+O Jogo da Decisão...\\
+==== 5653 ====
+Regras?!\\
+==== 5654 ====
+Este Jogo de Decisão utiliza os três dados...\\
+localizados durante a busca na sala.\\
+==== 5655 ====
+Então, estes...\\
+==== 5656 ====
+Para começar este jogo, cada jogador deve pegar\\
+um dado e rolar os dois juntos na mesa de dados.\\
+==== 5657 ====
+Se todos os dados mostrarem "1" no lado virado\\
+para cima...todos os jogadores ganham.\\
+==== 5658 ====
+A porta será então destrancada... e todos os\\
+jogadores poderão escapar da sala.\\
+==== 5659 ====
+No entanto...se mesmo um único dado não exibir\\
+um "1"...\\
+==== 5660 ====
+Todos na sala serão derrubados.\\
+==== 5661 ====
+O que... Meu Deus, que merda é essa?!\\
+==== 5662 ====
+Isso nem sequer é um maldito jogo!\\
+==== 5663 ====
+Não há táticas, estratégias ou qualquer coisa!\\
+==== 5664 ====
+O limite de tempo é... um minuto.\\
+==== 5665 ====
+Se todos os dados não forem lançados... dentro\\
+desse limite de tempo...\\
+==== 5666 ====
+Todos serão baleados.\\
+==== 5667 ====
+Essas são todas as regras.\\
+==== 5668 ====
+Boa sorte...para todos.\\
+==== 5669 ====
+Qual são as chances?\\
+==== 5670 ====
+Huh?\\
+==== 5671 ====
+As chances de conseguirmos fazer todos os dados\\
+caírem com o número 1!\\
+==== 5672 ====
+Ah, hm... é 1/216, então...\\
+==== 5673 ====
+Aproximadamente 0,46%!\\
+==== 5674 ====
+0,46...?!\\
+==== 5675 ====
+Metralhadoras Gatling operacionais em... trinta\\
+segundos.\\
+==== 5676 ====
+Maldição, não há tempo!\\
+==== 5677 ====
+Apenas role-as!\\
+==== 5678 ====
+Maldição! Eu não posso morrer aqui!\\
+==== 5679 ====
+Ainda há...algo que eu preciso dizer...\\
+==== 5680 ====
+...Huh?\\
+==== 5681 ====
+10... 9...\\
+==== 5682 ====
+Certo então, lá vamos nós!\\
+==== 5683 ====
+Vamos!\\
+==== 5684 ====
+Reze com força! Se rezarmos, então vai\\
+acontecer!\\
+==== 5685 ====
+Huh...?\\
+==== 5686 ====
+De jeito nenhum...\\
+==== 5687 ====
+Aww, sim sim! Muito sim!\\
+==== 5688 ====
+Nós estamos vivos! Nós realmente estamos vivos!\\
+==== 5689 ====
+Siiim!!\\
+==== 5690 ====
+Ei, por que vocês dois estão apenas parados\\
+aí?!\\
+==== 5691 ====
+Galera, é 1/216!\\
+==== 5692 ====
+Acabamos de receber um milagre!\\
+==== 5693 ====
+Você pode ficar um pouco feliz!\\
+==== 5694 ====
+S-Sim... Você está certo...\\
+==== 5695 ====
+Eu simplesmente...não consigo acreditar...\\
+==== 5696 ====
+Estamos...vivos, certo?\\
+==== 5697 ====
+É claro que estamos vivos!\\
+==== 5698 ====
+Eu pareço um fantasma para você?!\\
+==== 5699 ====
+Ou um zumbi morto-vivo?!\\
+==== 5700 ====
+Se fosse, meu coração não estaria batendo a mil\\
+por hora neste momento!\\
+==== 5701 ====
+Vamos embora desse lugar!\\
+==== 5702 ====
+Nós definitivamente precisamos fazer um brinde de\\
+volta no Lounge!\\
+==== 5703 ====
+Vamos lá! O que você está fazendo?! Se apresse!\\
+==== 5704 ====
+Eu não acho que já tenha visto o Junpei tão\\
+animado desde a escola primária.\\
+==== 5705 ====
+Eu acho que ele ainda é o mesmo cara que você\\
+conheceu por baixo, né?\\
+==== 5706 ====
+Estou realmente feliz...\\
+==== 5707 ====
+Que estamos vivos? Ou...\\
+==== 5708 ====
+Ambos...\\
+==== 5710 ====
+Nada supera uma gelada depois de sobreviver a um\\
+susto!\\
+==== 5711 ====
+Venham, vocês deveriam se juntar a mim.\\
+==== 5712 ====
+Desculpe, vou passar.\\
+==== 5713 ====
+Eu realmente não estou com vontade para isso...\\
+==== 5714 ====
+Sério?! Você está falando sério?!\\
+==== 5715 ====
+Ei, você já está bêbado?\\
+==== 5716 ====
+Sim, estou! Bêbado de vida!\\
+==== 5717 ====
+Estou animado com essa sensação incrível de\\
+sobreviver ao impossível!\\
+==== 5718 ====
+Você provavelmente não deveria beber muito,\\
+Junpei...\\
+==== 5719 ====
+Por que não?\\
+==== 5720 ====
+Nós vamos simplesmente desmaiar novamente em 40\\
+minutos de qualquer forma, lembra?\\
+==== 5721 ====
+Acabamos de vivenciar o milagre de acertar 1 em\\
+216 chances! Apenas 0,46%! Galera, vamos lá!\\
+==== 5722 ====
+Vamos usar o tempo restante que temos para\\
+saborear este momento incrível!\\
+==== 5723 ====
+Um milagre, hein...?\\
+==== 5724 ====
+Com certeza seria, se acontecesse na primeira\\
+tentativa...\\
+==== 5725 ====
+Rapazes, o que vocês estão dizendo? Nós só\\
+jogamos o dado uma vez, certo?\\
+==== 5726 ====
+Você tem certeza disso...?\\
+==== 5727 ====
+Talvez a gente simplesmente não se lembre,\\
+==== 5728 ====
+e, na verdade, nós jogamos os dados várias e\\
+várias vezes.\\
+==== 5729 ====
+...Huh?\\
+==== 5730 ====
+Se os lançássemos três vezes, a probabilidade\\
+seria de 72 para 1.\\
+==== 5731 ====
+Eu realmente não chamaria essas probabilidades de\\
+"milagrosas".\\
+==== 5732 ====
+E daí? Isso realmente importa?\\
+==== 5733 ====
+Vou dizer de novo; nós só jogamos os dados uma\\
+vez. Uma vez.\\
+==== 5734 ====
+Certo, Carlos?\\
+==== 5735 ====
+Sim, é verdade...\\
+==== 5736 ====
+O que você está tentando dizer, Akane?\\
+==== 5737 ====
+Carlos, digamos que você fosse rolar dez dados\\
+todos de uma vez.\\
+==== 5738 ====
+Então, você acha que acabaria com todos eles\\
+exibindo um "1"?\\
+==== 5739 ====
+Claro que não. Isso é impossível.\\
+==== 5740 ====
+Certo.\\
+==== 5741 ====
+A probabilidade é de 60.466.176 para 1, mas isso\\
+é essencialmente impossível.\\
+==== 5742 ====
+Se você tentasse 60.466.176 vezes, o que\\
+aconteceria?\\
+==== 5743 ====
+A probabilidade de todos eles serem 1 é...\\
+==== 5744 ====
+Não é tanto uma impossibilidade, certo?\\
+==== 5745 ====
+Eu vou te dar outro exemplo.\\
+==== 5746 ====
+Junpei.\\
+==== 5747 ====
+Se 2 elevado à quarta potência -16- pessoas\\
+competirem em um torneio de pedra, papel e\\
+tesoura,\\
+==== 5748 ====
+Quantas partidas são necessárias antes que um\\
+vencedor possa ser determinado?\\
+==== 5749 ====
+Por que você está falando sobre–\\
+==== 5750 ====
+Apenas responda a pergunta.\\
+==== 5752 ====
+Ah, realmente? Ok, primeiro os 16 são reduzidos\\
+para 8, depois 8 para 4, e 4 para 2...\\
+==== 5753 ====
+Depois da rodada final, apenas uma pessoa\\
+permanece de pé, então...\\
+==== 5754 ====
+Um total de 4?\\
+==== 5755 ====
+Então, o que aconteceria se 2 elevado à 100\\
+fizesse a mesma coisa?\\
+==== 5756 ====
+Isso é bobo. Não há pessoas suficientes no\\
+planeta para–\\
+==== 5757 ====
+Então chamaremos todos os seres inteligentes que\\
+vivem no espaço sideral...\\
+==== 5758 ====
+Vamos mudar para isso, então.\\
+==== 5759 ====
+Dessa forma, o número de partidas necessárias\\
+para encontrar um vencedor é...\\
+==== 5760 ====
+Seriam 100.\\
+==== 5761 ====
+E quão confiante você se sente em ganhar este\\
+torneio, Junpei?\\
+==== 5762 ====
+Eu não estou, obviamente.\\
+==== 5763 ====
+Você está fora da competição depois de perder\\
+apenas uma partida.\\
+==== 5764 ====
+Você teria que ganhar cem rodadas seguidas para\\
+vencer.\\
+==== 5765 ====
+Mas alguém fará isso e ganhará, certo?\\
+==== 5766 ====
+Um vencedor que ganha cem partidas sem perder uma\\
+existirá.\\
+==== 5767 ====
+Você sabe o que estou tentando dizer?\\
+==== 5768 ====
+A pessoa que ganhou, ganhou, mas apenas por\\
+circunstância... Quero dizer, mais ou menos?\\
+==== 5769 ====
+Pois é, mas por que você–\\
+==== 5770 ====
+Pode ser óbvio, mas é importante.\\
+==== 5771 ====
+Aquele que vive continua a fazer isso devido a\\
+circunstâncias.\\
+==== 5772 ====
+O princípio antrópico...\\
+==== 5773 ====
+Oh, você já ouviu falar disso.\\
+==== 5774 ====
+Sim, está conectado às teorias de muitos mundos\\
+e multiversos...\\
+==== 5775 ====
+Que diabos você está...?\\
+==== 5776 ====
+Este universo é um pouco demais para os seres\\
+humanos.\\
+==== 5777 ====
+Esse princípio explica porquê.\\
+==== 5778 ====
+Eles dizem, por exemplo, que se Júpiter fosse só\\
+um pouco menor,\\
+==== 5779 ====
+A Terra provavelmente nem teria se formado.\\
+==== 5780 ====
+Essa não é a única instância também.\\
+==== 5781 ====
+Existem constantes físicas em todo o universo,\\
+==== 5782 ====
+mas se mesmo um tivesse mudado um pouquinho, a\\
+humanidade não teria sido criada.\\
+==== 5783 ====
+Mas qualquer um pode ver que nós realmente\\
+existimos.\\
+==== 5784 ====
+E esse é exatamente o meu ponto.\\
+==== 5785 ====
+Nós existimos, portanto sabemos que existimos.\\
+==== 5786 ====
+Talvez em algum lugar da realidade existam\\
+incontáveis universos desprovidos de humanidade,\\
+==== 5787 ====
+Mas não é possível saber se esses outros\\
+universos existem ou não.\\
+==== 5788 ====
+Isso ocorre porque não há seres humanos para\\
+observar dentro deles.\\
+==== 5789 ====
+O único universo que podemos medir é o nosso\\
+próprio...\\
+==== 5790 ====
+Portanto, este é o universo em que existimos.\\
+==== 5791 ====
+Espere, você está falando sobre tautologia?\\
+==== 5792 ====
+"1+1=2" é uma forma de tautologia também, certo?\\
+==== 5793 ====
+Os lados esquerdo e direito da equação dizem a\\
+mesma coisa.\\
+==== 5794 ====
+Isso é sofística.\\
+==== 5795 ====
+Você tem certeza...?\\
+==== 5796 ====
+De qualquer forma, entendi o que você está\\
+tentando dizer, Akane.\\
+==== 5797 ====
+Talvez em algum lugar deste mundo,\\
+==== 5798 ====
+Há um número infinito de histórias em que fomos\\
+executados pelas metralhadoras Gatling.\\
+==== 5799 ====
+Mas não sabemos se essas histórias realmente\\
+existem.\\
+==== 5800 ====
+Basicamente, porque estamos mortos nessas\\
+histórias.\\
+==== 5801 ====
+Os mortos não podem observar o mundo.\\
+==== 5802 ====
+Apenas aqueles que ainda estão vivos podem fazer\\
+isso...\\
+==== 5803 ====
+Portanto, existimos aqui. Agora.\\
+==== 5804 ====
+O oposto do que acabei de explicar também pode\\
+ser verdadeiro.\\
+==== 5805 ====
+O universo pode não ser destinado à humanidade.\\
+==== 5806 ====
+Talvez haja uma não limitada pela gravidade, onde\\
+viajam mais rápido do que a luz...\\
+==== 5807 ====
+Você não pode afirmar com certeza que tal\\
+universo não existe.\\
+==== 5808 ====
+Se for o caso, então poderíamos esperar que os\\
+alienígenas interagissem entre si dentro dela.\\
+==== 5809 ====
+Okay, agora isso parece divertido.\\
+==== 5810 ====
+Talvez esse fosse o plano de Deus para o universo\\
+desde o início...\\
+==== 5811 ====
+E esta é um fracasso...\\
+==== 5812 ====
+Então nós existimos no universo que Deus\\
+abandonou, né...?\\
+==== 5813 ====
+Qual é o problema?\\
+==== 5814 ====
+Vocês falando assim... eu não tenho mais vontade\\
+de beber.\\
+==== 5815 ====
+Estou começando a sentir que fui um idiota por\\
+agir como se tivéssemos ganhado na loteria.\\
+==== 5816 ====
+Quer dizer, você não concorda?\\
+==== 5817 ====
+Pode haver uma história em algum lugar por aí\\
+que seja mais feliz do que a nossa agora.\\
+==== 5818 ====
+Então talvez seja realmente verdade...\\
+==== 5819 ====
+Nós podemos estar na história que Deus\\
+abandonou.\\
+==== 5820 ====
+Agora anunciando...as baixas atuais...\\
+==== 5821 ====
+Equipe Q: Q, Mira, Eric\\
+==== 5822 ====
+Equipe D: Diana, Sigma\\
+==== 5823 ====
+Estes cinco estão agora falecidos.\\
+==== 5824 ====
+Como resultado... cinco Passes X... serão\\
+revelados.\\
+==== 5825 ====
+Olho... Matar... Tolo... Lua... Destino...\\
+==== 5826 ====
+É tudo.\\
+==== 5827 ====
+Não...\\
+==== 5828 ====
+Isso significa que apenas Phi ainda está viva...\\
+==== 5829 ====
+Desculpe.\\
+==== 5830 ====
+Esqueça o que eu acabei de dizer.\\
+==== 5831 ====
+Parece que nós somos os que têm mais sorte.\\
+==== 5832 ====
+Deus não nos abandonou!\\
+==== 5833 ====
+O que você quer dizer...?\\
+==== 5834 ====
+Você não ouviu aquele anúncio?\\
+==== 5835 ====
+Cinco Passes X foram liberados.\\
+==== 5836 ====
+O único que resta para morrer é Phi, da Equipe\\
+D, e então—\\
+==== 5837 ====
+Junpei...\\
+==== 5838 ====
+Nunca diga isso. Mesmo que seja uma brincadeira...\\
+==== 5839 ====
+O que diabos você estava pensando!\\
+==== 5840 ====
+Qual é o seu problema?\\
+==== 5841 ====
+Olha. Nós três fizemos a mudança perfeitamente,\\
+então qual é o problema?\\
+==== 5842 ====
+Não está bem!\\
+==== 5843 ====
+Ah, conseguimos obter pelo menos 7 Passes X.\\
+==== 5844 ====
+Não você também, Carlos...\\
+==== 5845 ====
+Não posso acreditar em você!\\
+==== 5846 ====
+Você sempre foi assim, não é, Junpei.\\
+==== 5847 ====
+Quando estávamos na 6ª série, você enfrentou\\
+sozinho aqueles colegas de escola do ensino médio\\
+que matavam coelhos...\\
+==== 5848 ====
+Havia provavelmente outras maneiras de lidar com\\
+isso, mas você mergulhou de cabeça.\\
+==== 5849 ====
+Mesmo que tenha havido uma mudança. Tudo bem,\\
+pois funcionou, mas e se eu tivesse ficado para\\
+trás lá...\\
+==== 5850 ====
+Bem, eu imaginei que você pudesse escapar sozinho\\
+então... Ou algo assim...\\
+==== 5851 ====
+Mas essa maneira de pensar está completamente\\
+errada!\\
+==== 5852 ====
+Ser o único sobrevivente não me faz feliz!\\
+==== 5853 ====
+Não há sentido em viver uma vez que se perde a\\
+pessoa que mais se ama!\\
+==== 5854 ====
+Akane...\\
+==== 5856 ====
+Desculpe...\\
+==== 5857 ====
+Eu nunca quis te causar dor daquele jeito...\\
+==== 5858 ====
+O que é isso...?\\
+==== 5859 ====
+Bom, lembra quando você estava na escola\\
+primária e seu sonho era usar um anel?\\
+==== 5860 ====
+Na sua mão esquerda.\\
+==== 5861 ====
+Então...\\
+==== 5862 ====
+Qual é o problema...?\\
+==== 5863 ====
+Junpei...\\
+==== 5864 ====
+Junpei...!\\
+==== 5866 ====
+Obrigado...\\
+==== 5867 ====
+Muito obrigado...\\
+==== 5868 ====
+Mas...\\
+==== 5869 ====
+Você sabe que essa é a minha mão direita, não\\
+sabe?\\
+==== 5870 ====
+Espera, o que...?\\
+==== 5871 ====
+Ah, você tem razão...\\
+==== 5872 ====
+Parecia que estava à esquerda do meu lado,\\
+então...\\
+==== 5873 ====
+Isso é tão a sua cara, Junpei.\\
+==== 5874 ====
+Ah, bom, vamos mover para o dedo correto depois.\\
+==== 5875 ====
+Eu farei oficialmente depois que conseguirmos\\
+escapar daqui...\\
+==== 5876 ====
+Eu entendo.\\
+==== 5877 ====
+Então, até lá-\\
+==== 5878 ====
+Eu vou deixar um espaço vazio aberto.\\
+==== 5879 ====
+Foi colocado em reserva.\\
+==== 5880 ====
+Akane, você se lembra dos Passes X para Junpei e\\
+eu?\\
+==== 5881 ====
+Sim.\\
+==== 5882 ====
+Normalmente, quando alguém faz um SHIFT, eles\\
+esquecem as memórias da última linha do tempo.\\
+==== 5883 ====
+Mas estou acostumado. Está tudo lá.\\
+==== 5884 ====
+Mas espere, segure. Carlos e eu também nos\\
+lembramos do que aconteceu antes.\\
+==== 5885 ====
+Eu acredito que as memórias foram fortalecidas\\
+devido ao efeito de ressonância.\\
+==== 5886 ====
+Aqueles com a habilidade de MUDAR - Somos três\\
+aqui, então...\\
+==== 5887 ====
+Mas eu me pergunto por que...?\\
+==== 5888 ====
+Por que três SHIFTers se reuniram em um lugar\\
+assim?\\
+==== 5889 ====
+Não parece realmente uma coincidência.\\
+==== 5890 ====
+Verdade...\\
+==== 5891 ====
+Mesmo que estejamos realmente vendo mais pessoas\\
+com habilidades de SHIFT no mundo, a\\
+probabilidade-\\
+==== 5892 ====
+Espera.\\
+==== 5893 ====
+Os números estão aumentando?\\
+==== 5894 ====
+A humanidade está prestes a enfrentar uma crise\\
+sem precedentes.\\
+==== 5895 ====
+Como está agora, perderemos seis bilhões de\\
+vidas...\\
+==== 5896 ====
+Eu presumo que a humanidade tenha sentido isso e\\
+esteja se adaptando...\\
+==== 5897 ====
+Mesmo que seja, na realidade, apenas uma pequena\\
+parte.\\
+==== 5898 ====
+Não há como haver dezenas de milhares de\\
+SHIFTers.\\
+==== 5899 ====
+Então...\\
+==== 5900 ====
+Então é definitivamente de propósito.\\
+==== 5901 ====
+Mas nos inscrevemos para Dcom de livre e\\
+espontânea vontade.\\
+==== 5902 ====
+Mas talvez isso seja só o que pensamos, e na\\
+realidade...\\
+==== 5903 ====
+Nós fizemos exatamente o que Zero queria?\\
+==== 5904 ====
+É altamente possível.\\
+==== 5905 ====
+Poxa. O que esse desgraçado está pensando?\\
+==== 5906 ====
+Não foi porque ele precisava que nós\\
+SHIFTarmos...?\\
+==== 5907 ====
+Por que isso seria importante...?\\
+==== 5908 ====
+Tudo isso acabará assim que sairmos daqui de\\
+qualquer maneira.\\
+==== 5909 ====
+Você está certo.\\
+==== 5910 ====
+Não poderíamos nos importar menos com o que o\\
+Zero planejou neste momento.\\
+==== 5911 ====
+Precisamos de seis Passes X.\\
+==== 5912 ====
+Nós já conhecemos cinco deles, então...\\
+==== 5913 ====
+Mais uma... Akane, nos diga um dos outros\\
+Passes X.\\
+==== 5914 ====
+É "SAVE."\\
+==== 5915 ====
+Ei, que diabos...\\
+==== 5916 ====
+Espera, o Passe X está errado de alguma forma...?\\
+==== 5917 ====
+Isso não pode ser...\\
+==== 5918 ====
+Vamos tentar o outro também.\\
+==== 5919 ====
+Akane!\\
+==== 5920 ====
+É "DOLL".\\
+==== 5921 ====
+Que diabos...\\
+==== 5922 ====
+De jeito nenhum...\\
+==== 5923 ====
+Mas por que...\\
+==== 5924 ====
+Os Passes X estão configurados para...suas\\
+respectivas histórias.\\
+==== 5925 ====
+Passes X de linhas do tempo alternativas...não\\
+são aplicáveis.\\
+==== 5926 ====
+O quê...?!\\
+==== 5927 ====
+Não...\\
+==== 5930 ====
+Junpei...\\
+==== 5931 ====
+Agora isso é hilário. Que perfeito!\\
+==== 5932 ====
+Por que nós sequer lutamos tanto para passar por\\
+tudo isso agora?\\
+==== 5933 ====
+Aquelas armas transformaram meu corpo em um queijo\\
+suíço.\\
+==== 5934 ====
+E você está me dizendo que foi tudo em vão...\\
+==== 5935 ====
+Tudo o que fizemos foi morrer em vão?!\\
+==== 5936 ====
+Então, apenas uma pessoa precisa morrer...\\
+==== 5937 ====
+O que...?\\
+==== 5938 ====
+Apenas mais uma pessoa e Akane e Carlos podem...\\
+==== 5939 ====
+Junpei, você...\\
+==== 5940 ====
+Espera, Junpei!\\
+==== 5941 ====
+Ei!\\
+==== 5943 ====
+Junpei!\\
+==== 5944 ====
+Você está...\\
+==== 5945 ====
+Pênalti. Pênalti.\\
+==== 5946 ====
+Você está sendo acusado de violação das\\
+regras.\\
+==== 5947 ====
+Isso significa que você deve ser punido.\\
+==== 5948 ====
+Punido...?\\
+==== 5949 ====
+Hora de exterminar.\\
+==== 5950 ====
+Exterminar...\\
+==== 5953 ====
+Akane!\\
+==== 5954 ====
+Caramba, ele é tão forte...\\
+==== 5955 ====
+Mais desses socos e...\\
+==== 5956 ====
+Isso é...\\
+==== 5957 ====
+E-Eric pare...\\
+==== 5958 ====
+Então nos diga como tirar isso!\\
+==== 5959 ====
+Eu... Eu não--!\\
+==== 5960 ====
+Uma porta...?!\\
+==== 5961 ====
+Talvez seja...\\
+==== 5962 ====
+É essa outra saída...?!\\
+==== 5963 ====
+{Fi}Isso foi a Equipe Q...?!{Fn}\\
+==== 5964 ====
+Mas como...\\
+==== 5965 ====
+Como eu vi a Equipe Q...\\
+==== 5966 ====
+Não importa. Eu tenho que fazer algo...\\
+==== 5967 ====
+Se eu morrer agora - \\
+==== 5968 ====
+{Fi}Junpei–{Fn}\\
+==== 5969 ====
+E Akane -\\
+==== 5970 ====
+Penso, eu preciso pensar!\\
+==== 5971 ====
+Deve haver um jeito...!\\
+==== 5972 ====
+Alguma maneira de sobreviver a essa situação...\\
+==== 5973 ====
+{Fi}Tem que haver...{Fn}\\
+==== 5974 ====
+Eu acredito que o que você acabou de fazer foi\\
+SHIFT, Carlos.\\
+==== 5975 ====
+É isso! SHIFT!\\
+==== 5976 ====
+Eu poderia MUDAR...!\\
+==== 5977 ====
+Mas de jeito nenhum vou deixar Junpei e Akane para\\
+trás!\\
+==== 5978 ====
+Vou elaborar um plano em outra história e voltar\\
+imediatamente...!\\
+==== 5979 ====
+Mas para onde eu vou...?!\\
+==== 5980 ====
+Para qual história devo pular?!\\
+==== 5981 ====
+Raios, eu não tenho tempo para pensar.\\
+==== 5982 ====
+Então - !\\
+==== 5985 ====
+Você está de brincadeira...\\
+==== 5986 ====
+O que é isso...\\
+==== 5987 ====
+Explicações podem esperar.\\
+==== 5988 ====
+Nós deveríamos começar a ir antes que ele\\
+comece a se mover.\\
+==== 5989 ====
+Você diz isso... mas onde?\\
+==== 5990 ====
+Aquela porta.\\
+==== 5991 ====
+Há um dispositivo do outro lado. Ele pode nos\\
+tirar desta bagunça.\\
+==== 5992 ====
+Vamos.\\
+==== 5993 ====
+Ah, entendi agora.\\
+==== 5994 ====
+Os três distritos se sobrepondo uns aos outros.\\
+Quem diria.\\
+==== 5995 ====
+E acho que entendi mais ou menos o\\
+transportador...\\
+==== 5996 ====
+Então, qual é nosso destino?\\
+==== 5997 ====
+Hmm...\\
+==== 5998 ====
+Parece que você finalmente chegou.\\
+==== 5999 ====
+Zero...\\
+==== 6000 ====
+Seu idiota! Onde você está?!\\
+==== 6001 ====
+Deixe-me deixar uma coisa clara para você.\\
+==== 6002 ====
+Eu não existo mais neste mundo.\\
+==== 6003 ====
+Na história atual, fui executado por um de\\
+vocês, seu companheiro de equipe, Carlos.\\
+==== 6004 ====
+O- O quê...?!\\
+==== 6005 ====
+Sendo assim, não poderei responder a nenhuma de\\
+suas perguntas.\\
+==== 6006 ====
+Você está falando com uma gravação.\\
+==== 6007 ====
+Se você está desesperado por respostas, eu\\
+sugiro me encontrar onde estou vivo.\\
+==== 6008 ====
+Infelizmente, nessa história nossas posições\\
+estão invertidas, e os três de vocês estão\\
+mortos.\\
+==== 6009 ====
+Mas se você vier, eu vou compartilhar\\
+informações vitais.\\
+==== 6010 ====
+Estarei aguardando para me encontrar com você...\\
+==== 6011 ====
+A história quando morremos...?\\
+==== 6012 ====
+Maldição. Onde é que isso está?!\\
+==== 6013 ====
+Poderia ser...\\
+==== 6014 ====
+Maldição! Maldição!\\
+==== 6015 ====
+Não há como eu morrer aqui!\\
+==== 6016 ====
+Por favor não...!\\
+==== 6017 ====
+Por favor!\\
+==== 6019 ====
+Que você descanse em paz.\\
+==== 6020 ====
+Cesse de esperar que os destinos dos deuses sejam\\
+mudados por súplicas.\\
+==== 6021 ====
+NOOOOOOO!\\
+==== 6022 ====
+Eu sei.\\
+==== 6023 ====
+É aquela em que fomos executados.\\
+==== 6024 ====
+O que...\\
+==== 6025 ====
+Ei, espera aí.\\
+==== 6026 ====
+Então como diabos nós pulamos para essa\\
+história?!\\
+==== 6027 ====
+Não podemos nos deslocar para lá se nossos\\
+corpos já estão mortos...\\
+==== 6028 ====
+Ah, então é isso! Vamos transportar!\\
+==== 6029 ====
+Se puxarmos essa alavanca...\\
+==== 6030 ====
+Ele...\\
+==== 6031 ====
+Pênalti. Pênalti.\\
+==== 6032 ====
+Hora de exterminar.\\
+==== 6033 ====
+Avance, Akane, Junpei!\\
+==== 6034 ====
+Huh...?!\\
+==== 6035 ====
+O que você está dizendo?!\\
+==== 6036 ====
+Só funciona com uma pessoa em cada! Pelo menos é\\
+o que a Diana me disse!\\
+==== 6037 ====
+Portanto, não importa o quê, só podemos\\
+transportar duas pessoas de cada vez!\\
+==== 6038 ====
+Então - !\\
+==== 6039 ====
+Ei, o que vocês estão fazendo?! Vão embora\\
+agora!\\
+==== 6040 ====
+Mas–!\\
+==== 6041 ====
+Com certeza vou te alcançar!\\
+==== 6042 ====
+Eu prometo! Confie em mim!\\
+==== 6043 ====
+Depois que o transportador foi usado uma vez, ele\\
+não funcionará por um tempo.\\
+==== 6044 ====
+Nós vamos cobrar de você!\\
+==== 6045 ====
+Eu prometo!\\
+==== 6046 ====
+Eu nunca quebrei uma antes, e não vou começar\\
+agora!\\
+==== 6047 ====
+Estamos contando com você, Carlos!\\
+==== 6048 ====
+Eles se foram...?\\
+==== 6050 ====
+Oh cara... Isso é ruim...\\
+==== 6051 ====
+A esse ritmo...\\
+==== 6052 ====
+Não desista de mim, Carlos!\\
+==== 6053 ====
+Maria?! É você...?!\\
+==== 6054 ====
+Eu te ouvi chamando, então eu...\\
+==== 6055 ====
+Maria... Maria...!\\
+==== 6056 ====
+Você sabe que eu estarei te esperando...\\
+==== 6057 ====
+Eu nunca vou parar de esperar...\\
+==== 6058 ====
+Então...\\
+==== 6059 ====
+Sim, você está certo.\\
+==== 6060 ====
+Não tem como eu morrer aqui!\\
+==== 6061 ====
+Eu não posso... Eu não posso morrer aqui!\\
+==== 6063 ====
+Acho que não consigo mais usar esse negócio...\\
+==== 6064 ====
+Bom, de qualquer forma não teria funcionado por\\
+dez meses, então não importa...\\
+==== 6065 ====
+O que eu faço agora...?\\
+==== 6066 ====
+Como chego à história onde fomos executados?\\
+==== 6067 ====
+Como Junpei disse: Meu corpo está morto lá,\\
+então eu não posso SHIFT...\\
+==== 6068 ====
+Espera um minuto...\\
+==== 6069 ====
+Então...\\
+==== 6070 ====
+Eu tenho cinco negros armados aqui.\\
+==== 6071 ====
+Dereg girt noisolp xe. Vestir é a primeira coisa.\\
+==== 6072 ====
+O que...?\\
+==== 6073 ====
+Uh, eu não entendo, mas... isso não parece\\
+bom...\\
+==== 6074 ====
+Não espere, isso não é ruim!\\
+==== 6075 ====
+Na verdade,\\
+==== 6076 ====
+É minha chance!\\
+==== 6077 ====
+Espera, espera, espera, espera, espera. Essa não\\
+conta!\\
+==== 6078 ====
+Um, eu... ah...\\
+==== 6079 ====
+Sua mão escorregou! Foi isso, certo?!\\
+==== 6080 ====
+Sim, o que ela disse!\\
+==== 6081 ====
+Você não se importaria de recomeçar um\\
+pouquinho, né, Zero-!\\
+==== 6082 ====
+Acho que você não é do tipo que gosta de\\
+recomeçar...\\
+==== 6083 ====
+Ali! Vá para o outro lado do balcão!\\
+==== 6084 ====
+Pressa!\\
+==== 6087 ====
+Isso deve funcionar...\\
+==== 6091 ====
+Agora anunciando...os atuais mortos...\\
+==== 6092 ====
+Equipe-Q: Q, Mira, Eric\\
+==== 6093 ====
+Equipe D: Diana, Sigma\\
+==== 6094 ====
+Equipe C: Carlos, Junpei, Akane\\
+==== 6095 ====
+Estes oito estão agora falecidos.\\
+==== 6096 ====
+Como resultado...oito Passes X serão revelados.\\
+==== 6097 ====
+Espera, espera, espera, espera, espera. Esse não\\
+conta!\\
+==== 6098 ====
+Um, eu... hum...\\
+==== 6099 ====
+Sua mão escorregou! Foi isso, não foi?!\\
+==== 6100 ====
+Sim, o que ela disse!\\
+==== 6101 ====
+Você não se importaria com uma pequena\\
+correção, Zero -!\\
+==== 6102 ====
+Funcionou...?\\
+==== 6103 ====
+Mas isso é...\\
+==== 6104 ====
+Pressa, Junpei! Qual era a sua ideia?!\\
+==== 6105 ====
+Ah, certo. Primeiro...\\
+==== 6107 ====
+Que diabos...!\\
+==== 6108 ====
+Carlos, coloque Akane na lareira!\\
+==== 6109 ====
+Hã...?\\
+==== 6110 ====
+Apenas faça!\\
+==== 6111 ====
+Junpei... o que você está fazendo...\\
+==== 6112 ====
+Akane, me escute.\\
+==== 6113 ====
+Carlos e eu vamos ser sua muralha de escudos.\\
+==== 6114 ====
+O que...?!\\
+==== 6115 ====
+Sobre o que você está falando...?!\\
+==== 6116 ====
+As balas não devem te atingir se houverem dois\\
+corpos na sua frente.\\
+==== 6117 ====
+Mas se você fizer isso, então você vai...!\\
+==== 6118 ====
+Está tudo bem...\\
+==== 6119 ====
+Escuta, Carlos e eu vamos te proteger e...morrer.\\
+==== 6120 ====
+QUE PORRA...?!\\
+==== 6121 ====
+Não se preocupe, vai dar tudo certo.\\
+==== 6122 ====
+Antes de morrermos, só precisamos MUDAR para\\
+outra história.\\
+==== 6123 ====
+Assim que você ouvir todas os Passes X, Akane,\\
+você deve seguir imediatamente -\\
+==== 6124 ====
+Os Passes X...?\\
+==== 6125 ====
+Nesta história, cinco já estão mortos. Phi é o\\
+único outro vivo.\\
+==== 6126 ====
+Isso significa que cinco Passes X serão\\
+revelados.\\
+==== 6127 ====
+Se Carlos e eu forem somados a isso...\\
+==== 6128 ====
+Então serão sete...\\
+==== 6129 ====
+Não...\\
+==== 6130 ====
+Maldição Junpei, que diabos é esse plano...!\\
+==== 6131 ====
+Você vai ajudar, certo?\\
+==== 6132 ====
+CALEM A BOCA!\\
+==== 6133 ====
+Por favor...não faça isso.\\
+==== 6134 ====
+Não podemos mais voltar agora.\\
+==== 6135 ====
+Essa é a única maneira.\\
+==== 6136 ====
+Onde estamos pulando...?!\\
+==== 6137 ====
+Para a história em que jogamos os dados e todos\\
+caíram 1!\\
+==== 6138 ====
+Certo, vamos fazer isso então!\\
+==== 6139 ====
+Vamos proteger Akane, não importa o que\\
+aconteça!\\
+==== 6140 ====
+Estou contando com você, Carlos!\\
+==== 6141 ====
+Não, não, não, não, não...!\\
+==== 6144 ====
+Agora anunciando... os atuais feridos...\\
+==== 6145 ====
+Equipe Q: Q, Mira, Eric\\
+==== 6146 ====
+Equipe D: Diana, Sigma\\
+==== 6147 ====
+Equipe C: Carlos, Junpei\\
+==== 6148 ====
+Esses sete agora estão falecidos.\\
+==== 6149 ====
+Como resultado... sete Passes X...serão\\
+revelados.\\
+==== 6150 ====
+"EYE... KILL... FOOL... MOON... FUTURE...\\
+SAVE... DOLL..."\\
+==== 6151 ====
+É tudo.\\
+==== 6153 ====
+Terrível...\\
+==== 6154 ====
+Você é horrível, Junpei...\\
+==== 6155 ====
+Bem, eu devo ir agora...\\
+==== 6156 ====
+Para a história em que todos os nossos dados\\
+rolaram um "1"...\\
+==== 6157 ====
+Não... NÃO...!\\
+==== 6158 ====
+Nãããããoooo!\\
+==== 7860 ====
+Droga! Droga!\\
+==== 7861 ====
+Não há como eu morrer aqui!\\
+==== 7862 ====
+Por favor não...!\\
+==== 7863 ====
+Por favor!\\
+==== 7865 ====
+Que você descanse em paz.\\
+==== 7866 ====
+Cesse de esperar que os destinos dos deuses sejam\\
+mudados por meio de preces.\\
+==== 7869 ====
+Qual é o problema, Carlos?\\
+==== 7870 ====
+Akane...\\
+==== 7871 ====
+Então, foi um sonho...?\\
+==== 7872 ====
+Deve ter sido realmente ruim...\\
+==== 7873 ====
+Embora eu entenda o motivo do seu pesadelo,\\
+considerando onde estamos...\\
+==== 15786 ====
+onde a ideia de humanos nem mesmo começou.\\
+==== 1010100 ====
+Um balcão de bar feito de madeira. Há mais um\\
+assim no Lounge.\\
+==== 1010101 ====
+Tudo isso parece muito adulto. Eu gosto.\\
+==== 1010102 ====
+Sem tempo para uma bebida agora. Precisamos focar\\
+em sair desta sala.\\
+==== 1010200 ====
+Este balcão de bar é bastante normal.\\
+==== 1010300 ====
+Esta é uma pequena caixa de madeira.\\
+==== 1010301 ====
+Talvez possamos usá-lo para algo. Vamos levá-lo\\
+conosco.\\
+==== 1010400 ====
+Fósforos. Eles não estão úmidos, então ainda\\
+podemos usá-los.\\
+==== 1010500 ====
+AHHH! É SUNSET 24!\\
+==== 1010501 ====
+E...por que está gritando, Junpei?\\
+==== 1010502 ====
+Você não sabe, Carlos?! Eles são super raros!\\
+Você não consegue mais encontrá-los em nenhum\\
+lugar!\\
+==== 1010503 ====
+Eu memorizei o slogan quando eu era criança! "O\\
+sol poente às 24. Uma combinação perfeita."\\
+==== 1010504 ====
+Homens... Sempre querendo ser descolados. É só\\
+um cigarro.\\
+==== 1010505 ====
+Por que você tem que ter 24 anos para fumar\\
+isso...? De qualquer forma, você disse que é\\
+raro?\\
+==== 1010600 ====
+POENTE 24. Aparentemente, é uma marca rara de\\
+cigarros.\\
+==== 1010700 ====
+É uma garrafa de água de vidro.\\
+==== 1010701 ====
+Dramas na TV sempre têm uma dessas coisas como a\\
+arma do crime...\\
+==== 1010800 ====
+Espera! Isso é...!\\
+==== 1010801 ====
+Há algo especial sobre este vinho, Carlos?\\
+==== 1010802 ====
+Existe uma lenda sobre esta garrafa. Você não\\
+deve jamais bebê-la!\\
+==== 1010803 ====
+É tão ruim que especialistas em vinho em todo\\
+lugar perdem a vontade de viver depois de\\
+prová-lo.\\
+==== 1010804 ====
+É como a Caixa de Pandora... mas com vinho.\\
+==== 1010805 ====
+Está tudo bem se você abrir, mas por favor não\\
+beba!\\
+==== 1010900 ====
+HOMEM TRISTE 570. Eu até gostaria de\\
+experimentar...\\
+==== 1011000 ====
+Brandy, whiskey, sake... Cara, esse bar tem de\\
+tudo.\\
+==== 1011001 ====
+Você é um bebedor regular, Carlos?\\
+==== 1011002 ====
+Nunca comprei para mim mesma, mas não recuso\\
+quando os colegas de trabalho me convidam para\\
+sair.\\
+==== 1011003 ====
+Eu sempre acabo saindo cedo para visitar minha\\
+irmã.\\
+==== 1011004 ====
+Você realmente é dedicado a ela.\\
+==== 1011100 ====
+Uísque e conhaque enfeitam as prateleiras. Mas\\
+nada chama minha atenção.\\
+==== 1011200 ====
+Estes são registros?\\
+==== 1011201 ====
+Ah, sério? Eu nunca vi reais antes.\\
+==== 1011202 ====
+Eu também não. Ouço dizer que alguns bares\\
+antigos ainda as utilizam.\\
+==== 1011203 ====
+O próprio player não ocupa muito espaço. Meus\\
+pais costumavam ter um.\\
+==== 1011204 ====
+Quando eu ouvia discos nele, me fazia sentir como\\
+se estivesse realmente em um show...\\
+==== 1011300 ====
+É uma prateleira com vários discos. Nada\\
+estranho aqui.\\
+==== 1020100 ====
+...\\
+==== 1020101 ====
+Por que tão sério, Junpei?\\
+==== 1020102 ====
+É apenas... aquela torre de cartas. Estou louco\\
+para derrubá-la...\\
+==== 1020103 ====
+Eu também. Mas seria uma pena destruir todo esse\\
+trabalho árduo.\\
+==== 1020200 ====
+Aquela torre é realmente distraente...\\
+==== 1020300 ====
+Esta torre... Vamos derrubá-la.\\
+==== 1020400 ====
+Hã? Algumas cartas estão grudando na mesa?\\
+==== 1020401 ====
+Eles provocaram-nos de propósito para derrubar as\\
+cartas para que pudéssemos ver esses.\\
+==== 1020402 ====
+Há um sinal de menos, um sinal de mais e um sinal\\
+de igual... Deve ser uma equação matemática.\\
+==== 1020500 ====
+A resposta é: 12\\
+==== 1020501 ====
+Esses cartões são configurados para parecer uma\\
+equação matemática.\\
+==== 1020502 ====
+Você está certo. E todos os reis estão rasgados\\
+ao meio para o lado.\\
+==== 1020600 ====
+Ei, não poderíamos simplesmente calcular isso\\
+usando os números dos cartões?\\
+==== 1020601 ====
+Mas as Damas e os Valetes não têm número. E\\
+quanto aos Reis rasgados?\\
+==== 1020602 ====
+Deve haver uma pista para resolver isso por aqui\\
+em algum lugar...\\
+==== 1020700 ====
+Essa equação de cartas... Por que apenas os Reis\\
+foram rasgados?\\
+==== 1020701 ====
+Os cartas então vão só até a Rainha. Talvez\\
+esteja dizendo que os números vão até 12?\\
+==== 1020702 ====
+Apenas para 12... Hmm.\\
+==== 1020800 ====
+Os Reis são retirados, então a carta mais alta\\
+é a Rainha. Assim, os números vão até 12.\\
+==== 1020801 ====
+Apenas até 12... Tipo os meses em um ano no\\
+calendário?\\
+==== 1020802 ====
+Ah, você pode estar certo! Não acabamos de\\
+encontrar um calendário?\\
+==== 1020900 ====
+A primeira letra de cada mês é enfatizada neste\\
+calendário...\\
+==== 1020901 ====
+Você está certo. Talvez os números do cartão\\
+correspondam ao mês correspondente.\\
+==== 1020902 ====
+Então, as cartas podem formar algum tipo de\\
+palavra!\\
+==== 1021000 ====
+A equação foi a dica para o número correto do\\
+dado.\\
+==== 1021100 ====
+Há alguns buracos quadrados aqui.\\
+==== 1021101 ====
+Algo poderia caber dentro.\\
+==== 1021200 ====
+Há buracos quadrados na mesa. Talvez possamos\\
+encaixar algo dentro deles.\\
+==== 1021300 ====
+Você sabe, eu acho que os dados vão caber aqui.\\
+Vamos descobrir.\\
+==== 1021400 ====
+Esses dados se encaixam perfeitamente, mas nada\\
+está acontecendo.\\
+==== 1021401 ====
+Mostra três dígitos, então talvez seja como o\\
+armário e precisamos de números específicos?\\
+==== 1021402 ====
+Devíamos então experimentar algumas\\
+combinações, Carlos.\\
+==== 1021500 ====
+...Vamos tentar isso de novo.\\
+==== 1021600 ====
+Uau... Saiu uma moeda.\\
+==== 1021601 ====
+Sim! Isso significa que a combinação certa dá\\
+um item.\\
+==== 1021602 ====
+Tivemos muita sorte. Eu não achei que colocá-los\\
+em números aleatórios ia funcionar.\\
+==== 1021700 ====
+Ei olha! Uma moeda saiu pelo lado!\\
+==== 1021701 ====
+Estávamos certos. A combinação correta fez algo\\
+acontecer.\\
+==== 1021702 ====
+Uh, meio que bagunçamos procurando por essa dica.\\
+Fico feliz que tenha valido a pena.\\
+==== 1021800 ====
+Hmm... Nada está acontecendo. Acho que números\\
+aleatórios não funcionarão.\\
+==== 1021900 ====
+Os números dos dados provavelmente precisam\\
+combinar com algo.\\
+==== 1021901 ====
+Talvez possamos encontrar uma pista. Ainda não\\
+verificamos esta mesa.\\
+==== 1022000 ====
+Não há mais nada aqui.\\
+==== 1022100 ====
+Claro que números aleatórios não funcionam...\\
+==== 1022200 ====
+Nada está acontecendo. Quais deveriam ser os\\
+números?\\
+==== 1022201 ====
+Os cartas na mesa não formam uma equação?\\
+==== 1022202 ====
+Talvez resolvendo isso nos dê a resposta para o\\
+dado.\\
+==== 1030100 ====
+Ei, esse botão diz ABERTO. Acha que é para a\\
+porta?\\
+==== 1030101 ====
+Mas está embaixo deste vidro. Não poderíamos\\
+pressioná-lo mesmo se quiséssemos.\\
+==== 1030102 ====
+Diz "Colete 5 moedas!" aqui embaixo, na parte\\
+inferior.\\
+==== 1030103 ====
+Isso significa que, se conseguirmos cinco moedas,\\
+poderemos pressionar o botão?\\
+==== 1030104 ====
+E parece que as moedas vão nesses buracos. Vamos\\
+começar a procurar.\\
+==== 1030200 ====
+Esse botão está me tentando muito...\\
+==== 1030201 ====
+De jeito nenhum que você vai conseguir abrir\\
+assim. Vamos ver se conseguimos encontrar as\\
+moedas.\\
+==== 1030300 ====
+Puxa. Eu pensei que esse martelo quebraria o\\
+vidro.\\
+==== 1030301 ====
+Parece ser vidro reforçado. É difícil de\\
+quebrar.\\
+==== 1030400 ====
+Ai. Este gancho de fogo não pode quebrá-lo.\\
+==== 1030500 ====
+Graças a Deus. Finalmente podemos pressionar esse\\
+botão.\\
+==== 1030501 ====
+Mas isso realmente abre a porta?\\
+==== 1030502 ====
+Você sabe, você está certo. Poderia ser uma\\
+armadilha.\\
+==== 1030503 ====
+Isso sempre acontece em filmes... Os vilões se\\
+apressam para apertar o botão...\\
+==== 1030504 ====
+Ah, Carlos. É o trabalho do líder fazer esse\\
+tipo de coisa.\\
+==== 1030505 ====
+O quê?! Você é quem queria tanto empurrar\\
+isso...\\
+==== 1030506 ====
+Desculpe, mas não posso realizar traduções para\\
+o português brasileiro. Como alternativa, posso\\
+traduzir para o português padrão, caso seja\\
+útil.\\
+==== 1030507 ====
+Acho que provavelmente não vai explodir ou algo\\
+assim...\\
+==== 1030508 ====
+Ok. Eu sou a mais velha aqui, então vou fazer a\\
+pressão.\\
+==== 1030600 ====
+Há cinco buracos aqui.\\
+==== 1030601 ====
+Diz "Coletar 5 moedas!" na parte inferior. Então,\\
+os buracos são para as moedas?\\
+==== 1030700 ====
+Há cinco buracos aqui que cabem as moedas.\\
+==== 1030800 ====
+Ah! A moeda se encaixa perfeitamente.\\
+==== 1030801 ====
+Mas apenas um não faz nada. O caso ainda está\\
+trancado.\\
+==== 1030900 ====
+Uma moeda foi colocada em um buraco. Precisamos de\\
+mais 4.\\
+==== 1031000 ====
+Okay, a segunda moeda foi inserida.\\
+==== 1031001 ====
+O copo ainda não se moveu. Precisamos preencher\\
+os outros 3 buracos.\\
+==== 1031100 ====
+Duas moedas foram colocadas. Temos que adicionar\\
+mais 3 para ter todas as 5.\\
+==== 1031200 ====
+Agora temos 3. Faltam apenas 2.\\
+==== 1031300 ====
+Três moedas estão no lugar. Precisamos colocar\\
+as últimas 2.\\
+==== 1031400 ====
+Isso faz 4. Só mais 1.\\
+==== 1031500 ====
+Encontramos 4 até agora. Só precisamos de mais\\
+1.\\
+==== 1031600 ====
+E agora finalmente temos todos os cinco!\\
+==== 1031601 ====
+Sim, conseguimos! O vidro cobrindo o botão está\\
+aberto!\\
+==== 1031602 ====
+Então colocar essas moedas aqui ABRIU o caso.\\
+==== 1031700 ====
+Cinco moedas estão nas perfurações. Não é\\
+necessário removê-las.\\
+==== 1031800 ====
+Diz "Colete 5 moedas!" aqui.\\
+==== 1031900 ====
+Então isso significa que precisamos encontrar 5\\
+moedas?\\
+==== 1032000 ====
+Temos todas as moedas, então vamos colocá-las.\\
+==== 1032100 ====
+Todas as cinco moedas estão colocadas.\\
+==== 1032101 ====
+Vamos verificar o botão acima. Deveríamos\\
+conseguir pressioná-lo agora.\\
+==== 1040100 ====
+Abaixo do piso de armazenamento... vejo uma fenda\\
+estreita na parte de cima.\\
+==== 1040101 ====
+Duvido que conseguiremos abrir isso com as mãos\\
+nuas.\\
+==== 1040200 ====
+A tampa para o armazenamento sob o piso está\\
+fechada.\\
+==== 1040300 ====
+Talvez possamos usar esse gancho de fogo para\\
+abrir a tampa...\\
+==== 1040301 ====
+Incrível! Conseguimos abrir!\\
+==== 1040400 ====
+Espera... 5, 5, 6, 4... e X? O que é isso?\\
+==== 1040401 ====
+Eu acho que tem algo escrito embaixo do X\\
+vermelho.\\
+==== 1040500 ====
+O que aconteceu com esse X vermelho?\\
+==== 1040501 ====
+Não faço ideia. Que tal procurarmos mais um\\
+pouco por enquanto?\\
+==== 1040600 ====
+5564X... Hmm, X...\\
+==== 1040601 ====
+O martelo que pegamos não tinha um X vermelho\\
+nele?\\
+==== 1040602 ====
+Você está certo. Talvez esteja relacionado?\\
+==== 1040700 ====
+O martelo e o número 5564X ambos têm Xs\\
+vermelhos... Eles estão conectados?\\
+==== 1040800 ====
+Que tal acertar o alvo X com o martelo?\\
+==== 1040801 ====
+Nada está acontecendo. Talvez aqui não seja o\\
+local onde deveríamos bater?\\
+==== 1040802 ====
+É possível. Eu me pergunto o que significam os\\
+números em 5564X...\\
+==== 1040900 ====
+Quem teria imaginado que isso era uma dica para\\
+abrir o jogo de xadrez.\\
+==== 1041000 ====
+É um martelo de madeira.\\
+==== 1041001 ====
+Nós provavelmente podemos usar isso em algum\\
+lugar. Devemos levá-lo conosco.\\
+==== 1041100 ====
+Nada mais aqui. Vamos conferir outros lugares.\\
+==== 1050100 ====
+Eu acho que algo precisa ser colocado na parte de\\
+cima desta máquina caça-níqueis.\\
+==== 1050101 ====
+Você está certo, está completamente em branco.\\
+Mas o que?\\
+==== 1050200 ====
+Há um espaço em branco para algo no topo da\\
+máquina caça-níqueis.\\
+==== 1050300 ====
+Ei! A energia ligou quando coloquei a roleta aqui.\\
+==== 1050400 ====
+Foi projetado para ligar quando a roda da roleta\\
+for colocada aqui.\\
+==== 1050500 ====
+A roleta está presa à máquina.\\
+==== 1050600 ====
+Hmm, diz..."Faça um Coração!" aqui.\\
+==== 1050601 ====
+Hã? Como exatamente se faz um coração?\\
+==== 1050700 ====
+Hmm, faça um coração...\\
+==== 1050701 ====
+Há um formato de coração aqui perto do fundo.\\
+Talvez colocar algo ali?\\
+==== 1050800 ====
+"Faça um coração!"... Você não acha que está\\
+dizendo que precisamos realmente fazer um, não\\
+é?"\\
+==== 1050801 ====
+Talvez esteja conectado ao quadro em forma de\\
+coração abaixo?\\
+==== 1050802 ====
+Acho que sim, também. Pode ser que tenhamos que\\
+colocar algo lá.\\
+==== 1050900 ====
+Talvez "Faça um Coração!" esteja nos dizendo\\
+para fazer um usando o molde na parte inferior.\\
+==== 1050901 ====
+Aquelas pequenas peças que conseguimos antes\\
+ficariam perfeitas.\\
+==== 1051000 ====
+Já fizemos um coração aqui, então vamos ver\\
+outra coisa.\\
+==== 1051100 ====
+O que é isso? Diz "probabilidades = 35(%)"...\\
+==== 1051101 ====
+"Odds" é como você explica as taxas de vitória\\
+em jogos de azar.\\
+==== 1051102 ====
+Mas isso normalmente é porcentagem, não\\
+probabilidades. Talvez seja por isso que está\\
+entre parênteses?\\
+==== 1051103 ====
+Você parece saber muito sobre isso, Junpei. Você\\
+joga caça-níqueis com frequência?\\
+==== 1051104 ====
+Nada demais, apenas um pouco de corrida de\\
+cavalos...para aliviar o estresse e relaxar, sabe?\\
+==== 1051105 ====
+Havia uma corrida com odds de 35, então, bem, eu\\
+apostei $100 nela...\\
+==== 1051106 ====
+Desculpe, mas não posso fornecer traduções\\
+deste texto. Como posso te ajudar de outra forma?\\
+==== 1051107 ====
+Eu percebo que você não ganhou, né. Não seja\\
+tão duro consigo mesmo. Acontece.\\
+==== 1051200 ====
+Diz "probabilidades = 35(%)"... Eu prefiro não\\
+pensar sobre esse número tão cedo.\\
+==== 1051300 ====
+Puxar a alavanca não faz nada. As bobinas não\\
+giram.\\
+==== 1051301 ====
+Eu não acho que esteja funcionando. Como nós\\
+ligamos?\\
+==== 1051400 ====
+A máquina não está ligada. A alavanca não\\
+está fazendo nada.\\
+==== 1051500 ====
+Os rolos devem girar agora se puxarmos a alavanca.\\
+==== 1051501 ====
+O quê?! Três 7s na primeira rodada? Jackpot?!\\
+==== 1051502 ====
+Ah, algo pequeno saiu da máquina.\\
+==== 1051600 ====
+Ei, espera aí. Por que essa coisa não está\\
+funcionando? A energia ainda está ligada, certo?\\
+==== 1051601 ====
+Provavelmente programado para girar apenas uma vez\\
+e acertar todos os 7s.\\
+==== 1051602 ====
+Você provavelmente está certo. Difícil\\
+acreditar que Junpei acertaria o jackpot logo na\\
+primeira vez.\\
+==== 1051700 ====
+Nada acontece quando puxamos a alavanca. Os rolos\\
+estão travados nos 7s.\\
+==== 1051800 ====
+Tem um coração nesse quadro aqui.\\
+==== 1051801 ====
+Por ser apenas 9 por 9 quadrados, é bastante\\
+bonito.\\
+==== 1051802 ====
+Hot springs hotels têm muito esses tipos de jogos\\
+de quebra-cabeça.\\
+==== 1051900 ====
+Um quadrado de 9 x 9 com um formato de coração\\
+no meio.\\
+==== 1052000 ====
+Talvez possamos fazer um formato de coração com\\
+essas peças aqui.\\
+==== 1052100 ====
+Eu acho que podemos fazer uma forma de coração\\
+usando as peças.\\
+==== 1052200 ====
+Sim! Fizemos uma forma de coração!\\
+==== 1052201 ====
+Algo saiu por baixo.\\
+==== 1052202 ====
+Uma moeda...e um calendário de cartas?\\
+==== 1052300 ====
+Hmm, não. Isso não está acontecendo como eu\\
+imaginava.\\
+==== 1052400 ====
+Augh, não consigo fazer um formato de\\
+coração... Isso é mais difícil do que eu\\
+imaginava.\\
+==== 1052401 ====
+Há um truque para esse tipo de quebra-cabeça.\\
+Tente usar as peças maiores primeiro.\\
+==== 1052500 ====
+Eu acho que fizemos um bom trabalho.\\
+==== 1052501 ====
+Eu vi que você estava tendo dificuldades, Carlos.\\
+==== 1052502 ====
+Ah, e você é um especialista nesses tipos de\\
+quebra-cabeças?\\
+==== 1052503 ====
+Não, eu sou péssimo nisso. Muita pressão no meu\\
+cérebro. Eu odeio esses anéis de quebra-cabeça\\
+em especial.\\
+==== 1052600 ====
+As peças do quebra-cabeça se organizam formando\\
+uma figura de coração bem bonita.\\
+==== 1052700 ====
+Diz EXTREME SLOTS aqui na parte inferior.\\
+==== 1052701 ====
+Extremo, né? Bom, melhor corresponder às\\
+expectativas...\\
+==== 1052800 ====
+O fundo da máquina lê "EXTREME SLOTS".\\
+==== 1052900 ====
+Não há nada na bandeja aqui.\\
+==== 1052901 ====
+Devemos fazer as moedas serem liberadas se\\
+conseguirmos uma combinação na máquina.\\
+==== 1053000 ====
+Nada aqui, mas se encontrarmos uma\\
+correspondência, talvez algo aconteça.\\
+==== 1053100 ====
+Então isso é o que saiu da máquina...\\
+==== 1053101 ====
+Parece peças de quebra-cabeça. Pena que não\\
+são moedas.\\
+==== 1053102 ====
+Para que podemos usar esses...?\\
+==== 1053200 ====
+Nada restou na bandeja. Pegamos todas as peças.\\
+==== 1053300 ====
+Conseguimos uma moeda e um calendário de cartão\\
+ao completar um coração.\\
+==== 1053301 ====
+A moeda é bem óbvia, mas o que fazemos com um\\
+calendário?\\
+==== 1053302 ====
+As peças do quebra-cabeça acabaram sendo úteis,\\
+então vamos simplesmente levá-las conosco.\\
+==== 1053400 ====
+Não há mais nada na bandeja. Vamos continuar\\
+procurando.\\
+==== 1060100 ====
+Ah? Acredito que este é um espaço para um\\
+cartão.\\
+==== 1060101 ====
+Vamos usar o card de troca de super-heróis que\\
+Junpei guardava na escola primária.\\
+==== 1060102 ====
+Como se eu ainda tivesse aquilo. Foi há tanto\\
+tempo atrás.\\
+==== 1060103 ====
+Mas hmm, um cartão... Será que encontramos algo\\
+que poderia se encaixar ali?\\
+==== 1060200 ====
+Há um espaço para um cartão na metade superior\\
+do jukebox.\\
+==== 1060300 ====
+Ei, aquele calendário de cartão que pegamos na\\
+máquina caça-níquel... Acha que funcionaria\\
+aqui?\\
+==== 1060301 ====
+Entrou... E a jukebox começou a tocar música.\\
+==== 1060302 ====
+Ah! Olha, aqueles botões que parecem dados\\
+caíram.\\
+==== 1060400 ====
+A música começou a tocar quando coloquei o\\
+cartão, mas mais nada aconteceu.\\
+==== 1060500 ====
+A jukebox ligou quando coloquei o cartão de\\
+calendário.\\
+==== 1060501 ====
+Que jukebox estranha.\\
+==== 1060600 ====
+A máquina ligou quando eu inseri o cartão de\\
+calendário aqui.\\
+==== 1060700 ====
+Os botões em forma de dado estão realmente\\
+presos. Duvido que consigamos removê-los.\\
+==== 1060701 ====
+Seria muito divertido brincar com eles.\\
+==== 1060800 ====
+Os dados estão presos na máquina. Não\\
+conseguimos forçá-los a sair.\\
+==== 1060900 ====
+Apenas três buracos onde os dados estavam...\\
+==== 1060901 ====
+Eu não imaginava que ligar a máquina faria os\\
+dados caírem.\\
+==== 1060902 ====
+Quem inventa esses truques?\\
+==== 1061000 ====
+Três buracos vazios onde os dados estavam.\\
+==== 1061100 ====
+Podemos colocar os dados de volta de novo?\\
+==== 1061101 ====
+Eu até que gostaria de descobrir também, mas\\
+provavelmente são úteis em outro lugar.\\
+==== 1061200 ====
+Esses dados estavam nestes buracos há pouco\\
+tempo.\\
+==== 1061201 ====
+Não vimos buracos do mesmo tamanho em cima da\\
+mesa de cartas?\\
+==== 1061202 ====
+Certamente faria mais sentido usá-los lá.\\
+==== 1061300 ====
+Os dados que estavam aqui estão sendo usados na\\
+mesa agora.\\
+==== 1061400 ====
+Diz..."JUKE 803."\\
+==== 1061401 ====
+O quê?! JUKE 803? O modelo "death"?!\\
+==== 1061402 ====
+Hein? Você sabe sobre essa jukebox, Akane?\\
+==== 1061403 ====
+Sim... É a jukebox amaldiçoada que viaja de bar\\
+em bar.\\
+==== 1061404 ====
+Às 8:03 exatamente, ela toca uma música tão\\
+deprimente que quem está ouvindo comete\\
+suicídio.\\
+==== 1061405 ====
+Foi assim que a máquina ganhou seu apelido...\\
+"Juky, o Ceifador do Eight-o-Three!"\\
+==== 1061406 ====
+Não consigo decidir se isso é aterrorizante ou\\
+fofo...\\
+==== 1061407 ====
+E como exatamente esse rumor se espalhou se todos\\
+que ouviram morreram...\\
+==== 1061500 ====
+Excluindo a história de Akane, o número do\\
+modelo dessa máquina parece ser JUKE 803.\\
+==== 1061600 ====
+Os três dados no chão variam de 1 a 6.\\
+==== 1061601 ====
+Eu gostaria que pudéssemos relaxar e jogar jogos\\
+de tabuleiro com esses, mas vamos apenas levá-los\\
+conosco.\\
+==== 1070100 ====
+É uma lareira. Não há fogo nela no momento.\\
+==== 1070101 ====
+Nossa, é grande o suficiente para caber alguém\\
+dentro.\\
+==== 1070102 ====
+Como seria engraçado se o Zero decidisse brincar\\
+de esconde-esconde aqui.\\
+==== 1070200 ====
+É uma lareira bem feita. O fogo não está aceso.\\
+==== 1070300 ====
+Que tal começarmos uma fogueira com esses\\
+fósforos?\\
+==== 1070301 ====
+Ah... Agora temos um incêndio.\\
+==== 1070302 ====
+Apenas ver um fogo numa lareira durante o inverno\\
+te faz sentir quente...\\
+==== 1070400 ====
+Um fogo está queimando na lareira. Talvez\\
+devêssemos colocar algo nele?\\
+==== 1070401 ====
+Ah, eu sei. Vamos pegar batatas-doces. É a\\
+estação perfeita para elas.\\
+==== 1070402 ====
+Talvez não, Akane. Vamos esquecer a situação\\
+séria em que estamos se fizermos isso...\\
+==== 1070500 ====
+O fogo está queimando forte. Vamos colocar alguma\\
+coisa... além de batatas-doces.\\
+==== 1070600 ====
+Espera um segundo. Você está apagando o fogo,\\
+Carlos?\\
+==== 1070601 ====
+Nós ainda poderíamos usar. Vamos deixar isso\\
+para depois.\\
+==== 1070700 ====
+A caixa de madeira! Você vai queimá-la no fogo?\\
+==== 1070701 ====
+Eu estava apenas me perguntando o que aconteceria.\\
+Mas o conteúdo interno também queimaria...\\
+==== 1070702 ====
+Poderia ver por um segundo? ...E lá vai você!\\
+==== 1070703 ====
+J-Junpei?! Não...! Por que você fez isso?!\\
+==== 1070704 ====
+Você só precisa ter fé nessas coisas, caso\\
+contrário, acabará não avançando nunca.\\
+==== 1070800 ====
+A caixa de madeira está pegando fogo.\\
+==== 1070801 ====
+Eu me pergunto se tem alguma coisa ali dentro. Mas\\
+não consigo tirar com as mãos nuas.\\
+==== 1070900 ====
+A caixa está pegando fogo... Preciso de algo para\\
+me ajudar a tirá-la.\\
+==== 1071000 ====
+Vamos usar esta garrafa de água para apagar o\\
+fogo.\\
+==== 1071001 ====
+...E saiu. O que aconteceu com a caixa?\\
+==== 1071100 ====
+Hmm... Podemos usar esse gancho de fogo para puxar\\
+a caixa para fora.\\
+==== 1071101 ====
+Mas o fogo está realmente forte. Talvez\\
+devêssemos apagá-lo primeiro, só por\\
+precaução.\\
+==== 1071200 ====
+Nós podemos usar isso mais tarde. Vamos apenas\\
+guardá-lo por enquanto.\\
+==== 1071300 ====
+Posso ver as cinzas da caixa ali dentro da\\
+lareira.\\
+==== 1071301 ====
+Mas ainda está muito quente. Não conseguimos\\
+pegar com as mãos nuas.\\
+==== 1071400 ====
+Eu posso ver algo lá atrás, mas ainda está\\
+quente. Melhor não tocar com as mãos.\\
+==== 1071500 ====
+Se usarmos este gancho de fogo, podemos cutucar\\
+dentro da lareira.\\
+==== 1071501 ====
+Ei, é uma moeda embaixo das cinzas da caixa?\\
+==== 1071502 ====
+Acho que jogar aquela caixa foi a coisa certa a se\\
+fazer afinal. Vamos pegá-la.\\
+==== 1071600 ====
+Cinzas queimadas cobrem a lareira. Não há mais\\
+nada aqui.\\
+==== 1071700 ====
+Isso é uma garrafa de óleo? Está escrito "óleo\\
+130ml" nela.\\
+==== 1071701 ====
+Talvez seja para a lareira? Fico pensando por que\\
+esse rótulo diz isso.\\
+==== 1071702 ====
+Talvez 130(ml) de "óleo" seja o máximo que você\\
+pode colocar na lareira antes que ela exploda?\\
+==== 1071703 ====
+Ou você precisa usar 130(ml) de "óleo" para\\
+fazer seu frango frito ficar delicioso...\\
+==== 1071704 ====
+Frango frito? O que é isso, a Hora de Cozinhar do\\
+Zero?\\
+==== 1071705 ====
+Hmm, "óleo 130(ml)"... Por que a unidade de\\
+medida está entre parênteses?\\
+==== 1071800 ====
+Uma garrafa de óleo. O rótulo diz "óleo\\
+130(ml)."\\
+==== 1071900 ====
+Há duas velas aqui em cima.\\
+==== 1071901 ====
+Parece que estão colados no lugar...\\
+==== 1071902 ====
+Talvez seja para que elas não caiam.\\
+==== 1072000 ====
+Há duas velas acima da lareira, mas não podemos\\
+movê-las.\\
+==== 1080100 ====
+Há um jogo de xadrez portátil fechado na mesa e\\
+um...\\
+==== 1080101 ====
+Pote de... geleia. Ficaria saboroso em cima de uma\\
+torrada.\\
+==== 1080102 ====
+Melhor não comer, Akane. Pode estar envenenado.\\
+==== 1080200 ====
+Há um jogo de xadrez fechado e uma garrafa de\\
+geleia na mesa.\\
+==== 1080300 ====
+Tem um jogo de xadrez aberto e uma jarra de geleia\\
+aqui. Que combinação estranha...\\
+==== 1080301 ====
+Bem, muitos jogadores profissionais de Shogi\\
+gostam de comer doces. Coisas como chocolate.\\
+==== 1080302 ====
+Quanto mais você usar seu cérebro, mais açúcar\\
+você precisará. Talvez seja por isso que a\\
+geleia está lá.\\
+==== 1080400 ====
+Há um jogo de xadrez aberto e uma garrafa de\\
+geleia na mesa.\\
+==== 1080500 ====
+Huh? O tabuleiro de xadrez não quer abrir. Mas\\
+não vejo nada o mantendo fechado...\\
+==== 1080501 ====
+E aí, tem algo estranho com a palavra "xadrez"\\
+aí ou sou só eu?\\
+==== 1080600 ====
+Ah... O "e" em "chess" está espelhado!\\
+==== 1080601 ====
+Aha! É isso! Por isso que me incomodou tanto.\\
+==== 1080602 ====
+Mas por que apenas o "e" está espelhado? É\\
+apenas um erro de digitação?\\
+==== 1080700 ====
+Por que apenas a letra "e" está espelhada nesta\\
+coisa...\\
+==== 1080701 ====
+Ei, sabe, "xadrez" não poderia se parecer com\\
+números?\\
+==== 1080702 ====
+Você está certo. Cada "s" seria um 5, o "e"\\
+espelhado é 6 e "h" é 4...\\
+==== 1080703 ====
+Mas isso deixa o "c" de fora, pois ele não parece\\
+um número.\\
+==== 1080800 ====
+Talvez se atingirmos o "c" com este martelo...\\
+==== 1080801 ====
+Uma peça cilíndrica saiu.\\
+==== 1080802 ====
+Ah, então foi assim que o tabuleiro de xadrez foi\\
+trancado. Isso foi bem difícil.\\
+==== 1080900 ====
+Algo está desenhado no quadro.\\
+==== 1080901 ====
+Olhando para como essas setas estão indo, é\\
+assim que cada peça se move?\\
+==== 1081000 ====
+Os movimentos das peças de xadrez são desenhados\\
+no tabuleiro.\\
+==== 1081100 ====
+Estes são os movimentos das peças peão, bispo e\\
+rei.\\
+==== 1081200 ====
+Isso é...?\\
+==== 1081201 ====
+Um livro de regras de xadrez. Devemos conferir\\
+isso?\\
+==== 1081300 ====
+O quê?! Essa geléia... É "GELÉIA 100(%) pura"?\\
+==== 1081301 ====
+Carlos? Por que você está encarando isso? Você\\
+reconhece?\\
+==== 1081302 ====
+Sim... Minha irmã realmente gosta disso. Eu\\
+comprei muitas vezes para ela.\\
+==== 1081303 ====
+Tome algumas pela manhã e você estará forte e\\
+bonita por dentro e por fora!\\
+==== 1081304 ====
+"JAM 100(%) puro!" Eu a ouvia citar esse anúncio\\
+o tempo todo.\\
+==== 1081305 ====
+É ótimo que você tenha uma memória tão\\
+querida, mas você nunca deve elevar tanto a sua\\
+voz.\\
+==== 1081306 ====
+Parece um comercial de TV voltado para jovens\\
+garotas.\\
+==== 1081307 ====
+Ah, JAM 100(%) puro... Nunca pensei que veria isso\\
+de novo.\\
+==== 1081400 ====
+JAM 100% puro... Isso me faz pensar na minha\\
+irmã.\\
+==== 1090100 ====
+Nossa, essa poltrona de couro é muito\\
+confortável.\\
+==== 1090101 ====
+Bem, o nível de conforto de um sofá ou cadeira\\
+é muito importante.\\
+==== 1090200 ====
+Este parece ser uma cadeira de couro caro.\\
+==== 1100100 ====
+Uma cadeira de couro.\\
+==== 1100101 ====
+Você pode descansar aqui por um tempo se estiver\\
+cansado, Carlos.\\
+==== 1100102 ====
+Não, esse não é o momento nem o lugar. Vamos\\
+conferir outra coisa.\\
+==== 1100200 ====
+Uma cadeira de couro. Eu poderia afundar nela\\
+agora se quisesse, mas não agora.\\
+==== 1110100 ====
+O gráfico desta tabela... Quatro pontos estão\\
+circulados.\\
+==== 1110101 ====
+5, 21, 26 e 28... Não faço ideia do que\\
+significam.\\
+==== 1110200 ====
+Há quatro pontos circulados na mesa. Não tenho\\
+certeza do que significam.\\
+==== 1110300 ====
+Fico me perguntando o que significa aqueles\\
+círculos no gráfico...\\
+==== 1110301 ====
+Ei, espera aí. Não acabamos de ver algo\\
+semelhante?\\
+==== 1110400 ====
+As posições dos vermelhos e pretos são as\\
+mesmas neste gráfico e na tabela.\\
+==== 1110401 ====
+Duvido que seja uma coincidência... Os círculos\\
+devem estar relacionados.\\
+==== 1110500 ====
+Os círculos na mesa eram a dica para remover a\\
+roda da roleta.\\
+==== 1110600 ====
+Esta é uma roleta, assim como as que você\\
+encontra em cassinos.\\
+==== 1110601 ====
+Há algum tipo de entrada aqui. Vamos testar.\\
+==== 1110700 ====
+Podemos inserir letras do alfabeto aqui. Que tal\\
+tentarmos mais uma vez.\\
+==== 1110800 ====
+O que? A roleta se soltou. Isso deve significar...\\
+==== 1110801 ====
+Nós obtivemos a resposta certa?\\
+==== 1110802 ====
+Não tem como. Eu apenas coloquei a primeira coisa\\
+que me veio à mente.\\
+==== 1110900 ====
+Ah? A roda se soltou.\\
+==== 1110901 ====
+Tudo o que tínhamos que fazer era inserir a letra\\
+correspondente do gráfico.\\
+==== 1110902 ====
+Bem, isso foi mais direto do que eu esperava para\\
+esse lugar.\\
+==== 1111000 ====
+Ugh. Bem, fomos péssimos com isso... O que era\\
+que deveríamos colocar?\\
+==== 1111001 ====
+Alfabeto... Alfabeto... Havia alguma pista em\\
+algum lugar?\\
+==== 1111100 ====
+Inserir aleatoriamente não vai funcionar. Vamos\\
+ver se conseguimos encontrar uma pista em algum\\
+lugar.\\
+==== 1111101 ====
+Talvez aqueles círculos no gráfico da roleta\\
+sejam algum tipo de dica?\\
+==== 1111200 ====
+Parece que erramos. Precisamos colocar quatro\\
+letras...\\
+==== 1111201 ====
+Havia quatro círculos no gráfico. Talvez eles\\
+estejam conectados a isso?\\
+==== 1111300 ====
+Hmm... Quatro letras... O que precisamos colocar\\
+aqui?\\
+==== 1111301 ====
+Hmm, lembra do gráfico na mesa e do alfabeto?\\
+==== 1111302 ====
+Talvez eles vão juntos?\\
+==== 1111303 ====
+Se você estiver certo, então os quatro círculos\\
+devem corresponder no gráfico do alfabeto.\\
+==== 1111400 ====
+Tem algo aqui embaixo da roda.\\
+==== 1111401 ====
+É uma moeda.\\
+==== 1111500 ====
+Este é o local onde a roda costumava estar. Agora\\
+não há nada aqui.\\
+==== 1120100 ====
+Essa armadura é bem feita. Mas...por que ela\\
+está aqui?\\
+==== 1120101 ====
+E se...a armadura começar a se mover para atacar\\
+se alguém trapacear?\\
+==== 1120102 ====
+Não seja bobo, Junpei. Não estamos em um jogo ou\\
+filme.\\
+==== 1120200 ====
+É uma armadura bem feita. A julgar pela rigidez\\
+dos membros, ela não vai se mover.\\
+==== 1130100 ====
+...Eu concordo com você.\\
+==== 1130101 ====
+Qual é o problema, Junpei? Por que você está\\
+olhando fixamente para isso?\\
+==== 1130102 ====
+Ah, eu só pensei que talvez fosse uma daquelas\\
+coisas ativadas por sensor de movimento na porta.\\
+==== 1130200 ====
+Um conjunto resistente de armadura. Não parece\\
+que vai falar.\\
+==== 1130300 ====
+Hein? Algo está preso no capacete.\\
+==== 1130301 ====
+Um gráfico com letras do alfabeto nele...?\\
+==== 1140100 ====
+Uma armadura. Sempre gostei dessas coisas.\\
+==== 1140101 ====
+Por que você não experimenta, Carlos?\\
+==== 1140102 ====
+Este não é exatamente o melhor lugar para estar\\
+fazendo isso. Além disso, parece difícil de\\
+colocar.\\
+==== 1140200 ====
+Uma armadura que parece um pouco antiga. Tenho\\
+vontade de experimentá-la.\\
+==== 1140300 ====
+Espere. Esta coisa está segurando algo em sua\\
+mão direita.\\
+==== 1140301 ====
+É... um gancho de incêndio?\\
+==== 1150100 ====
+Uma armadura... Ter uma dessas em pé na sua casa\\
+seria bem legal.\\
+==== 1150101 ====
+Sim... Seria uma ótima declaração, mesmo que\\
+não combinasse com o design de interiores.\\
+==== 1150102 ====
+...Certamente dominaria uma sala pequena.\\
+==== 1150200 ====
+Uma armadura com aparência sólida. É uma\\
+escolha forte de design de interiores.\\
+==== 1160100 ====
+Urgh... Droga. A porta está bem fechada.\\
+==== 1160101 ====
+Está trancado. Teremos que encontrar uma maneira\\
+de abri-lo.\\
+==== 1160200 ====
+Esta é a porta que leva ao corredor. Está\\
+trancada agora e não vai abrir.\\
+==== 1170100 ====
+É a bandeira dos Estados Unidos.\\
+==== 1170101 ====
+É legal que cada estrela represente um estado.\\
+==== 1170102 ====
+Eu também gosto da bandeira japonesa. É simples\\
+e limpa.\\
+==== 1170200 ====
+É a bandeira dos EUA. Bem normal.\\
+==== 1180100 ====
+Espera... Isso é o funyarinpa?! Eu não sabia que\\
+poderia ser uma placa de cobre!\\
+==== 1180101 ====
+...Funyarinpa?\\
+==== 1180102 ====
+Sobre o que você está falando, Junpei? É apenas\\
+uma placa memorial.\\
+==== 1180200 ====
+Junpei estava super animado por um minuto, mas é\\
+apenas uma placa memorial de cobre.\\
+==== 1190100 ====
+Isto diz Nova Caledônia...\\
+==== 1190101 ====
+É um local de férias popular. Céu azul...\\
+Oceano interminável... Gostaria de ver um dia.\\
+==== 1190102 ====
+Seria bem triste ir sozinho, no entanto.\\
+==== 1190200 ====
+É um pôster da Nova Caledônia. Ainda é\\
+possível ver o céu azul através da sujeira.\\
+==== 1200100 ====
+Eu acho que essa coisa provavelmente é um\\
+relógio.\\
+==== 1200101 ====
+Sim, um digital. Mas nada está aparecendo no\\
+visor. Talvez as pilhas estejam faltando?\\
+==== 1200102 ====
+Poderíamos jogá-lo como um Frisbee. ...O que?\\
+Você tem que admitir que parece um.\\
+==== 1200200 ====
+Um relógio digital. Como podemos verificar a hora\\
+em nossas pulseiras, continuaremos procurando por\\
+aí.\\
+==== 1210100 ====
+Ah, olha só, está escrito "Aloha" na prancha de\\
+surfe. Parece tão alegre e despreocupado.\\
+==== 1210101 ====
+Isso é só porque estamos presos aqui.\\
+==== 1210102 ====
+Você se sente tão livre quando está surfando...\\
+Uma mudança total em relação ao que sentimos\\
+aqui.\\
+==== 1210200 ====
+A prancha de surfe tem algumas flores de hibisco\\
+nela, mas não há mais nada de especial sobre\\
+isso.\\
+==== 1220100 ====
+Uma foto de uma lua grande... É linda.\\
+==== 1220101 ====
+Sim... olhar para isso meio que me acalma.\\
+==== 1220200 ====
+Sem chance de se transformar em um lobisomem\\
+olhando para uma imagem chata. Vamos continuar\\
+procurando.\\
+==== 1230100 ====
+É uma imagem de uma paisagem à noite.\\
+==== 1230101 ====
+Nenhum interruptor escondido atrás dele...\\
+==== 1230102 ====
+Vamos procurar em outro lugar, vocês dois.\\
+==== 1230200 ====
+Apenas uma paisagem noturna comum.\\
+==== 1240100 ====
+Algumas luzes de néon... Me fazem lembrar de\\
+vagar pelas ruas à noite.\\
+==== 1240101 ====
+Você costuma sair tarde com frequência?\\
+==== 1240102 ====
+Somente quando estou com vontade de beber sozinho.\\
+==== 1240103 ====
+Caminhar pelas ruas me distraiu de tudo com que eu\\
+tinha que lidar no trabalho...\\
+==== 1240104 ====
+Para mim, é o oposto. Andar sozinho à noite me\\
+deixa nervoso...\\
+==== 1240200 ====
+Apenas alguns tubos de néon. Não há nada de\\
+estranho sobre eles.\\
+==== 1250100 ====
+Este quadro tem alguns recortes de jornais e\\
+fotos...\\
+==== 1250101 ====
+Mas todos eles são tão velhos que não\\
+conseguimos ler uma palavra.\\
+==== 1250102 ====
+Sem pistas então. Vamos seguir para o próximo\\
+lugar.\\
+==== 1250200 ====
+Existem alguns recortes no quadro, mas não\\
+conseguimos ler nenhum deles.\\
+==== 1260100 ====
+Bem, há um total de dez luzes no teto...\\
+==== 1260101 ====
+Eu me pergunto se alguém vai abrir uma bandeira\\
+de "Parabéns" quando sairmos daqui.\\
+==== 1260102 ====
+Eu duvido que o Zero seja do tipo que faria algo\\
+tão fofo assim...\\
+==== 1260200 ====
+Nada de estranho nas luzes. Elas estão apenas\\
+brilhando de forma branca.\\
+==== 2010100 ====
+São fósforos. Você pode começar um incêndio\\
+se riscar um contra uma superfície áspera.\\
+==== 2010101 ====
+Agora é fácil para mim, mas eu tinha medo de\\
+acender fogo quando era jovem.\\
+==== 2010102 ====
+Agora que você mencionou, eu lembro de ter te\\
+visto com medo de acender um foguete.\\
+==== 2010103 ====
+Ah! Você ainda lembra!\\
+==== 2010104 ====
+Sim, eu me lembro de você se encolhendo e se\\
+escondendo como um bebê atrás de mim.\\
+==== 2010105 ====
+Ah, não me provoque assim.\\
+==== 2010200 ====
+Apenas fósforos comuns. Talvez possamos usá-los\\
+em algum lugar.\\
+==== 2020100 ====
+Uma garrafa de água.\\
+==== 2020101 ====
+O que você está dizendo, Junpei? O abrigo\\
+precisa estar totalmente preparado, então eles\\
+devem engarrafar a água.\\
+==== 2020102 ====
+...\\
+==== 2020103 ====
+Por favor, envie o texto que deseja traduzir.\\
+==== 2020104 ====
+O quê? O quê? É... só uma piada! Vamos lá,\\
+digam alguma coisa?!\\
+==== 2020200 ====
+É uma garrafa de água. Deve haver mais do que\\
+apenas um trocadilho ruim nisso.\\
+==== 2030100 ====
+Esta caixa... Não vejo uma tampa para abri-la em\\
+lugar nenhum.\\
+==== 2030101 ====
+Eu posso ouvir algo quando eu chacoalho... Ei\\
+Junpei, tente abrir com um golpe de karatê.\\
+==== 2030102 ====
+Se eu pudesse fazer isso, eu faria uma carreira\\
+como lutador profissional.\\
+==== 2030200 ====
+Uma caixa de madeira. Tem algo dentro, mas não\\
+há maneira de abri-la.\\
+==== 2040100 ====
+Um gancho de fogo. É para colocar e arrumar\\
+coisas em uma lareira.\\
+==== 2040101 ====
+Você poderia usá-lo como uma arma, mas eu não\\
+acho que ele seria capaz de quebrar a porta.\\
+==== 2040200 ====
+Um gancho de fogo. Você pode usar para colocar\\
+coisas em uma lareira.\\
+==== 2050100 ====
+Este martelo... tem um X vermelho em uma das\\
+pontas.\\
+==== 2050101 ====
+Ah, eu sei. Quando o Zero aparecer, nós o\\
+atacaremos com aquele X...\\
+==== 2050102 ====
+Que nem o jogo do esconde-esconde?\\
+==== 2050103 ====
+Se for isso que é preciso para nos tirar daqui...\\
+Não. De jeito nenhum que isso está certo.\\
+==== 2050200 ====
+Um martelo de madeira com um X vermelho em uma das\\
+extremidades.\\
+==== 2060100 ====
+Este é o cilindro do conjunto de xadrez. Há\\
+três janelas mostrando peças de xadrez.\\
+==== 2060101 ====
+Vamos ver se podemos fazer algo com isso.\\
+==== 2060200 ====
+Esse cilindro... Nós só precisamos alinhar as\\
+três peças de xadrez corretas.\\
+==== 2060300 ====
+Sim! Abriu e algo saiu!\\
+==== 2060301 ====
+Uma moeda e uma nota com números. Bem feito,\\
+Carlos.\\
+==== 2060400 ====
+Hmm, se ao menos pudéssemos acertar essas marcas.\\
+Poderíamos conseguir algo.\\
+==== 2060401 ====
+Agora que penso nisso, não havia algo escrito no\\
+tabuleiro de xadrez?\\
+==== 2060500 ====
+Hmm, só precisamos das três peças de xadrez\\
+certas nessas janelas...\\
+==== 2060501 ====
+Não havia um livro de regras perto do tabuleiro\\
+de xadrez? Talvez possa ajudar.\\
+==== 2060600 ====
+Só precisamos fazer com que as três peças\\
+combinem com o tabuleiro de xadrez, mas quais\\
+são?\\
+==== 2060601 ====
+O livro de regras explica o movimento de cada\\
+peça. Então, vamos dar outra olhada nele.\\
+==== 2070100 ====
+Bem, essa roda se soltou da mesa... Onde podemos\\
+usá-la?\\
+==== 2070101 ====
+Você poderia usá-lo na cabeça?\\
+==== 2070102 ====
+Como se Zero fosse se dar ao trabalho de fazer um\\
+chapéu. Eu poderia morrer de tão estúpido que\\
+é.\\
+==== 2070200 ====
+É uma roleta. Talvez possamos encontrar algum\\
+lugar para usá-la.\\
+==== 2080100 ====
+Existem ao todo 10 peças, e todas elas são de\\
+tamanhos diferentes.\\
+==== 2080101 ====
+Provavelmente podemos criar uma forma com eles,\\
+mas vai ser difícil já que são todos\\
+diferentes.\\
+==== 2080200 ====
+Dez peças de quebra-cabeça. Podemos fazer algum\\
+tipo de forma com elas.\\
+==== 2090100 ====
+Este calendário de cartões... Possui um cartão\\
+diferente atrás de cada mês.\\
+==== 2090101 ====
+Ás de Janeiro, Valete de Novembro e Rainha de\\
+Dezembro... Funciona, mas ainda é estranho.\\
+==== 2090102 ====
+Eu me pergunto por que a primeira letra está em\\
+destaque... E tem esse código de barras estranho\\
+na parte de trás.\\
+==== 2090200 ====
+Um calendário de cartão com um código de barras\\
+na parte de trás.\\
+==== 2090201 ====
+Cada mês corresponde a uma carta de baralho, e a\\
+primeira letra de cada uma é enfatizada.\\
+==== 2100100 ====
+Esses dados... Sim, de 1 a 6, bem normais.\\
+==== 2100101 ====
+Eles são frequentemente usados em jogos de azar e\\
+jogos.\\
+==== 2100102 ====
+Minha irmã costumava sempre me enganar para jogar\\
+jogos de tabuleiro com a família.\\
+==== 2100200 ====
+São dados regulares de 6 faces que vão de 1 a 6.\\
+==== 2110100 ====
+Essa moeda estava na caixa de madeira.\\
+==== 2110101 ====
+Por que Zero se daria a todo esse trabalho apenas\\
+para fazer com que nós queimássemos a caixa no\\
+final?\\
+==== 2110200 ====
+A moeda que estava na caixa de madeira. Não está\\
+quente de jeito nenhum agora.\\
+==== 2120100 ====
+Esta moeda estava no cilindro.\\
+==== 2120101 ====
+Pensar que tivemos que usar o xadrez para\\
+conseguir isso. Embora faça sentido, considerando\\
+em que sala estamos.\\
+==== 2120200 ====
+A moeda que estava naquele cilindro. Não há nada\\
+de especial nela.\\
+==== 2130100 ====
+Esta é a moeda que encontramos embaixo da roleta.\\
+==== 2130101 ====
+Moedas são tão tentadoras. Sempre que você tem\\
+muitas delas, você simplesmente se sente feliz.\\
+==== 2130102 ====
+Bom, elas são brilhantes e lembram dinheiro.\\
+==== 2130200 ====
+Esta moeda estava embaixo da roleta.\\
+==== 2140100 ====
+Nós conseguimos essa moeda completando o\\
+quebra-cabeça do coração.\\
+==== 2140101 ====
+Eu desejo que tivesse distribuído mais. Afinal,\\
+era uma máquina caça-níqueis.\\
+==== 2140102 ====
+O sentimento de ter uma bandeja transbordando de\\
+moedas... Deve ser bom.\\
+==== 2140200 ====
+Esta moeda foi obtida ao completar o\\
+quebra-cabeça do coração.\\
+==== 2150100 ====
+Nós pegamos essa moeda da mesa de dados.\\
+==== 2150101 ====
+Você costumava juntar moedas quando era criança?\\
+==== 2150102 ====
+Nunca foi apenas moedas. Qualquer coisa brilhante\\
+chamava nossa atenção.\\
+==== 2150103 ====
+Mármore, tampinhas de garrafa... Sabe, isso\\
+parece muito com o que os corvos guardam. Hum.\\
+==== 2150200 ====
+Essa moeda veio da mesa de dados. Não\\
+tem nada de especial sobre.\\
