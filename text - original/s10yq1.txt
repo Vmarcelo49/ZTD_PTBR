@@ -1,0 +1,590 @@
+==== 518 ====
+This is weird...\\
+==== 519 ====
+There should be another room around here\\
+somewhere.\\
+==== 520 ====
+Let me see it.\\
+==== 521 ====
+Hey.\\
+==== 522 ====
+Shut up!\\
+==== 523 ====
+Why the hell should I show–!\\
+==== 524 ====
+He's got the right to see it, too.\\
+==== 525 ====
+Mira...\\
+==== 526 ====
+Thank you.\\
+==== 527 ====
+It's pretty pointless to hang out here kicking\\
+our heels.\\
+==== 528 ====
+Let's go back to the Lounge.\\
+==== 529 ====
+What is this...?\\
+==== 530 ====
+[Let's inhibit the virus!]\\
+==== 531 ====
+Maybe someone's gonna remove or control\\
+some kind of virus?\\
+==== 532 ====
+Virus? What virus?\\
+==== 533 ====
+About the vote. What will we do?\\
+==== 534 ====
+Don't ask me...\\
+==== 535 ====
+But if we don't do it, doesn't that mean we'll\\
+die?\\
+==== 536 ====
+Yeah.\\
+==== 537 ====
+Even if C-Team voted for D-Team, and\\
+D-Team did the reverse,\\
+==== 538 ====
+if we refuse, then we get two votes against\\
+us automatically...\\
+==== 539 ====
+And Q-Team would be killed...\\
+==== 540 ====
+I supposed that's true, if this game is for\\
+real.\\
+==== 541 ====
+So you're saying it's a joke...?\\
+==== 542 ====
+Don't you think that would make a whole lot\\
+more sense?\\
+==== 543 ====
+The Dcom staff will probably pop through that\\
+door over there yelling "Surprise!"\\
+==== 544 ====
+I get it! You're right!\\
+==== 545 ====
+Then him being here makes sense now!\\
+==== 546 ====
+I bet that means you're part of the whole\\
+surprise!\\
+==== 547 ====
+N-No...\\
+==== 548 ====
+C'mon, take off that helmet.\\
+==== 549 ====
+I can't.\\
+==== 550 ====
+Huh?\\
+==== 551 ====
+I said I can't take it off!\\
+==== 552 ====
+Damn brat! Stop bullshitting me!\\
+==== 553 ====
+Ah! Stop, stop!\\
+==== 554 ====
+You'll break my neck!\\
+==== 555 ====
+Damn. It's really on there...\\
+==== 556 ====
+Wait.\\
+==== 557 ====
+I see something on the side of this thing.\\
+==== 558 ====
+What the hell...\\
+==== 559 ====
+Isn't it a password input?\\
+==== 560 ====
+Does that mean the helmet comes off with the\\
+right numbers?\\
+==== 561 ====
+Or maybe his head'll explode.\\
+==== 562 ====
+Ah! Hey!\\
+==== 563 ====
+Really...who are you?\\
+==== 564 ====
+I don't know.\\
+==== 565 ====
+I don't remember.\\
+==== 566 ====
+I woke up, and I was here...\\
+==== 567 ====
+Are you saying you have amnesia?\\
+==== 568 ====
+Maybe...?\\
+==== 569 ====
+Could I ask you something?\\
+==== 570 ====
+What?\\
+==== 571 ====
+I was wondering, who is Zero?\\
+==== 572 ====
+Oh come on. Stop playing.\\
+==== 573 ====
+You know everything, don't you?\\
+==== 574 ====
+I told you I don't...\\
+==== 575 ====
+So you're going to stick with the idea that\\
+this isn't some big surprise?\\
+==== 576 ====
+I don't know.\\
+==== 577 ====
+I don't remember anything...\\
+==== 578 ====
+If this isn't a joke, then things are really\\
+serious.\\
+==== 579 ====
+Then, you're saying one of the teams is\\
+actually going to be executed?!\\
+==== 580 ====
+But why would someone do that...\\
+==== 581 ====
+Zero said...\\
+==== 582 ====
+"it's a game"...\\
+==== 583 ====
+So then he's a psychopath.\\
+==== 584 ====
+This Zero guy is probably off somewhere\\
+enjoying seeing us freak out...\\
+==== 585 ====
+He could be that serial killer in the news...\\
+==== 586 ====
+That's that "Heart Ripper," yeah?\\
+==== 587 ====
+Yeah.\\
+==== 588 ====
+Rumor is they killed 18 people, all in the past\\
+few years...\\
+==== 589 ====
+March 15, 2026. The body of a young female\\
+was found in a park in Roseville.\\
+==== 590 ====
+The victim's name was Virginia Bailey,\\
+age 28.\\
+==== 591 ====
+The chest was ripped open and the heart\\
+entirely removed.\\
+==== 592 ====
+It happened again on May 22, 2026.\\
+==== 593 ====
+The body of a male was found in a trash can\\
+near a residence in Sacramento.\\
+==== 594 ====
+The victim's name was Jeffery Foret, age 37.\\
+==== 595 ====
+His body was just like Virginia's, with the\\
+heart completely gouged out.\\
+==== 596 ====
+Two months later, on July 29–\\
+==== 597 ====
+H-Hey, w-wait a minute.\\
+==== 598 ====
+Don't you have amnesia or something?\\
+==== 599 ====
+Why do you know all this?\\
+==== 600 ====
+I don't know...\\
+==== 601 ====
+I don't know why...but I knew.\\
+==== 602 ====
+You gotta be kidding me!\\
+==== 603 ====
+I was wondering, where are we?\\
+==== 604 ====
+Weren't you listening to Zero earlier?\\
+==== 605 ====
+We're 50 meters underground in a bomb\\
+shelter.\\
+==== 606 ====
+I know that, but where exactly?\\
+==== 607 ====
+Uhhh...\\
+==== 608 ====
+I doubt we're very far from Dcom...\\
+==== 609 ====
+Dcom?\\
+==== 610 ====
+"Dwelling for the Cohabitation of Mars."\\
+==== 611 ====
+So, it's an experiment to see if we could\\
+survive on Mars?\\
+==== 612 ====
+Uh huh.\\
+==== 613 ====
+We all lived together in that compound for\\
+five days.\\
+==== 614 ====
+C-Team and D-Team were there too.\\
+==== 615 ====
+Oh, and there was a dog.\\
+==== 616 ====
+It was incredibly old.\\
+==== 617 ====
+I think his name was Gab...\\
+==== 618 ====
+But not you.\\
+==== 619 ====
+You weren't there.\\
+==== 620 ====
+It's very suspicious.\\
+==== 621 ====
+What were they testing for?\\
+==== 622 ====
+Psychological data mostly.\\
+==== 623 ====
+It was a closed environment for a group of\\
+people for an extended period of time.\\
+==== 624 ====
+So how would that mess with the subjects\\
+mentally?\\
+==== 625 ====
+That was what they were trying to\\
+investigate.\\
+==== 626 ====
+What made you sign up?\\
+==== 627 ====
+Hmm. Tough question.\\
+==== 628 ====
+It seemed like it'd be kind of fun, I guess?\\
+==== 629 ====
+Eric?\\
+==== 630 ====
+I joined because Mira wanted to...\\
+==== 631 ====
+That's it?\\
+==== 632 ====
+Well, maybe not entirely...\\
+==== 633 ====
+Mira.\\
+==== 634 ====
+Eric.\\
+==== 635 ====
+What's going on between you two?\\
+==== 636 ====
+Going on? Ah, uh well...\\
+==== 637 ====
+Are you in love?\\
+==== 638 ====
+Idiot! No, we're not!\\
+==== 639 ====
+We're not?\\
+==== 640 ====
+Well we're not NOT, but...!\\
+==== 641 ====
+Wait... What?\\
+==== 642 ====
+You know, I've been trying to figure\\
+something out for a while.\\
+==== 643 ====
+What is this thing?\\
+==== 644 ====
+Maybe it's a gift from Zero?\\
+==== 645 ====
+So what, you think there's assorted teas\\
+inside?\\
+==== 646 ====
+Gifts don't have to be a good thing, do they?\\
+==== 647 ====
+Hey! What the hell! Stop!\\
+==== 648 ====
+What if it's some kind of bomb?!\\
+==== 649 ====
+A bomb?\\
+==== 650 ====
+Hmm, I don't think it is...\\
+==== 651 ====
+Oh, something's on the back...\\
+==== 652 ====
+I think this is upside down.\\
+==== 653 ====
+So...this would be the front...\\
+==== 654 ====
+[Force Quit Box]?\\
+==== 655 ====
+Guess it stops something?\\
+==== 656 ====
+Look, there's also a keyboard.\\
+==== 657 ====
+Looks like you're supposed to input a code of\\
+some kind...\\
+==== 658 ====
+And if we get it right?\\
+==== 659 ====
+Then "something" will be forced to end?\\
+==== 660 ====
+But, what?\\
+==== 661 ====
+Maybe...\\
+==== 662 ====
+Your life?\\
+==== 663 ====
+What was that sound?\\
+==== 664 ====
+It came from that way.\\
+==== 665 ====
+Let's go!\\
+==== 666 ====
+Gab? How did you...\\
+==== 667 ====
+You came through the vent?\\
+==== 668 ====
+It's too dark. I can't see anything.\\
+==== 669 ====
+Why don't you go in?\\
+==== 670 ====
+I can't...\\
+==== 671 ====
+Just do it will you.\\
+==== 672 ====
+See?\\
+==== 673 ====
+If you didn't have this stupid thing on your\\
+head...\\
+==== 674 ====
+Hey, check this out.\\
+==== 675 ====
+There's something inside the case.\\
+==== 676 ====
+Is that a coaster?\\
+==== 677 ====
+Ah, there's something on it!\\
+==== 678 ====
+"Hello. Carlos here.\\
+==== 679 ====
+C-Team is voting for D-Team,\\
+==== 680 ====
+so D-Team should vote for Q-Team, and\\
+Q-Team for C-Team."\\
+==== 681 ====
+What does this mean?\\
+==== 682 ====
+Don't you get it?\\
+==== 683 ====
+They're saying to spread the votes.\\
+==== 684 ====
+Huh? Spread?\\
+==== 685 ====
+I get it!\\
+==== 686 ====
+If each team ends up with one vote each...\\
+==== 687 ====
+The whole thing is a tie and no team will be\\
+executed.\\
+==== 688 ====
+Oh! That's a great idea!\\
+==== 689 ====
+Okay, now we have a plan. Let's do it!\\
+==== 690 ====
+Um, but wait...\\
+==== 691 ====
+Why should we wait?\\
+==== 692 ====
+Well... What if this message hasn't been\\
+delivered to D-Team yet?\\
+==== 693 ====
+You're right.\\
+==== 694 ====
+The position of this vent does imply it only\\
+connects to Ward C.\\
+==== 695 ====
+I doubt Gab's made his way to Ward D yet.\\
+==== 696 ====
+We need to figure out how to notify D-Team\\
+then.\\
+==== 697 ====
+Hold on a sec!\\
+==== 698 ====
+I'll get a pen and cheese!\\
+==== 699 ====
+There was some at the bar, right...?\\
+==== 700 ====
+A pen...\\
+==== 701 ====
+And cheese...?\\
+==== 702 ====
+That should do it...\\
+==== 703 ====
+What exactly are you doing?\\
+==== 704 ====
+Ohhh, I get it.\\
+==== 705 ====
+If Ward C and Ward Q have connected vents–\\
+==== 706 ====
+Then Q and D are probably connected as well.\\
+==== 707 ====
+Yup.\\
+==== 708 ====
+We just need to take the cheese and...\\
+==== 709 ====
+It's all on you, Gab.\\
+==== 710 ====
+Think it'll work...?\\
+==== 711 ====
+I'm sure it will.\\
+==== 712 ====
+Five minutes until the deadline.\\
+==== 713 ====
+I wonder if Gab made it to Ward D or not.\\
+==== 714 ====
+Even if he did, who knows if Diana will vote\\
+the way it says in the note.\\
+==== 715 ====
+What? You think she'll betray us?\\
+==== 716 ====
+It's not outside the realm of possibility.\\
+==== 717 ====
+I don't even want to consider the\\
+alternative.\\
+==== 718 ====
+Which is...?\\
+==== 719 ====
+That the whole letter from C-Team is a trap.\\
+==== 720 ====
+Trap?\\
+==== 721 ====
+They could've written it, but maybe Carlos is\\
+planning to vote for Q-Team instead.\\
+==== 722 ====
+H-Hey, wait a minute now...\\
+==== 723 ====
+That's...not good. At all.\\
+==== 724 ====
+You said it.\\
+==== 725 ====
+If I'm right, then we need Diana to do the\\
+opposite of what it says.\\
+==== 726 ====
+What? But...\\
+==== 727 ====
+The deadline to vote...is in three minutes.\\
+==== 728 ====
+The vote has to be decided by the leader,\\
+but...\\
+==== 729 ====
+What should we do...\\
+==== 730 ====
+We don't have time for a committee.\\
+==== 731 ====
+Then we'll just have to use force–!\\
+==== 732 ====
+H-Hey wait!\\
+==== 733 ====
+Your vote...has been accepted.\\
+==== 734 ====
+Following the note, huh...\\
+==== 735 ====
+Eh, I guess it's fine? It's not like it was a bad\\
+choice.\\
+==== 736 ====
+Now we wait and see what exactly Carlos\\
+and Diana do.\\
+==== 737 ====
+If this plan doesn't work, then there are two\\
+outcomes that could happen.\\
+==== 738 ====
+Either the three in C-Team die...\\
+==== 739 ====
+Or we're the ones executed...\\
+==== 740 ====
+No. There's one more possibility.\\
+==== 741 ====
+Yeah?\\
+==== 742 ====
+It's a joke.\\
+==== 743 ====
+Someone is definitely tricking us...!\\
+==== 744 ====
+So it is you–!\\
+==== 745 ====
+Ninety minutes have passed. Your time limit\\
+has ended.\\
+==== 746 ====
+Sleep well, as the next game will begin when\\
+you awake.\\
+==== 747 ====
+Unfortunately, the team who receives two\\
+votes will be unable to participate...\\
+==== 748 ====
+One final thing.\\
+==== 749 ====
+You've gone through with the vote exactly as\\
+I commanded.\\
+==== 750 ====
+You deserve a reward for obeying.\\
+==== 751 ====
+The memory loss drug will not be injected\\
+into the three of you.\\
+==== 752 ====
+When next you wake, those who survived will\\
+be able to regret the decision they made.\\
+==== 753 ====
+As all members of a single team will perish as\\
+a result of the vote you entered.\\
+==== 754 ====
+Pleasant dreams...\\
+==== 755 ====
+Your vote...has been accepted.\\
+==== 756 ====
+Oho, the plot thickens.\\
+==== 757 ====
+Why would you...?!\\
+==== 758 ====
+If Carlos voted for D-Team like he said he\\
+would in the note...!\\
+==== 759 ====
+Maybe that was the result he was going for.\\
+==== 760 ====
+He wanted to kill the three in D-Team...\\
+==== 761 ====
+No...\\
+==== 762 ====
+You said it earlier, right Mira...?\\
+==== 763 ====
+The note Gab brought could've been a trap\\
+from C-Team...\\
+==== 764 ====
+Right.\\
+==== 765 ====
+But that doesn't mean voting for D-Team can\\
+be justified.\\
+==== 766 ====
+If it really was a trap, there still isn't a solid\\
+reason to go against what it says in the note.\\
+==== 767 ====
+Because regardless,\\
+==== 768 ====
+as long as Diana doesn't flip on us, we may be\\
+screwed anyway.\\
+==== 769 ====
+Mira...\\
+==== 770 ====
+There's no way we can justify it by saying we\\
+voted this way in self-defense.\\
+==== 771 ====
+Ninety minutes have passed. Your time limit\\
+has ended.\\
+==== 772 ====
+Sleep well, as the next game will begin when\\
+you awake.\\
+==== 773 ====
+Unfortunately, the team who receives two\\
+votes will be unable to participate...\\
+==== 774 ====
+One final thing.\\
+==== 775 ====
+You've gone through with the vote exactly as\\
+I commanded.\\
+==== 776 ====
+You deserve a reward for obeying.\\
+==== 777 ====
+The memory loss drug will not be injected\\
+into the three of you.\\
+==== 778 ====
+When next you wake, those who survived will\\
+be able to regret the decision they made.\\
+==== 779 ====
+As all members of a single team will perish as\\
+a result of the vote you entered.\\
+==== 780 ====
+Pleasant dreams...\\

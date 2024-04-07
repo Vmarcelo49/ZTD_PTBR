@@ -1,0 +1,1429 @@
+==== 6159 ====
+Dammit. I figured brute force wouldn't work.\\
+==== 6160 ====
+So, this is Control.\\
+==== 6161 ====
+The air, water, and electricity for the shelter\\
+are all managed here.\\
+==== 6162 ====
+This is probably where transmissions to the\\
+outside world happen.\\
+==== 6163 ====
+But...\\
+==== 6164 ====
+It's disconnected.\\
+==== 6165 ====
+Guess we can't order a bunch of pizza then.\\
+==== 6166 ====
+There are a lot of monitors here.\\
+==== 6167 ====
+I think this might let us review the footage\\
+from the security cameras.\\
+==== 6168 ====
+Huh? There are security cameras in this\\
+place?\\
+==== 6169 ====
+Carlos, it's 2028. I'd be more surprised if\\
+there aren't cameras hidden everywhere...\\
+==== 6170 ====
+She's right. The ones I used for work were\\
+about the size of a woman's nipple.\\
+==== 6171 ====
+Well, I guess not uniformly. Nipple sizes\\
+differ.\\
+==== 6172 ====
+That's unusual.\\
+==== 6173 ====
+A carbon dioxide extinguisher.\\
+==== 6174 ====
+You're definitely a firefighter.\\
+==== 6175 ====
+Your eyes spot different things than us.\\
+==== 6176 ====
+Occupational hazard.\\
+==== 6177 ====
+Whenever I go somewhere new, I end up\\
+checking the extinguishers first thing.\\
+==== 6178 ====
+I see...\\
+==== 6179 ====
+And because you do that all the time, you're\\
+able to save so many lives...\\
+==== 6180 ====
+It's really nothing much.\\
+==== 6181 ====
+What are you talking about.\\
+==== 6182 ====
+You dive into danger without thinking twice\\
+about your own safety.\\
+==== 6183 ====
+You do it like it's nothing. I think that's pretty\\
+amazing!\\
+==== 6184 ====
+You know, I doubt it's all that.\\
+==== 6185 ====
+What are you trying to say?\\
+==== 6186 ====
+Well, Carlos was just doing what he was\\
+trained to do... Isn't that right?\\
+==== 6187 ====
+Yeah. It's like you said.\\
+==== 6189 ====
+I'm sorry, Carlos.\\
+==== 6190 ====
+He's acting out now, but Junpei used to rush\\
+to the rescue a lot when we were younger.\\
+==== 6191 ====
+Sorry, but I'm done with playing the action\\
+hero.\\
+==== 6192 ====
+But why...\\
+==== 6193 ====
+Because I grew up.\\
+==== 6194 ====
+You just sound even more childish to me...\\
+==== 6195 ====
+Ah! It's January 1st!\\
+==== 6196 ====
+Worst way to start the year off...\\
+==== 6197 ====
+I've never not been able to say Happy New\\
+Year to Maria before...\\
+==== 6198 ====
+Maria?\\
+==== 6199 ====
+My little sister.\\
+==== 6200 ====
+Well, take comfort knowing she's alive at\\
+least.\\
+==== 6201 ====
+Don't forget what Zero said.\\
+==== 6202 ====
+"Very few of you will find yourselves able to\\
+welcome a new 2029."\\
+==== 6203 ====
+Anyway, let's just figure a way out of this\\
+room.\\
+==== 6204 ====
+Got it.\\
+==== 6205 ====
+Yeah, if we don't get our butts in gear, it\\
+might be 2030 before we even get out.\\
+==== 6206 ====
+Oh! The fire's out!\\
+==== 6208 ====
+Damn, that was close.\\
+==== 6209 ====
+Guess that extinguisher up there helped, huh.\\
+==== 6210 ====
+Yeah, I think so.\\
+==== 6211 ====
+But that's bringing its own problems...\\
+==== 6212 ====
+Huh?\\
+==== 6213 ====
+It doesn't look like it's stopping...\\
+==== 6214 ====
+At this rate we'll...\\
+==== 6217 ====
+The percentage of carbon dioxide in the air is\\
+roughly 0.04.\\
+==== 6218 ====
+IDLH level kicks in around 5%.\\
+==== 6219 ====
+IDLH...?\\
+==== 6220 ====
+The highest concentration level you can\\
+continue to safely inhale.\\
+==== 6221 ====
+You lose consciousness shortly after it hits\\
+7%, and after that...\\
+==== 6222 ====
+Now commencing...the Decision Game.\\
+==== 6223 ====
+A Decision Game...?!\\
+==== 6224 ====
+Ten lockers are beside the door...\\
+==== 6225 ====
+Within one of them...there is an oxygen mask.\\
+==== 6226 ====
+Which locker will you open...?\\
+==== 6227 ====
+Damn that Zero...!\\
+==== 6228 ====
+We need to pick one quickly...\\
+==== 6229 ====
+But which number is correct...\\
+==== 6230 ====
+Please choose, Carlos!\\
+==== 6231 ====
+The probability is 1 in 10...\\
+==== 6232 ====
+No hints. We'll have to go with our gut...\\
+==== 6233 ====
+Is that...your final decision?\\
+==== 6234 ====
+Wh-What...?\\
+==== 6235 ====
+I know...which locker contains the oxygen\\
+mask...\\
+==== 6236 ====
+If there is a mask...in the locker you chose...\\
+==== 6237 ====
+Eight of the remaining nine lockers...will\\
+randomly open.\\
+==== 6238 ====
+If the mask...is not within the locker you\\
+chose...\\
+==== 6239 ====
+Eight lockers...except the correct one...will\\
+open.\\
+==== 6240 ====
+Th-This is...\\
+==== 6241 ====
+The Monty Hall problem...\\
+==== 6242 ====
+The remaining lockers...have been narrowed\\
+to two.\\
+==== 6243 ====
+Which locker will you open?\\
+==== 6244 ====
+You are permitted to change...or stay...with\\
+your previous decision.\\
+==== 6245 ====
+The exit door...will be unlocked in...twenty\\
+minutes.\\
+==== 6246 ====
+Twenty minutes?!\\
+==== 6247 ====
+There's no way we'll last twenty min–\\
+==== 6250 ====
+Wh-What's wrong, Junpei?\\
+==== 6251 ====
+Oh man, that's awesome luck for us!\\
+==== 6252 ====
+Our chances went from 1 in 10 to 50:50?!\\
+==== 6253 ====
+That's not it, Junpei...!\\
+==== 6254 ====
+The probability is...\\
+==== 6255 ====
+It's actually...\\
+==== 6256 ====
+Akane!\\
+==== 6257 ====
+Hey Akane! Akane! Are you okay?!\\
+==== 6258 ====
+{Fi}Damn, this isn't good...{Fn}\\
+==== 6259 ====
+{Fi}We need to get that mask fast...{Fn}\\
+==== 6260 ====
+{Fi}Which is it...{Fn}\\
+==== 6261 ====
+{Fi}Which one will it be in...{Fn}\\
+==== 6262 ====
+Aw yeah, we did it!\\
+==== 6263 ====
+Yeah, but...\\
+==== 6264 ====
+You gotta be joking...\\
+==== 6265 ====
+One...\\
+==== 6266 ====
+Are you telling me there's only one?!\\
+==== 6267 ====
+The announcement... It never said that there\\
+would be three...\\
+==== 6268 ====
+No...\\
+==== 6270 ====
+Ah, no, but it'll all be all right!\\
+==== 6271 ====
+We'll just rotate the mask between the three\\
+of us!\\
+==== 6272 ====
+We can't...\\
+==== 6273 ====
+Why?!\\
+==== 6274 ====
+The door doesn't open for twenty minutes...\\
+==== 6275 ====
+The pump only has enough oxygen for one...\\
+==== 6276 ====
+Dammit. What the hell...\\
+==== 6277 ====
+Augh! What the hell!\\
+==== 6280 ====
+Hey Carlos...\\
+==== 6281 ====
+I have a favor to ask...\\
+==== 6282 ====
+I know...\\
+==== 6283 ====
+I haven't been a firefighter for ten years to\\
+make the wrong choice now.\\
+==== 6285 ====
+Jun...pei...?\\
+==== 6286 ====
+Hey. I'm glad...\\
+==== 6287 ====
+I got to hear your voice one last time...\\
+==== 6288 ====
+Huh...?\\
+==== 6289 ====
+It brings back that time at the festival...\\
+==== 6290 ====
+Remember? We went together.\\
+==== 6291 ====
+You found this weird character mask, and\\
+bought two.\\
+==== 6292 ====
+You tried to make me wear one...\\
+==== 6293 ====
+Oh that's right, you were wearing a yukata\\
+then...\\
+==== 6294 ====
+You said it had been your mom's before she\\
+died.\\
+==== 6295 ====
+That's why it was so big on you...\\
+==== 6296 ====
+I want to go to that festival again...\\
+==== 6297 ====
+Junpei, no...!\\
+==== 6298 ====
+Hurry! Put the mask on...!\\
+==== 6299 ====
+What...\\
+==== 6300 ====
+Junpei...\\
+==== 6301 ====
+JUNPEI!\\
+==== 6302 ====
+No...\\
+==== 6303 ====
+Why...\\
+==== 6304 ====
+NOOOOO!\\
+==== 6306 ====
+It's no use...\\
+==== 6307 ====
+There's no way that locker'll open...\\
+==== 6308 ====
+Why...?!\\
+==== 6309 ====
+It's just how the pieces fall...\\
+==== 6310 ====
+Looks like we're outta luck...\\
+==== 6311 ====
+Akane...\\
+==== 6312 ====
+If only I could've heard your voice one last\\
+time...\\
+==== 6313 ====
+But it seems like...\\
+==== 6314 ====
+I'm really sorry, guys...\\
+==== 6315 ====
+Forgive me...\\
+==== 6316 ====
+Sorry...I couldn't save you...\\
+==== 6317 ====
+Um, are you sure...\\
+==== 6318 ====
+You're taking the word of that announcer\\
+earlier?\\
+==== 6319 ====
+It's completely rubbish. All of it.\\
+==== 6320 ====
+Then everyone's alive...?\\
+==== 6321 ====
+Of course.\\
+==== 6322 ====
+We need to go get help...\\
+==== 6323 ====
+All right. Let's go.\\
+==== 6324 ====
+Okay...\\
+==== 7860 ====
+Damn it! Damn it!\\
+==== 7861 ====
+There's no way I'm dying here!\\
+==== 7862 ====
+Please don't...!\\
+==== 7863 ====
+Please!\\
+==== 7865 ====
+May you rest in peace.\\
+==== 7866 ====
+Desine fata deum flecti sperare precando.\\
+==== 7869 ====
+Wh-What's wrong, Carlos?\\
+==== 7870 ====
+Akane...\\
+==== 7871 ====
+So, it was a dream...?\\
+==== 7872 ====
+It must've been a pretty bad one...\\
+==== 7873 ====
+Though seeing where we are, I don't blame\\
+you for having a nightmare...\\
+==== 1010200 ====
+There are a lot of buttons and switches on\\
+this console...\\
+==== 1010201 ====
+Watch as a self-destruct sequence starts if\\
+we just start pushing everything.\\
+==== 1010202 ====
+Ha ha. I can't say that's not entirely\\
+impossible.\\
+==== 1010300 ====
+It's a console full of buttons and switches.\\
+==== 1010400 ====
+It's just a normal chair.\\
+==== 1010401 ====
+No time to rest now. Let's keep looking.\\
+==== 1010500 ====
+There's nothing special about this chair.\\
+==== 1020300 ====
+What's that on the monitor?\\
+==== 1020301 ====
+The letters S and W...on a door?\\
+==== 1020302 ====
+The S is red and the W is pink.\\
+==== 1020303 ====
+Is it saying we need to spell those letters out\\
+with our bodies?\\
+==== 1020304 ====
+I doubt it's going to be like Sports Day back in\\
+Japan, Junpei.\\
+==== 1020400 ====
+The monitor's displaying a door with a red S\\
+and a pink W on it.\\
+==== 1020500 ====
+Hey, there are more letters behind the door.\\
+==== 1020501 ====
+SE, N, E, and SW.\\
+==== 1020502 ====
+I wonder why they're four different colors.\\
+==== 1020600 ====
+SE, N, E, SW... What do these mean?\\
+==== 1020601 ====
+Southeast... North... Maybe they're\\
+directions?\\
+==== 1020602 ====
+Oh! Then E is east and SW is southwest!\\
+==== 1020700 ====
+The letters on the monitor are direction\\
+hints.\\
+==== 1020800 ====
+The three small monitors at the top left are\\
+blank.\\
+==== 1020801 ====
+...Maybe they'll show the faces of those who\\
+die in here.\\
+==== 1020802 ====
+Don't say things like that, Junpei! It's bad\\
+luck.\\
+==== 1020900 ====
+There are three small monitors by the large\\
+one. They aren't showing anything.\\
+==== 1021000 ====
+Oh, these monitors are displaying something.\\
+==== 1021001 ====
+Top to bottom: B, E, and R.\\
+==== 1021100 ====
+The small monitors are displaying the letters\\
+B, E, and R.\\
+==== 1021200 ====
+We used these letters for the password for\\
+the sunglasses.\\
+==== 1030300 ====
+This large monitor here is showing some kind\\
+of crane.\\
+==== 1030301 ====
+Where is that room... Oh, I think these buttons\\
+can move the crane.\\
+==== 1030302 ====
+It's like those crane games... Okay then, let's\\
+give it a go.\\
+==== 1030303 ====
+Are you good at these, Junpei?\\
+==== 1030304 ====
+Not really. Usually my wallet gives up first.\\
+==== 1030305 ====
+It's not exactly something to be proud of...\\
+==== 1030400 ====
+We can operate the crane from here. Let's\\
+try it again.\\
+==== 1030500 ====
+Oh? Yeah! All the small monitors came on! I\\
+must've done it!\\
+==== 1030501 ====
+That's incredible, Carlos!\\
+==== 1030502 ====
+Smooth moves there. I might be falling for\\
+you now.\\
+==== 1030600 ====
+Phew... The small monitors lit up. It looks like\\
+we did it.\\
+==== 1030601 ====
+So sound was the key to it. Impressive.\\
+==== 1030700 ====
+Damn... I don't think this is working.\\
+==== 1030701 ====
+Moving it around randomly won't work.\\
+==== 1030800 ====
+...Nope. But every time the crane moves it\\
+makes a sound.\\
+==== 1030801 ====
+Maybe that's what's important about this.\\
+Let's see if we can find a hint.\\
+==== 1030900 ====
+Hmm, it's just not working. We should pay\\
+attention to the sound, right?\\
+==== 1030901 ====
+I think it's the same sound we heard from the\\
+sunglasses.\\
+==== 1031000 ====
+What? Did I get the order wrong?\\
+==== 1031001 ====
+If you forgot the sound order we should listen\\
+to the sunglasses again.\\
+==== 1031100 ====
+Moving this crane lights up all of the small\\
+monitors on the console.\\
+==== 1031200 ====
+Four small monitors are at the bottom left.\\
+But they aren't showing anything.\\
+==== 1031201 ====
+I really can't believe all these security\\
+cameras are simply down...\\
+==== 1031300 ====
+Four small monitors. They aren't showing\\
+anything.\\
+==== 1031400 ====
+These monitors are displaying letters.\\
+==== 1031401 ====
+From left to right is S, E, F, and E.\\
+==== 1031500 ====
+The monitors are showing S, E, F, and E from\\
+left to right.\\
+==== 1031600 ====
+These letters were used as part of the\\
+password for the sunglasses.\\
+==== 1040300 ====
+Is this some kind of shutter?\\
+==== 1040301 ====
+Looks like it. There are some lines on it.\\
+==== 1040302 ====
+You can use the slider over here to zoom in\\
+and out.\\
+==== 1040400 ====
+The view on this monitor can be zoomed in\\
+and out... Time to try again.\\
+==== 1040500 ====
+The monitor view can zoom in and out...\\
+==== 1040501 ====
+Some kind of hint maybe? Let's keep it in\\
+mind.\\
+==== 1040600 ====
+The monitor's displaying some lines on the\\
+shutter... What is that hinting?\\
+==== 1040700 ====
+These lines were the hint to the angles for\\
+the laser device's knobs.\\
+==== 1040800 ====
+The top right monitors aren't showing\\
+anything...\\
+==== 1040801 ====
+They're totally black. How do we turn them\\
+on?\\
+==== 1040900 ====
+All three monitors are black.\\
+==== 1041000 ====
+These three monitors here have a letter each\\
+on them.\\
+==== 1041001 ====
+From left to right they read T, Y, and E. I\\
+wonder what this means?\\
+==== 1041100 ====
+The monitors here are displaying the letters\\
+T, Y, and E.\\
+==== 1041200 ====
+These letters were part of the password for\\
+the sunglasses.\\
+==== 1050300 ====
+Are those...cylinders on the monitor?\\
+==== 1050301 ====
+That's my guess. But I don't recognize them.\\
+Maybe they're from one of the other wards.\\
+==== 1050400 ====
+This monitor shows a room with a bunch of\\
+cylinders in rows.\\
+==== 1050500 ====
+Whoa, this room looks totally different when\\
+the light is off.\\
+==== 1050501 ====
+You're right. And some of those cylinders lit\\
+up, too.\\
+==== 1050600 ====
+Glowing cylinders... That must mean\\
+something.\\
+==== 1050601 ====
+Eight of the twelve are lit up.\\
+==== 1050602 ====
+Hmm, twelve... Is there something similar in\\
+this room?\\
+==== 1050700 ====
+The twelve cylinders are hinting at the\\
+buttons over on that other device.\\
+==== 1060100 ====
+The four monitors here are turned off.\\
+==== 1060101 ====
+They can only be seen by those pure of heart.\\
+==== 1060102 ====
+What, really?\\
+==== 1060103 ====
+I'm kidding. Too gullible, man.\\
+==== 1060200 ====
+Nothing's on these four monitors, regardless\\
+of the purity of who's looking.\\
+==== 1060300 ====
+Some letters showed up on the monitors.\\
+==== 1060301 ====
+From top to bottom they read B, D, T, and I.\\
+==== 1060400 ====
+These four monitors are displaying B, D, T,\\
+and I from top to bottom.\\
+==== 1060500 ====
+These letters were used for the password for\\
+the sunglasses.\\
+==== 1070100 ====
+This looks like a switchboard. It has the\\
+painful shock sign on it.\\
+==== 1070101 ====
+Painful shock?\\
+==== 1070102 ====
+The yellow mark over in the corner.\\
+==== 1070103 ====
+Oh, I see it. That sign indicates high voltage.\\
+==== 1070104 ====
+You always were scared of static shocks\\
+during winter, weren't you, Akane?\\
+==== 1070105 ====
+I also make sure to not pull plugs out with wet\\
+hands. A shock from that terrifies me.\\
+==== 1070106 ====
+Ha ha. You're probably afraid of thunder too,\\
+aren't you?\\
+==== 1070200 ====
+A switchboard. The pain–I mean, voltage\\
+sign is in the top right corner.\\
+==== 1070201 ====
+Anyway, let's see if we can connect the\\
+cords.\\
+==== 1070300 ====
+Huh? Did it just...\\
+==== 1070301 ====
+Check out the top left monitor! The door on\\
+the screen opened!\\
+==== 1070302 ====
+And we didn't even have to work for it. What\\
+great luck.\\
+==== 1070400 ====
+Huh. I think that did it?\\
+==== 1070401 ====
+Seems so. The door on the top left monitor is\\
+open now.\\
+==== 1070402 ====
+So the poster and the sunglasses were the\\
+hints for this after all.\\
+==== 1070500 ====
+Nothing's happening... Is there a right way to\\
+do this?\\
+==== 1070600 ====
+Still wrong... We should see if there's a clue\\
+for the right arrangement.\\
+==== 1070601 ====
+That shock mark might be a hint?\\
+==== 1070602 ====
+We should probably call it the voltage sign...\\
+But you're right. Let's take note of it.\\
+==== 1070700 ====
+Oh? What did I do wrong?\\
+==== 1070701 ====
+We saw that voltage sign somewhere else,\\
+didn't we? Let's check it again.\\
+==== 1070800 ====
+Damn, still wrong.\\
+==== 1070801 ====
+Wasn't there a mark on the poster, and in A\\
+mode in the sunglasses?\\
+==== 1070802 ====
+He's on to something. The same mark keeps\\
+appearing. It must be some kind of clue.\\
+==== 1070900 ====
+Connecting the cords only opened that\\
+monitor door in the end.\\
+==== 1070901 ====
+I'd hoped it would somehow connect to the\\
+outside world... That's too bad.\\
+==== 1071000 ====
+What's this card?\\
+==== 1071001 ====
+Some of the boxes have numbers written in\\
+them.\\
+==== 1071002 ====
+Gotta be some kind of hint. Let's take it with\\
+us.\\
+==== 1080100 ====
+Huh? I think this speaker can be slid to the\\
+side.\\
+==== 1080101 ====
+What? Let's do it!\\
+==== 1080102 ====
+Huh. There's a depression here...and what's\\
+this?\\
+==== 1080103 ====
+It's a card with boxes and numbers.\\
+==== 1080104 ====
+It was hidden, so it's probably useful. Let's\\
+take it just in case.\\
+==== 1080200 ====
+There's nothing left behind the speaker.\\
+==== 1080201 ====
+A monster might bite your hand if you stuck it\\
+in far enough.\\
+==== 1080202 ====
+What are you even saying, Junpei. As if that\\
+would happen...\\
+==== 1080203 ====
+Your voice is wobbly and you're shaking like a\\
+leaf, Akane...\\
+==== 1080300 ====
+Nothing's behind the speaker. Not even a\\
+monster, as far as I can tell.\\
+==== 1090100 ====
+What is this machine for?\\
+==== 1090101 ====
+No clue. Looks like it's connected to the one\\
+on the right, too.\\
+==== 1090102 ====
+I see a loose cable sticking out. I'm not sure\\
+what it's for.\\
+==== 1090200 ====
+It's a strange machine connected to the one\\
+next to it. A cable is sticking out of it.\\
+==== 1090300 ====
+What is this big cable for?\\
+==== 1090301 ====
+Well, let's see. Maybe holding it up to your\\
+mouth will shoot cola out?\\
+==== 1090302 ====
+The hell it will. ...Kids would flip if that really\\
+did happen though.\\
+==== 1090400 ====
+The cable coming out of the machine on the\\
+left. Where can we plug it in...\\
+==== 1090500 ====
+Where are we supposed to plug this in again?\\
+==== 1090501 ====
+The video showed an outlet for it, but it's\\
+still under the floor.\\
+==== 1090502 ====
+I think if we match the direction of the\\
+stands, the floor will open up?\\
+==== 1090600 ====
+Going by the video, we need to turn the\\
+stands, then plug the cable into the machine.\\
+==== 1090700 ====
+I get the feeling this cable will fit in that hole\\
+on the machine. Should we try?\\
+==== 1090701 ====
+Yeah, let's do it.\\
+==== 1090800 ====
+I'm plugging this cable into the machine. You\\
+ready?\\
+==== 1090801 ====
+Yes. No need to hesitate!\\
+==== 1090802 ====
+Just do it already, Carlos.\\
+==== 1090900 ====
+What's this huge machine for?\\
+==== 1090901 ====
+I've never seen it before. I have no idea how\\
+to use it either.\\
+==== 1090902 ====
+Then we probably shouldn’t touch it. Who\\
+knows what could happen.\\
+==== 1091000 ====
+A huge machine. Purpose unknown. It's best\\
+not to touch it.\\
+==== 1100100 ====
+Huh. This door down here is locked.\\
+==== 1100101 ====
+I wonder what could be in here. Is there any\\
+way to open it?\\
+==== 1100102 ====
+I'm not sure. Let's look around.\\
+==== 1100200 ====
+The door in the floor. It's locked.\\
+==== 1100300 ====
+This door in the floor won't open... What do\\
+we do?\\
+==== 1100301 ====
+Maybe we need to do what was shown in the\\
+video on the sunglasses?\\
+==== 1100400 ====
+If we do what we saw in the video, we need to\\
+rotate the stands and match the angle.\\
+==== 1100500 ====
+Oh... I think this hole can fit something in it.\\
+==== 1100501 ====
+Maybe we need to connect something to it.\\
+But what?\\
+==== 1100600 ====
+This looks like a hole for connecting\\
+something.\\
+==== 1100700 ====
+Well...the door in the floor is unlocked. What\\
+next?\\
+==== 1100701 ====
+Uh, maybe...\\
+==== 1100702 ====
+Let's watch the video on the sunglasses\\
+again.\\
+==== 1100800 ====
+According to the video, we need to plug the\\
+cable into the hole.\\
+==== 1100801 ====
+The cable's nearby, so let's do this.\\
+==== 1110100 ====
+A bunch of knobs with mirrors on the edges...\\
+What in the world is this machine?\\
+==== 1110101 ====
+I'm not really sure, but why don't we try\\
+turning some of them?\\
+==== 1110102 ====
+Yeah, as if doing random things will actually\\
+get us anywhere.\\
+==== 1110200 ====
+A machine with several mirrored knobs.\\
+==== 1110300 ====
+You know, I think I've seen the layout for\\
+these knobs somewhere before...\\
+==== 1110301 ====
+Yeah, me too... But where?\\
+==== 1110400 ====
+...Doesn't this layout seem to match what's\\
+showing on the top right monitor?\\
+==== 1110401 ====
+Yeah. Zoomed out, those lines were arranged\\
+exactly where the knobs are.\\
+==== 1110402 ====
+We need to match the angles then?\\
+==== 1110500 ====
+Hey look. The locker on the bottom opened\\
+up.\\
+==== 1110501 ====
+So turning the knobs was the key...\\
+==== 1110502 ====
+I kind of can't believe we got the angles right\\
+by just guessing.\\
+==== 1110600 ====
+Oh... It seems like we were right.\\
+==== 1110601 ====
+So the monitor WAS the hint for this after all.\\
+==== 1110602 ====
+Bottom locker's open. Let's see what's in it.\\
+==== 1110700 ====
+The laser started automatically once we had\\
+the knob angles correct.\\
+==== 1110701 ====
+It was so sudden that it startled me.\\
+==== 1110702 ====
+Ah, well, we cleared this puzzle, so let's see\\
+what's inside the locker.\\
+==== 1110800 ====
+We've checked everything out on this\\
+machine already. Let's keep looking around.\\
+==== 1110900 ====
+We can turn these knobs left and right.\\
+==== 1110901 ====
+Reminds me of closing a gas valve.\\
+==== 1110902 ====
+I can just picture Junpei forgetting to close\\
+it, and panicking once the room smells of gas.\\
+==== 1110903 ====
+You, on the other hand, would probably never\\
+make a mistake like that.\\
+==== 1111000 ====
+Let's turn this knob.\\
+==== 1111100 ====
+We've already figured out the trick to this,\\
+so we don't need to do anything anymore.\\
+==== 1111200 ====
+I can't open this locker down here.\\
+==== 1111201 ====
+If it's locked, then there's probably a way to\\
+unlock it.\\
+==== 1111202 ====
+But how are we going to do that...\\
+==== 1111300 ====
+The locker attached to this machine. It's\\
+locked.\\
+==== 1111400 ====
+So what's in here?\\
+==== 1111401 ====
+A small battery... Maybe it attaches to\\
+something? And this is...\\
+==== 1111402 ====
+A card with some numbers on it...\\
+==== 1111500 ====
+There's nothing else in this locker. No point\\
+to staring at it anymore.\\
+==== 1111600 ====
+Hey, there's a monitor here.\\
+==== 1111601 ====
+But it's blank.\\
+==== 1111602 ====
+Maybe it'll show instructions for this machine\\
+if we push a button somewhere.\\
+==== 1111700 ====
+The laser's been activated, but there's still\\
+nothing showing on the monitor.\\
+==== 1111800 ====
+These look like some input buttons...\\
+==== 1111801 ====
+Nope, nothing happens when you push them.\\
+==== 1111802 ====
+Maybe we need to push something somewhere\\
+else?\\
+==== 1111900 ====
+Nothing happens when you push the buttons...\\
+Let's look somewhere else.\\
+==== 1120100 ====
+This machine measures amounts of radiation.\\
+It's called a radiation meter.\\
+==== 1120101 ====
+There's that firefighter side coming out.\\
+==== 1120102 ====
+There are a bunch of large buttons down\\
+here. Twelve in all.\\
+==== 1120200 ====
+A radiation meter. There are 12 large buttons\\
+at the bottom right.\\
+==== 1120300 ====
+Didn't we see this button layout before?\\
+==== 1120301 ====
+Yeah, you're right... But where?\\
+==== 1120400 ====
+Hey, doesn't this layout look a lot like what's\\
+on the bottom right monitor?\\
+==== 1120401 ====
+Ah, yes! The cylinders! There are twelve of\\
+them too!\\
+==== 1120402 ====
+If they're connected, then we have to push\\
+the buttons that match the lit cylinders.\\
+==== 1120500 ====
+Oh, the locker at the bottom left of this just\\
+unlocked!\\
+==== 1120501 ====
+I don't believe it... I just used my gut and\\
+started pushing buttons.\\
+==== 1120502 ====
+The correct answer just appeared in his\\
+head... That happened to me a year ago.\\
+==== 1120503 ====
+Heh, no, just a coincidence... No way Carlos\\
+can do that, too.\\
+==== 1120600 ====
+Yes! We got it right. The bottom left locker is\\
+open now.\\
+==== 1120601 ====
+So the hint really was the lit cylinders.\\
+==== 1120602 ====
+I'm more curious about the locker. Why don't\\
+we take a look.\\
+==== 1120700 ====
+Pressing the correct buttons caused the\\
+bottom left locker to open.\\
+==== 1120701 ====
+Yeah, and I bet there's some kind of reward.\\
+==== 1120702 ====
+I'm going to laugh if it's only full of candy.\\
+Okay, here we go.\\
+==== 1120800 ====
+We've already checked everything on this.\\
+Time to search somewhere else.\\
+==== 1120900 ====
+I see... Touching a button will turn the light\\
+on and off.\\
+==== 1120901 ====
+Then they're all just on/off switches.\\
+==== 1120902 ====
+If only Junpei's personality changed as\\
+easily.\\
+==== 1120903 ====
+What, the me before and the me now? Not\\
+likely.\\
+==== 1120904 ====
+The amount of things I know now that I didn't\\
+then... It's too big a difference.\\
+==== 1120905 ====
+Junpei...\\
+==== 1121000 ====
+Time to mash some buttons.\\
+==== 1121100 ====
+We don't need to mess with the buttons again\\
+since we got the right answer.\\
+==== 1121200 ====
+This locker is locked. We can't open it.\\
+==== 1121201 ====
+It just deepens the mystery. Is there any trick\\
+to opening it up?\\
+==== 1121300 ====
+This locker can't be opened. There has to be\\
+something we can do to unlock it.\\
+==== 1121400 ====
+Let's see what's in this locker.\\
+==== 1121401 ====
+Some kind of ear speaker...and this.\\
+==== 1121402 ====
+A card with four numbers on it...\\
+==== 1121500 ====
+Nothing else in the locker.\\
+==== 1121600 ====
+What's this meter?\\
+==== 1121601 ====
+It must be for measuring radiation levels.\\
+==== 1121602 ====
+But the needle isn't moving. Maybe we have\\
+to do something on this machine first.\\
+==== 1121700 ====
+The needle's still not moving... I guess Zero\\
+must've fixed it in place.\\
+==== 1130100 ====
+...I think this poster can come up.\\
+==== 1130101 ====
+Okay then, let's make like we're flipping up a\\
+girl's skirt!\\
+==== 1130102 ====
+Oh, sunglasses! There are sunglasses behind\\
+this!\\
+==== 1130103 ====
+Ha, so there IS treasure from flipping things\\
+up!\\
+==== 1130200 ====
+I wonder what these two columns of numbers\\
+mean.\\
+==== 1130201 ====
+Notice that there's a voltage sign in the top\\
+right as well.\\
+==== 1130202 ====
+It's not as if the poster has electricity\\
+running through it, so why is it there?\\
+==== 1130300 ====
+There are two columns of numbers and a\\
+voltage sign on the poster.\\
+==== 1130400 ====
+The columns and the voltage sign... Why do\\
+they seem so...?\\
+==== 1130401 ====
+Hey, didn't we just see that mark\\
+somewhere?\\
+==== 1130500 ====
+Two columns of numbers... A voltage sign in\\
+the corner...\\
+==== 1130501 ====
+We saw that mark in the video on the\\
+sunglasses as well.\\
+==== 1130502 ====
+Does that mean they're all related?\\
+==== 1130600 ====
+This was the hint for how to connect the\\
+switchboard.\\
+==== 1140100 ====
+There's a total of ten lockers.\\
+==== 1140101 ====
+We tried them all, but none open.\\
+==== 1140102 ====
+I want to know what's inside. But no point to\\
+wishing since they're locked.\\
+==== 1140200 ====
+Ten lockers lined up. All locked.\\
+==== 1150100 ====
+This is a sturdy door.\\
+==== 1150101 ====
+We couldn't force it open, so I'm guessing it's\\
+impossible to break it down too.\\
+==== 1150102 ====
+Let's try to find a way out.\\
+==== 1150200 ====
+It's a strong door. No way we can force it\\
+open.\\
+==== 1160100 ====
+Look, is the center of this stand pointing at a\\
+direction?\\
+==== 1160101 ====
+It seems so. But what does it mean...\\
+==== 1160102 ====
+Oh hey, we can turn it. Let's fiddle with it.\\
+==== 1160200 ====
+Okay, let's turn this stand.\\
+==== 1160300 ====
+This stand came out of the floor.\\
+==== 1160301 ====
+We should turn this one, too.\\
+==== 1160400 ====
+Oh?! A black stand just came out of the floor!\\
+==== 1160401 ====
+Did we get the directions right on accident?\\
+==== 1160402 ====
+Oh! Look at the bottom right monitor! The\\
+light in that room turned off!\\
+==== 1160500 ====
+Huh? A black stand came out of the floor?\\
+==== 1160501 ====
+Does that mean we got the directions right?\\
+==== 1160502 ====
+The light in the room on the bottom right\\
+monitor also turned off.\\
+==== 1160600 ====
+Oh... The floor opened and something came\\
+out.\\
+==== 1160601 ====
+This is just a guess, but I think we somehow\\
+got it right with our random turning.\\
+==== 1160602 ====
+Hey, we got lucky. Let's just be thankful.\\
+==== 1160700 ====
+So turning the stands according to the\\
+instructions on the video brings that out.\\
+==== 1160701 ====
+I hope it was worth the hard work.\\
+==== 1160800 ====
+No need to turn this anymore.\\
+==== 1170100 ====
+What is this machine?\\
+==== 1170101 ====
+No idea. I've never seen it before... Why\\
+don't we try pushing some buttons.\\
+==== 1170102 ====
+No dice. Is this thing broken?\\
+==== 1170200 ====
+I've never seen this machine before, but it's\\
+not doing anything so it must be broken.\\
+==== 1180100 ====
+...This looks like your standard carbon\\
+dioxide extinguisher.\\
+==== 1180101 ====
+I can definitely tell you're a firefighter.\\
+You're not missing a thing.\\
+==== 1180102 ====
+Really? I'm getting a crick in my neck just\\
+trying to look at the ceiling.\\
+==== 1180200 ====
+There's nothing strange or unusual about the\\
+extinguisher. Let's keep looking around.\\
+==== 1190100 ====
+Guurrrrrr\\
+==== 1190200 ====
+Znnnuurr\\
+==== 1190300 ====
+Vrrrreeee\\
+==== 1190400 ====
+Whirrrrrr\\
+==== 1190500 ====
+Ding dong\\
+==== 2010100 ====
+Some sunglasses we found behind the poster.\\
+But the earpieces are missing.\\
+==== 2010101 ====
+These are vital when it's summer and the sun\\
+is bright. Not so much in the winter, like now.\\
+==== 2010102 ====
+I've always liked them since I was a kid.\\
+Doesn't it seem like they make you look cool?\\
+==== 2010103 ====
+Yeah, just like in that movie with The One\\
+fighting against the computer AI. Classic.\\
+==== 2010104 ====
+I have to say I’m surprised you know that old\\
+movie. It's one of my favorites.\\
+==== 2010200 ====
+A pair of sunglasses without earpieces.\\
+==== 2020100 ====
+If you look close, you can see a terminal point\\
+on the end.\\
+==== 2020101 ====
+It also looks like an earpiece.\\
+==== 2020102 ====
+It must attach to a pair of glasses. Maybe we\\
+can use it somewhere.\\
+==== 2020200 ====
+A small battery that looks like an earpiece\\
+for glasses with a spot to attach it.\\
+==== 2030100 ====
+We found the ear speaker in the radiation\\
+meter's locker.\\
+==== 2030101 ====
+It looks like the type that goes over your ear.\\
+==== 2030102 ====
+Maybe it's supposed to attach to a pair of\\
+glasses.\\
+==== 2030200 ====
+It looks like an ear speaker for glasses.\\
+==== 2040100 ====
+What? The sunglasses are displaying\\
+something on the lenses.\\
+==== 2040101 ====
+Then attaching the battery turned them on?\\
+Must not be normal sunglasses.\\
+==== 2040102 ====
+Yeah. Looks like there are three modes: A, B,\\
+and C. We should pick one.\\
+==== 2040103 ====
+Select a viewing mode\\
+==== 2040104 ====
+A mode\\
+==== 2040105 ====
+B mode\\
+==== 2040106 ====
+C mode\\
+==== 2040200 ====
+The mode selection screen. Okay, which\\
+one...\\
+==== 2040201 ====
+Select a viewing mode\\
+==== 2040202 ====
+A mode\\
+==== 2040203 ====
+B mode\\
+==== 2040204 ====
+C mode\\
+==== 2040300 ====
+Okay, let's go to A mode.\\
+==== 2040301 ====
+What was that? A bunch of scribbled lines?\\
+==== 2040302 ====
+No wait... I think there was a mark in the top\\
+right corner.\\
+==== 2040400 ====
+...Let's watch A mode again.\\
+==== 2040401 ====
+Still scribbled lines...\\
+==== 2040402 ====
+Maybe that voltage sign at the top right is\\
+some kind of clue.\\
+==== 2040500 ====
+Let's watch A mode's video.\\
+==== 2040501 ====
+That was the hint for connecting the\\
+switchboard.\\
+==== 2040600 ====
+Okay, let's go with B mode.\\
+==== 2040601 ====
+Huh? It's just showing numbers changing on\\
+a wall... I'm not sure what that means.\\
+==== 2040700 ====
+B mode time.\\
+==== 2040701 ====
+The number's switching from 1 to 4, and the\\
+background is changing too.\\
+==== 2040800 ====
+All right, let's try C mode.\\
+==== 2040900 ====
+Let's change it to C mode again.\\
+==== 2041000 ====
+What?! I didn't think my random password\\
+guess would work...\\
+==== 2041001 ====
+Oh, a video is playing...\\
+==== 2041002 ====
+Was that Zero? But...what does it mean?\\
+==== 2041100 ====
+Yes! It was the correct password.\\
+==== 2041101 ====
+Now there's a video...\\
+==== 2041102 ====
+Was that Zero? But...what does it mean?\\
+==== 2041200 ====
+We won't get some kind of video to play\\
+without the password, but what do we put in?\\
+==== 2041300 ====
+No use... There's no way to get a 14 letter\\
+password right by inputting at random.\\
+==== 2041400 ====
+This is wrong, too... But I feel like we saw a\\
+password like this somewhere...\\
+==== 2041500 ====
+Fourteen letters... There ARE 14 small\\
+monitors on the console.\\
+==== 2041501 ====
+Maybe the letters in them are connected to\\
+the password?\\
+==== 2041600 ====
+Okay, let's watch C mode's video.\\
+==== 2041601 ====
+He's...turning the stands in certain\\
+directions.\\
+==== 2041602 ====
+And he plugged the cable into that machine\\
+out of the floor?\\
+==== 2041700 ====
+Let's watch C mode's video.\\
+==== 2041701 ====
+...Maybe we need to do exact what it's\\
+showing.\\
+==== 2041702 ====
+Match the directions of the stands, and plug\\
+the cable into the machine.\\
+==== 2041800 ====
+Let's see C mode.\\
+==== 2041801 ====
+We have all the stands moved to match\\
+what's in the video.\\
+==== 2041802 ====
+Now we just have to plug the cable in to the\\
+machine...\\
+==== 2050100 ====
+So, we attached the ear speaker to the\\
+sunglasses...\\
+==== 2050101 ====
+But it's only on one side. The whole thing is\\
+off balance.\\
+==== 2050102 ====
+And we can't hear anything with the speaker.\\
+Are we still missing something?\\
+==== 2050200 ====
+Sunglasses with an ear speaker attached. We\\
+can't hear anything from it though.\\
+==== 2060100 ====
+Wait, what's going on? It's video and sound...\\
+==== 2060101 ====
+Did the sunglasses become a head-mounted\\
+display?\\
+==== 2060102 ====
+Oh, oh! What's it like, Carlos?!\\
+==== 2060103 ====
+Hold on a sec... I see three modes: A, B, and\\
+C.\\
+==== 2060104 ====
+Select a viewing mode\\
+==== 2060105 ====
+A mode\\
+==== 2060106 ====
+B mode\\
+==== 2060107 ====
+C mode\\
+==== 2060200 ====
+Select viewing mode, huh?\\
+==== 2060201 ====
+Select a viewing mode\\
+==== 2060202 ====
+A mode\\
+==== 2060203 ====
+B mode\\
+==== 2060204 ====
+C mode\\
+==== 2060300 ====
+Okay, let's check out A mode.\\
+==== 2060301 ====
+What was that? It's just a bunch of lines.\\
+==== 2060302 ====
+...I can't hear anything.\\
+==== 2060303 ====
+And there's a mark up in the top right.\\
+==== 2060400 ====
+Let's see A mode.\\
+==== 2060401 ====
+Yup, still scribbled lines.\\
+==== 2060402 ====
+And there's still no sound. I didn't hear\\
+anything.\\
+==== 2060403 ====
+That was a voltage sign in the top right. Is\\
+that a hint to something?\\
+==== 2060500 ====
+Let's view A mode.\\
+==== 2060501 ====
+This was the clue to connecting the\\
+switchboard.\\
+==== 2060600 ====
+All right, how about B mode.\\
+==== 2060601 ====
+I heard different sounds...\\
+==== 2060602 ====
+And the number on the wall changed as each\\
+sound happened.\\
+==== 2060700 ====
+Let's see B mode.\\
+==== 2060701 ====
+The number on the wall changes for each\\
+sound.\\
+==== 2060702 ====
+The number goes from 1 to 4, and there are\\
+three kinds of sounds... Is this important?\\
+==== 2060800 ====
+Let's check out B mode.\\
+==== 2060801 ====
+The number and the sounds were the hint for\\
+moving the crane.\\
+==== 2060900 ====
+All right, how about we try C mode.\\
+==== 2061000 ====
+Let's do C mode again.\\
+==== 2061100 ====
+Whoa, what?! That was the password?!\\
+==== 2061101 ====
+U-Uh, anyway... Let's watch this video.\\
+==== 2061102 ====
+Was that Zero? But...what does it mean?\\
+==== 2061200 ====
+As we thought, the 14 letters were the\\
+password.\\
+==== 2061201 ====
+Oh, the video started playing.\\
+==== 2061202 ====
+Was that Zero? But...what does it mean?\\
+==== 2061300 ====
+Oh, it needs a password, huh... What should\\
+we enter?\\
+==== 2061400 ====
+Still not working... Well, it IS 14 letters.\\
+Random guessing won't work, I guess.\\
+==== 2061500 ====
+Looks like it's wrong. Fourteen letters...\\
+Where have I see something like that before?\\
+==== 2061600 ====
+Fourteen... That's right, there are 14 small\\
+monitors on the console.\\
+==== 2061601 ====
+Maybe the letters there are related to the\\
+password.\\
+==== 2061700 ====
+Let's watch the video.\\
+==== 2061701 ====
+He's...turning the stands in certain\\
+directions. And then...\\
+==== 2061702 ====
+He plugged the cable into the machine that\\
+came out of the floor. So...\\
+==== 2061800 ====
+All right, let's watch C mode's video.\\
+==== 2061801 ====
+...Maybe we have to do what the video\\
+shows, and that's how we escape the room?\\
+==== 2061802 ====
+Match the directions of the stands, and plug\\
+the cable into the machine. Right?\\
+==== 2061900 ====
+Let's double check C mode's video.\\
+==== 2061901 ====
+The direction of our stands matches the ones\\
+in the video.\\
+==== 2061902 ====
+Now to just plug the cable into the machine...\\

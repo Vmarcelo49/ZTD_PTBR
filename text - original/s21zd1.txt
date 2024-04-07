@@ -1,0 +1,2105 @@
+==== 2176 ====
+This room is...\\
+==== 2177 ====
+The Healing Room.\\
+==== 2178 ====
+It seems it's used for rest and healing...\\
+==== 2179 ====
+Not healing physical injuries per se, but to\\
+recover from mental fatigue.\\
+==== 2180 ====
+No good. It's locked.\\
+==== 2181 ====
+Then we're trapped in here?\\
+==== 2182 ====
+Seems like it.\\
+==== 2183 ====
+18:05...\\
+==== 2184 ====
+We got knocked out at 13:30, so it appears\\
+we've been down for four and a half hours.\\
+==== 2185 ====
+Hmm... Something doesn't feel right.\\
+==== 2186 ====
+What?\\
+==== 2187 ====
+Can we say for sure that this is really the\\
+first time we woke up?\\
+==== 2188 ====
+Then you mean we might've been awake\\
+several times already?\\
+==== 2189 ====
+The amnesia drug would've made us forget\\
+each one if we had.\\
+==== 2190 ====
+No, that's not it. I mean...\\
+==== 2191 ====
+Maybe not vertically, but laterally...\\
+Like...horizontal...\\
+==== 2192 ====
+Oh well.\\
+==== 2193 ====
+There's no point to talking more about it here\\
+anyway.\\
+==== 2194 ====
+You're right.\\
+==== 2195 ====
+We need to find some way out of this room\\
+first.\\
+==== 2196 ====
+On it.\\
+==== 2197 ====
+The hell is this...\\
+==== 2198 ====
+It looks like a button.\\
+==== 2199 ====
+Guess we should push it.\\
+==== 2200 ====
+Dumbass! Can't you read?!\\
+==== 2201 ====
+[Warning! Do not press this button!]\\
+==== 2202 ====
+Pretty intense for just one button...\\
+==== 2203 ====
+Then...what exactly are we supposed to do?\\
+==== 2204 ====
+We've checked out this entire room.\\
+==== 2205 ====
+There's nothing here that looks remotely like\\
+it'd unlock the door...\\
+==== 2206 ====
+The one thing we haven't investigated is...\\
+==== 2207 ====
+This button here...\\
+==== 2208 ====
+Okay, I'm gonna push it.\\
+==== 2209 ====
+Wait! Hold on!\\
+==== 2210 ====
+What?!\\
+==== 2211 ====
+Your hearing going? I told you there's a\\
+warning on it!\\
+==== 2212 ====
+So what?!\\
+==== 2213 ====
+If there was a warning sign saying "Don't\\
+leave this room" does that mean you'd stay?\\
+==== 2214 ====
+It's just an empty threat!\\
+==== 2215 ====
+If we really weren't meant to push it, then\\
+it'd never be put here in the first place!\\
+==== 2216 ====
+What if it's a trap?!\\
+==== 2217 ====
+A trap...?\\
+==== 2218 ====
+It's human nature to want to press it after\\
+being told not to!\\
+==== 2219 ====
+This setup is just bait!\\
+==== 2220 ====
+By giving us this warning, Zero's plan is to\\
+manipulate us into pushing it!\\
+==== 2221 ====
+What if we do, then?\\
+==== 2222 ====
+Something bad will happen.\\
+==== 2223 ====
+And that would be what...?\\
+==== 2224 ====
+I don't know. Maybe one...or all of us...will\\
+die.\\
+==== 2225 ====
+That's ridiculous...\\
+==== 2226 ====
+Um, may I interject?\\
+==== 2227 ====
+If this really is a button meant to kill us\\
+somehow,\\
+==== 2228 ====
+why would Zero put something like that in the\\
+open?\\
+==== 2229 ====
+Don't you think that's strange?\\
+==== 2230 ====
+There are several other ways Zero could\\
+make us die...\\
+==== 2231 ====
+Exactly.\\
+==== 2232 ====
+Like maybe putting poison in our bracelets.\\
+==== 2233 ====
+There's no need for him to use this button to\\
+go about doing the deed.\\
+==== 2234 ====
+It's a game.\\
+==== 2235 ====
+What?\\
+==== 2236 ====
+Remember what Zero told us? It's a decision\\
+game.\\
+==== 2237 ====
+Our fates will change depending if we decide\\
+to press it, or if we don't.\\
+==== 2238 ====
+Anyway, I think we shouldn't do it.\\
+==== 2239 ====
+It's a stalemate if we don't! We'll never get\\
+out of this room!\\
+==== 2240 ====
+Even if that's true, it's better than our lives\\
+not advancing any further than this!\\
+==== 2241 ====
+We're getting nowhere...\\
+==== 2242 ====
+Shall we take a vote?\\
+==== 2243 ====
+I say we should push it.\\
+==== 2244 ====
+I vote that we don't touch it.\\
+==== 2245 ====
+What about you, Diana...?\\
+==== 2246 ====
+I...\\
+==== 2247 ====
+I...\\
+==== 2248 ====
+There's no way to know what will happen if\\
+you don't press it, right?!\\
+==== 2249 ====
+Listen to me, Diana. Don't even think about\\
+touching it!\\
+==== 2250 ====
+Zero's telling us not to push it! We need to do\\
+the opposite!\\
+==== 2251 ====
+Don't forget he's the enemy!\\
+==== 2252 ====
+I've got a bad feeling about this...\\
+==== 2253 ====
+A really bad feeling...\\
+==== 2254 ====
+What if there's a bomb and this button turns\\
+off the timer?!\\
+==== 2255 ====
+If we don't push it then we're gonners for\\
+sure!\\
+==== 2256 ====
+Don't press it, Diana!\\
+==== 2257 ====
+Push it! You have to push it!\\
+==== 2258 ====
+You can't! You mustn't!\\
+==== 2259 ====
+Push iiiiit!\\
+==== 2260 ====
+The door...\\
+==== 2261 ====
+It opened...\\
+==== 2262 ====
+See? Didn't I tell you?\\
+==== 2263 ====
+It opened because we didn't touch the\\
+button?\\
+==== 2264 ====
+It's the only thing that makes sense.\\
+==== 2265 ====
+Hey, not necessarily.\\
+==== 2266 ====
+The door might have opened if we had pushed\\
+it anyway. We don't know.\\
+==== 2267 ====
+Ugh... Stubborn old man...\\
+==== 2268 ====
+Um, anyway, we should go.\\
+==== 2269 ====
+The door might close if we take too long to\\
+get out of here.\\
+==== 2270 ====
+Um Sigma? How old are you really?\\
+==== 2271 ====
+My body's 22. My mind... Well by now it must\\
+be almost 67.\\
+==== 2272 ====
+Sixty-seven?!\\
+==== 2273 ====
+You remember, right? I told you my\\
+consciousness came from 2074...\\
+==== 2274 ====
+Does that mean you were 67 there in the\\
+future?\\
+==== 2275 ====
+The details are a little more...complex than\\
+that.\\
+==== 2276 ====
+But that's more or less correct.\\
+==== 2277 ====
+So, is it the same thing with Phi?\\
+==== 2278 ====
+Yes, it's the same. She came back from the\\
+year 2074 too.\\
+==== 2279 ====
+With one difference: Her mind's still young.\\
+==== 2280 ====
+She must still be around 20 years old...?\\
+==== 2281 ====
+That would mean she was born approximately\\
+2054–\\
+==== 2282 ====
+No.\\
+==== 2283 ====
+She was born in 2008.\\
+==== 2284 ====
+Huh? But the math doesn't...\\
+==== 2285 ====
+From April 2029 to January 2074, she's been\\
+asleep inside of a pod.\\
+==== 2286 ====
+A what?\\
+==== 2287 ====
+A device that is capable of placing someone\\
+into cold sleep.\\
+==== 2288 ====
+There's forty-five years of blank...nothing\\
+stuck inside her mind.\\
+==== 2289 ====
+So that's why she still thinks like a 20 year\\
+old...\\
+==== 2290 ====
+But...how?\\
+==== 2291 ====
+How what?\\
+==== 2292 ====
+How is it possible for you and Phi to come\\
+back to this time?\\
+==== 2293 ====
+The SHIFT phenomenon.\\
+==== 2294 ====
+SHIFT?\\
+==== 2295 ====
+It's short for "Spacetime Human Internal\\
+Fluctuating Transfer."\\
+==== 2296 ====
+Essentially, it's when a human consciousness\\
+is sent through time and space.\\
+==== 2297 ====
+For example... Ah yes, we can use the button\\
+from earlier.\\
+==== 2298 ====
+We didn't push that button, and we're here\\
+right now.\\
+==== 2299 ====
+However, there's a world where we did push\\
+it somewhere in this timespace.\\
+==== 2300 ====
+This world, this history, infinitely branches\\
+off as a result of momentary decisions.\\
+==== 2301 ====
+There are other yous, other mes, and other\\
+Phis.\\
+==== 2302 ====
+All of them exist in those different\\
+histories...\\
+==== 2303 ====
+SHIFT is the phenomenon which allows us to\\
+send our consciousnesses to them.\\
+==== 2304 ====
+This is...difficult to take in all at once...\\
+==== 2305 ====
+It's the truth.\\
+==== 2306 ====
+Still, if you don't explain to me how it does\\
+whatever it does...\\
+==== 2307 ====
+So you want to know what it is exactly...\\
+==== 2308 ====
+I'll sum it up in one sentence.\\
+==== 2309 ====
+I dunno.\\
+==== 2310 ====
+R-Really now...\\
+==== 2311 ====
+Did that come across as if I didn't care?\\
+==== 2312 ====
+This is the conclusion I reached after 45\\
+years of consideration.\\
+==== 2313 ====
+I know how SHIFT works.\\
+==== 2314 ====
+But as to why the phenomenon happens–\\
+==== 2315 ====
+Wait.\\
+==== 2316 ====
+Did you just say you know how SHIFT works?\\
+==== 2317 ====
+Yeah...\\
+==== 2318 ====
+How does it then?\\
+==== 2319 ====
+Two things are required.\\
+==== 2320 ====
+Innate abilities, and danger to one's life.\\
+==== 2321 ====
+Basically, when a person with this ability\\
+faces a life-threatening crisis,\\
+==== 2322 ====
+that's when SHIFT kicks in.\\
+==== 2323 ====
+And...both you and Phi have this strange\\
+ability?\\
+==== 2324 ====
+A lot of odd, inexplicable things happened to\\
+me when I was a kid.\\
+==== 2325 ====
+One winter, my friends and I went fishing and\\
+I slipped, falling into the water.\\
+==== 2326 ====
+I woke up under the blankets on my bed... It\\
+was the next day.\\
+==== 2327 ====
+When I saw my friends at school, I asked\\
+them, "What happened yesterday?"\\
+==== 2328 ====
+One of them spoke up and said,\\
+==== 2329 ====
+"You blew us off. You promised to come\\
+fishing, but you up and cancelled on us."\\
+==== 2330 ====
+There's more.\\
+==== 2331 ====
+I was about to get run over by a car once, and\\
+found myself in the school gym.\\
+==== 2332 ====
+I fell off the roof only to wake up on the\\
+school bus. Things like that.\\
+==== 2333 ====
+Of course, at the time I had no idea what was\\
+going on.\\
+==== 2334 ====
+I just believed they were extremely vivid\\
+dreams.\\
+==== 2335 ====
+But now I know.\\
+==== 2336 ====
+I...\\
+==== 2337 ====
+Had SHIFTed.\\
+==== 2338 ====
+To another world. In another history...\\
+==== 2339 ====
+Where's Phi, by the way?\\
+==== 2340 ====
+Huh? Oh, she's gone...\\
+==== 2341 ====
+I saw her over with Gab just a minute ago...\\
+==== 2342 ====
+Where did she get off to...?\\
+==== 2343 ====
+Now announcing...the current casualties...\\
+==== 2344 ====
+C-Team: Carlos, Akane, Junpei\\
+==== 2345 ====
+Q-Team: Eric\\
+==== 2346 ====
+These four are now deceased.\\
+==== 2347 ====
+As a result...four X-Passes...will be\\
+revealed.\\
+==== 2348 ====
+FIRE... CRASH... FIVE... ICE...\\
+==== 2349 ====
+That is all.\\
+==== 2350 ====
+No...\\
+==== 2351 ====
+Four people are dead...?\\
+==== 2352 ====
+What the hell happened...?\\
+==== 2353 ====
+They were executed...\\
+==== 2354 ====
+Executed?\\
+==== 2355 ====
+From the vote at 13:30...\\
+==== 2356 ====
+Because of the outcome, the three in\\
+C-Team...\\
+==== 2357 ====
+But wait, that's weird.\\
+==== 2358 ====
+When you voted back then, you chose Q-Team.\\
+==== 2359 ====
+Are...you sure...?\\
+==== 2360 ====
+Huh...?\\
+==== 2361 ====
+Did I really vote for Q-Team...?\\
+==== 2362 ====
+What are you saying...?\\
+==== 2363 ====
+I don't remember... I don't remember which\\
+team I voted for then...\\
+==== 2364 ====
+But that can't be!\\
+==== 2365 ====
+We weren't injected with the amnesia drug\\
+afterwards!\\
+==== 2366 ====
+I know! But still...\\
+==== 2367 ====
+Wait. Hold on.\\
+==== 2368 ====
+There's another possibility.\\
+==== 2369 ====
+Maybe the three teams really did split the\\
+votes equally.\\
+==== 2370 ====
+All teams should've survived without dying in\\
+that case.\\
+==== 2371 ====
+But they're–\\
+==== 2372 ====
+I know.\\
+==== 2373 ====
+I'm just saying that maybe C-Team was all\\
+killed because of something else.\\
+==== 2374 ====
+They could've gotten into a big argument and\\
+then killed each other...\\
+==== 2375 ====
+No... But why would they do that?\\
+==== 2376 ====
+Can't say I have any idea.\\
+==== 2377 ====
+Still, can't we say the same thing goes for\\
+what you believe?\\
+==== 2378 ====
+There's no evidence to support the idea that\\
+C-Team was executed.\\
+==== 2379 ====
+Plus...\\
+==== 2380 ====
+We don't even know if they're actually dead.\\
+==== 2381 ====
+Damn it! Damn it!\\
+==== 2382 ====
+There's no way I'm dying here!\\
+==== 2383 ====
+Please don't...!\\
+==== 2384 ====
+Please!\\
+==== 2385 ====
+AHHHH!\\
+==== 2386 ====
+May you rest in peace.\\
+==== 2387 ====
+Desine fata deum flecti sperare precando.\\
+==== 2388 ====
+NOOOOOOO!\\
+==== 2389 ====
+What's wrong?\\
+==== 2390 ====
+I'm pretty sure...there's no mistake. C-Team\\
+really was executed...\\
+==== 2391 ====
+How do you know?\\
+==== 2392 ====
+I know because...I just do.\\
+==== 2393 ====
+Then what about Eric? How did he die?\\
+==== 2394 ====
+I...\\
+==== 2395 ====
+What in the hell...\\
+==== 2396 ====
+No...\\
+==== 2397 ====
+Who the hell did this...\\
+==== 2398 ====
+In Ward Q there's...\\
+==== 2399 ====
+There's only Mira and...\\
+==== 2400 ====
+What...\\
+==== 2401 ====
+This doesn't seem like a blackout...\\
+==== 2402 ====
+Look out!\\
+==== 2403 ====
+A-Are you all right, Sigma?!\\
+==== 2404 ====
+Diana...run...\\
+==== 2405 ====
+No! I can't leave you here!\\
+==== 2406 ====
+If I go with you, I'd just slow you down.\\
+==== 2407 ====
+Y-You're wounded...\\
+==== 2408 ====
+Just go!\\
+==== 2409 ====
+Hurry! Now's your chance!\\
+==== 2410 ====
+But–!\\
+==== 2411 ====
+Get Phi here! Hurry and go!\\
+==== 2412 ====
+Phi!\\
+==== 2413 ====
+What's wrong?!\\
+==== 2414 ====
+Sigma... Sigma, he...!\\
+==== 2416 ====
+There!\\
+==== 2417 ====
+Sigma! Sigma, please, hang on!\\
+==== 2418 ====
+Oh... It's you, Luna...\\
+==== 2419 ====
+Luna...?\\
+==== 2420 ====
+I'm sorry...that it came to this, Luna...\\
+==== 2421 ====
+The me from the past...won't be coming back\\
+here...\\
+==== 2422 ====
+My SHIFT connection's been cut...\\
+==== 2423 ====
+I'm sorry... Now you won't be born in this\\
+world...\\
+==== 2424 ====
+Wh-What are you saying, Sigma!\\
+==== 2425 ====
+I... I'm...!\\
+==== 2426 ====
+No... Not just you, Luna. Kyle... Lagomorph...\\
+The others...\\
+==== 2427 ====
+But maybe it's better this way...\\
+==== 2428 ====
+History's changed...\\
+==== 2429 ====
+Mankind... This world...will surely be...\\
+==== 2430 ====
+Sigma! Sigma!\\
+==== 2431 ====
+Sigmaaa!\\
+==== 2433 ====
+Diana, I know this is difficult...\\
+==== 2434 ====
+It might be affecting me even more than\\
+you...\\
+==== 2436 ====
+But it's dangerous to stay here...\\
+==== 2437 ====
+We have no idea when the killer will return.\\
+==== 2438 ====
+So–\\
+==== 2439 ====
+Who is the killer...?\\
+==== 2440 ====
+It should only be the two of us now in Ward D...\\
+==== 2441 ====
+Yeah, you're right...\\
+==== 2442 ====
+Zero must've hidden himself away some–\\
+==== 2443 ====
+Is there...really...anywhere to hide...?\\
+==== 2444 ====
+Wait... You don't really think it was me, do\\
+you...?\\
+==== 2445 ====
+Get away! Stay away from me, you murderer!\\
+==== 2446 ====
+Hey wait! Diana!\\
+==== 2447 ====
+Dianaaa!\\
+==== 2448 ====
+Why... Why...\\
+==== 2449 ====
+Why would Phi kill Sigma...?\\
+==== 2450 ====
+Phi...?\\
+==== 2451 ====
+Phi!\\
+==== 2452 ====
+What happened?! Please...hang on!\\
+==== 2453 ====
+It was...the killer...\\
+==== 2454 ====
+The killer? Do you mean Zero?!\\
+==== 2455 ====
+No, I don't think so...\\
+==== 2456 ====
+It wasn't Zero...\\
+==== 2457 ====
+Then who?!\\
+==== 2458 ====
+You have to escape here, Diana...\\
+==== 2459 ====
+If I die...you can...\\
+==== 2460 ====
+What are you saying?!\\
+==== 2461 ====
+You can't die!\\
+==== 2462 ====
+You mustn't! I won't let you!\\
+==== 2463 ====
+I'm so sorry, Phi...\\
+==== 2464 ====
+I... I...\\
+==== 2465 ====
+It's okay...\\
+==== 2466 ====
+It's okay... As long as you survive...\\
+==== 2467 ====
+Why... Why did this...\\
+==== 2468 ====
+Oh...this feels...nice...\\
+==== 2469 ====
+Such a...familiar...smell...\\
+==== 2470 ====
+Phi... Phi!\\
+==== 2471 ====
+Wake up! Please wake up!\\
+==== 2472 ====
+Nooo!\\
+==== 2473 ====
+Now announcing...the current casualties...\\
+==== 2474 ====
+C-Team: Carlos, Akane, Junpei\\
+==== 2475 ====
+Q-Team: Eric\\
+==== 2476 ====
+D-Team: Sigma, Phi\\
+==== 2477 ====
+These six are now deceased.\\
+==== 2478 ====
+As a result...six X-Passes...will be\\
+revealed.\\
+==== 2479 ====
+FIRE... CRASH... FIVE... ICE... DAD... TIME...\\
+==== 2480 ====
+That is all.\\
+==== 2481 ====
+Six...\\
+==== 2482 ====
+Six X-Passes...\\
+==== 2483 ====
+If I put these in...\\
+==== 2485 ====
+Wha–!\\
+==== 7891 ====
+Would you stop talking nonsense!\\
+==== 7892 ====
+Zero! You won't get away with this! I swear\\
+I'll...!\\
+==== 7893 ====
+May you rest in peace.\\
+==== 7894 ====
+Plaudite, acta est fabula.\\
+==== 7895 ====
+NOOOOOO!\\
+==== 7897 ====
+What's wrong?! You okay?!\\
+==== 7898 ====
+We're alive...\\
+==== 7899 ====
+Huh...?\\
+==== 7900 ====
+We really are alive, right...?\\
+==== 7901 ====
+Hey. Are you sure you're all right...?\\
+==== 7902 ====
+It was...a bad dream.\\
+==== 7903 ====
+What happened...?\\
+==== 7904 ====
+Our necks...\\
+==== 7905 ====
+No, never mind.\\
+==== 1010100 ====
+It's no use. It's locked...\\
+==== 1010101 ====
+Then we'll have to play by Zero's rules then.\\
+But it's still too early to give up.\\
+==== 1010102 ====
+He's right. Let's do what we can right now.\\
+==== 1010200 ====
+The door's locked. There's no point in\\
+wasting energy on it.\\
+==== 1010300 ====
+Oh, what if we opened the door right now and\\
+it led to a real forest...\\
+==== 1010301 ====
+Come on, everyone! Let's go on a picnic!\\
+...Strike that. That never happened.\\
+==== 1010400 ====
+There's no forest behind this door...\\
+==== 1010500 ====
+I feel like we'll fall off into space if we open\\
+the door.\\
+==== 1010501 ====
+Skydiving without a parachute would be\\
+intense... Quite a lot like our situation now.\\
+==== 1010600 ====
+If the sky really was behind the door, then we\\
+could just fly away...\\
+==== 1020100 ====
+What's this dial thing? Two of the lights are\\
+on.\\
+==== 1020101 ====
+Hmm, good question. I'm sure it's safe to\\
+touch...\\
+==== 1020102 ====
+No, we should examine it since we have no\\
+idea what it is. Trial and error's the only way.\\
+==== 1020103 ====
+There aren't any trials if you die the second\\
+you touch it...\\
+==== 1020200 ====
+Let's try turning the dial.\\
+==== 1020300 ====
+A light on the left and the right turned on.\\
+Now there are four.\\
+==== 1020301 ====
+Maybe there'll be more wall pattern options\\
+with the additional lights on.\\
+==== 1020302 ====
+It's possible. Let's see.\\
+==== 1020400 ====
+Let's try turning it again.\\
+==== 1020500 ====
+This time a light on the bottom turned on. We\\
+have five now...\\
+==== 1020501 ====
+What pattern will be added this time? I have\\
+to say, this is kind of fun.\\
+==== 1020502 ====
+Fun, huh... I guess I'm having fun too. We\\
+should turn the dial again.\\
+==== 1020600 ====
+Let's try turning it again.\\
+==== 1020700 ====
+...We may as well leave it like this for now.\\
+==== 1020800 ====
+Huh. It reverted back to the original pattern.\\
+==== 1020801 ====
+Turning the dial changes the pattern on a\\
+large variety of things in this room.\\
+==== 1020802 ====
+I know it's not the best time to say this, but\\
+this is amazing! I wish I had one at home!\\
+==== 1020900 ====
+It's the original pattern again.\\
+==== 1021000 ====
+T-The pattern on the wall changed?! What in\\
+the world is going on?\\
+==== 1021001 ====
+Not just the wall! The chair... The table...\\
+Even the color in the water tank! Amazing!\\
+==== 1021002 ====
+It doesn't look like simple projection. Must be\\
+some kind of projection mapping technology.\\
+==== 1021003 ====
+What, you're saying it's changing color on its\\
+own? Like a chameleon?\\
+==== 1021004 ====
+I wouldn't know. I've never seen this kind of\\
+technology before either. Incredible...\\
+==== 1021100 ====
+It's a flower pattern now.\\
+==== 1021200 ====
+Wow... It's as if the walls disappeared and\\
+we're in a forest!\\
+==== 1021201 ====
+It feels like we're walking in the woods. It's\\
+just like being outside...\\
+==== 1021202 ====
+Don't be fooled. It's just an illusion. Let's get\\
+out of here and breathe the real forest air.\\
+==== 1021300 ====
+The walls became a forest.\\
+==== 1021400 ====
+What... This... Everything in the room is...\\
+==== 1021401 ====
+Oh. There's no colors or patterns now.\\
+==== 1021402 ====
+I think the power is off.\\
+==== 1021500 ====
+Aw... The colors and patterns all\\
+disappeared...\\
+==== 1021600 ====
+WHOOAAA?! Wh-What?! We're in the sky?!\\
+My heart can't take this!\\
+==== 1021601 ====
+A-Amazing! Whoa, even the ceiling is gone...!\\
+==== 1021602 ====
+It's just like floating in the clouds...\\
+==== 1021700 ====
+The room is soaring in the sky now.\\
+==== 1030100 ====
+Nothing's appearing on the monitor... Is it\\
+broken?\\
+==== 1030101 ====
+Or it could just be that the power is off.\\
+==== 1030200 ====
+This monitor isn't displaying anything.\\
+==== 1030300 ====
+Does this cover open?\\
+==== 1030301 ====
+Should we give it a try?\\
+==== 1030302 ====
+No, I don't think so. We can't open it now.\\
+==== 1030400 ====
+This cover can likely be opened, but we can't\\
+do it by force.\\
+==== 1030500 ====
+Hmm, this lever can't be pulled down.\\
+==== 1030501 ====
+It's probably locked in place.\\
+==== 1030600 ====
+The lever won't move even when we pull on it.\\
+Seems like it's locked.\\
+==== 1030700 ====
+It says..."Shoot more keys"... Is this an\\
+instruction from Zero?\\
+==== 1030701 ====
+What exactly is a key? And "shoot" as in with\\
+a camera? But we don't have one.\\
+==== 1030702 ====
+It could be a clue for escaping this room. I'm\\
+reluctant to follow it, but let's remember it.\\
+==== 1030800 ====
+It says "Shoot more keys." We probably could\\
+with a camera, but we don't have one.\\
+==== 1030900 ====
+The monitor reads "Shoot more keys." I'm sure\\
+we can do that with the camera we found.\\
+==== 1030901 ====
+Taking pictures is fine, but the problem is\\
+"keys." We don't know what those are.\\
+==== 1030902 ====
+Keys... Maybe it means one at a time?\\
+==== 1031000 ====
+The monitor reads "Shoot more keys." We can\\
+use the camera to take pictures of "keys."\\
+==== 1031001 ====
+Only problem is what is a key? The kind for\\
+locks? Or maybe a computer keyboard?\\
+==== 1031002 ====
+Ah, I know. It might be piano keys, since\\
+they're distinctive. Let's look for those.\\
+==== 1031100 ====
+The keys in "Shoot more keys" aren't for\\
+locks, but those you find on a piano keyboard.\\
+==== 1031200 ====
+This cover still won't open even though the\\
+power is on at the console.\\
+==== 1031201 ====
+Something could be inside... But since we\\
+can't get in it yet, let's keep looking around.\\
+==== 1031300 ====
+This cover isn't opening. Maybe if we find a\\
+switch?\\
+==== 1031400 ====
+Huh? There's something in here.\\
+==== 1031401 ====
+It's...a digital camera?\\
+==== 1031500 ====
+There's nothing in here.\\
+==== 1031600 ====
+How about we pull this lever down?\\
+==== 1031601 ====
+Hey Sigma, what happened to caution? You're\\
+recklessly touching everything you see...\\
+==== 1031602 ====
+Heh, if I worried about that we'd be stuck\\
+here forever. Test it all. I'm pulling this.\\
+==== 1031603 ====
+See? Nothing bad happened. In fact, it\\
+opened that cover. Let's see what's inside.\\
+==== 1031604 ====
+This old geezer...\\
+==== 1031700 ====
+The cover opened after the lever was\\
+pulled... It won't move anymore.\\
+==== 1031800 ====
+This appears to be some sort of control\\
+console... But there's no power.\\
+==== 1031900 ====
+The power is on here, but just what does this\\
+device do...?\\
+==== 1032000 ====
+We've no clue what this is for, but we just\\
+have to follow the instructions.\\
+==== 1032100 ====
+We took all the pictures... I guess now we\\
+need to insert the keys into these holes?\\
+==== 1032200 ====
+All eight keys are in! And now the button over\\
+there is blinking...\\
+==== 1032300 ====
+Pressing the button played 8 notes. Is this all\\
+this device does?\\
+==== 1032301 ====
+It would seem so... I think we can keep\\
+pushing it as many times as we want.\\
+==== 1040100 ====
+What's this? There are eight slots with\\
+CDEFGABC beneath them.\\
+==== 1040101 ====
+CDEFGABC... Somehow that seems familiar,\\
+like I've seen it before.\\
+==== 1040102 ====
+These slots are unusual shapes. Let's see if\\
+we can find a clue about them.\\
+==== 1040200 ====
+Isn't an octave range CDEFGABC? \\
+==== 1040201 ====
+Oh... Come to think of it, this shape looks like\\
+a piano keyboard.\\
+==== 1040300 ====
+This looks like a play button for something.\\
+==== 1040301 ====
+Let's push it.\\
+==== 1040302 ====
+Hmm... Not responding.\\
+==== 1040303 ====
+Does this console even have power?\\
+==== 1040400 ====
+Hey, another light turned on for the dial over\\
+there.\\
+==== 1040401 ====
+Doesn't that mean there's a new wallpaper?\\
+Let's go change it now!\\
+==== 1040500 ====
+Oh, this time the button on the left is lit up.\\
+==== 1040501 ====
+You're right. It looks like some sort of play\\
+button... Let's check it out.\\
+==== 1040600 ====
+All the keys have been put in... Now what do\\
+we do?\\
+==== 1040601 ====
+How about we try pushing the button? The\\
+light did turn on when all the keys were in.\\
+==== 1040700 ====
+It played a sound after we pushed the button,\\
+and then all the keys fell out...\\
+==== 1040701 ====
+We only have to push the button again if we\\
+want to double check the sound.\\
+==== 1040800 ====
+These keys fell out from here. Should we put\\
+them back in?\\
+==== 1040801 ====
+Hmm, maybe it's a better idea to put them\\
+back where we got them from...?\\
+==== 1040900 ====
+This button is flashing. Should we try pressing\\
+it?\\
+==== 1040901 ====
+We got this far, so I don't see why not.\\
+==== 1040902 ====
+Oh! All the keys fell out after it played a tune!\\
+==== 1040903 ====
+A letter lit up while each sound played, too.\\
+==== 1040904 ====
+Let's pick up those keys first before we start\\
+worrying about the sounds.\\
+==== 1041000 ====
+Let's hear the sounds again...\\
+==== 1041001 ====
+It's in the same exact order as before.\\
+Doesn't look like it's random then.\\
+==== 1041002 ====
+I wonder what these sounds mean?\\
+==== 1041100 ====
+How about we check the sounds again...\\
+==== 1041101 ====
+It's still the same order. Each note sounded\\
+once for a total of eight notes.\\
+==== 1041102 ====
+Maybe we need to play it in that order?\\
+==== 1041103 ====
+Play what? That instrument over there?\\
+==== 1041200 ====
+The cover is closed, and there's a letter C at\\
+the bottom.\\
+==== 1041300 ====
+The cover is open, and there's a letter C at\\
+the bottom. But what should we do here...\\
+==== 1041400 ====
+The cover is open, and there's a letter C at\\
+the bottom. This looks like a piano key.\\
+==== 1041500 ====
+I think the C key would fit here...\\
+==== 1041501 ====
+Ah, it's in perfectly! I knew it!\\
+==== 1041600 ====
+Let's leave the key in. It's a perfect fit.\\
+==== 1041700 ====
+This key... Huh? It doesn't fit. Maybe this isn't\\
+the right one.\\
+==== 1041800 ====
+The cover is closed, and there's a letter D at\\
+the bottom.\\
+==== 1041900 ====
+The cover is open, and there's a letter D at\\
+the bottom. But what should we do here...?\\
+==== 1042000 ====
+The cover is open, and there's a letter D at\\
+the bottom. This looks like a piano key.\\
+==== 1042100 ====
+The D key probably fits here.\\
+==== 1042101 ====
+Yeah, just like I thought.\\
+==== 1042200 ====
+Let's leave the key in. It's an exact fit.\\
+==== 1042300 ====
+This key... Hm. It doesn't fit. This isn't the\\
+one?\\
+==== 1042400 ====
+The cover is closed, and there's a letter E at\\
+the bottom.\\
+==== 1042500 ====
+The cover is open, and there's a letter E at\\
+the bottom. But what should we do here...\\
+==== 1042600 ====
+The cover is open, and there's a letter E at\\
+the bottom. The slot looks like a piano key.\\
+==== 1042700 ====
+I believe the E key will fit here...\\
+==== 1042701 ====
+Hm, pretty snug. I knew I was right.\\
+==== 1042800 ====
+Let's leave the key in. It fits in tight.\\
+==== 1042900 ====
+This key... Wait, it doesn't fit. I guess this\\
+isn't the one.\\
+==== 1043000 ====
+The cover doesn't open, and there's a letter\\
+F at the bottom.\\
+==== 1043100 ====
+The cover is open, and there's a letter F at\\
+the bottom. But what should we do here...\\
+==== 1043200 ====
+The cover is open, and there's a letter F at\\
+the bottom. This looks like a piano key.\\
+==== 1043300 ====
+I think the F key would fit here...\\
+==== 1043301 ====
+Ah, it's in perfectly! I knew it!\\
+==== 1043400 ====
+Let's leave the key in. It's a perfect fit.\\
+==== 1043500 ====
+This key... Huh? It doesn't fit. Maybe this isn't\\
+the right one.\\
+==== 1043600 ====
+The cover is closed, and there's a letter G at\\
+the bottom.\\
+==== 1043700 ====
+The cover is open, and there's a letter G at\\
+the bottom. But what should we do here...?\\
+==== 1043800 ====
+The cover is open, and there's a letter G at\\
+the bottom. This looks like a piano key.\\
+==== 1043900 ====
+The G key probably fits here.\\
+==== 1043901 ====
+Yeah, just like I thought.\\
+==== 1044000 ====
+Let's leave the key in. It's an exact fit.\\
+==== 1044100 ====
+This key... Hm. It doesn't fit. This isn't the\\
+one?\\
+==== 1044200 ====
+The cover is closed, and there's a letter A at\\
+the bottom.\\
+==== 1044400 ====
+The cover is open, and there's a letter A at\\
+the bottom. The slot looks like a piano key.\\
+==== 1044500 ====
+I believe the A key will fit here...\\
+==== 1044501 ====
+Hm, pretty snug. I knew I was right.\\
+==== 1044600 ====
+Let's leave the key in. It fits in tight.\\
+==== 1044700 ====
+This key... Wait, it doesn't fit. I guess this\\
+isn't the one.\\
+==== 1044800 ====
+The cover doesn't open, and there's a letter\\
+B at the bottom.\\
+==== 1045000 ====
+The cover is open, and there's a letter B at\\
+the bottom. This looks like a piano key.\\
+==== 1045100 ====
+I think the B key would fit here...\\
+==== 1045101 ====
+Ah, it's in perfectly! I knew it!\\
+==== 1045200 ====
+Let's leave the key in. It's a perfect fit.\\
+==== 1045300 ====
+This key... Huh? It doesn't fit. Maybe this isn't\\
+the right one.\\
+==== 1045400 ====
+The cover is closed, and there's a letter C at\\
+the bottom.\\
+==== 1045500 ====
+The cover is open, and there's a letter C at\\
+the bottom. But what should we do here...?\\
+==== 1045600 ====
+The cover is open, and there's a letter C at\\
+the bottom. This looks like a piano key.\\
+==== 1045700 ====
+The C key probably fits here.\\
+==== 1045701 ====
+Yeah, just like I thought.\\
+==== 1045800 ====
+Let's leave the key in. It's an exact fit.\\
+==== 1045900 ====
+This key... Hm. It doesn't fit. This isn't the\\
+one?\\
+==== 1046000 ====
+This looks like a play button. Should we push\\
+it?\\
+==== 1046001 ====
+No response. Even though the console has\\
+power...\\
+==== 1046002 ====
+Well, we don't know much about what this\\
+does yet. Let's come back to it later.\\
+==== 1046100 ====
+Let's push this one more time.\\
+==== 1046101 ====
+Still nothing...\\
+==== 1046102 ====
+There's no point to poking something that\\
+isn't working. We can come back to it later.\\
+==== 1050100 ====
+It's an old fashioned cabinet. It's a simple\\
+design, but it looks nice.\\
+==== 1050101 ====
+I've always liked this kind of furniture. I want\\
+things like this in my home after I marry, hehe.\\
+==== 1050102 ====
+...That so. I can see that.\\
+==== 1050200 ====
+It's a cabinet that's likely antique. I'm a big\\
+fan of this kind of design.\\
+==== 1050300 ====
+It's a tumbler. It's used for drinking water.\\
+==== 1050400 ====
+Oh, there's water in here! ...Now I feel a little\\
+thirsty.\\
+==== 1050500 ====
+Is this...some kind of note?\\
+==== 1050600 ====
+Huh. This drawer doesn't open. Is it because\\
+this thing's so old?\\
+==== 1050601 ====
+I doubt it. This one here opens.\\
+==== 1050602 ====
+Anything inside?\\
+==== 1050603 ====
+Yeah, some matches.\\
+==== 1050700 ====
+Let's look at this drawer again.\\
+==== 1050701 ====
+...There's nothing else here.\\
+==== 1060100 ====
+This picture's really creepy... I don't feel like\\
+it belongs in the Healing Room.\\
+==== 1060101 ====
+Kind of hard to relax when a giant, scary man\\
+is staring you down.\\
+==== 1060102 ====
+The words "Defeat me!" are written on it...\\
+What do you think it means?\\
+==== 1060103 ====
+Maybe it's like a punching bag, something to\\
+relieve stress...?\\
+==== 1060200 ====
+A picture of an incredibly muscular man. It\\
+says "Defeat me!" Is this from Zero?\\
+==== 1060201 ====
+But how are we supposed to defeat a\\
+picture? Rip or burn it?\\
+==== 1060300 ====
+This really is scary. Why is this in the Healing\\
+Room...\\
+==== 1060301 ====
+It says "Defeat me!" If that an instruction from\\
+Zero, what are we supposed to do?\\
+==== 1060302 ====
+Ah! Could it be a riddle?!\\
+==== 1060303 ====
+...How about we check to see if we are\\
+holding anything that could defeat it first.\\
+==== 1060400 ====
+It says "Defeat me!" on this picture. I guess\\
+you'd use something like this to do that?\\
+==== 1060401 ====
+Yeah, pretty sure it would count as defeating\\
+him if a knife is plunged into his heart.\\
+==== 1060500 ====
+All right, let's stab this knife into him.\\
+==== 1060501 ====
+I still think it's some super involved riddle. No\\
+way it'd be this simple...\\
+==== 1060502 ====
+The picture disappeared! We defeated him!\\
+==== 1060503 ====
+I can't believe it... It wasn't a riddle...\\
+==== 1060504 ====
+Oh look over there! Another light turned on at\\
+the dial!\\
+==== 1060505 ====
+Maybe we can change the room to another\\
+pattern. Let's leave the old fogey to himself.\\
+==== 1060600 ====
+It says "Defeat me!" so would that mean...\\
+==== 1060601 ====
+It IS a picture... We could just burn it up into\\
+ash.\\
+==== 1060602 ====
+You want to light the whole room on fire?!\\
+Leave it to me, I'll figure out the riddle...\\
+==== 1060700 ====
+Huh? I thought there was something here\\
+before...\\
+==== 1060800 ====
+May as well leave the knife in. In case the\\
+picture comes back zombie-style.\\
+==== 1070100 ====
+Is this a small piano...?\\
+==== 1070101 ====
+It only has one octave. You can't play very\\
+much music on this.\\
+==== 1070102 ====
+Then maybe it isn't here to play music. Does\\
+it even work?\\
+==== 1070103 ====
+Oh! The key fell out! What should I do?!\\
+==== 1070104 ====
+I don't think you'll get in trouble for breaking\\
+it. It's not like Zero will send you a bill.\\
+==== 1070200 ====
+There aren't many keys on this instrument,\\
+but it does still play.\\
+==== 1070201 ====
+Maybe that was the only key that works...\\
+How about this one?\\
+==== 1070202 ====
+...Another key fell out.\\
+==== 1070203 ====
+If you beat on it like you did, of course it'll do\\
+that. It's all right, we don't have to worry.\\
+==== 1070300 ====
+This is quite the antique. Let me demonstrate\\
+how it should be played. Gently.\\
+==== 1070301 ====
+...Well, that one fell out too. What a fantastic\\
+example, old man.\\
+==== 1070302 ====
+Dammit, Zero... Making me look like an idiot...\\
+==== 1070400 ====
+But what's this sound...?\\
+==== 1070401 ====
+Okay, now I'm SURE it's not a piano. If it's not,\\
+then what could it be?\\
+==== 1070402 ====
+Now that you said that, it does sound slightly\\
+different.\\
+==== 1070500 ====
+This isn't a piano. Let's listen to it again...\\
+==== 1070501 ====
+I know! It must be a harpsichord!\\
+==== 1070502 ====
+A harpsichord? Hmm, it does sound like one.\\
+==== 1070600 ====
+It's actually a harpsichord instead of a piano.\\
+==== 1070601 ====
+Harpsichord... It goes by "cembalo" in musical\\
+instruction, I believe.\\
+==== 1070602 ====
+The white and black keys on one of these are\\
+usually reversed, but not in this case.\\
+==== 1070700 ====
+What exactly is the difference between a\\
+piano and a harpsichord?\\
+==== 1070701 ====
+The number of keys is one, but the biggest\\
+difference is the sound they make.\\
+==== 1070702 ====
+Right. A hammer hits the strings in a piano,\\
+while a harpsichord has its strings plucked.\\
+==== 1070703 ====
+...Which makes a sound like this.\\
+==== 1070800 ====
+I don't really see a point in trying to figure\\
+out why this instrument is here...\\
+==== 1070801 ====
+You're right. All the white keys are off now.\\
+What do we do with them?\\
+==== 1070900 ====
+There weren't many keys to begin with, and\\
+now only the black ones are left...\\
+==== 1070901 ====
+Sooner or later, the same thing will happen to\\
+Sigma's hair.\\
+==== 1070902 ====
+Ridiculous! Remember what you saw 45 years\\
+in the future, Phi! My hair was fine!\\
+==== 1071000 ====
+Only the black keys remain. We can't play it\\
+like this...\\
+==== 1071100 ====
+Wait... The keys aren't going back in.\\
+==== 1071101 ====
+Then maybe they're useful somewhere else.\\
+==== 1071200 ====
+We can't put the keys back in.\\
+==== 1071300 ====
+Let's put these keys back into the\\
+harpsichord.\\
+==== 1071301 ====
+And they're all put back in place.\\
+==== 1071302 ====
+We can play it whenever we want now. ...If we\\
+wanted to.\\
+==== 1071400 ====
+Oh good, it played okay.\\
+==== 1080100 ====
+There's a wine glass here.\\
+==== 1080101 ====
+Huh. It's stuck in place. Why?\\
+==== 1080200 ====
+The wine glass is stuck here. I wonder why?\\
+==== 1080300 ====
+This wine glass is stuck in place. We can't\\
+take it with us.\\
+==== 1080301 ====
+Hmm... Then there must be some meaning to\\
+it being placed here.\\
+==== 1080400 ====
+The wine glass is stuck here. Didn't we see a\\
+note with a wine glass and pitcher?\\
+==== 1080401 ====
+Then maybe that pitcher over there is\\
+==== 1080500 ====
+Would putting water in it make a difference?\\
+==== 1080501 ====
+No idea, but we may as well do what we can.\\
+==== 1080600 ====
+We poured some water into the glass, but\\
+nothing really changed.\\
+==== 1080601 ====
+Maybe it doesn't mean anything after all.\\
+Let's move on to something else.\\
+==== 1080700 ====
+There's water in the glass.\\
+==== 1080701 ====
+If the note is right, then the pitcher is\\
+related. Why not put water into that as well?\\
+==== 1080800 ====
+It's a pitcher.\\
+==== 1080801 ====
+Huh? Is this stuck here? We can't use it like\\
+this...\\
+==== 1080900 ====
+The water pitcher is stuck in place here. I\\
+wonder why?\\
+==== 1081000 ====
+This pitcher is stuck here. There's no way we\\
+can move it.\\
+==== 1081001 ====
+Then there must be a reason it's like this.\\
+==== 1081100 ====
+A stuck pitcher... Wasn't there a note with a\\
+picture of a wine glass and a pitcher?\\
+==== 1081101 ====
+Then maybe that wine glass over there is\\
+connected.\\
+==== 1081200 ====
+Will something change if we pour water in?\\
+==== 1081201 ====
+Doubt it. But we may as well.\\
+==== 1081300 ====
+We poured some water into the pitcher, but\\
+nothing really changed.\\
+==== 1081301 ====
+Maybe it doesn't mean anything after all.\\
+Let's move on to something else.\\
+==== 1081400 ====
+There's water in the pitcher.\\
+==== 1081401 ====
+If the note is right, then the wine glass is\\
+related. Why not put water into that as well?\\
+==== 1081500 ====
+Water is in both the wine glass and the\\
+pitcher.\\
+==== 1081501 ====
+Hmm... I think looking through these makes\\
+what's on the other side bigger.\\
+==== 1081502 ====
+Maybe both of them together work as a\\
+magnifying glass.\\
+==== 1081600 ====
+There's water in the pitcher and wine glass.\\
+Look through both and it's a magnifying glass!\\
+==== 1081700 ====
+Ah! Can't say I expected to find a key image\\
+here! Good job finding it.\\
+==== 1081701 ====
+This is the seventh one!\\
+==== 1081702 ====
+Oh God! What the hell is that?! It's headed\\
+straight for us! Brace yourselves!\\
+==== 1081703 ====
+Relax. It's just a projection on the wall. It\\
+looks real, but it's not going to come out.\\
+==== 1081704 ====
+It frightened me... Oh, the cover for the A\\
+key is open. Let's put it in.\\
+==== 1081800 ====
+There's water in both the wine glass and the\\
+pitcher.\\
+==== 1081801 ====
+The note has a star, a pitcher, a wine glass,\\
+and an eye on it. So that means...\\
+==== 1081802 ====
+Looking through the wine glass and pitcher\\
+lets you see something?\\
+==== 1081900 ====
+The glass and pitcher hold water. Change the\\
+angle you look, and the wall looks different.\\
+==== 1081901 ====
+The note had a star, a pitcher, a wine glass,\\
+and an eye on it.\\
+==== 1081902 ====
+Is the star referring to the shining thing on\\
+the wall?\\
+==== 1081903 ====
+Does that mean we have to look at the light\\
+on the wall through the glass and pitcher?\\
+==== 1082000 ====
+All right! It was a good idea to do as the note\\
+suggested and look at that star!\\
+==== 1082001 ====
+This is the seventh key!\\
+==== 1082002 ====
+Oh God! What the hell is that?! It's headed\\
+straight for us! Brace yourselves!\\
+==== 1082003 ====
+Relax. It's just a projection on the wall. It\\
+looks real, but it's not going to come out.\\
+==== 1082004 ====
+It frightened me... Oh, the cover for the A\\
+key is open. Let's put it in.\\
+==== 1082100 ====
+Water is in both the wine glass and the\\
+pitcher.\\
+==== 1082101 ====
+The note we found has a star, a pitcher, a\\
+glass, and an eye. What's this star then?\\
+==== 1082102 ====
+I don't see anything like that.\\
+==== 1082200 ====
+The note has a drawing of an eye looking at a\\
+star, but I don't see anything like a star...\\
+==== 1082300 ====
+We took a photo of the key we saw through\\
+these.\\
+==== 1082400 ====
+When the wall had the sky pattern, we took a\\
+photo of the key through these.\\
+==== 1090100 ====
+This chair looks incredibly comfortable. I bet\\
+I could fall asleep on it...\\
+==== 1090101 ====
+Falling asleep in a recliner... Reverting to\\
+your old man tendencies, are you?\\
+==== 1090102 ====
+No, I'm not!\\
+==== 1090200 ====
+This looks like a perfectly comfy chair to\\
+sleep on...\\
+==== 1090300 ====
+Hold on, there's a weird mark on the headrest\\
+of the chair over there.\\
+==== 1090301 ====
+Oh, you're right. I'm amazed you noticed\\
+that.\\
+==== 1090400 ====
+The headrest has a different pattern than the\\
+rest of the chair. It's normal otherwise.\\
+==== 1090500 ====
+Nothing else catches our attention here.\\
+==== 1100100 ====
+Mmm... This smells really nice. I think it's a\\
+scented candle.\\
+==== 1100101 ====
+Those "heal with the power of scent" things\\
+that relax and sharpen your mind together?\\
+==== 1100102 ====
+If we have something to light it, we can try it\\
+out.\\
+==== 1100200 ====
+We might be able to enjoy the scent if we\\
+have something to light the candle.\\
+==== 1100300 ====
+Let's use the matches and light the candle!\\
+==== 1100400 ====
+I can smell the scent from the candle filling\\
+the room.\\
+==== 1100401 ====
+It'll help us focus.\\
+==== 1100402 ====
+...So relaxing.\\
+==== 1100500 ====
+The candle is lit. Ahhhh... It's a nice, relaxing\\
+scent.\\
+==== 1100600 ====
+What a nice scent... The shadow from the\\
+candle holder makes a key shape here.\\
+==== 1100700 ====
+It's a scented candle. A soothing smell filled\\
+the room once we lit it.\\
+==== 1100701 ====
+Surrounded by trees... An aromatic smell...\\
+It'd be a great way to relax.\\
+==== 1100800 ====
+If we lit the candle while we're in this forest,\\
+this room would be even more relaxing.\\
+==== 1100900 ====
+Let's use the matches and light the candle!\\
+==== 1101000 ====
+The candle is lit. It's letting off a soothing\\
+scent.\\
+==== 1101001 ====
+This works really well with the forest... It's\\
+helping us focus more.\\
+==== 1101002 ====
+This must be what the Healing Room was for\\
+originally. So relaxing...\\
+==== 1101100 ====
+The candle is lit. Ahhhh... It's a nice, relaxing\\
+scent.\\
+==== 1101200 ====
+The shadow of the pattern on the candle\\
+holder makes a key shape here...\\
+==== 1101201 ====
+We got the picture!\\
+==== 1101300 ====
+What a nice scent... The shadow from the\\
+candle holder makes a key shape here.\\
+==== 1110100 ====
+This chair looks nice and relaxing to sit in.\\
+==== 1110101 ====
+I know this isn't the right time, but I feel like\\
+everything would get better if we sat here...\\
+==== 1110102 ====
+This must be a mental care room for those\\
+forced to live in a confined space.\\
+==== 1110200 ====
+This looks like a nice, relaxing chair.\\
+==== 1110300 ====
+We've already taken the photo. There's\\
+nothing more here.\\
+==== 1110400 ====
+The headrest has a different pattern than the\\
+rest of the chair.\\
+==== 1110401 ====
+I'm amazed you spotted that. I need to pay\\
+more attention to my surroundings...\\
+==== 1110500 ====
+I wonder what this pattern is... It feels like\\
+it's cut off in the middle.\\
+==== 1110600 ====
+We got the picture!\\
+==== 1110601 ====
+I get it. The pattern on the headrest made a\\
+key when matched with the tree trunk.\\
+==== 1110700 ====
+We've already taken the photo. There's\\
+nothing more here.\\
+==== 1120100 ====
+What are these giant blocks...\\
+==== 1120101 ====
+They're rotating...a-and I'm getting kind of\\
+dizzy.\\
+==== 1120200 ====
+Some large blocks are rotating. These feel\\
+extremely out of place...\\
+==== 1120300 ====
+There's a moment when you can see a key.\\
+This is pretty ingenious.\\
+==== 1120301 ====
+All right, let's input the last key.\\
+==== 1120400 ====
+The blocks stopped rotating. It could mean\\
+they served their purpose.\\
+==== 1130100 ====
+Huh? I think something's off over here.\\
+==== 1130101 ====
+Hm. Maybe it was made this way on purpose?\\
+==== 1130200 ====
+Why is this the only spot that doesn't match?\\
+==== 1130300 ====
+We got the picture!\\
+==== 1130301 ====
+Only this spot looks like a key. We almost\\
+missed this.\\
+==== 1130400 ====
+We've already taken the photo. There's\\
+nothing more here.\\
+==== 1140100 ====
+There are both flowers and buds here.\\
+==== 1140101 ====
+Oh, the picture of the flowers changed when\\
+I touched it.\\
+==== 1140102 ====
+The picture reacts to being touched... Why\\
+don't we see if we can make them all bloom.\\
+==== 1140200 ====
+Let's try to make it all flowers again.\\
+==== 1140300 ====
+We made all of them flowers, but...nothing's\\
+happening. Maybe it's just a game?\\
+==== 1140301 ====
+No, I doubt Zero prepared anything\\
+meaningless. There should be more to this.\\
+==== 1140302 ====
+Then we'll look at it again later. Let's check\\
+other places for now.\\
+==== 1140400 ====
+Wow! Look! The huge bud at the top became\\
+a flower!\\
+==== 1140401 ====
+One of the petals looks weird. It's all hard\\
+edges.\\
+==== 1140500 ====
+How do we make the whole thing flowers...\\
+==== 1140501 ====
+We have to keep track of exactly how the\\
+picture changes.\\
+==== 1140502 ====
+The spot touched changes differently than\\
+those in the adjacent spots...\\
+==== 1140600 ====
+We can't get them all to be flowers...\\
+==== 1140601 ====
+I see a rule: Each image goes from sprout, to\\
+bud, to flower, and then repeats.\\
+==== 1140602 ====
+And the spot touched changes two stages\\
+while the adjacent ones change one.\\
+==== 1140700 ====
+They're all flowers! But now the picture won't\\
+change when we touch it.\\
+==== 1140800 ====
+This is a very big bud.\\
+==== 1140801 ====
+Yes, but why didn't he just make it a large\\
+flower?\\
+==== 1140802 ====
+There must be a reason. Maybe this bud\\
+stands for something...\\
+==== 1140900 ====
+It's a large bud. I wonder why it couldn't be a\\
+flower?\\
+==== 1141000 ====
+The bud became a flower.\\
+==== 1141001 ====
+Hm? One of the petals looks odd.\\
+==== 1141100 ====
+The bud bloomed into a flower. But one of the\\
+petals has all hard edges.\\
+==== 1141101 ====
+That shape... I think it's...\\
+==== 1141200 ====
+One of the petals is the shape of a key!\\
+==== 1141201 ====
+Hey, a key slot opened. Let's go take a\\
+look.\\
+==== 1141300 ====
+We've already taken the photo so we don't\\
+have to play anymore. I really enjoyed it.\\
+==== 1141400 ====
+Wow! This is amazing! The bud became a\\
+flower!\\
+==== 1141401 ====
+But why did it suddenly bloom?\\
+==== 1141402 ====
+Hold on, one of the petals looks strange.\\
+That's the shape of...\\
+==== 1141500 ====
+I get the feeling this bud here has something\\
+to do with the game below it...\\
+==== 1141501 ====
+It's still a bud even though we cleared it...\\
+==== 1141600 ====
+I thought clearing the game would change\\
+something here... Not even blooming.\\
+==== 1141601 ====
+Maybe we need to do something else first.\\
+Let's search around other places for now.\\
+==== 1150100 ====
+This water tank is very large. Does looking at\\
+this blue water give a healing effect?\\
+==== 1150101 ====
+Exactly. The color blue increases serotonin\\
+secretion, making your body more relaxed.\\
+==== 1150102 ====
+One can hope it helps with anger management\\
+if you're locked up in a place like this.\\
+==== 1150200 ====
+It's a large water tank. It's filled with blue\\
+water.\\
+==== 1150300 ====
+What's this pixel plate doing inside?\\
+==== 1150301 ====
+It's displaying in black and blue.\\
+==== 1150400 ====
+Does the plate mean something? We probably\\
+see two colors because the water's blue.\\
+==== 1150500 ====
+It's a large water tank. Does the green water\\
+also give a healing effect?\\
+==== 1150501 ====
+The color green increases acetylcholine\\
+secretion, balancing the mind and body.\\
+==== 1150502 ====
+It's gentle to the eye.\\
+==== 1150600 ====
+It's a large water tank. It's filled with green\\
+water.\\
+==== 1150700 ====
+What's this pixel plate doing inside?\\
+==== 1150701 ====
+It's displaying in black and green.\\
+==== 1150800 ====
+Does the plate mean something? We probably\\
+see two colors because the water's green.\\
+==== 1150900 ====
+It's a large water tank, but filled with red\\
+water. Doesn't this agitate more than heal?\\
+==== 1150901 ====
+The color red increases adrenaline\\
+secretion, which makes you more excited.\\
+==== 1150902 ====
+But that's effective for relieving stress. So,\\
+in the end, it's healing.\\
+==== 1151000 ====
+It's a large water tank. It's filled with red\\
+water.\\
+==== 1151100 ====
+What's this pixel plate doing inside?\\
+==== 1151101 ====
+It's displaying in black and red.\\
+==== 1151200 ====
+Does the plate mean something? We probably\\
+see two colors because the water's red.\\
+==== 1151300 ====
+Only in the red water does the pattern on the\\
+plate have something that looks like a key.\\
+==== 1151301 ====
+Yeah, and I think one of the key slots opened.\\
+==== 1151400 ====
+The water in the tank is currently clear...\\
+==== 1151401 ====
+It can change to several colors, but when the\\
+power is off, it's like this.\\
+==== 1151500 ====
+The large water tank is clear now. It's a little\\
+creepy...\\
+==== 1151600 ====
+What's this pixel plate doing inside?\\
+==== 1151601 ====
+I see blue, red, green, and white. Is there\\
+some kind of trick to it?\\
+==== 1151700 ====
+Does that plate mean something? I think a\\
+total of four colors are on it...\\
+==== 1151800 ====
+The water in the tank is black now.\\
+==== 1151801 ====
+Reminds me of squid ink.\\
+==== 1151802 ====
+I'd love to have some good spaghetti with\\
+squid ink right now...\\
+==== 1151900 ====
+It's a large water tank. It's filled with black\\
+water.\\
+==== 1152000 ====
+We already took a picture of this plate.\\
+==== 1160100 ====
+Oh, there's a knife here!\\
+==== 1160101 ====
+Huh! I didn't catch it before because of the\\
+pattern.\\
+==== 1160102 ====
+A weapon... What is Zero planning by giving us\\
+this...?\\
+==== 1160200 ====
+A knife was here before.\\
+==== 1170100 ====
+There's a pattern here on the floor.\\
+==== 1170101 ====
+Yeah, a roughly round shape. But is it really\\
+just meant as a pattern?\\
+==== 1170200 ====
+There's only one pattern on the floor. Is it\\
+really only there to be a pattern?\\
+==== 1170300 ====
+There's a pattern on the floor. It looks like it\\
+fans out from the center.\\
+==== 1170301 ====
+I wonder what it is. If we could look at it from\\
+a different angle...\\
+==== 1170400 ====
+The pattern looks like it's fanning out from\\
+the center.\\
+==== 1170401 ====
+Hmm... What if we change the angle, or maybe\\
+reflect it somehow?\\
+==== 1170402 ====
+A reflection? I think that thing would just fit,\\
+so why don't we put it in the middle?\\
+==== 1170500 ====
+Oh, this tumbler fits right in the center of the\\
+pattern.\\
+==== 1170501 ====
+Look at the surface of the tumbler. All the\\
+curves are now straight on it.\\
+==== 1170502 ====
+You're right... Do the shapes mean anything?\\
+==== 1170600 ====
+The tumbler has been set in the center of the\\
+pattern.\\
+==== 1170601 ====
+I think I've seen the shape reflected on the\\
+side of the tumbler before...\\
+==== 1170602 ====
+Yeah, I think I have too. It must mean\\
+something.\\
+==== 1170700 ====
+The tumbler is in the center of the pattern,\\
+which is then reflected onto the sides.\\
+==== 1170701 ====
+The reflections... Doesn't this one look kind\\
+of like a key?\\
+==== 1170702 ====
+Oh yeah, it does look like one.\\
+==== 1170800 ====
+Yes! A key slot opened.\\
+==== 1170801 ====
+A key shape appeared after this pattern was\\
+reflected into the tumbler.\\
+==== 1170900 ====
+We've already taken the photo, so we don't\\
+have to concern ourselves with the pattern.\\
+==== 1171000 ====
+This tumbler is in the center of a pattern that\\
+appears only when the room is the forest.\\
+==== 1171001 ====
+Yeah, we may as well leave it here for now.\\
+==== 1171100 ====
+We took a photo of the key reflected onto the\\
+tumbler when the room is the forest.\\
+==== 1180100 ====
+Okay, I think I took a picture.\\
+==== 1180101 ====
+Diana, do you know what you're supposed to\\
+shoot?\\
+==== 1180102 ====
+Uh, oh. Um...what was it again?\\
+==== 1180103 ====
+...The monitor on the console has some hints.\\
+==== 1180200 ====
+...Um Diana, the monitor on the console says\\
+"Shoot more keys."\\
+==== 1180201 ====
+Keys? Oh, I see...\\
+==== 1180300 ====
+Hmm, I don't think that was it.\\
+==== 1190100 ====
+What's this shining here?\\
+==== 1190101 ====
+Maybe a star? It's bright even though the sky\\
+isn't dark yet.\\
+==== 1190102 ====
+It's a fake picture, remember. You can make it\\
+as unnatural as you want.\\
+==== 1190200 ====
+The star is shining bright. It's rather\\
+unnatural.\\
+==== 1190300 ====
+The shining light here is a star, isn't it?\\
+==== 1190301 ====
+I think so. Speaking of stars, didn't we just\\
+see one somewhere...\\
+==== 1190400 ====
+The star is shining bright.\\
+==== 1190401 ====
+The note has a star, a pitcher, a wine glass,\\
+and an eye on it. Maybe that means...\\
+==== 1190500 ====
+We took a photo of the star through the glass\\
+and pitcher.\\
+==== 1200100 ====
+An instrument... Can you play any, Diana?\\
+==== 1200101 ====
+The tambourine! Oh, and also the castanets\\
+and the triangle...!\\
+==== 1200102 ====
+Heh. I'm surprised. I'm expecting a great\\
+performance from you when we escape here.\\
+==== 1200103 ====
+...Are you doubting me, Phi?\\
+==== 1200104 ====
+My percussion skills are so good that I made\\
+five of my friends cry playing the tambourine.\\
+==== 1200105 ====
+There might be two reason for that... It's\\
+hard to imagine, regardless.\\
+==== 1200200 ====
+A keyboard instrument. I don't know how to\\
+play this since I'm a percussionist.\\
+==== 1200300 ====
+It's a keyboard instrument. All the keys are\\
+removed.\\
+==== 1200400 ====
+A keyboard instrument. We returned all the\\
+keys, so maybe we can play something.\\
+==== 1210100 ====
+Nothing strange about this seat here.\\
+==== 1210101 ====
+I think the chairs over there are much more\\
+comfortable than this one.\\
+==== 1210200 ====
+It's just a seat. That's it.\\
+==== 1220100 ====
+It's a table. I don't think there's anything\\
+strange here.\\
+==== 1220200 ====
+It's just a normal table.\\
+==== 1230300 ====
+Oh! The floor is like a magic carpet! It's as if\\
+we're really flying! It's amazing!\\
+==== 1230301 ====
+These graphics are impressive... This\\
+projection technology is very interesting.\\
+==== 1230302 ====
+I'll take one in my place.\\
+==== 1230400 ====
+The floor is like a magic carpet now!\\
+==== 2010100 ====
+It's a completely pitch-black knife.\\
+==== 2010101 ====
+Oh, be careful handling that! It's very sharp.\\
+==== 2010102 ====
+Could that mean we could use it as a\\
+weapon?\\
+==== 2010200 ====
+It's a totally black knife. It'd probably hurt a\\
+lot to be stabbed by it...\\
+==== 2020100 ====
+It looks like your average digital camera.\\
+==== 2020101 ====
+Now when you say average... What are you\\
+basing this hypothesis on?\\
+==== 2020102 ====
+She meant for THIS time period, idiot... It\\
+really isn't something to ask right now.\\
+==== 2020200 ====
+It looks like a regular digital camera.\\
+==== 2030100 ====
+It's a white key. It has a C on the back.\\
+==== 2030101 ====
+I wonder how C-Team is doing...\\
+==== 2030102 ====
+Let's not dwell on that right now. We have to\\
+focus on the task ahead of us.\\
+==== 2030200 ====
+It's a white key. It has a C on the back.\\
+==== 2040100 ====
+It's a white key. It has a D on the back.\\
+==== 2040101 ====
+The D is for Diana. Just kidding.\\
+==== 2040200 ====
+It's a white key. It has a D on the back.\\
+==== 2050100 ====
+It's a white key. It has an E on the back.\\
+==== 2050101 ====
+E for, um, email? If we could send one out\\
+then maybe someone could rescue us.\\
+==== 2050200 ====
+It's a white key. It has an E on the back.\\
+==== 2060100 ====
+It's a white key. It has an F on the back.\\
+==== 2060101 ====
+Maybe for Fahrenheit? Now that I'm paying\\
+attention, the room IS a nice temperature.\\
+==== 2060200 ====
+It's a white key. It has an F on the back.\\
+==== 2070100 ====
+It's a white key. It has a G on the back.\\
+==== 2070101 ====
+G for grandpa...\\
+==== 2070102 ====
+Hm? You say something?\\
+==== 2070200 ====
+It's a white key. It has a G on the back.\\
+==== 2080100 ====
+It's a white key. It has an A on the back.\\
+==== 2080101 ====
+The first letter of the alphabet. But I doubt\\
+that means anything here.\\
+==== 2080200 ====
+It's a white key. It has an A on the back.\\
+==== 2090100 ====
+It's a white key. It has a B on the back.\\
+==== 2090101 ====
+As in B-movies?\\
+==== 2090102 ====
+I hope we don't die in lame B-movie style...\\
+==== 2090200 ====
+It's a white key. It has a B on the back.\\
+==== 2100100 ====
+Oh, won't anyone buy my matches...!\\
+==== 2100101 ====
+Don't say that, it's bad luck... My heart feels\\
+cold now.\\
+==== 2100102 ====
+We can only hope our lives won't end like a\\
+shooting star...\\
+==== 2100200 ====
+Some matches. We can light a fire with them.\\
+==== 2110100 ====
+It's a tumbler for drinks. But it's oddly\\
+shiny...\\
+==== 2110101 ====
+It's polished so much that you can see your\\
+reflection, if a bit distorted.\\
+==== 2110102 ====
+Wh-Why did you two suddenly get so close?\\
+Your faces are crushing me!\\
+==== 2110200 ====
+It's a tumbler. It's polished to the point where\\
+you can see your reflection.\\
+==== 2120100 ====
+It's a bottle of water.\\
+==== 2120101 ====
+It's kind of making me thirsty...\\
+==== 2120102 ====
+You want to drink this? ...I'm going to put a\\
+stop to that before you start.\\
+==== 2120200 ====
+It's a bottle of water. It's probably better\\
+that we don't drink from it.\\

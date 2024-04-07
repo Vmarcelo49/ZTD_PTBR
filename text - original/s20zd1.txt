@@ -1,0 +1,521 @@
+==== 1568 ====
+Damn. It won't even budge!\\
+==== 1569 ====
+Does that mean it's locked?\\
+==== 1570 ====
+Yeah, seems that way...\\
+==== 1571 ====
+So that means we're trapped, huh.\\
+==== 1572 ====
+Where are we...\\
+==== 1573 ====
+The Decontamination Room.\\
+==== 1574 ====
+That's how it's labeled on the map.\\
+==== 1575 ====
+There are showers in here?\\
+==== 1576 ====
+You need to wash all contaminants off after\\
+you return from outside.\\
+==== 1577 ====
+Well, in the case of a nuclear war of course...\\
+==== 1578 ====
+Which means there are two exits heading to\\
+the surface.\\
+==== 1579 ====
+Here, and the X-Door in the Lounge.\\
+==== 1580 ====
+You're right. It looks like there's a hall to an\\
+elevator outside.\\
+==== 1581 ====
+I don't see how they're connected on the\\
+map, but it must be there.\\
+==== 1582 ====
+Okay, then let's escape through that door!\\
+==== 1583 ====
+How exactly do you propose that...\\
+==== 1584 ====
+It looks like it's been welded shut...\\
+==== 1585 ====
+Maybe it'll open if we push that yellow button\\
+over there?\\
+==== 1586 ====
+Did you not just hear that it's welded shut!\\
+==== 1587 ====
+Then what exactly is it for?\\
+==== 1588 ====
+Should we try pushing it?\\
+==== 1589 ====
+It's clearly suspect. Better not.\\
+==== 1590 ====
+Right...\\
+==== 1591 ====
+18:09...\\
+==== 1592 ====
+The anesthetic was injected after the vote\\
+around...\\
+==== 1593 ====
+13:30.\\
+==== 1594 ====
+So we've been asleep for almost four and a\\
+half hours...\\
+==== 1595 ====
+Um, that might not be true?\\
+==== 1596 ====
+Right. Zero did say...\\
+==== 1597 ====
+Once ninety minutes are up, an injector in\\
+your bracelet will activate.\\
+==== 1598 ====
+An anesthetic and an agent to erase your\\
+memories will be administered.\\
+==== 1599 ====
+That means we could've woken up and fallen\\
+asleep several times since then.\\
+==== 1600 ====
+But we just don't remember any of it...\\
+==== 1601 ====
+I wonder what the results of the voting are...\\
+==== 1602 ====
+It's highly unlikely that C-Team was able to\\
+survive.\\
+==== 1603 ====
+Why...?\\
+==== 1604 ====
+You even have to ask?\\
+==== 1605 ====
+Diana voted against the plan on the note and\\
+chose C-Team!\\
+==== 1606 ====
+Whoa, wait hold up. What are you saying?\\
+==== 1607 ====
+I thought Diana voted for Q-Team.\\
+==== 1608 ====
+Isn't that right?\\
+==== 1609 ====
+I'm sorry...\\
+==== 1610 ====
+I... Well, I...don't really remember...\\
+==== 1611 ====
+What?! How is that possible?!\\
+==== 1612 ====
+How could you forget!\\
+==== 1613 ====
+After the vote at 13:30, he told us we\\
+wouldn't be injected with the amnesia meds!\\
+==== 1614 ====
+Right. I remember it exactly.\\
+==== 1615 ====
+Diana had chosen to vote for Q-Team...\\
+==== 1616 ====
+No!\\
+==== 1617 ====
+I know for sure that she definitely voted for\\
+C-Team!\\
+==== 1618 ====
+Nonsense! You must be out of it...!\\
+==== 1619 ====
+You're the one out of it, you senile old fart!\\
+==== 1620 ====
+No, wait...\\
+==== 1621 ====
+Don't tell me...\\
+==== 1622 ====
+Jumped...?\\
+==== 1623 ====
+What Sigma was going on about back in\\
+Dcom... Well, it's all true.\\
+==== 1624 ====
+Oh, when he was saying mankind would be\\
+destroyed?\\
+==== 1625 ====
+What...did he mean exactly?\\
+==== 1626 ====
+Do you mind explaining?\\
+==== 1627 ====
+Even if I did, I don't think you'd believe me.\\
+==== 1628 ====
+It's highly likely you won't even understand.\\
+==== 1629 ====
+You see, the things Sigma and I've been\\
+through are, uh,\\
+==== 1630 ====
+Does that mean your consciousness came\\
+from the future? 2074?\\
+==== 1631 ====
+Yes, but that's not exactly right.\\
+==== 1632 ====
+Sigma and I both originated from the current\\
+world of 2028.\\
+==== 1633 ====
+Our consciousnesses were sparked by a\\
+specific event into jumping forward to 2074.\\
+==== 1634 ====
+We returned to April 2029, where we lived\\
+45 years normally through time.\\
+==== 1635 ====
+In January 2074, our two consciousnesses\\
+were booted to the past again,\\
+==== 1636 ====
+and essentially ended up at this point in time,\\
+Christmas of 2028.\\
+==== 1637 ====
+See? You don't understand, do you?\\
+==== 1638 ====
+It doesn't have to make sense.\\
+==== 1639 ====
+You only need to believe us...\\
+==== 1640 ====
+About what happens in the future?\\
+==== 1641 ====
+Correct.\\
+==== 1642 ====
+I have to know then. Why was mankind\\
+destroyed...?\\
+==== 1643 ====
+It's not exactly "destroyed."\\
+==== 1644 ====
+It isn't as if there aren't any survivors left.\\
+==== 1645 ====
+But a large number are...\\
+==== 1646 ====
+Yes. The dead number...six billion.\\
+==== 1647 ====
+It's all because of Radical-6.\\
+==== 1648 ====
+A horrific virus that affects the human brain.\\
+==== 1649 ====
+It spread quickly worldwide, and humanity\\
+began heading to extinction.\\
+==== 1650 ====
+The location the virus originated at was the\\
+experimental facility, Dcom.\\
+==== 1651 ====
+That was what we were told anyway.\\
+==== 1652 ====
+Some of the information appears to be\\
+incorrect though.\\
+==== 1653 ====
+How so...?\\
+==== 1654 ====
+This is just a guess, but I think Radical-6\\
+wasn't leaked from Dcom...\\
+==== 1655 ====
+I've got a feeling it came from this shelter\\
+instead.\\
+==== 1656 ====
+Regardless, back then we believed it all\\
+started at Dcom.\\
+==== 1657 ====
+So we infiltrated the facility as subjects to\\
+prevent the release of the virus.\\
+==== 1658 ====
+With Akane's help...\\
+==== 1659 ====
+Akane...?\\
+==== 1660 ====
+She's the leader of a secret group called\\
+Crash Keys that wants to save the world.\\
+==== 1661 ====
+Using the organization's assets, we hacked\\
+the admin server,\\
+==== 1662 ====
+and altered the original subject list and\\
+data.\\
+==== 1663 ====
+I... I see...\\
+==== 1664 ====
+I mean, it all seems so fake. I could hardly\\
+keep up with all of it...\\
+==== 1665 ====
+We're not lying.\\
+==== 1666 ====
+It's true.\\
+==== 1667 ====
+All right, then...\\
+==== 1668 ====
+I'd like to go back for a second. Phi, you said\\
+you "jumped" earlier, right?\\
+==== 1669 ====
+Yeah...\\
+==== 1670 ====
+Does that mean–\\
+==== 1671 ====
+A little late perhaps, but I will now announce\\
+the voting results.\\
+==== 1672 ====
+All three groups have voted for different\\
+teams.\\
+==== 1673 ====
+Therefore, none have been executed.\\
+==== 1674 ====
+The current death count: 0.\\
+==== 1675 ====
+I'm so glad...\\
+==== 1676 ====
+I can't say this is an ideal situation for any of\\
+us involved.\\
+==== 1677 ====
+It appears that none of you fully grasp the\\
+essence of this game.\\
+==== 1678 ====
+Think back on the rules you were told...\\
+==== 1679 ====
+You will remain in this shelter for eternity\\
+until six people are killed.\\
+==== 1680 ====
+I will give you one last chance.\\
+==== 1681 ====
+A single action from you may result in your\\
+escape from the depths.\\
+==== 1682 ====
+What must you do?\\
+==== 1683 ====
+It's simple. I shall show you.\\
+==== 1684 ====
+The other two teams are listening to a\\
+message just like this one...\\
+==== 1685 ====
+In their ward's Decontamination Room...\\
+==== 1686 ====
+That can't be...\\
+==== 1687 ====
+The construction of all of them are the same.\\
+==== 1688 ====
+A yellow button exists on the wall in each.\\
+==== 1689 ====
+Pressing it activates the showers in the\\
+other wards,\\
+==== 1690 ====
+What?! Hydrofloric acid...?!\\
+==== 1691 ====
+It's not only acidic enough to melt a body, but\\
+it even dissolves glass and iron.\\
+==== 1692 ====
+Explaining what would happen if you were\\
+under it seems unnecessary.\\
+==== 1693 ====
+That button on the wall is your way to\\
+freedom.\\
+==== 1694 ====
+Using it will kill the other teams, and you will\\
+obtain the needed X-Passes to escape.\\
+==== 1695 ====
+I have one final thing to tell you.\\
+==== 1696 ====
+The early bird gets the worm.\\
+==== 1697 ====
+After the first team pushes it, the button will\\
+become inactive for both of the other teams.\\
+==== 1698 ====
+Your time limit is three minutes.\\
+==== 1699 ====
+What will you do?\\
+==== 1700 ====
+Will you press it? Or refuse?\\
+==== 1701 ====
+It is ultimately all up to you to decide.\\
+==== 1702 ====
+Wait! Don't!\\
+==== 1703 ====
+I'm doing it to protect you two!\\
+==== 1704 ====
+What?!\\
+==== 1705 ====
+It's not to escape!\\
+==== 1706 ====
+Of course I don't want to kill the other teams!\\
+==== 1707 ====
+But if we don't act, we're the ones who die!\\
+==== 1708 ====
+It's not for certain!\\
+==== 1709 ====
+If no one pushes it before three minutes are\\
+up–\\
+==== 1710 ====
+But if we wait, all three teams will be killed!\\
+==== 1711 ====
+The acid will melt even our bones, and all\\
+that's left will wash down the drain!\\
+==== 1712 ====
+Is that how you want to reunite?!\\
+==== 1713 ====
+To hug and cry together in the drain?!\\
+==== 1714 ====
+By then we wouldn't even be able to see or\\
+hold them!\\
+==== 1715 ====
+Wait. Wait, Sigma!\\
+==== 1716 ====
+Please, calm down.\\
+==== 1717 ====
+How could I possibly do that?!\\
+==== 1718 ====
+Someone on another team could be pushing\\
+the button right now, as we speak!\\
+==== 1719 ====
+Just listen please!\\
+==== 1720 ====
+Zero did say that we had three minutes!\\
+==== 1721 ====
+But he never said what would happen once\\
+the time limit ended!\\
+==== 1722 ====
+She's right. Three minutes is just a space of\\
+time.\\
+==== 1723 ====
+There's still a chance nothing will happen\\
+after the deadline is over.\\
+==== 1724 ====
+It must mean that we're being tested.\\
+==== 1725 ====
+To see how much we all trust.\\
+==== 1726 ====
+Please believe, Sigma.\\
+==== 1727 ====
+Trust the other teams...\\
+==== 1728 ====
+Nothing's happening...\\
+==== 1729 ====
+Yeah...\\
+==== 1730 ====
+See? I told you, didn't I?\\
+==== 1731 ====
+None of the others pushed the button!\\
+==== 1732 ====
+So that's proof that the other teams can be\\
+trusted to cooperate!\\
+==== 1733 ====
+It seems there may be a misunderstanding, so\\
+I shall clear it up for you.\\
+==== 1734 ====
+I never said the showers would activate as\\
+soon as the button was pressed.\\
+==== 1735 ====
+Which means...\\
+==== 1736 ====
+You've yet to learn whether the button has\\
+been activated by someone or not.\\
+==== 1737 ====
+What?!\\
+==== 1738 ====
+Then when...!\\
+==== 1739 ====
+One more minute...\\
+==== 1740 ====
+Then the anesthetic will...!\\
+==== 1741 ====
+I get it now...\\
+==== 1742 ====
+Don't tell me we'll be asleep when...!\\
+==== 1743 ====
+Now, it is time for you to sleep.\\
+==== 1744 ====
+When next you wake, know that you will have\\
+no memory of these past ninety minutes.\\
+==== 1745 ====
+Pleasant dreams...\\
+==== 1746 ====
+D-Diana, what did you just...\\
+==== 1747 ====
+Are you kidding me?\\
+==== 1748 ====
+You just finished begging me to trust the\\
+others...\\
+==== 1749 ====
+What the hell was all that for...\\
+==== 1750 ====
+Answer me, Diana!\\
+==== 1751 ====
+I don't know...\\
+==== 1752 ====
+I...don't know why I pushed the button...\\
+==== 1753 ====
+Not again...\\
+==== 1754 ====
+What do you mean?!\\
+==== 1755 ====
+Our vote back at 13:30.\\
+==== 1756 ====
+Diana chose C-Team instead of going along\\
+with what was on the note.\\
+==== 1757 ====
+I'd asked her why, and she said the same thing\\
+as now – "I don't know..."\\
+==== 1758 ====
+That's ridiculous! I don't know about that!\\
+==== 1759 ====
+I know.\\
+==== 1760 ====
+What?\\
+==== 1761 ====
+I'm saying I know what you don't know.\\
+==== 1762 ====
+My thought earlier, that we probably–\\
+==== 1763 ====
+You made a wise decision.\\
+==== 1764 ====
+You sacrificed the lives of others in order to\\
+continue your own survival.\\
+==== 1765 ====
+It truly is a natural human reaction.\\
+==== 1766 ====
+You simply made an emergency evacuation.\\
+The action is legally justifiable.\\
+==== 1767 ====
+There is no blame to be placed on you for your\\
+decision.\\
+==== 1768 ====
+Now, I'm sure you would like to get out of\\
+here immediately,\\
+==== 1769 ====
+but before that... I apologize, but you must\\
+all sleep again.\\
+==== 1770 ====
+19:29. Our time is up.\\
+==== 1771 ====
+You have done exactly as I commanded.\\
+==== 1772 ====
+The memory loss drug will not be injected\\
+into the three of you.\\
+==== 1773 ====
+It would be...inconvenient if you forgot you\\
+caused the deaths of others...\\
+==== 1774 ====
+No. How did this happen...\\
+==== 1775 ====
+Pleasant dreams...\\
+==== 7891 ====
+Would you stop talking nonsense!\\
+==== 7892 ====
+Zero! You won't get away with this! I swear\\
+I'll...!\\
+==== 7893 ====
+May you rest in peace.\\
+==== 7894 ====
+Plaudite, acta est fabula.\\
+==== 7895 ====
+NOOOOOO!\\
+==== 7897 ====
+What's wrong?! You okay?!\\
+==== 7898 ====
+We're alive...\\
+==== 7899 ====
+Huh...?\\
+==== 7900 ====
+We really are alive, right...?\\
+==== 7901 ====
+Hey. Are you sure you're all right...?\\
+==== 7902 ====
+It was...a bad dream.\\
+==== 7903 ====
+What happened...?\\
+==== 7904 ====
+Our necks...\\
+==== 7905 ====
+No, never mind.\\
+==== 11629 ====
+complicated and mysterious...\\
+==== 11689 ====
+and they will rain down a solution of hydrogen\\
+fluoride.\\

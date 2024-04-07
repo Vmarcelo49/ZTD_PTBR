@@ -1,0 +1,252 @@
+==== 136 ====
+Carlos!\\
+==== 137 ====
+Carlos!\\
+==== 138 ====
+Akane...\\
+==== 139 ====
+You bastard! What the hell is going on?!\\
+==== 140 ====
+You brought all of us here...\\
+==== 141 ====
+Admit it!\\
+==== 142 ====
+No...\\
+==== 143 ====
+It's not me...\\
+==== 144 ====
+Then what the fuck is that stupid thing on\\
+your head?\\
+==== 145 ====
+Let it go, Eric.\\
+==== 146 ====
+No need to take it all out on the kid.\\
+==== 147 ====
+Mira...\\
+==== 148 ====
+I wonder what this is?\\
+==== 150 ====
+Give it up, Diana.\\
+==== 151 ====
+It's better that you don't force it off.\\
+==== 152 ====
+Why do you say that?\\
+==== 153 ====
+You should listen to her.\\
+==== 154 ====
+I get the feeling she's seen it before.\\
+==== 155 ====
+Bracelet?\\
+==== 156 ====
+That's what it was called a year ago.\\
+==== 157 ====
+Right, Akane...?\\
+==== 158 ====
+Junpei...\\
+==== 159 ====
+Good morning.\\
+==== 160 ====
+How are you feeling?\\
+==== 161 ====
+Who's this?\\
+==== 162 ====
+I am Zero.\\
+==== 163 ====
+The second Zero.\\
+==== 164 ====
+The second...?\\
+==== 165 ====
+Let me make one thing clear.\\
+==== 166 ====
+This is a recording.\\
+==== 167 ====
+So don't bother asking questions, as I cannot\\
+answer them.\\
+==== 168 ====
+I'd like to tell you an old story.\\
+==== 169 ====
+Seventeen years ago, on a rainy morning, a\\
+woman went jogging in a large park.\\
+==== 170 ====
+Her usual route led her to a fork in the road.\\
+==== 171 ====
+Normally she'd run down the right path. But\\
+for some reason, this day she chose the left.\\
+==== 172 ====
+Along the way, she bumped into a senior\\
+citizen she saw every day.\\
+==== 173 ====
+Surprised to see her, they asked,\\
+==== 174 ====
+"Why did you come this way today?"\\
+==== 175 ====
+This was her reply.\\
+==== 176 ====
+"Because there was a snail."\\
+==== 177 ====
+Her body was discovered a few hours later.\\
+==== 178 ====
+Murdered.\\
+==== 179 ====
+They found her in some bushes along the left\\
+path.\\
+==== 180 ====
+Sometimes life is simply unfair.\\
+==== 181 ====
+Don't you think?\\
+==== 182 ====
+What the hell is this nonsense...\\
+==== 183 ====
+It's the same for all of you.\\
+==== 184 ====
+The pull of an unjust fate carried you along\\
+to this moment.\\
+==== 185 ====
+Only to find yourselves in this bomb shelter\\
+50 meters below ground.\\
+==== 186 ====
+Wait, what?\\
+==== 187 ====
+As you can see, this place is divided into\\
+three sections.\\
+==== 188 ====
+Carlos, Akane, and Junpei. You three are in\\
+Ward C.\\
+==== 189 ====
+You will henceforth be referred to as C-Team.\\
+==== 190 ====
+Your leader shall be Carlos.\\
+==== 191 ====
+Next is Q, Mira, and Eric. You are located in\\
+Ward Q.\\
+==== 192 ====
+Your name will be Q-Team.\\
+==== 193 ====
+As evidenced by the name, the leader is Q.\\
+==== 194 ====
+Hey wait!\\
+==== 195 ====
+Is this a joke?!\\
+==== 196 ====
+And finally, Diana, Phi, and Sigma. Ward D is\\
+where the three of you are.\\
+==== 197 ====
+Diana is the leader.\\
+==== 198 ====
+That makes you the D-Team.\\
+==== 199 ====
+You may wander as you like, as long as you\\
+remain within your respective wards.\\
+==== 200 ====
+There is a time limit, however.\\
+==== 201 ====
+Ninety minutes.\\
+==== 202 ====
+Once ninety minutes are up, an injector in\\
+your bracelet will activate.\\
+==== 203 ====
+An anesthetic and an agent to erase your\\
+memories will be administered.\\
+==== 204 ====
+Memory erasing drugs...?\\
+==== 205 ====
+As a result, you'll all fall into a deep,\\
+uninterrupted sleep.\\
+==== 206 ====
+You will also forget everything that occurred\\
+in those past ninety minutes.\\
+==== 207 ====
+What...\\
+==== 208 ====
+The bracelet has an additional function.\\
+==== 209 ====
+A watch.\\
+==== 210 ====
+Pressing the buttons on each side\\
+simultaneously will display the time.\\
+==== 211 ====
+12:10...\\
+==== 212 ====
+Today is December 31st. New Year's Eve.\\
+==== 213 ====
+The year turns over in less than half a day.\\
+==== 214 ====
+Unfortunately, very few of you will find\\
+yourselves able to welcome a new 2029.\\
+==== 215 ====
+Take a look at the door.\\
+==== 216 ====
+It's clearly marked with an "X."\\
+==== 217 ====
+Beyond this "X-Door" is a hallway with an\\
+elevator.\\
+==== 218 ====
+Riding the elevator up will take you above\\
+ground. There's no other way out.\\
+==== 219 ====
+The door is easy enough to open.\\
+==== 220 ====
+Simply obtain the "X-Passes" and enter them\\
+into the input device beside it.\\
+==== 221 ====
+Six X-Passes are needed for it to unlock.\\
+==== 222 ====
+One X-Pass will be announced every time\\
+someone dies.\\
+==== 223 ====
+In...blunter terms, if six of you die,\\
+==== 224 ====
+the rest will gain all of the passwords, and\\
+will be able to open the X-Door.\\
+==== 225 ====
+This is bullshit...\\
+==== 226 ====
+One caveat: The door remains open for only\\
+thirty seconds.\\
+==== 227 ====
+Once that passes, it will automatically close.\\
+And never open again.\\
+==== 228 ====
+Oh yes. With this information, surely some of\\
+you at this point are thinking,\\
+==== 229 ====
+"How can I kill six people..."\\
+==== 230 ====
+What? No one would...\\
+==== 231 ====
+I'll give you one opportunity.\\
+==== 232 ====
+By majority vote, determine one team to\\
+execute.\\
+==== 233 ====
+What?!\\
+==== 234 ====
+Do you see the computer in the corner of the\\
+room?\\
+==== 235 ====
+The team names of your newfound enemies\\
+will be displayed on that monitor.\\
+==== 236 ====
+Choose the team you've decided to\\
+eliminate.\\
+==== 237 ====
+Each team gets one vote.\\
+==== 238 ====
+The leader must submit it for the group.\\
+==== 239 ====
+Your deadline is 13:30.\\
+==== 240 ====
+Any team that hasn't voted before the time\\
+limit is up shall be penalized two votes.\\
+==== 241 ====
+The group with two or more votes will lose.\\
+==== 242 ====
+Every member of that team...will be\\
+executed.\\
+==== 243 ====
+Let us begin.\\
+==== 244 ====
+This is the Decision Game. A game of fate.\\
+==== 245 ====
+The lives of you, me, and the human race\\
+hang in the balance.\\

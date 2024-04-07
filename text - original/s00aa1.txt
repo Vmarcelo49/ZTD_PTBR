@@ -1,0 +1,279 @@
+==== 1 ====
+Hey! Open up!\\
+==== 2 ====
+Who would do this...\\
+==== 3 ====
+Shit... What's wrong with you...\\
+==== 4 ====
+Someone's one-night mistake...?\\
+==== 5 ====
+A mistake?\\
+==== 6 ====
+Maybe Diana's...?\\
+==== 7 ====
+This isn't the time for jokes!\\
+==== 8 ====
+Let me guess. That helmet can't come off,\\
+can it?\\
+==== 9 ====
+So creepy...\\
+==== 10 ====
+Huh?\\
+==== 11 ====
+I don't want it near me!\\
+==== 12 ====
+Where the hell did this thing come from...\\
+==== 13 ====
+Forget it. Shouldn't we be trying to get out of\\
+here?\\
+==== 14 ====
+Impossible.\\
+==== 15 ====
+This is a confinement room.\\
+==== 16 ====
+The bars only open from the other side...\\
+==== 17 ====
+Nothing to do but ask whoever did this to let\\
+us out.\\
+==== 18 ====
+The mastermind's right there!\\
+==== 19 ====
+Him!\\
+==== 20 ====
+That kid locked us up!\\
+==== 21 ====
+So he was the one to put these on us?\\
+==== 22 ====
+I...\\
+==== 23 ====
+It...wasn't me.\\
+==== 24 ====
+I-It talks!\\
+==== 25 ====
+Life is simply unfair.\\
+==== 26 ====
+Don't you think?\\
+==== 27 ====
+There are moments when a single snail can\\
+make a world go extinct.\\
+==== 28 ====
+Make... Go extinct?\\
+==== 29 ====
+What the hell are you going on about!\\
+==== 30 ====
+Who are you...\\
+==== 31 ====
+I'm sure you'll determine that eventually.\\
+==== 32 ====
+Why are you doing this...\\
+==== 33 ====
+I require all of you to take part in a game.\\
+==== 34 ====
+A game...?\\
+==== 35 ====
+With the fate of you, me, and the human race\\
+in the balance.\\
+==== 36 ====
+Fuck that!\\
+==== 37 ====
+Let's get started, shall we.\\
+==== 38 ====
+Beneath my foot there's a coin.\\
+==== 39 ====
+One side of it is red, while the other side is\\
+blue.\\
+==== 40 ====
+Which side of the coin is facing up? Make a\\
+guess.\\
+==== 41 ====
+However. You only get one chance.\\
+==== 42 ====
+You all must agree on a single answer.\\
+==== 43 ====
+Do we get something if we get it right?\\
+==== 44 ====
+Your freedom.\\
+==== 45 ====
+I promise that I will release all of you.\\
+==== 46 ====
+And what if we're wrong?\\
+==== 47 ====
+You all lose.\\
+==== 48 ====
+You will have to stay in the game until at\\
+least six of you are dead.\\
+==== 49 ====
+What...?\\
+==== 50 ====
+Blue!\\
+==== 51 ====
+Let's go with blue!\\
+==== 52 ====
+It's red.\\
+==== 53 ====
+Right! Red!\\
+==== 54 ====
+It's gotta be red!\\
+==== 55 ====
+Fifty-fifty chance.\\
+==== 56 ====
+The odds for each are the same...\\
+==== 57 ====
+Then we should vote–\\
+==== 58 ====
+Wait!\\
+==== 59 ====
+I can't believe you guys!\\
+==== 60 ====
+Akane's right!\\
+==== 61 ====
+You're just going to do what he says?!\\
+==== 62 ====
+What do you think, Carlos?\\
+==== 63 ====
+What...?\\
+==== 64 ====
+You are the leader of this group.\\
+==== 65 ====
+I will take your decision as everyone's final\\
+answer.\\
+==== 66 ====
+What are you talking about?!\\
+==== 67 ====
+I won't accept this!\\
+==== 68 ====
+I'll let Carlos choose.\\
+==== 69 ====
+Pick red!\\
+==== 70 ====
+It's blue...\\
+==== 71 ====
+So, what do you say, Carlos...?\\
+==== 72 ====
+I...\\
+==== 73 ====
+No, Carlos!\\
+==== 74 ====
+Don't answer him!\\
+==== 75 ====
+Time to choose, Carlos.\\
+==== 76 ====
+You are that solitary snail.\\
+==== 77 ====
+The fate of the world rests on your decision.\\
+==== 78 ====
+It's red.\\
+==== 79 ====
+See?\\
+==== 80 ====
+Told you it was blue.\\
+==== 82 ====
+It's blue.\\
+==== 83 ====
+That's why I told you red!\\
+==== 85 ====
+Carlos, you asshole! You got it wrong!\\
+==== 86 ====
+Carlos...\\
+==== 87 ====
+What were you thinking?!\\
+==== 88 ====
+Hey, wait a second!\\
+==== 89 ====
+Carlos isn't the one to be blamed for all this!\\
+==== 90 ====
+Right... The person who started it is...\\
+==== 91 ====
+So. What now?\\
+==== 92 ====
+You should know already.\\
+==== 93 ====
+You were wrong, so the game continues.\\
+==== 94 ====
+Until six people are dead, huh...\\
+==== 95 ====
+At least six.\\
+==== 96 ====
+It's possible there may be more than that.\\
+==== 97 ====
+Why don't we hurry and get this over with\\
+then?\\
+==== 98 ====
+When does the next game–\\
+==== 99 ====
+Before you begin, I'm going to need all of you\\
+to go to sleep.\\
+==== 100 ====
+Sleep?\\
+==== 101 ====
+When next you wake, you will have forgotten\\
+everything that just happened here.\\
+==== 102 ====
+Forget? But why...\\
+==== 103 ====
+There's no point to telling you now.\\
+==== 104 ====
+You won't remember anything in a moment...\\
+==== 105 ====
+Pleasant dreams...\\
+==== 107 ====
+It's red.\\
+==== 108 ====
+See?\\
+==== 109 ====
+Didn't I say it'd be red?\\
+==== 110 ====
+Yeah, yeah. Whatever.\\
+==== 111 ====
+It's blue.\\
+==== 112 ====
+So, who was it who said it was red again?\\
+==== 113 ====
+Hmph.\\
+==== 114 ====
+Well done, Carlos!\\
+==== 115 ====
+Are you some kind of clairvoyant?\\
+==== 116 ====
+It was just luck.\\
+==== 117 ====
+I had a 50% chance.\\
+==== 118 ====
+It's not too hard to get it right.\\
+==== 119 ====
+Hey, hold on a sec!\\
+==== 120 ====
+Okay, sure, you lucked out with your guess.\\
+But what if you had gotten it wrong?\\
+==== 121 ====
+What does it matter.\\
+==== 122 ====
+Everything worked out fine.\\
+==== 123 ====
+But–!\\
+==== 124 ====
+So. Are you going to make good on our deal?\\
+==== 125 ====
+Fear not.\\
+==== 126 ====
+I'm a fair person.\\
+==== 127 ====
+I promised to release you, and I shall.\\
+==== 128 ====
+Ah, but before that... I apologize, but you\\
+must all sleep.\\
+==== 129 ====
+Sleep...?\\
+==== 130 ====
+When next you wake, you will have forgotten\\
+everything that just happened here.\\
+==== 131 ====
+Why would we forget?\\
+==== 132 ====
+Hmm, I wonder...?\\
+==== 133 ====
+Pleasant dreams...\\
+==== 134 ====
+I know...\\
+==== 135 ====
+You're...\\

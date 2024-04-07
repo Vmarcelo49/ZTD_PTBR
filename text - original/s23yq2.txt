@@ -1,0 +1,1991 @@
+==== 3966 ====
+I'll go check out the other rooms.\\
+==== 3967 ====
+Have fun.\\
+==== 3968 ====
+Hmm, 18:10...\\
+==== 3969 ====
+That Eric. Why is he even bothering to look in\\
+the other rooms?\\
+==== 3970 ====
+We already searched through each one\\
+when we first woke up. Nothing...\\
+==== 3971 ====
+I don't think we've seen all of them...\\
+==== 3972 ====
+There was that one room we couldn't figure\\
+out how to get into...\\
+==== 3973 ====
+Oh, that's right...\\
+==== 3975 ====
+Let's go!\\
+==== 3976 ====
+Whoa...\\
+==== 3977 ====
+How crazy is this?\\
+==== 3978 ====
+I was tapping spots on the wall in the hallway\\
+when–\\
+==== 3979 ====
+You opened some kind of secret door.\\
+==== 3980 ====
+You did good. I'm impressed.\\
+==== 3981 ====
+Oh wow, this room has a whole lot of books...\\
+==== 3982 ====
+You like to read?\\
+==== 3983 ====
+Do you like to read?\\
+==== 3984 ====
+I-I dunno...\\
+==== 3985 ====
+Come on, you're talking about yourself here.\\
+==== 3986 ====
+I don't know...\\
+==== 3987 ====
+Do I...like to read?\\
+==== 3988 ====
+So what is this room anyway...?\\
+==== 3989 ====
+A study? Though it's practically an entire\\
+library.\\
+==== 3990 ====
+It seems like someone was just here.\\
+==== 3991 ====
+Who...? The only one who can wander freely\\
+would be...\\
+==== 3992 ====
+Right. It's got to be Zero.\\
+==== 3993 ====
+So that means...\\
+==== 3994 ====
+This is Zero's study?!\\
+==== 3995 ====
+If it is, then there's gotta be some sort of\\
+clue!\\
+==== 3996 ====
+Something about who Zero is, or how to get\\
+out of this crazy place...\\
+==== 3997 ====
+If anything was hidden in here...\\
+==== 3998 ====
+Those safes would be the best bet.\\
+==== 3999 ====
+Let's start looking!\\
+==== 4000 ====
+Uh, what does "KILL ONE" mean...?\\
+==== 4001 ====
+It must mean we have to kill someone...\\
+==== 4002 ====
+We have to...?\\
+==== 4003 ====
+What the...?\\
+==== 4004 ====
+Is that...\\
+==== 4005 ====
+No...\\
+==== 4006 ====
+Junpei!\\
+==== 4007 ====
+Carlos...what...\\
+==== 4008 ====
+No...\\
+==== 4009 ====
+Did Carlos just...kill himself...?\\
+==== 4010 ====
+I think so...\\
+==== 4011 ====
+But why...?\\
+==== 4012 ====
+Maybe it had to do with Junpei's...body...?\\
+==== 4013 ====
+Now announcing...the current casualties...\\
+==== 4014 ====
+C-Team: Carlos, Junpei\\
+==== 4015 ====
+D-Team: Diana, Phi, Sigma\\
+==== 4016 ====
+These five are now deceased.\\
+==== 4017 ====
+As a result...five X-Passes...will be\\
+revealed.\\
+==== 4018 ====
+FIGHT... JUMP... BLUE... RED... MILK...\\
+==== 4019 ====
+That is all.\\
+==== 4020 ====
+Wait, it mentioned five people, right?\\
+==== 4021 ====
+Aside from us, Akane's left...\\
+==== 4022 ====
+But why in the world did D-Team...\\
+==== 4023 ====
+The execution.\\
+==== 4024 ====
+Back during the vote at 13:30, D-Team was...\\
+==== 4025 ====
+Well, the reason why isn't the issue.\\
+==== 4026 ====
+What's important is the reveal of five\\
+X-Passes.\\
+==== 4027 ====
+In other words–\\
+==== 4028 ====
+If one more person dies...\\
+==== 4029 ====
+Hey guys... We should...stay calm now...\\
+==== 4030 ====
+Let's just put these weapons down.\\
+==== 4031 ====
+Put yours down first!\\
+==== 4032 ====
+Wh-What're you saying, Eric?\\
+==== 4033 ====
+If I put mine down, then you'll...\\
+==== 4034 ====
+Huh?\\
+==== 4035 ====
+Look over there!\\
+==== 4036 ====
+Wh-Why Mira...?\\
+==== 4037 ====
+We're in love...aren't we...?\\
+==== 4038 ====
+Um, Eric? This will be hard for you to hear,\\
+but...\\
+==== 4039 ====
+I think you...might be mistaken about that...\\
+==== 4040 ====
+You're lying!\\
+==== 4041 ====
+Then why is a gun pointed at you right now?!\\
+==== 4042 ====
+No, it's not what it looks like, Eric!\\
+==== 4043 ====
+I love you...with all that I am...!\\
+==== 4044 ====
+Mira...\\
+==== 4045 ====
+So...you know what you need to do, right?\\
+==== 4046 ====
+...Huh?\\
+==== 4047 ====
+You don't get it?\\
+==== 4048 ====
+Uh... Um... What do you mean?\\
+==== 4049 ====
+God, how dumb can you get...\\
+==== 4050 ====
+Mira? This isn't you...trying to get Eric to kill\\
+me, is it...?\\
+==== 4051 ====
+Don't be stupid.\\
+==== 4052 ====
+I have this gun pointed at him so that I can\\
+protect you, of course.\\
+==== 4053 ====
+If I drop my weapon, then Eric will...\\
+==== 4054 ====
+Then Eric, how about you putting yours down\\
+first.\\
+==== 4055 ====
+No way. Not happening.\\
+==== 4056 ====
+If I put this down, you'll definitely kill Mira...\\
+==== 4057 ====
+There's no way I would!\\
+==== 4058 ====
+How would I know?!\\
+==== 4059 ====
+What proof do I have that you won't up and\\
+fire that thing?!\\
+==== 4060 ====
+{Fi}We aren't getting anywhere like this...{Fn}\\
+==== 4061 ====
+{Fi}If just one more person dies...{Fn}\\
+==== 4062 ====
+{Fi}One more person...{Fn}\\
+==== 4063 ====
+{Fi}One more. Just one more...{Fn}\\
+==== 4066 ====
+Wha...\\
+==== 4067 ====
+Are you...for real...?\\
+==== 4069 ====
+Ha... Ha ha...\\
+==== 4070 ====
+This is...a joke...right?\\
+==== 4071 ====
+Looks like it got you pretty good.\\
+==== 4072 ====
+You'd probably come out okay if we moved to\\
+help you right now, but...\\
+==== 4073 ====
+M-Mira...?\\
+==== 4074 ====
+Eric, I'm going to kill you.\\
+==== 4075 ====
+I... I see...\\
+==== 4076 ====
+Of course...\\
+==== 4077 ====
+You only need...one more...\\
+==== 4078 ====
+Do you have any last words?\\
+==== 4079 ====
+Mira...\\
+==== 4080 ====
+I...forgive you...\\
+==== 4081 ====
+You look better...when you...smi–\\
+==== 4083 ====
+Wh-Why...?\\
+==== 4084 ====
+You're asking me that?\\
+==== 4085 ====
+You're the one who took the first shot.\\
+==== 4086 ====
+Y-Yeah, you're right, but...\\
+==== 4087 ====
+How... How can you be so...calm about it?\\
+==== 4088 ====
+Calm?\\
+==== 4089 ====
+Oh, no, I'm actually surprised right now.\\
+==== 4090 ====
+I had no idea his last words would be the same\\
+as my first's...\\
+==== 4091 ====
+Your first...?\\
+==== 4092 ====
+No, not that way. It's something else.\\
+==== 4093 ====
+First of all, it's not as if I was actually dating\\
+him or anything.\\
+==== 4094 ====
+I guess you weren't really in love then...\\
+==== 4095 ====
+I suppose he thought we were though.\\
+==== 4096 ====
+I just let him go since it would've been a\\
+hassle.\\
+==== 4097 ====
+A hassle...\\
+==== 4098 ====
+What about how Eric feels?!\\
+==== 4099 ====
+His feelings, huh...\\
+==== 4100 ====
+I haven't really been able to understand\\
+emotions my whole life.\\
+==== 4101 ====
+Anger, sadness, pain, fear...\\
+==== 4102 ====
+And things like love...\\
+==== 4103 ====
+So when Eric said he liked me as much as he\\
+did, I didn't know why.\\
+==== 4104 ====
+I don't even really understand what he said\\
+before he died.\\
+==== 4105 ====
+Wh-What are you doing...?\\
+==== 4106 ====
+I'm going to touch Eric's heart.\\
+==== 4107 ====
+Ever since I was little, I've always been told\\
+I'm callous and unfeeling.\\
+==== 4108 ====
+Why did the faces on people change? I never\\
+understood what expressions were.\\
+==== 4109 ====
+I'd take a mirror and practice making them\\
+every day, but they never quite looked right.\\
+==== 4110 ====
+One day, my mother told me something.\\
+==== 4111 ====
+Deep inside a person's chest is an object\\
+called a "heart"...\\
+==== 4112 ====
+This "heart" controls their emotions, and\\
+changes their expressions.\\
+==== 4113 ====
+I remember thinking, "That's unfair."\\
+==== 4114 ====
+Why was everyone hiding this important thing\\
+inside so no one else could see?\\
+==== 4115 ====
+I wanted to see what it looked like.\\
+==== 4116 ====
+{Fi}I decided my first would be a woman about\\
+the same age as my mother.{Fn}\\
+==== 4117 ====
+{Fi}I waited on an isolated street so there would\\
+be no bystanders,{Fn}\\
+==== 4118 ====
+{Fi}and then I stabbed her without warning with a\\
+small knife I brought with me.{Fn}\\
+==== 4120 ====
+{Fi}I'd practiced on animals, but I was still\\
+surprised by how fast she collapsed.{Fn}\\
+==== 4121 ====
+Why...did you do this...?\\
+==== 4122 ====
+I want to see what a "heart" is.\\
+==== 4123 ====
+I think I'm the only one who doesn't know.\\
+==== 4124 ====
+Oh...God...\\
+==== 4125 ====
+Hey, that's where you hide it, right?\\
+==== 4126 ====
+I know where it is.\\
+==== 4127 ====
+Hurry up and show me.\\
+==== 4128 ====
+I...forgive you...\\
+==== 4129 ====
+So...please... Don't ever do something...so\\
+terrible...again... Can you do that...?\\
+==== 4130 ====
+Why?\\
+==== 4131 ====
+Because...smiles...look better on you...\\
+==== 4132 ====
+Smiles?\\
+==== 4133 ====
+{Fi}The woman didn't answer me.{Fn}\\
+==== 4134 ====
+{Fi}I patted at her face for a long time, but she\\
+didn't even blink anymore.{Fn}\\
+==== 4136 ====
+{Fi}When I gave up on waking her, I thoroughly\\
+searched for her "heart."{Fn}\\
+==== 4137 ====
+{Fi}It took some time, but I soon felt an\\
+unfamiliar, warm, comforting sensation.{Fn}\\
+==== 4138 ====
+I knew it! It was here!\\
+==== 4139 ====
+{Fi}The last expression the woman formed on her\\
+face was a smile.{Fn}\\
+==== 4140 ====
+{Fi}That's when I realized that this kind of\\
+moment was when you should smile.{Fn}\\
+==== 4141 ====
+{Fi}I began to hunt for that, reaching out and\\
+touching heart after heart.{Fn}\\
+==== 4142 ====
+{Fi}I was terrible at it at first. I barely touched\\
+hearts, and always badly,{Fn}\\
+==== 4143 ====
+{Fi}but after doing it over and over again, I\\
+eventually got better at it.{Fn}\\
+==== 4144 ====
+{Fi}Fear, hatred, sadness...{Fn}\\
+==== 4145 ====
+{Fi}I learned about so many emotions by touching\\
+hearts,{Fn}\\
+==== 4146 ====
+{Fi}and there was always new expressions to\\
+see.\\
+==== 4147 ====
+{Fi}But unfortunately, after that first,{Fn}\\
+==== 4148 ====
+{Fi}I was never able to find that comforting\\
+"heart."{Fn}\\
+==== 4149 ====
+{Fi}I wanted to feel that warmth one more time.{Fn}\\
+==== 4150 ====
+{Fi}I wandered aimlessly, searching to find\\
+someone who held that same warmth.{Fn}\\
+==== 4151 ====
+{Fi}And that was how, one day, I came across\\
+Eric.{Fn}\\
+==== 4152 ====
+{Fi}He was working at an ice cream shop.{Fn}\\
+==== 4153 ====
+{Fi}With one glance,{Fn}\\
+==== 4154 ====
+{Fi}I could tell he was useless. No talent, no\\
+worth...nothing.{Fn}\\
+==== 4155 ====
+{Fi}I've seen many "hearts" of those like him, but\\
+none held my interest.{Fn}\\
+==== 4156 ====
+{Fi}Naïve, helpless weaklings.{Fn}\\
+==== 4157 ====
+{Fi}It's as if they're amusing creatures simply\\
+there to be exploited.{Fn}\\
+==== 4158 ====
+{Fi}That's all I saw them as, but Eric... Something\\
+felt different with him.{Fn}\\
+==== 4159 ====
+{Fi}I stopped by the shop several times to\\
+watch him.{Fn}\\
+==== 4160 ====
+{Fi}I just had to figure out how he was different\\
+from all the others...{Fn}\\
+==== 4161 ====
+{Fi}I tried talking to him.{Fn}\\
+==== 4162 ====
+{Fi}I spent time speaking with him, going places\\
+together, to learn how he reacts.{Fn}\\
+==== 4163 ====
+{Fi}But I still didn't know.{Fn}\\
+==== 4164 ====
+{Fi}At one point, I'd thought I'd made a mistake.{Fn}\\
+==== 4165 ====
+{Fi}But...{Fn}\\
+==== 4166 ====
+Oh! This... This is it!\\
+==== 4167 ====
+I knew Eric would be different!\\
+==== 4168 ====
+I had a hunch when I first met him and I was\\
+right!\\
+==== 4169 ====
+I told you, didn't I?!\\
+==== 4170 ====
+And his last words were exactly the same as\\
+my first's!\\
+==== 4171 ====
+How incredible is that?!\\
+==== 4172 ====
+Oh... Ah... This person really, truly loved\\
+me...\\
+==== 4173 ====
+So this is love... This...\\
+==== 4174 ====
+Now announcing...the current casualties...\\
+==== 4175 ====
+C-Team: Carlos, Junpei\\
+==== 4176 ====
+Q-Team: Eric\\
+==== 4177 ====
+D-Team: Diana, Phi, Sigma\\
+==== 4178 ====
+These six are now deceased.\\
+==== 4179 ====
+As a result...six X-Passes...will be\\
+revealed.\\
+==== 4180 ====
+FIGHT... JUMP... POOR... BLUE... RED...\\
+MILK...\\
+==== 4181 ====
+That is all.\\
+==== 4182 ====
+I just noticed.\\
+==== 4183 ====
+I think that's an anagram.\\
+==== 4184 ====
+An anagram?\\
+==== 4185 ====
+You switch the letters around to get a\\
+different meaning.\\
+==== 4186 ====
+[The truth is invisible!]\\
+==== 4187 ====
+So that's what it changes to, huh...\\
+==== 4188 ====
+What do you think it means?\\
+==== 4189 ====
+Hmm... I'm not really sure...\\
+==== 4190 ====
+Maybe it's similar to a human heart?\\
+==== 4191 ====
+You can't see it because it's hidden inside\\
+your chest.\\
+==== 4192 ====
+All right. Should I put them in?\\
+==== 4193 ====
+Yeah, go ahead.\\
+==== 4194 ====
+Okay, let's go.\\
+==== 4195 ====
+Yeah.\\
+==== 4197 ====
+No you won't!\\
+==== 4198 ====
+E-Eric...\\
+==== 4199 ====
+Why...?\\
+==== 4200 ====
+Mira...\\
+==== 4201 ====
+No! Not there!\\
+==== 4202 ====
+If you do it there, then his heart will be gone!\\
+==== 4203 ====
+Your heart, I have to–\\
+==== 4204 ====
+Hey... Don't...make that face...\\
+==== 4205 ====
+Smiles...look better...on you...\\
+==== 4206 ====
+What a waste...\\
+==== 4207 ====
+What...?\\
+==== 4208 ====
+See what you went and did?\\
+==== 4209 ====
+N-No...\\
+==== 4210 ====
+I just... I just...\\
+==== 4211 ====
+And lest we forget, you tried to kill me,\\
+didn't you?\\
+==== 4212 ====
+Better not try to weasel out of this...\\
+==== 4214 ====
+Now announcing...the current casualties...\\
+==== 4215 ====
+C-Team: Carlos, Junpei\\
+==== 4216 ====
+Q-Team: Q, Eric\\
+==== 4217 ====
+D-Team: Diana, Phi, Sigma\\
+==== 4218 ====
+These seven are now deceased.\\
+==== 4219 ====
+Geez...\\
+==== 4220 ====
+This couldn't have ended any shittier.\\
+==== 4221 ====
+Mira...\\
+==== 4222 ====
+A-All right...\\
+==== 4223 ====
+I'll just...slowly put my weapon down first...\\
+==== 4224 ====
+So now you two...\\
+==== 4225 ====
+Yeah, okay.\\
+==== 4226 ====
+Sure.\\
+==== 4228 ====
+Huh?!\\
+==== 4229 ====
+N-No!\\
+==== 4230 ====
+Heh... What an idiot...\\
+==== 4231 ====
+Now announcing...the current casualties...\\
+==== 4232 ====
+C-Team: Carlos, Junpei\\
+==== 4233 ====
+Q-Team: Q\\
+==== 4234 ====
+D-Team: Diana, Phi, Sigma\\
+==== 4235 ====
+These six are now deceased.\\
+==== 4236 ====
+As a result...six X-Passes...will be\\
+revealed.\\
+==== 4237 ====
+Let's go, Mira!\\
+==== 4238 ====
+Let's get out of here and build a happy home\\
+and wonderful future together!\\
+==== 4239 ====
+Y-Yeah...\\
+==== 4241 ====
+Man, I don't think I could be any happier.\\
+==== 4242 ====
+I have you, Mira, and this bed is super\\
+comfy...\\
+==== 4243 ====
+I couldn't ask for anything more!\\
+==== 4244 ====
+Isn't that right?\\
+==== 4245 ====
+Yeah, right...\\
+==== 4246 ====
+I hope we can be like this every day. \\
+==== 4247 ====
+Forever and ever and–\\
+==== 4248 ====
+I'm really sorry...\\
+==== 4250 ====
+Sean, you...\\
+==== 4251 ====
+Out of all your choices, you kill him...\\
+==== 4252 ====
+Audentem Forsque Venusque iuvat...\\
+==== 4253 ====
+This is yet...another...destiny...\\
+==== 7874 ====
+What the heck. What is this?!\\
+==== 7875 ====
+Take it off! I said take it off!\\
+==== 7876 ====
+AUGH! OPEN DAMN IIIT!\\
+==== 7878 ====
+May you rest in peace.\\
+==== 7879 ====
+Mors certa, hora incerta.\\
+==== 7882 ====
+Wh... What the hell...\\
+==== 7883 ====
+H-Huh...?\\
+==== 7884 ====
+I thought we had died...\\
+==== 7885 ====
+Huh...?\\
+==== 7886 ====
+A bomb...on our collars exploded...\\
+==== 7887 ====
+Did you say bomb?\\
+==== 7888 ====
+Maybe it was some kind of bad dream?\\
+==== 7889 ====
+Dream...\\
+==== 7890 ====
+I hope that's what it was...\\
+==== 1010100 ====
+There sure are a lot of things on this desk.\\
+==== 1010101 ====
+It's almost as if someone was just here...\\
+==== 1010102 ====
+Someone? We're the only ones in this ward.\\
+The only person left would be...\\
+==== 1010103 ====
+...Anyway, I don’t think anything here on the\\
+desk is important.\\
+==== 1010200 ====
+There's a bunch of stuff here, but nothing\\
+really catches my eye.\\
+==== 1010300 ====
+Is there anything in the drawer...?\\
+==== 1010301 ====
+Ah, a key. And it's got some kind of mark on\\
+it...\\
+==== 1010302 ====
+Maybe it can open up one of the safes here.\\
+==== 1010400 ====
+Let's look here again.\\
+==== 1010401 ====
+...There's nothing left, and the other drawer\\
+is locked. Let's keep looking around.\\
+==== 1010500 ====
+Whoever's room this is must sit here doing\\
+work...\\
+==== 1010600 ====
+It's just a chair. Nothing strange about it.\\
+==== 1010700 ====
+These four figures are all posed differently.\\
+==== 1010701 ====
+Is this Zero's collection? I can't say I\\
+understand his taste...\\
+==== 1010702 ====
+They look decorative... Maybe they mean\\
+something?\\
+==== 1010800 ====
+Are these four figures just decoration...?\\
+==== 1010900 ====
+These figures have different poses than the\\
+ones on the paper we just found.\\
+==== 1010901 ====
+You're right. None of them are in the confirm\\
+or deny pose.\\
+==== 1010902 ====
+That must mean...these have different\\
+meanings?\\
+==== 1011000 ====
+They're not in the confirm or deny poses, so\\
+what do they mean?\\
+==== 1011100 ====
+They're in the Sand Dance, Grass Dance, and\\
+Wind Dance poses according to the paper.\\
+==== 1011101 ====
+But what do those dances mean?\\
+==== 1011102 ====
+It says shift 3 for Grass Dance, shift 5 for\\
+Sand Dance, and shift 7 for Wind Dance...\\
+==== 1011103 ====
+Shift...? What exactly do we shift? There are\\
+four of them, so should we look for four?\\
+==== 1011200 ====
+These figures are doing the Grass, Sand, and\\
+Wind Dance poses. Anything like that nearby?\\
+==== 1011300 ====
+I see... These figures were the hint to open\\
+the cryptex.\\
+==== 1011301 ====
+You shift the letter according to the pose.\\
+Child's play.\\
+==== 1011302 ====
+Geez, Eric. You make it sound like you knew\\
+how to solve it from the beginning.\\
+==== 1011400 ====
+I think this is a fountain pen. And that's it. A\\
+pen.\\
+==== 1011500 ====
+It's just a fountain pen.\\
+==== 1011600 ====
+A bottle of ink. Eric, be careful that you don't\\
+spill it, okay?\\
+==== 1011601 ====
+Why–! Hey, I'm not that clumsy–WHOA! Th-That\\
+was close...\\
+==== 1011700 ====
+It's a bottle of ink. Uh, let's not spill it.\\
+==== 1011800 ====
+There's something written here, but the ink is\\
+all blurry. I can't make it out.\\
+==== 1011801 ====
+If we can't read it then we may as well look\\
+elsewhere.\\
+==== 1011900 ====
+The words are all blurry so we can't read it.\\
+==== 1012000 ====
+Oh! This is a feather duster. I've never used\\
+one of these before.\\
+==== 1012001 ====
+I can't say I've ever even seen one. Some of\\
+the things in this study are so old fashioned.\\
+==== 1012100 ====
+It's a feather duster. Does the room's owner\\
+like using retro things?\\
+==== 1012200 ====
+It's an ashtray. There's no ashes inside...\\
+==== 1012201 ====
+There's no trace of it ever being used. Maybe\\
+the room's owner doesn’t smoke?\\
+==== 1012300 ====
+It's an ashtray. There are no cigarette butts\\
+or ashes in it.\\
+==== 1012400 ====
+It's a simple desk lamp... Nothing special\\
+about it.\\
+==== 1012500 ====
+It's a normal desk lamp.\\
+==== 1012600 ====
+This is a paper organizer, isn't it? Maybe\\
+there's a clue...huh? It doesn’t open.\\
+==== 1012700 ====
+I think it's for organizing papers, but it won't\\
+open.\\
+==== 1012800 ====
+Nothing's on the cover or the back of this\\
+book. It's not that helpful...\\
+==== 1012801 ====
+I'd say let's keep looking, but that mountain\\
+of books makes me tired already.\\
+==== 1012900 ====
+Nothing's written on this book.\\
+==== 1020100 ====
+Don't you think this chair is different from\\
+the other one?\\
+==== 1020101 ====
+It's got a keyboard...that's not responding. I\\
+bet the power isn't on.\\
+==== 1020102 ====
+I don't see a power switch anywhere...\\
+==== 1020103 ====
+Hmm. Let's look around.\\
+==== 1020200 ====
+There's something about this chair... But it\\
+doesn't seem like the power is on.\\
+==== 1020300 ====
+Oh, I think the power's on now.\\
+==== 1020301 ====
+What's the keyboard for?\\
+==== 1020302 ====
+Let's try putting something in.\\
+==== 1020400 ====
+Let's try inputting again?\\
+==== 1020500 ====
+Wah! It responded to the input?\\
+==== 1020501 ====
+Ha! Leave it all to me. Mira, did you see that?\\
+Isn't it awe-inspiring? Huh, Mira?\\
+==== 1020502 ====
+Wasn't it just a coincidence? But I wonder\\
+what would happen if...\\
+==== 1020503 ====
+H-Hey! You okay?! That chair startled me\\
+when it went up so suddenly...\\
+==== 1020504 ====
+Yeah, it scared me, too... You were worried\\
+about me, Eric?\\
+==== 1020505 ====
+N-No, I wasn't! ...What was up there anyway?\\
+==== 1020506 ====
+Oh yeah. I think the number we put in is\\
+probably a book's number.\\
+==== 1020507 ====
+...I see. Entering the correct code makes the\\
+chair go up to get the corresponding book.\\
+==== 1020508 ====
+So we were lucky this time and got the right\\
+one. What book did you get?\\
+==== 1020509 ====
+Uh, it's more a piece of paper than a book...\\
+==== 1020600 ====
+Yay! I knew this code would go here!\\
+==== 1020601 ====
+So, now what?\\
+==== 1020602 ====
+H-Hey! You okay?! That chair startled me\\
+when it went up so suddenly...\\
+==== 1020603 ====
+Yeah, it scared me, too... You were worried\\
+about me, Eric?\\
+==== 1020604 ====
+N-No, I wasn't! ...What was up there anyway?\\
+==== 1020605 ====
+Oh yeah. I think the number we put in is\\
+probably a book's number.\\
+==== 1020606 ====
+...I see. Entering the correct code makes the\\
+chair go up to get the corresponding book.\\
+==== 1020607 ====
+So we were lucky this time and got the right\\
+number. What book did you get?\\
+==== 1020608 ====
+Uh, it's more a piece of paper than a book...\\
+==== 1020700 ====
+Nothing's happening. I guess the same code\\
+won't do anything again?\\
+==== 1020800 ====
+Oh, it worked!\\
+==== 1020801 ====
+Have a safe trip! ...Just kidding.\\
+==== 1020802 ====
+Make sure you get whatever's there!\\
+==== 1020803 ====
+Woo... That was scary. I almost fell out of the\\
+chair...\\
+==== 1020804 ====
+I don't really see a need to have this device\\
+though. Why not just move the books?\\
+==== 1020805 ====
+I know, that Zero's super weird, right? ...So,\\
+what did you get?\\
+==== 1020806 ====
+Oh, this...\\
+==== 1020900 ====
+It's not moving anymore. And I wanted to ride\\
+it once! I-I mean...no, I'm not some kid!\\
+==== 1021000 ====
+Oops. It's giving us an error.\\
+==== 1021100 ====
+Huh? Weird... I entered J-05-03 exactly like it\\
+is on the paper...\\
+==== 1021101 ====
+It seems just putting it in like that won't\\
+work.\\
+==== 1021102 ====
+Hm. I guess we need to find more clues.\\
+==== 1021200 ====
+That's strange... I put J-05-03 in\\
+right...didn't I?\\
+==== 1021201 ====
+Hey, didn't we find a note in that safe we blew\\
+up?\\
+==== 1021202 ====
+Huh? You know what, there WAS something\\
+else in there...\\
+==== 1021300 ====
+J-05-03... If this isn't what we put in, then...\\
+==== 1021301 ====
+Do we need to shift it? We did find that note\\
+in the safe with the figures.\\
+==== 1021302 ====
+So that's what it means! Let's go check their\\
+poses in the safe then!\\
+==== 1021400 ====
+If we shift all of J-05-03 down 3, it'd be\\
+Q-12-10.\\
+==== 1021401 ====
+Yeah, maybe that'll work?\\
+==== 1021500 ====
+It says "Error"...\\
+==== 1021501 ====
+Hey, do you even know the code you're\\
+entering?\\
+==== 1021502 ====
+We should search the room if you don't have\\
+it. There's no need to rush, so don't worry.\\
+==== 1021600 ====
+Oops. Error...\\
+==== 1030100 ====
+It's just a chair...isn't it?\\
+==== 1030101 ====
+That object is in the way if we want to sit\\
+down.\\
+==== 1030200 ====
+Nothing strange about it besides the thing\\
+laying on it. It's a normal chair.\\
+==== 1030300 ====
+What's this cylinder? There's a bird–no wait,\\
+more like a birdman mark on the side?\\
+==== 1030301 ====
+It's a cryptex. It opens with a specific set of\\
+letters.\\
+==== 1030302 ====
+We have to match four, huh... Let's try?\\
+==== 1030400 ====
+Four letters... Okay, let's try it again.\\
+==== 1030500 ====
+Oh?! It's open?! Today's my lucky day!\\
+==== 1030501 ====
+I-I can't believe it. A total of 456,976\\
+combinations, and you got it with luck...\\
+==== 1030502 ====
+Coincidence...? Or did you hear a voice from\\
+above?\\
+==== 1030600 ====
+All right! It opened!\\
+==== 1030601 ====
+I knew this was the right answer!\\
+==== 1030700 ====
+Hmm, I don't know what it would be.\\
+==== 1030701 ====
+Why don’t we try everything? It's just four\\
+letters.\\
+==== 1030702 ====
+Geez... You do know how many combinations\\
+there are, right Eric? Are you stupid?\\
+==== 1030703 ====
+I'm... I'm not stupid... Or that...stupid... Uh\\
+huuh huuh...\\
+==== 1030800 ====
+Four letters... It must be a word...\\
+==== 1030801 ====
+There's no point in guessing. Let's search\\
+around.\\
+==== 1030900 ====
+Huh, it's wrong...\\
+==== 1030901 ====
+Wait, didn't we see that same bird mark\\
+somewhere?\\
+==== 1030902 ====
+Yeah, we got that card with the same mark.\\
+Think they're connected?\\
+==== 1031000 ====
+Huh, it's wrong... I do think that bird mark is\\
+connected though.\\
+==== 1031001 ====
+The card has four letters, but it doesn't make\\
+any sense...\\
+==== 1031002 ====
+Speaking of sets of four, do you think the four\\
+figures on the table are related at all?\\
+==== 1031100 ====
+There's nothing in the cryptex anymore.\\
+==== 1040100 ====
+There's a fire in the fireplace... Oh, I know!\\
+We can climb the chimney and get out of here!\\
+==== 1040101 ====
+There's no way it's that simple. We wouldn't\\
+be going through all this if it was.\\
+==== 1040102 ====
+Y-You're right... I'm sorry I got excited...\\
+==== 1040200 ====
+It's a fireplace. There's nothing special\\
+about it besides the fact that there's a fire.\\
+==== 1040201 ====
+The chimney isn't connected to the surface,\\
+is it. So Santa can't get in this way.\\
+==== 1050100 ====
+Let's check to see if this gun works.\\
+==== 1050101 ====
+Wow! So awesome! How'd you spin it like\\
+that?!\\
+==== 1050102 ====
+Amazing, Mira! Do you know how to shoot?\\
+WHOA! Don't point that at me, even as a joke!\\
+==== 1050200 ====
+These pictures are suspicious... Should we\\
+shoot some more?\\
+==== 1050300 ====
+The note says "Bullet to C-Team"...\\
+==== 1050301 ====
+So how about we shoot them?\\
+==== 1050302 ====
+I know they're just pictures of dolls, but...it\\
+still feels kind of wrong.\\
+==== 1050400 ====
+The note said "Bullet to C-Team." I guess we\\
+need to shoot the C-Team pictures?\\
+==== 1050500 ====
+Wow, a crossbow. I kind of want to fire it...\\
+==== 1050501 ====
+It's silent and easy to use. An excellent\\
+weapon.\\
+==== 1050502 ====
+D-Don't point it this way if you're gonna use\\
+it, okay?\\
+==== 1050600 ====
+These pictures are weird... What would\\
+happen if we shot at them?\\
+==== 1050700 ====
+The note we found said "Arrow to Q-Team,"\\
+right?\\
+==== 1050701 ====
+Meaning we need to shoot our pictures with\\
+the crossbow.\\
+==== 1050702 ====
+Hold on a second... It still feels really weird\\
+even if it is just pictures...\\
+==== 1050800 ====
+The note said "Arrow to Q-Team" so shooting\\
+them with the crossbow does something?\\
+==== 1050900 ====
+O-Oh?! I don't know what happened, but I think\\
+we cleared it?\\
+==== 1050901 ====
+Huh... But what was the rule behind this?\\
+==== 1050902 ====
+We did what we had to, so don't worry about\\
+it. More importantly, look. Something's there.\\
+==== 1051000 ====
+Yeah! I think we did it!\\
+==== 1051001 ====
+Shooting pictures of us as dolls feels worse\\
+than I thought it would...\\
+==== 1051002 ====
+We finished, so don't dwell on it. Come on,\\
+look. There's something behind it.\\
+==== 1051100 ====
+H-Huh? All the pictures were replaced with\\
+clean versions...?\\
+==== 1051101 ====
+Maybe we shot the wrong ones?\\
+==== 1051102 ====
+But there are reactions, so that means we're\\
+supposed to do it, right?\\
+==== 1051200 ====
+The pictures got reset again... We must be\\
+doing something wrong.\\
+==== 1051201 ====
+If we're in the dark, let's find a hint. Even I\\
+know to do that.\\
+==== 1051300 ====
+Ah... The pictures were reset.\\
+==== 1051301 ====
+We must've shot the wrong person.\\
+==== 1051302 ====
+Going by the note, we have to shoot C-Team\\
+with bullets, and Q-Team with arrows.\\
+==== 1051400 ====
+Ugh, they were reset again. Um, C-Team gets\\
+bullets and Q-Team gets arrows, so...\\
+==== 1051401 ====
+Shoot Carlos, Junpei, and Akane with the gun,\\
+and the three of us with the crossbow.\\
+==== 1051402 ====
+The pictures! Shoot the pictures!\\
+==== 1051500 ====
+Oh, whoops... I just shot the three on C-Team.\\
+==== 1051501 ====
+W-We didn't know what would happen, but\\
+you're really gung-ho, Mira!\\
+==== 1051600 ====
+We followed the note and put bullets to\\
+C-Team. I guess arrows are up next?\\
+==== 1051700 ====
+I tried shooting the three of us...\\
+==== 1051701 ====
+This kinda doesn't feel good... Those arrows\\
+are in pretty deep...\\
+==== 1051800 ====
+We did what the note said with "Arrows to\\
+Q-Team"... Let's do the bullets, too?\\
+==== 1051900 ====
+Phew, this gun's pretty powerful. The recoil's\\
+making my hands numb. I need to rest.\\
+==== 1052000 ====
+We already did the bullets to C-Team, so I\\
+don't think we need to shoot this anymore?\\
+==== 1052100 ====
+I'm getting kind of sad from all this arrow\\
+shooting. We should stop now.\\
+==== 1052200 ====
+We already did the arrows to Q-Team, so I\\
+don't think we need to shoot this anymore?\\
+==== 1052300 ====
+Oh... I shot the three in C-Team again...\\
+==== 1052400 ====
+We did what the note said about bullets to\\
+C-Team. Time to do the arrows.\\
+==== 1052500 ====
+We shot the pictures of our dolls with the\\
+crossbow again...\\
+==== 1052600 ====
+We already did the "Arrows to Q-Team" part,\\
+so let's do the part with bullets too.\\
+==== 1060100 ====
+This doll kind of reminds me of Carlos. It\\
+looks solid and, well, blond.\\
+==== 1060101 ====
+So this is Carlos. He looks strong.\\
+==== 1060200 ====
+A picture of a doll of Carlos. We shot at it, but\\
+it's been fixed...\\
+==== 1060300 ====
+There's a bullet through this picture. You can\\
+train your body, but you can't stop a bullet.\\
+==== 1060400 ====
+Pink shirt and blond... Looks like Carlos.\\
+==== 1060401 ====
+The note said "Bullet to C-Team." I guess we\\
+shoot this picture with the gun?\\
+==== 1060500 ====
+The Carlos doll. The picture's been replaced\\
+with a new one.\\
+==== 1060501 ====
+Do you think we need to shoot it with the gun,\\
+like it said in the note?\\
+==== 1060600 ====
+The note says "Bullet to C-Team," so I guess\\
+Carlos is one of the right answers?\\
+==== 1060700 ====
+Sorry mostly-stranger Carlos. I still feel bad\\
+about doing this, even if it's a picture...\\
+==== 1070100 ====
+This doll kind of reminds me of Akane. But\\
+what are these things called again?\\
+==== 1070101 ====
+Those? Aren't they catgirls for male fantas–\\
+==== 1070102 ====
+Oh, I know! I think it's called "moe"! Akane is\\
+so cute!\\
+==== 1070103 ====
+That's it!\\
+==== 1070200 ====
+A picture of a doll of Akane. We shot at it, but\\
+it's been fixed...\\
+==== 1070300 ====
+Bullseye! But it feels like a waste, shooting a\\
+hole in this Akane doll.\\
+==== 1070400 ====
+The Akane doll. ...Is this a swimsuit?\\
+==== 1070401 ====
+The note said "Bullet to C-Team." I guess we\\
+shoot this picture with the gun?\\
+==== 1070500 ====
+The Akane doll. The picture's been replaced\\
+with a new one.\\
+==== 1070501 ====
+Do you think we need to shoot it with the gun,\\
+like it said in the note?\\
+==== 1070600 ====
+The note says "Bullet to C-Team," so I guess\\
+Akane is one of the right answers?\\
+==== 1070700 ====
+Aw, the Akane doll has a hole in it... What a\\
+shame, it's so cute.\\
+==== 1080100 ====
+This doll... Is this Junpei? It's all battered,\\
+but it feels like him.\\
+==== 1080101 ====
+Th-This is Junpei? He's kind of scary...\\
+==== 1080200 ====
+A picture of a doll of Junpei. We shot at it, but\\
+it's been fixed...\\
+==== 1080300 ====
+Poor Junpei... He was already beaten up, but\\
+now he has a gunshot wound too.\\
+==== 1080400 ====
+The Junpei doll. ...It's so destroyed, I feel\\
+uncomfortable just looking at it.\\
+==== 1080401 ====
+The note said "Bullet to C-Team." I guess we\\
+shoot this picture with the gun?\\
+==== 1080500 ====
+The Junpei doll. The picture's been replaced\\
+with a new one.\\
+==== 1080501 ====
+Do you think we need to shoot it with the gun,\\
+like it said in the note?\\
+==== 1080600 ====
+The note says "Bullet to C-Team," so I guess\\
+Junpei is one of the right answers?\\
+==== 1080700 ====
+The Junpei doll is so beaten up and shot... I\\
+feel pretty sorry for this thing.\\
+==== 1090100 ====
+This matryoshka doll... Is this me?\\
+==== 1090200 ====
+A doll that looks like me. We shot at it, but\\
+it's been fixed...\\
+==== 1090300 ====
+A doll that looks like me. An arrow's sticking\\
+out of it...\\
+==== 1090400 ====
+A doll that looks like me...?\\
+==== 1090401 ====
+The note said "Arrow to Q-Team," so maybe\\
+we need to shoot this with an arrow?\\
+==== 1090500 ====
+A doll that looks like me... It's been replaced\\
+with a new one.\\
+==== 1090501 ====
+Do you think we need to fire an arrow at it,\\
+like it said in the note?\\
+==== 1090600 ====
+The note says "Arrow to Q-Team," so I guess\\
+this is right...? I... I don't think I... Oh.\\
+==== 1090700 ====
+Oh! Something's here... What?\\
+==== 1090800 ====
+There's nothing left.\\
+==== 1090900 ====
+The picture of my doll fell out. We can put it\\
+back later.\\
+==== 1100100 ====
+Is this me?! Why's it sucking on a pacifier?!\\
+D-Damn you, Zero...\\
+==== 1100200 ====
+A picture of a doll of Eric. We shot at it, but\\
+it's been fixed...\\
+==== 1100300 ====
+Oh my. There's an arrow stuck in the Eric doll.\\
+==== 1100400 ====
+A doll that looks a lot like Eric...\\
+==== 1100401 ====
+The note said "Arrow to Q-Team," so maybe we\\
+need to shoot this with an arrow?\\
+==== 1100500 ====
+The Eric doll. The picture's been replaced\\
+with a new one.\\
+==== 1100501 ====
+Do you think we need to fire an arrow at it,\\
+like it said in the note?\\
+==== 1100600 ====
+The note says "Arrow to Q-Team," so I guess\\
+Eric is one of the right answers?\\
+==== 1100700 ====
+There's an arrow in my doll... Dammit, I hope\\
+this doesn't become a reality...\\
+==== 1110100 ====
+Is this me? It looks like one of those dress-up\\
+dolls...\\
+==== 1110200 ====
+Oh, thank goodness... The picture's all\\
+better. You look amazing even as a doll, Mira!\\
+==== 1110300 ====
+Damn... This is so mean. I don't want to see\\
+Mira shot through with an arrow!\\
+==== 1110400 ====
+A Mira doll... I-I can't shoot it!\\
+==== 1110401 ====
+The note said "Arrow to Q-Team," so maybe we\\
+need to shoot this with an arrow?\\
+==== 1110500 ====
+The Mira doll. The picture's been replaced\\
+with a new one.\\
+==== 1110501 ====
+Do you think we need to fire an arrow at it,\\
+like it said in the note?\\
+==== 1110600 ====
+The note says "Arrow to Q-Team," so I guess\\
+Mira is one of the right answers?\\
+==== 1110700 ====
+And arrow is stuck in my doll. Well, it's not\\
+that big of a deal to me.\\
+==== 1120100 ====
+This looks like Diana. Actually, it looks\\
+exactly like her.\\
+==== 1120101 ====
+This is a doll made of bisque porcelain. Ah,\\
+so this is Diana.\\
+==== 1120200 ====
+A picture of a doll of Diana. We shot at it, but\\
+it's been fixed...\\
+==== 1120300 ====
+This is a picture of a doll that looks like\\
+Diana.\\
+==== 1120301 ====
+The note said "Acid to D-Team," but there's a\\
+line through it. What does it mean?\\
+==== 1120400 ====
+The Diana doll. The picture's been replaced\\
+with a new one.\\
+==== 1120401 ====
+I don't think we need to do anything? At least\\
+that's how it seems with the note.\\
+==== 1120500 ====
+The Diana doll. I'm glad we don't have to\\
+shoot it.\\
+==== 1130100 ====
+This looks like Sigma. Ha ha, I suppose you\\
+could say they look exactly alike.\\
+==== 1130101 ====
+So this is Sigma... Does this mean he's got\\
+a strong jaw since it's a nutcracker?\\
+==== 1130200 ====
+A picture of a doll of Sigma. We shot at it, but\\
+it's been fixed...\\
+==== 1130300 ====
+A picture of a Sigma doll. It perfectly\\
+conveys how stubborn he is.\\
+==== 1130301 ====
+The note said "Acid to D-Team," but there's a\\
+line through it. What does it mean?\\
+==== 1130400 ====
+The Sigma doll. The picture's been replaced\\
+with a new one.\\
+==== 1130401 ====
+I think the note says we don't need to do\\
+anything?\\
+==== 1130500 ====
+The Sigma doll. We don't need to shoot it.\\
+==== 1140100 ====
+This is...Phi? Ah, yep, they have the same\\
+look in their eyes.\\
+==== 1140101 ====
+So this is Phi. She's a posable paper doll...\\
+Does that mean she's thin?\\
+==== 1140200 ====
+A picture of a doll of Phi. We shot at it, but\\
+it's been fixed...\\
+==== 1140300 ====
+A Phi doll. The way this thing's eyes are\\
+looking down at me... It's pissing me off.\\
+==== 1140301 ====
+The note said "Acid to D-Team," but there's a\\
+line through it. What does it mean?\\
+==== 1140400 ====
+The Phi doll. The picture's been replaced with\\
+a new one.\\
+==== 1140401 ====
+We don't need to do anything...I think? At\\
+least that's how it seems with the note.\\
+==== 1140500 ====
+I'm glad we don't have to shoot the Phi doll.\\
+Wish I could say the same for mine...\\
+==== 1150100 ====
+It's a monitor, right? Nothing's on it. Is it\\
+supposed to show game scores?\\
+==== 1150200 ====
+The monitor's not showing anything. There's\\
+nothing special about it.\\
+==== 1160100 ====
+This is the only exit... It's not locked, so we\\
+can leave whenever we want.\\
+==== 1160200 ====
+Hey, how about we search the room instead\\
+of leaving.\\
+==== 1170100 ====
+This mark on the safe looks like a human.\\
+==== 1170101 ====
+What does it mean? ...Damn, of course it's\\
+locked.\\
+==== 1170102 ====
+If there's a spot for a key then we should go\\
+find one first.\\
+==== 1170200 ====
+A safe with a human mark on it. It's locked\\
+and can't be opened.\\
+==== 1170300 ====
+This safe is locked...\\
+==== 1170301 ====
+Hey, didn't we see this mark somewhere?\\
+==== 1170302 ====
+A human mark... Hm...\\
+==== 1170400 ====
+I got it! The mark on the safe is on the key we\\
+found!\\
+==== 1170401 ====
+Oh! Then let's get to opening that safe!\\
+==== 1170500 ====
+This safe and this key have the same mark. I\\
+hope this opens the safe...\\
+==== 1170501 ====
+Yeah, it opened!\\
+==== 1170502 ====
+Good job. Now to see what's inside.\\
+==== 1170600 ====
+We already checked out this safe.\\
+==== 1180100 ====
+There's a star mark on this safe.\\
+==== 1180101 ====
+And it's locked, as expected...\\
+==== 1180102 ====
+We know there's a spot for a key, so let's find\\
+it.\\
+==== 1180200 ====
+A safe with a star mark on it. It's locked tight\\
+and won't open.\\
+==== 1180300 ====
+This safe is locked. We can't open it.\\
+==== 1180301 ====
+I think I've seen that star mark somewhere\\
+before...\\
+==== 1180302 ====
+A star mark you say...\\
+==== 1180400 ====
+Isn't the mark on the safe the same as the\\
+one on the key we found?\\
+==== 1180401 ====
+You're right! Maybe we can open the safe!\\
+==== 1180500 ====
+Nope, this key won't fit here. Maybe it needs\\
+a different key...\\
+==== 1180600 ====
+This safe and key have the same mark. I hope\\
+this opens it...\\
+==== 1180601 ====
+Yes! It opened!\\
+==== 1180602 ====
+Time to check what's inside.\\
+==== 1180700 ====
+We finished searching this safe.\\
+==== 1190100 ====
+There's a circle mark on this safe.\\
+==== 1190101 ====
+And why did I think it'd be unlocked...\\
+==== 1190102 ====
+Looks like we need a letter combination to\\
+open it.\\
+==== 1190200 ====
+This safe is locked.\\
+==== 1190300 ====
+Maybe the correct set of letters will open it.\\
+==== 1190301 ====
+Five letters... Okay, let's do this.\\
+==== 1190400 ====
+Let's try it again.\\
+==== 1190500 ====
+All right! Total success! I am amazing! Look at\\
+how amazing I am!\\
+==== 1190501 ====
+Th-That's impossible...\\
+==== 1190502 ====
+This was more than just luck...\\
+==== 1190503 ====
+And now to see what kinds of treasures are\\
+contained within–! ...What is this?\\
+==== 1190504 ====
+Can't say that looks like treasure to me.\\
+==== 1190600 ====
+Yes! A successful unlock!\\
+==== 1190601 ====
+Awesome! Now we can open the safe!\\
+==== 1190602 ====
+Let's see what's inside.\\
+==== 1190603 ====
+And now to see what kinds of treasures are\\
+contained within–! ...What is this?\\
+==== 1190604 ====
+Can't say that looks like treasure to me.\\
+==== 1190700 ====
+Hmm... I don't know what would work.\\
+==== 1190701 ====
+I got an idea! Punch in all the five letter\\
+words you can think of!\\
+==== 1190702 ====
+We don't have time for that, idiot. Besides,\\
+who says it has to be an actual word?\\
+==== 1190703 ====
+Ah, oh... I-I'm sorry. I didn't really think.\\
+==== 1190800 ====
+Five letters... Aw, I can't think of anything.\\
+==== 1190801 ====
+We don't have enough information. Let's look\\
+around the room for a clue.\\
+==== 1190802 ====
+You're right...\\
+==== 1190900 ====
+What? That was wrong?\\
+==== 1190901 ====
+Didn't we find a card with the same circle\\
+mark?\\
+==== 1190902 ====
+Maybe it's connected.\\
+==== 1191000 ====
+Hmm, it seems like it's wrong...\\
+==== 1191001 ====
+The circle mark card reads "NIL," but this safe\\
+needs five letters...\\
+==== 1191002 ====
+It's clear they're connected, but we need\\
+another piece of information...\\
+==== 1191100 ====
+These figures with odd poses are all over this\\
+room... Damn. Feels like they're taunting us.\\
+==== 1191101 ====
+Maybe Zero just likes collecting them?\\
+==== 1191102 ====
+I wonder about that. I get the feeling there's\\
+a meaning to them...\\
+==== 1191200 ====
+This figure is crouching.\\
+==== 1191201 ====
+There's a ton of books around. Maybe there's\\
+one that will explain the pose?\\
+==== 1191300 ====
+Where have I seen this pose before...\\
+==== 1191301 ====
+We got a piece of paper related to this\\
+figure, didn't we? We should check it again.\\
+==== 1191400 ====
+So this pose means reject.\\
+==== 1191401 ====
+Then what's the opposite of that?\\
+==== 1191402 ====
+If NIL means null, or nothing...then it would be\\
+EXIST.\\
+==== 1191500 ====
+What does that pose mean anyway...?\\
+==== 1191501 ====
+I have no idea... It must have something to do\\
+with the safe.\\
+==== 1191502 ====
+Who cares, it's already open. Don't worry\\
+about it anymore.\\
+==== 1191600 ====
+The pose of this figure was the clue to open\\
+the safe.\\
+==== 1191601 ====
+Then we better study each Polovtsian\\
+figure's pose carefully.\\
+==== 1191700 ====
+What's this lever?\\
+==== 1191701 ====
+It's hidden away in this safe, so my bet is it's\\
+for something important!\\
+==== 1191702 ====
+Really... Then let's pull it.\\
+==== 1191800 ====
+...I guess pulling the lever turned the power\\
+for the round chair on.\\
+==== 1191801 ====
+How strange. And it seems like that's the only\\
+thing it does.\\
+==== 1200100 ====
+There's no spot for a key on this safe. How\\
+are we supposed to open it...\\
+==== 1200101 ====
+These cracks are pretty big... Maybe we can\\
+just break it open?\\
+==== 1200102 ====
+How, exactly? It's not a piggy bank.\\
+==== 1200200 ====
+There's no keyhole, but the door is cracked.\\
+Maybe we have to force it open?\\
+==== 1200300 ====
+I see some big cracks, so maybe if we hit it\\
+hard enough we can destroy it?\\
+==== 1200301 ====
+Just how are we going to do that? This door's\\
+incredibly thick. The cracks only help a little.\\
+==== 1200302 ====
+Hmm... How can we open this safe.\\
+==== 1200400 ====
+To get an impact strong enough to break this\\
+door... We'd practically need a bomb.\\
+==== 1200401 ====
+Bomb...? Ah! Maybe we can use that?!\\
+==== 1200500 ====
+There's some huge cracks here... Maybe we\\
+can shoot it open with this gun?\\
+==== 1200501 ====
+The gun's powerful, yes, but not powerful\\
+enough to break it open.\\
+==== 1200502 ====
+I see... And here I was thinking it was a good\\
+idea.\\
+==== 1200600 ====
+We probably can't break the door with the\\
+gun. Let's figure out another way.\\
+==== 1200700 ====
+There's a big ol' crack here. Maybe we can...\\
+Not with this crossbow though.\\
+==== 1200701 ====
+Right. I guess even Eric can figure that one\\
+out.\\
+==== 1200702 ====
+Huh? What's that supposed to mean? Wait,\\
+Mira? Hey?\\
+==== 1200800 ====
+This crossbow isn't going to break open the\\
+door. We need to figure out another way.\\
+==== 1200900 ====
+Grenade launcher... This thing'll blow that\\
+safe's door to pieces!\\
+==== 1200901 ====
+H-Hold on a second! We'll be in pieces too if\\
+you fire that thing here!\\
+==== 1200902 ====
+He's right. We don't even know how much\\
+firepower it has.\\
+==== 1200903 ====
+Then how about we shoot it from the second\\
+floor. Come on, that's gotta be far enough!\\
+==== 1200904 ====
+Well, I guess it's a little better to shoot it\\
+from here...\\
+==== 1200905 ====
+FIRE IN THE HOLE!\\
+==== 1200906 ====
+W-Wait we haven't checked to see if it's\\
+really safe–\\
+==== 1200907 ====
+Oh my God... I didn't think it'd be that\\
+powerful...\\
+==== 1200908 ====
+That's why I said to wait! We're just lucky\\
+we're all okay this time.\\
+==== 1200909 ====
+Ah, I think the door broke open. Everything is\\
+fine, so let's just go back downstairs.\\
+==== 1200910 ====
+Whoa... It really is in pieces.\\
+==== 1200911 ====
+Let's see what's inside. And hope nothing's\\
+broken.\\
+==== 1201000 ====
+These figures are inside the safe, and\\
+they're all in the same pose.\\
+==== 1201001 ====
+It must be important somehow since they\\
+were locked in the safe.\\
+==== 1201002 ====
+Hey, there's something else in here.\\
+==== 1201100 ====
+There are three figures holding the same\\
+pose. And, uh, what's this?\\
+==== 1201101 ====
+Maybe it's a treasure? We'll be millionaires if\\
+we sell it.\\
+==== 1201102 ====
+...I doubt it. But it's inside the safe so it must\\
+mean something.\\
+==== 1201200 ====
+I wonder what these three figures are. And\\
+why are they inside the safe?\\
+==== 1201300 ====
+The pose is the Wind Dance, right?\\
+==== 1201301 ====
+Yup. It means shift 7 down.\\
+==== 1201302 ====
+All three, huh? So what exactly are we\\
+shifting down 7?\\
+==== 1201400 ====
+Three Wind Dance figures... And the pose\\
+means to shift 7 down.\\
+==== 1201401 ====
+What do we need to shift...? There's nothing\\
+else in the safe.\\
+==== 1201402 ====
+The note was found in here...\\
+==== 1201500 ====
+These figures were instructions for shifting\\
+the code on the note found in the safe.\\
+==== 1210100 ====
+This safe is big! I wonder what's inside?\\
+==== 1210101 ====
+Maybe Zero's hiding in there.\\
+==== 1210102 ====
+Ha ha, that's hilarious, Mira! ...Huh? It was a\\
+joke, right? No, it couldn't be possible...\\
+==== 1210200 ====
+I'm pretty sure this is the biggest safe in the\\
+room...and it's locked. Why wouldn't it be.\\
+==== 1210300 ====
+It's a big safe. The door is locked.\\
+==== 1210301 ====
+Locked... The last key we have is...\\
+==== 1210400 ====
+Maybe that key is for this big safe?\\
+==== 1210500 ====
+Is this a keyhole...?\\
+==== 1210501 ====
+It's so...big. We'll definitely know the key for\\
+this when we see it.\\
+==== 1210600 ====
+This IS a keyhole, right...?\\
+==== 1210601 ====
+Hey, maybe we can use that one we just\\
+made?\\
+==== 1210700 ====
+This key should fit right in...\\
+==== 1210701 ====
+I hope we can find clues to who Zero is this\\
+time.\\
+==== 1210702 ====
+Something awesome has to be inside a huge\\
+safe like this!\\
+==== 1210703 ====
+Yay, it opened! ...H-Huh?\\
+==== 1220100 ====
+That's... We should go upstairs to examine it.\\
+==== 1230100 ====
+Let's go upstairs.\\
+==== 1240100 ====
+There's a moon mark on this safe.\\
+==== 1240101 ====
+And, of course. It's locked...\\
+==== 1240102 ====
+It looks like we need a set of letters.\\
+==== 1240200 ====
+This safe is locked.\\
+==== 1240300 ====
+Maybe getting the correct combination will\\
+open the safe?\\
+==== 1240301 ====
+Only three letters... Okay, let's do this.\\
+==== 1240400 ====
+Hmm... Let's try again.\\
+==== 1240500 ====
+Huh?! It worked?!\\
+==== 1240501 ====
+Fantastic! How'd you know the answer?\\
+==== 1240502 ====
+It was just a coincidence, wasn't it? He's the\\
+one most surprised out of all of us.\\
+==== 1240503 ====
+W-Well, it all worked out anyway... Let's open\\
+it up and see what's inside.\\
+==== 1240504 ====
+This is...!\\
+==== 1240600 ====
+Yay! It opened!\\
+==== 1240601 ====
+Let's see what's inside.\\
+==== 1240602 ====
+This is...!\\
+==== 1240700 ====
+Huh. I don't know what to put in.\\
+==== 1240701 ====
+And it's not like we can just put something in\\
+randomly. We only have so much time...\\
+==== 1240702 ====
+Ugh. That's true...\\
+==== 1240800 ====
+Three letters... What should we put in?\\
+==== 1240801 ====
+We won't have any ideas unless we look for\\
+clues, so let's search the room.\\
+==== 1240900 ====
+Huh? I guess that was wrong...\\
+==== 1240901 ====
+Oh wait, didn't we get a card with the same\\
+mark as the safe?\\
+==== 1240902 ====
+The same mark... It's pretty likely they're\\
+connected.\\
+==== 1241000 ====
+Hmm, that was wrong, too.\\
+==== 1241001 ====
+What did the card with the moon mark say?\\
+==== 1241002 ====
+"NIL"... Hey, that's three letters!\\
+==== 1241100 ====
+These figures are all over the room.\\
+==== 1241101 ====
+I wonder what they're for... Were they put\\
+here on purpose?\\
+==== 1241102 ====
+You think? It could be some kind of hobby of\\
+Zero's.\\
+==== 1241200 ====
+This figure has its hand to its chest.\\
+==== 1241300 ====
+Where have I seen this pose before...\\
+==== 1241301 ====
+Didn't we just see a piece of paper related to\\
+the figures? Let's check it again.\\
+==== 1241400 ====
+I think the pose of this figure is confirm.\\
+==== 1241401 ====
+So, does that mean "fine as it is"?\\
+==== 1241402 ====
+Or everything is okay?\\
+==== 1241500 ====
+So what's this figure for anyway...\\
+==== 1241501 ====
+Who knows? Maybe it really is just for\\
+decoration.\\
+==== 1241600 ====
+This figure is making the "confirm" pose. Let's\\
+go check all the poses of the figures.\\
+==== 1241700 ====
+We opened this safe already.\\
+==== 1241800 ====
+We input "NIL" to open the safe.\\
+==== 1250100 ====
+This is...!\\
+==== 1260100 ====
+Let's go back downstairs.\\
+==== 1270100 ====
+Wow! There are TONS of books! Where am I\\
+going to start?!\\
+==== 1270101 ====
+Don't tell me you plan on reading everything\\
+here. We don't have the time, remember?\\
+==== 1270102 ====
+Why are you so happy? Do you like reading\\
+that much?\\
+==== 1270103 ====
+Ah... Yes. I guess so. I must've liked books\\
+even before I lost my memories...\\
+==== 1270200 ====
+There are so many books! I really want to\\
+read them, but let's look around for now.\\
+==== 1280100 ====
+This is so amazing... It goes on forever. It's\\
+like book heaven.\\
+==== 1280101 ====
+This is no time to wax poetic. Let's search\\
+the room.\\
+==== 1280200 ====
+Just how many books are here...\\
+==== 1280300 ====
+I can't believe I was up that high... Just\\
+thinking about falling from that height is...\\
+==== 1280301 ====
+I'm sure the view was great, but it's not very\\
+safe.\\
+==== 1280302 ====
+You're definitely not going to see me on that\\
+thing, even if it IS safe...\\
+==== 1280400 ====
+It's so amazing how many books there are,\\
+but going that high is super scary...\\
+==== 2010100 ====
+This key has a human mark on it.\\
+==== 2010101 ====
+A human... I wonder what it means.\\
+==== 2010200 ====
+A key with a human mark.\\
+==== 2020100 ====
+This key has a star mark on it.\\
+==== 2020101 ====
+Where did we see the star mark before?\\
+==== 2020200 ====
+A key with a star mark.\\
+==== 2030100 ====
+It's a handgun. This model can use larger\\
+rounds.\\
+==== 2030101 ====
+D-Doesn't the recoil knock you over?\\
+==== 2030102 ====
+That's the common thought, but if you use the\\
+correct stance it's not a problem.\\
+==== 2030103 ====
+I-I see... You two sure know a lot about guns.\\
+==== 2030200 ====
+It's a handgun capable of firing large rounds.\\
+==== 2040100 ====
+A crossbow. It's silent and easy to use.\\
+==== 2040101 ====
+Does that mean it's good for assassinations?\\
+==== 2040102 ====
+D-Don't say scary things like that...\\
+==== 2040200 ====
+It's a crossbow. It can shoot arrows.\\
+==== 2050100 ====
+A grenade launcher... Just holding it makes\\
+you want to blow something up.\\
+==== 2050101 ====
+I think I know the feeling. Blowing a huge hole\\
+in the wall just feels good, you know?\\
+==== 2050102 ====
+I-I'm sure it's fun, but...please control\\
+yourselves, okay?\\
+==== 2050200 ====
+It's a grenade launcher. We better be careful\\
+handling it...\\
+==== 2060100 ====
+It's a strange part... What could we use it\\
+for?\\
+==== 2060101 ====
+The letter A is engraved on it. What does it\\
+mean?\\
+==== 2060102 ====
+I think it means you're adorable!\\
+==== 2060200 ====
+It's a weird part with the letter A engraved\\
+on it.\\
+==== 2070100 ====
+A strange part... It's not really useful right\\
+now.\\
+==== 2070101 ====
+The letter B is engraved on it...\\
+==== 2070102 ====
+It's gotta mean you're so beautiful!\\
+==== 2070200 ====
+It's a weird part with the letter B engraved\\
+on it.\\
+==== 2080100 ====
+This is a part to something.\\
+==== 2080101 ====
+The letter C is engraved on it. What does it\\
+mean?\\
+==== 2080102 ====
+It means you're a cutie full of charms!\\
+==== 2080200 ====
+It's a weird part with the letter C engraved\\
+on it.\\
+==== 2090100 ====
+This looks like a part for something. What do\\
+we need it for...\\
+==== 2090101 ====
+The letter D is engraved on it.\\
+==== 2090102 ====
+It means you're my darling...\\
+==== 2090200 ====
+It's a weird part with the letter D engraved\\
+on it.\\
+==== 2100100 ====
+This is a strange part.\\
+==== 2100101 ====
+The letter E is engraved on it.\\
+==== 2100102 ====
+Yes, Mira! You make me feel excited...!\\
+==== 2100200 ====
+It's a weird part with the letter E engraved\\
+on it.\\
+==== 2110100 ====
+What can we use this part for...\\
+==== 2110101 ====
+The letter F is engraved on it.\\
+==== 2110102 ====
+You're soft like a feather in my arms...\\
+==== 2110200 ====
+It's a weird part with the letter F engraved\\
+on it.\\
+==== 2120100 ====
+Now parts A and B are combined.\\
+==== 2120101 ====
+So we got them sticking together... Now\\
+what?\\
+==== 2120200 ====
+Parts A and B are combined.\\
+==== 2130100 ====
+Now parts C and D are combined.\\
+==== 2130101 ====
+We still have no idea what it is...\\
+==== 2130200 ====
+Parts C and D are combined.\\
+==== 2140100 ====
+Now parts E and F are combined.\\
+==== 2140101 ====
+I don't understand these kinds of things...\\
+==== 2140200 ====
+Parts E and F are combined.\\
+==== 2150100 ====
+Now parts A, B, C, and D are combined.\\
+==== 2150101 ====
+I can kinda sorta see some kind of shape\\
+now... It's all thanks to the power of my love.\\
+==== 2150102 ====
+...\\
+==== 2150200 ====
+Parts A, B, C, and D are combined.\\
+==== 2160100 ====
+IT'S ALIVE!\\
+==== 2160101 ====
+So...what is this thing?\\
+==== 2160102 ====
+Maybe it's a key...? Even if it is, it's way too\\
+big.\\
+==== 2160200 ====
+What is this thing for? It couldn't be a\\
+weapon, so maybe a key?\\

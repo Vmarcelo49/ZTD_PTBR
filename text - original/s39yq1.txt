@@ -1,0 +1,340 @@
+==== 7258 ====
+Where are we...\\
+==== 7259 ====
+I think it's the Decontamination Room.\\
+==== 7260 ====
+Decontamination...\\
+==== 7261 ====
+I think we've been...\\
+==== 7262 ====
+Trapped in this room before...\\
+==== 7263 ====
+Is it just déjà vu...?\\
+==== 7264 ====
+Hmm. I have a bad feeling about this...\\
+==== 7265 ====
+So do I...\\
+==== 7266 ====
+Wait, this button...\\
+==== 7267 ====
+It's the same for you, Carlos?\\
+==== 7268 ====
+You feel it as well?\\
+==== 7269 ====
+Yeah, not just her. I sense it too.\\
+==== 7270 ====
+Somehow this button is very important...\\
+==== 7271 ====
+Maybe we lost our memories of it...\\
+==== 7272 ====
+The drugs in the bracelets...\\
+==== 7273 ====
+Then what in the world...\\
+==== 7274 ====
+Damn, this is bad...!\\
+==== 7275 ====
+No–!\\
+==== 7283 ====
+This is...\\
+==== 7284 ====
+The Lounge?\\
+==== 7285 ====
+What happened in the Decontamination\\
+Room...\\
+==== 7286 ====
+It would be...inconvenient if you forgot you\\
+caused the deaths of others...\\
+==== 7287 ====
+That's right...\\
+==== 7288 ====
+I... That button...\\
+==== 7289 ====
+Now announcing...the current casualties...\\
+==== 7290 ====
+C-Team: Carlos, Akane, Junpei\\
+==== 7291 ====
+D-Team: Diana, Phi, Sigma\\
+==== 7292 ====
+These six are now deceased.\\
+==== 7293 ====
+As a result...six X-Passes...will be\\
+revealed.\\
+==== 7294 ====
+DREAM... KEY... QUARK... MOM... DEAR...\\
+ARM...\\
+==== 7295 ====
+That is all.\\
+==== 7296 ====
+It's a lie...\\
+==== 7297 ====
+Everyone... Everyone...\\
+==== 7299 ====
+Eric...\\
+==== 7300 ====
+Oh no, I... What have I done...\\
+==== 7301 ====
+No need to blame yourself.\\
+==== 7302 ====
+All you did was make the right choice.\\
+==== 7303 ====
+But...\\
+==== 7304 ====
+Forget about it. We need to focus on what's\\
+next.\\
+==== 7305 ====
+We have six passwords, so can't we leave?\\
+==== 7306 ====
+I, uh, overreacted a bit, but you know, maybe\\
+it's better this way.\\
+==== 7307 ====
+What I mean is... I know we're all in danger\\
+from this game,\\
+==== 7308 ====
+but instead of being forced to kill each other,\\
+it's just a vote and a press of a button...\\
+==== 7309 ====
+Yeah.\\
+==== 7310 ====
+Plus we're just put to sleep after, so to\\
+suddenly learn the whole thing is over...\\
+==== 7311 ====
+Wait. What if it's not just that?\\
+==== 7312 ====
+The amnesia drugs in the bracelets...\\
+==== 7313 ====
+Maybe we didn't get injected this time, but\\
+what if every time we wake up,\\
+==== 7314 ====
+we have to go through the same scenario\\
+over and over again...\\
+==== 7315 ====
+And we're put to sleep after each one, our\\
+memories of it gone...\\
+==== 7316 ====
+Give it up. We don't need to talk about this.\\
+==== 7317 ====
+Let's just get out of here!\\
+==== 7318 ====
+I don't want to deal with this anymore.\\
+==== 7319 ====
+He's right, let's–\\
+==== 7320 ====
+Wait!\\
+==== 7321 ====
+Aren't we forgetting someone?\\
+==== 7322 ====
+That's so mean...\\
+==== 7323 ====
+Why in the...\\
+==== 7324 ====
+Let's see if we can get it off.\\
+==== 7325 ====
+Hey, about before...\\
+==== 7326 ====
+You were saying we're repeating our actions\\
+with no memories...\\
+==== 7327 ====
+The Sleeping Beauty what...?\\
+==== 7328 ====
+It's one of the famous paradoxes.\\
+==== 7329 ====
+The experiment starts on a Sunday.\\
+==== 7330 ====
+The subject is put to sleep, and then a coin is\\
+flipped.\\
+==== 7331 ====
+If it's heads, the subject is woken up on\\
+Monday, asked a question,\\
+==== 7332 ====
+And that's it. That's all they do for heads.\\
+==== 7333 ====
+And if it's tails?\\
+==== 7334 ====
+They're woken up on Monday, asked a\\
+question, and put to sleep.\\
+==== 7335 ====
+But that's just the same as heads.\\
+==== 7336 ====
+To that point, it is.\\
+==== 7337 ====
+But it's different after that.\\
+==== 7338 ====
+After the subject falls asleep again, their\\
+memories from Monday are erased.\\
+==== 7339 ====
+They are then asked the same question again\\
+on Tuesday.\\
+==== 7340 ====
+What's the question?\\
+==== 7341 ====
+"What was the probability it was heads?"\\
+==== 7342 ====
+That's it?\\
+==== 7343 ====
+Yup, that's it.\\
+==== 7344 ====
+Hey, how is that a problem then?\\
+==== 7345 ====
+It's obvious, there's a 50:50 chance of it\\
+being heads.\\
+==== 7346 ====
+You'd think so, normally.\\
+==== 7347 ====
+But when you're being asked it, there are\\
+three positions you could be in.\\
+==== 7348 ====
+"The coin was heads. It is Monday," "The\\
+coin was tails. It is Monday,"\\
+==== 7349 ====
+and "The coin was tails. It is Tuesday."\\
+==== 7350 ====
+That would make the probability of it being\\
+heads as 1 in 3, right?\\
+==== 7351 ====
+No, I don't think so.\\
+==== 7352 ====
+It's a coin. So it'll always be 50:50 odds no\\
+matter what.\\
+==== 7353 ====
+Okay, let's change some things.\\
+==== 7354 ====
+If heads appears, it's the same as before.\\
+==== 7355 ====
+But if it's tails, it ends up repeating ten\\
+thousand times.\\
+==== 7356 ====
+Ten thousand...?!\\
+==== 7357 ====
+Wake, question, sleep, memory erased...\\
+Wake, question, sleep, memory erased...\\
+==== 7358 ====
+Go through this ten thousand times...\\
+==== 7359 ====
+Does the probability still stay as 50:50 after\\
+all that?\\
+==== 7360 ====
+Hmm...\\
+==== 7361 ====
+Thinking about it, wouldn't the chances of it\\
+being tails be higher than heads?\\
+==== 7362 ====
+If you put it that way, yeah.\\
+==== 7363 ====
+So, which one is correct?\\
+==== 7364 ====
+No one knows.\\
+==== 7365 ====
+They don't have an answer yet.\\
+==== 7366 ====
+Even the scientists can't decide between 1 in\\
+2 and 1 in 3.\\
+==== 7367 ====
+It's an unsolved problem.\\
+==== 7368 ====
+Huh. You know a lot about this.\\
+==== 7369 ====
+I read a random book on it once.\\
+==== 7370 ====
+Well, it was on metempsychosis, but they\\
+deal with basically the same thing...\\
+==== 7371 ====
+Metempsychosis? What does it...\\
+==== 7372 ====
+Wouldn't waking up without your memories\\
+be just like being reborn?\\
+==== 7373 ====
+Oh, yeah, that sounds similar.\\
+==== 7374 ====
+Uh, I'm not really sure...\\
+==== 7375 ====
+You don't believe in it?\\
+==== 7376 ====
+I meant, there's no real meaning.\\
+==== 7377 ====
+Because when you're reborn,\\
+==== 7378 ====
+all the memories you had during your past life\\
+are already gone, right?\\
+==== 7379 ====
+That means metempsychosis isn't really\\
+needed.\\
+==== 7380 ====
+If there's no memories, there's no point?\\
+==== 7381 ====
+Well, no one can perfectly remember things\\
+that happened when you were a kid.\\
+==== 7382 ====
+Hell, sometimes you can't even remember\\
+something from a month ago.\\
+==== 7383 ====
+So going by what you said, everything you did\\
+before a month ago has no meaning?\\
+==== 7384 ====
+Ah, um...\\
+==== 7385 ====
+She's asking if memories really are that\\
+important for making you who you are?\\
+==== 7386 ====
+What is important, then...?\\
+==== 7387 ====
+Well, something must be.\\
+==== 7388 ====
+What remains the same from childhood to\\
+how you are now...\\
+==== 7389 ====
+It's hard to figure out.\\
+==== 7390 ====
+Well, it looks like we can't do any more...\\
+==== 7391 ====
+We're gonna have to give up here...\\
+==== 7392 ====
+I'm sorry...\\
+==== 7393 ====
+I'm really, really sorry...\\
+==== 7394 ====
+No way around it.\\
+==== 7395 ====
+We did everything we could.\\
+==== 7396 ====
+Come on, let's go.\\
+==== 7397 ====
+Are you ready?\\
+==== 7398 ====
+Yeah.\\
+==== 7399 ====
+Go ahead.\\
+==== 7400 ====
+Yes! It opened!\\
+==== 7401 ====
+Okay, let's go.\\
+==== 7402 ====
+Hey, what's wrong?\\
+==== 7403 ====
+What are you doing...\\
+==== 7404 ====
+I...\\
+==== 7405 ====
+I can't go...\\
+==== 7406 ====
+Huh...?!\\
+==== 7407 ====
+I can't leave him behind, sorry!\\
+==== 7408 ====
+I decided that I'd stay here too.\\
+==== 7409 ====
+I wonder why...\\
+==== 7410 ====
+Maybe, it's because I don't have memories?\\
+==== 7411 ====
+I know nothing about the outside world, so I\\
+guess I didn't really want to leave...\\
+==== 7412 ====
+Did I make the right choice...?\\
+==== 7413 ====
+Or was it the wrong one...?\\
+==== 7414 ====
+Yeah, that must be it.\\
+==== 17326 ====
+It's like the Sleeping Beauty problem.\\
+==== 17331 ====
+and put to sleep again.\\

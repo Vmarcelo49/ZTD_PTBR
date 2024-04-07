@@ -1,0 +1,622 @@
+==== 246 ====
+So this is the last room...\\
+==== 247 ====
+Yes.\\
+==== 248 ====
+We've checked everywhere we could...\\
+==== 249 ====
+It's just as Zero said, huh?\\
+==== 250 ====
+There's no way to get out, except by opening\\
+the X-Door.\\
+==== 251 ====
+Fifty minutes left until the vote deadline.\\
+==== 252 ====
+Don't tell me you want to vote...\\
+==== 253 ====
+How can we not?!\\
+==== 254 ====
+If we refuse, C-Team gets two votes\\
+automatically. We'll die!\\
+==== 255 ====
+But...\\
+==== 256 ====
+Hey, do you think this could be part of the\\
+experiment?\\
+==== 257 ====
+Experiment?\\
+==== 258 ====
+Dcom's whole psychological test.\\
+==== 259 ====
+Nope.\\
+==== 260 ====
+What? Why?\\
+==== 261 ====
+That masked guy called himself "Zero."\\
+==== 262 ====
+I have no clue why he's here...but he's for\\
+real.\\
+==== 263 ====
+So that means he's actually willing to kill off\\
+a whole team?\\
+==== 264 ====
+Yeah.\\
+==== 265 ====
+But how...\\
+==== 266 ====
+He said that there's an anesthetic in our\\
+bracelets, right?\\
+==== 267 ====
+So we'll be sleeping and then "BAM!"\\
+==== 268 ====
+Or maybe...\\
+==== 269 ====
+There's a bunch of different ways.\\
+==== 270 ====
+If only there was a way to contact someone\\
+on the other teams...\\
+==== 271 ====
+Why would you need to reach them?\\
+==== 272 ====
+What, you're planning on begging them to not\\
+vote C-Team or something?\\
+==== 273 ====
+Well no, but...\\
+==== 274 ====
+I thought, why not spread out the votes?\\
+==== 275 ====
+What do you mean?\\
+==== 276 ====
+Remember what Zero said? "The group with\\
+two or more votes will lose."\\
+==== 277 ====
+I get it...\\
+==== 278 ====
+Maybe C-Team could vote for D-Team,\\
+D-Team for Q-Team,\\
+==== 279 ====
+and Q-Team for C-Team. Then all the teams\\
+would have one vote each...\\
+==== 280 ====
+And that'd make it a three-way tie, and no\\
+one'd have to die?\\
+==== 281 ====
+But how do we make sure they know to do it...\\
+==== 282 ====
+Hey! Mira!\\
+==== 283 ====
+Eric! Diana!\\
+==== 284 ====
+Phi? Sigma? Can you hear us?!\\
+==== 285 ====
+It's not working...\\
+==== 286 ====
+Dammit.\\
+==== 287 ====
+Hey Akane, why don't you try using the\\
+morphogenetic field?\\
+==== 288 ====
+Huh? Morphogenetic field...?\\
+==== 289 ====
+[Let the game end where I treat two.]\\
+==== 290 ====
+What's this supposed to mean?\\
+==== 291 ====
+The game'll end...and something about two\\
+people?\\
+==== 292 ====
+I guess the tough part is figuring out "treat."\\
+==== 293 ====
+If it's like "trick or treat" then maybe it means\\
+there's a reward or gift or something...\\
+==== 294 ====
+But it could also mean "treatment," which\\
+would imply being cared for.\\
+==== 295 ====
+Either way, it doesn't make sense.\\
+==== 296 ====
+Hey, anyone know what this thing could be?\\
+==== 297 ====
+A box...?\\
+==== 298 ====
+What's inside of it?\\
+==== 299 ====
+Maybe some kind of white smoke...\\
+==== 300 ====
+A Tamatebako?\\
+==== 301 ====
+You've heard of it, Carlos?\\
+==== 302 ====
+Urashima Taro, right?\\
+==== 303 ====
+Japanese folklore.\\
+==== 304 ====
+Something about jumping through time, I\\
+think?\\
+==== 305 ====
+This label says [Force Quit Box].\\
+==== 306 ====
+What's that?\\
+==== 307 ====
+Looks like there's a keyboard.\\
+==== 308 ====
+There's probably a password that goes there.\\
+==== 309 ====
+Then something ends if you punch it in?\\
+==== 310 ====
+But what, though?\\
+==== 311 ====
+Maybe the game Zero's making us play...\\
+==== 312 ====
+Wait, wait.\\
+==== 313 ====
+You really think Zero'd put something that\\
+easy here?\\
+==== 314 ====
+It seems like it wouldn't even have to be a\\
+box for that.\\
+==== 315 ====
+Didn't think it'd work...\\
+==== 316 ====
+Just pressing random buttons isn't going to\\
+solve anything.\\
+==== 317 ====
+So... What now?\\
+==== 318 ====
+What can we do...\\
+==== 319 ====
+Maybe we should just get this voting business\\
+over with.\\
+==== 320 ====
+Junpei...\\
+==== 321 ====
+No. We still have some time.\\
+==== 322 ====
+Come on, man. You're supposed to be the\\
+leader here.\\
+==== 323 ====
+How the hell did we get into this mess\\
+anyway...\\
+==== 324 ====
+Do you guys have any ideas?\\
+==== 325 ====
+Who is Zero...\\
+==== 326 ====
+To be accurate, you probably should ask\\
+"who is the second Zero" instead.\\
+==== 327 ====
+Then that means there has to have been a\\
+first one, right?\\
+==== 328 ====
+Yeah, there is.\\
+==== 329 ====
+You know him?!\\
+==== 330 ====
+Sorta...\\
+==== 331 ====
+I brought it up earlier.\\
+==== 332 ====
+A bracelet a lot like this one has been\\
+strapped to my wrist before...\\
+==== 333 ====
+It happened last year.\\
+==== 334 ====
+Akane and I were trapped somewhere.\\
+==== 335 ====
+The person responsible back then was\\
+named "Zero."\\
+==== 336 ====
+But I don't think that one has anything to do\\
+with this one.\\
+==== 337 ====
+It's gotta be connected!\\
+==== 338 ====
+JUST! Please–!\\
+==== 339 ====
+Believe me...\\
+==== 340 ====
+She's right.\\
+==== 341 ====
+Why is Zero doing this?\\
+==== 342 ====
+To make us play a game, right? This "Decision\\
+Game" or whatever...\\
+==== 343 ====
+With the fate of mankind on the line...\\
+==== 344 ====
+So it's true.\\
+==== 345 ====
+Do you know something, Akane?\\
+==== 346 ====
+I think, if we end up losing this game...we're\\
+all going to die.\\
+==== 347 ====
+Six billion people will...\\
+==== 348 ====
+So what Sigma said back then, up in Dcom,\\
+was...\\
+==== 349 ====
+At this rate, six billion people will die!\\
+==== 350 ====
+I've come from the fut–!\\
+==== 351 ====
+Yes. What Sigma said...is the truth.\\
+==== 352 ====
+Have you ever heard of the term "Reverie\\
+Syndrome"?\\
+==== 353 ====
+What causes it is unknown.\\
+==== 354 ====
+Neither the nerves nor the brain have\\
+abnormalities,\\
+==== 355 ====
+but somehow this disease causes you to stop\\
+reacting to a variety of stimuli.\\
+==== 356 ====
+I've heard there are people from all over the\\
+world who have become affected by this.\\
+==== 357 ====
+Hey, hold up.\\
+==== 358 ====
+How does this and what we were talking\\
+about before go together?\\
+==== 359 ====
+Shouldn't you know already?\\
+==== 360 ====
+Huh?\\
+==== 361 ====
+A crisis.\\
+==== 362 ====
+Mankind is currently facing what is clearly an\\
+unprecedented crisis.\\
+==== 363 ====
+Those affected are sensing it's coming...\\
+==== 364 ====
+Reverie Syndrome...\\
+==== 365 ====
+You've heard of it?\\
+==== 366 ====
+Yeah, kinda...\\
+==== 367 ====
+Akane Kurashiki.\\
+==== 368 ====
+Junpei Tenmyouji.\\
+==== 369 ====
+You're both Japanese, right?\\
+==== 370 ====
+Yes...\\
+==== 371 ====
+And you both lived in Japan when you were\\
+kids.\\
+==== 372 ====
+You even went to the same school.\\
+==== 373 ====
+So you're childhood friends...\\
+==== 374 ====
+Who told you that?\\
+==== 375 ====
+Sigma.\\
+==== 376 ====
+He mentioned it back in Dcom.\\
+==== 377 ====
+We all lived in close quarters in that facility\\
+for five days.\\
+==== 378 ====
+Information spreads fast.\\
+==== 379 ====
+So, whose idea was it for you to join?\\
+==== 380 ====
+Huh?\\
+==== 381 ====
+The Dcom experiment.\\
+==== 382 ====
+You two signed up together, right?\\
+==== 383 ====
+No, we didn't...\\
+==== 384 ====
+We did this on our own.\\
+==== 385 ====
+Wait. You're telling me...\\
+==== 386 ====
+You guys just happened to bump into each\\
+other at Dcom?\\
+==== 387 ====
+It wasn't a coincidence.\\
+==== 388 ====
+It was inevitable.\\
+==== 389 ====
+Why did you subject yourself to this circus?\\
+==== 390 ====
+I didn't mention it before?\\
+==== 391 ====
+I... Well, I kind of really need a lot of cash.\\
+==== 392 ====
+They said they'd give us 500 thousand if we\\
+joined up.\\
+==== 393 ====
+Huh. Color me surprised.\\
+==== 394 ====
+Thought a hero of justice had no need of\\
+money.\\
+==== 395 ====
+A what?\\
+==== 396 ====
+Didn't you say you're a firefighter?\\
+==== 397 ====
+A really good one...\\
+==== 398 ====
+You've faced off against danger, and saved a\\
+whole bunch of people.\\
+==== 399 ====
+Sounds like a hero to me.\\
+==== 400 ====
+Eh, I just have good instincts.\\
+==== 401 ====
+It doesn't seem to matter where I find\\
+myself.\\
+==== 402 ====
+They're pretty good at telling me which path\\
+has Death at the end...\\
+==== 403 ====
+Do you hear something?\\
+==== 404 ====
+Over there!\\
+==== 405 ====
+Gab!\\
+==== 406 ====
+Where did you come from...\\
+==== 407 ====
+Looks like he made it here using this vent.\\
+==== 408 ====
+Does that mean it's connected to the\\
+surface?!\\
+==== 409 ====
+Hm, I don't think so.\\
+==== 410 ====
+A vent to the surface would defeat the\\
+purpose of a bomb shelter.\\
+==== 411 ====
+So he came from another ward then?\\
+==== 412 ====
+It's too dark. I can't see anything...\\
+==== 413 ====
+But Ward Q is down that direction, right?\\
+==== 414 ====
+Think you can fit in there, Akane?\\
+==== 415 ====
+There's no way.\\
+==== 416 ====
+Someone likes cake too much.\\
+==== 417 ====
+Oh, I know!\\
+==== 418 ====
+Let's cut off Junpei's arm!\\
+==== 419 ====
+He should be able to fit through then.\\
+==== 421 ====
+Hey! Mira!\\
+==== 422 ====
+Eric!\\
+==== 423 ====
+No answer, huh.\\
+==== 424 ====
+Hey Gab. Did they steal you away from\\
+Dcom, too?\\
+==== 425 ====
+But why the dog...?\\
+==== 426 ====
+Maybe they felt bad about leaving him alone\\
+up there?\\
+==== 427 ====
+Baloney.\\
+==== 428 ====
+You really think Zero'd do us any favors?\\
+==== 429 ====
+Hold on, I think I got an idea that may work.\\
+==== 430 ====
+This here, this case. It holds medication,\\
+doesn't it?\\
+==== 431 ====
+Uh huh.\\
+==== 432 ====
+It's empty...\\
+==== 433 ====
+Did that bastard Zero take the meds?\\
+==== 434 ====
+I still think this could work. We can use it.\\
+==== 435 ====
+Wait a sec.\\
+==== 436 ====
+A beer coaster and a pen?\\
+==== 437 ====
+I found them on the counter of the bar.\\
+==== 438 ====
+There's something written on it.\\
+==== 439 ====
+Oh, uh, I did that.\\
+==== 440 ====
+"Hello. Carlos here.\\
+==== 441 ====
+C-Team is voting for D-Team,\\
+==== 442 ====
+so D-Team should vote for Q-Team, and\\
+Q-Team for C-Team."\\
+==== 443 ====
+Oh!\\
+==== 444 ====
+You're going to put it in the case and have\\
+Gab go through the vent!\\
+==== 445 ====
+Cross your fingers he can get to Q-Team...\\
+==== 446 ====
+You really think it'll be that simple?\\
+==== 447 ====
+So we shouldn't?\\
+==== 448 ====
+Well, I guess we don't have anything to lose.\\
+Why don't we give it a shot?\\
+==== 449 ====
+What did you throw?\\
+==== 450 ====
+Cheese.\\
+==== 451 ====
+Picked it up with the coaster.\\
+==== 452 ====
+It was over there on the counter.\\
+==== 453 ====
+Why don't we just toss in some ketchup and\\
+pickles too.\\
+==== 454 ====
+Maybe next time he comes back he'll be a hot\\
+dog.\\
+==== 455 ====
+It was a joke.\\
+==== 456 ====
+Five minutes left...\\
+==== 457 ====
+Gab's not come back...\\
+==== 458 ====
+Let's just vote, Carlos!\\
+==== 459 ====
+Like I said, if we forfeit–\\
+==== 460 ====
+I know.\\
+==== 461 ====
+Hey, there's...one thing we can do...\\
+==== 462 ====
+What is it?\\
+==== 463 ====
+You remember what you wrote on the\\
+Gabletter?\\
+==== 464 ====
+The what?\\
+==== 465 ====
+The message we sent the furry pigeon to\\
+deliver.\\
+==== 466 ====
+"C-Team is voting for D-Team,\\
+==== 467 ====
+so D-Team should vote for Q-Team, and\\
+Q-Team for C-Team."\\
+==== 468 ====
+Yeah...\\
+==== 469 ====
+So what?\\
+==== 470 ====
+Sooo...vote for Q-Team instead.\\
+==== 471 ====
+What?! Junpei, you can't be suggesting...!\\
+==== 472 ====
+If we do that, then they'll end up with two\\
+votes and...!\\
+==== 473 ====
+Yup. Q-Team will be out.\\
+==== 474 ====
+Granted, this whole thing is assuming our\\
+initial plan works;\\
+==== 475 ====
+the note makes it to D-Team, and Diana votes\\
+the way we want her to.\\
+==== 476 ====
+Think about it for a second.\\
+==== 477 ====
+Six people have to die or we're never\\
+getting out of this bomb shelter.\\
+==== 478 ====
+Those are the rules of the Decision Game\\
+according to Zero.\\
+==== 479 ====
+Balancing the votes won't do us any good.\\
+==== 480 ====
+We'll just end up falsely prolonging\\
+someone's death.\\
+==== 481 ====
+Junpei...\\
+==== 482 ====
+The deadline to vote...is in three minutes.\\
+==== 483 ====
+Come on, Carlos! Vote for Q-Team!\\
+==== 484 ====
+No! You can't!\\
+==== 485 ====
+Your vote...has been accepted.\\
+==== 486 ====
+C-Carlos... Why...\\
+==== 487 ====
+Smart move.\\
+==== 488 ====
+Ninety minutes have passed. Your time limit\\
+has ended.\\
+==== 489 ====
+Sleep well, as the next game will begin when\\
+you awake.\\
+==== 490 ====
+Unfortunately, the team who receives two\\
+votes will be unable to participate...\\
+==== 491 ====
+One final thing.\\
+==== 492 ====
+You've gone through with the vote exactly as\\
+I commanded.\\
+==== 493 ====
+You deserve a reward for obeying.\\
+==== 494 ====
+The memory loss drug will not be injected\\
+into the three of you.\\
+==== 495 ====
+When next you wake, those who survived will\\
+be able to regret the decision they made.\\
+==== 496 ====
+As all members of a single team will perish as\\
+a result of the vote you entered.\\
+==== 497 ====
+Pleasant dreams...\\
+==== 498 ====
+Your vote...has been accepted.\\
+==== 500 ====
+I was worried you weren't going to do it,\\
+Carlos.\\
+==== 501 ====
+You'll see, Akane...\\
+==== 502 ====
+Just because we did what we said we would,\\
+doesn't mean this will work.\\
+==== 503 ====
+Hell, we don't even know if our note reached\\
+the other teams or not.\\
+==== 504 ====
+And even if it did, there's no guarantee they\\
+did what we asked.\\
+==== 505 ====
+Two possibilities will come out of this.\\
+==== 506 ====
+The three members of D-Team will die...\\
+==== 507 ====
+Or it's our heads on the chopping block...\\
+==== 508 ====
+Ninety minutes have passed. Your time limit\\
+has ended.\\
+==== 509 ====
+Sleep well, as the next game will begin when\\
+you awake.\\
+==== 510 ====
+Unfortunately, the team who receives two\\
+votes will be unable to participate...\\
+==== 511 ====
+One final thing.\\
+==== 512 ====
+You've gone through with the vote exactly as\\
+I commanded.\\
+==== 513 ====
+You deserve a reward for obeying.\\
+==== 514 ====
+The memory loss drug will not be injected\\
+into the three of you.\\
+==== 515 ====
+When next you wake, those who survived will\\
+be able to regret the decision they made.\\
+==== 516 ====
+As all members of a single team will perish as\\
+a result of the vote you entered.\\
+==== 517 ====
+Pleasant dreams...\\

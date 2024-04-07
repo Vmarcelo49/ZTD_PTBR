@@ -1,0 +1,2152 @@
+==== 6325 ====
+Um, where's Phi...?\\
+==== 6326 ====
+I don't see her...\\
+==== 6327 ====
+She could've woken first and wandered off.\\
+==== 6328 ====
+S-Sigma...\\
+==== 6329 ====
+Hm?\\
+==== 6330 ====
+It's after midnight now.\\
+==== 6331 ====
+Don't tell me the year turned over.\\
+==== 6332 ====
+It's no longer the year 2028, but...\\
+==== 6333 ====
+2029...\\
+==== 6334 ====
+How long have we been asleep then?\\
+==== 6335 ====
+My last memory was 10 and a half hours ago.\\
+==== 6336 ====
+You're talking about the vote at 13:30?\\
+==== 6337 ====
+Yes...\\
+==== 6338 ====
+But that doesn't mean we've only been\\
+sleeping though.\\
+==== 6339 ====
+We could've woken up several times.\\
+==== 6340 ====
+You're saying the amnesia drug made us\\
+forget...\\
+==== 6341 ====
+Well, we better start looking for Phi.\\
+==== 6342 ====
+Yes, you're right.\\
+==== 6343 ====
+This's the last of the rooms.\\
+==== 6344 ====
+That Phi. Where'd she go...\\
+==== 6345 ====
+Welcome to the Transporter Room.\\
+==== 6346 ====
+Zero...\\
+==== 6347 ====
+I can only assume you are searching for\\
+something.\\
+==== 6348 ====
+If you'd like to learn their whereabouts, do as\\
+I say.\\
+==== 6349 ====
+Dammit. So what are your orders...\\
+==== 6350 ====
+First, I shall explain the room to you.\\
+==== 6351 ====
+As the name suggests, this room contains a\\
+device called a "transporter."\\
+==== 6352 ====
+It was discovered roughly 140 years ago, in\\
+the year 1888.\\
+==== 6353 ====
+At the South Pole.\\
+==== 6354 ====
+A German expedition was exploring the area.\\
+At one point they became lost,\\
+==== 6355 ====
+The device was carefully transported to\\
+their homeland and researched in secret.\\
+==== 6356 ====
+What they eventually uncovered was the fact\\
+that the device was not made by man.\\
+==== 6357 ====
+Perhaps it came from a distant planet, or\\
+some alternate world...\\
+==== 6358 ====
+Regardless,\\
+==== 6359 ====
+they determined the intellegence that\\
+created it far surpassed that of humans.\\
+==== 6360 ====
+Despite not understanding how it worked,\\
+they figured out what it was used for.\\
+==== 6361 ====
+This device is capable of transporting things\\
+through spacetime.\\
+==== 6362 ====
+Hence why it was named "transporter."\\
+==== 6363 ====
+But its construction is much different from\\
+what you'd normally expect.\\
+==== 6364 ====
+If you look toward the back left corner, you'll\\
+see something resembling a tree root.\\
+==== 6365 ====
+This is the nucleus of the transporter, and\\
+controls its function.\\
+==== 6366 ====
+And to your right–\\
+==== 6367 ====
+You should be able to see two objects that\\
+look like beds.\\
+==== 6368 ====
+These are called "input pods."\\
+==== 6369 ====
+Look further right–\\
+==== 6370 ====
+The two objects similar to chrysalides are\\
+the "export pods."\\
+==== 6371 ====
+In the back is a large container called the\\
+"material tank."\\
+==== 6372 ====
+Inside is oxygen, carbon, hydrogen,\\
+nitrogen...\\
+==== 6373 ====
+A variety of chemical elements that exist on\\
+Earth, stored individually.\\
+==== 6374 ====
+You use it as follows.\\
+==== 6375 ====
+First, place the material to be transferred\\
+into the input pod.\\
+==== 6376 ====
+We'll call it "X" to simplify matters.\\
+==== 6377 ====
+Next, select the location of transfer on the\\
+pod console.\\
+==== 6378 ====
+Pulling the lever will cause the input pod to\\
+begin scanning.\\
+==== 6379 ====
+This scan reads the exact placement of each\\
+atom that makes up object X.\\
+==== 6380 ====
+The obtained data travels through spacetime\\
+directly to the transfer point's nucleus.\\
+==== 6381 ====
+That nucleus will then analyze it.\\
+==== 6382 ====
+It will send the necessary elements from the\\
+material tank to the export pod,\\
+==== 6383 ====
+and recreate object X's original form\\
+precisely.\\
+==== 6384 ====
+Essentially it acts as an atomic level 3D\\
+printer.\\
+==== 6385 ====
+A massive amount of energy is required to do\\
+a transfer.\\
+==== 6386 ====
+Once a transportation has occurred, it takes\\
+roughly 10 months to recharge.\\
+==== 6387 ====
+The device cannot be used during that time.\\
+==== 6388 ====
+A variety of objects can be placed in the\\
+same pod, however,\\
+==== 6389 ====
+in order to transfer a human, each pod must\\
+only hold one body within it. \\
+==== 6390 ====
+Two or more people cannot go into a single\\
+pod.\\
+==== 6391 ====
+It is very difficult to recreate individual\\
+brains and proteins.\\
+==== 6392 ====
+I obtained this machine back in 2009.\\
+==== 6393 ====
+It had been stored in a U.S. research facility.\\
+==== 6394 ====
+American troops had confiscated it after the\\
+German loss during World War II.\\
+==== 6395 ====
+My explanation ends here. There is a special\\
+characteristic about this device, however.\\
+==== 6396 ====
+This transporter is not simply a device that\\
+allows you to teleport.\\
+==== 6397 ====
+What is transferred is only the atomic data.\\
+The object itself does not get transported.\\
+==== 6398 ====
+Furthermore, that data travels through\\
+spacetime.\\
+==== 6399 ====
+It does not just go to the past or present, but\\
+also to other histories...\\
+==== 6400 ====
+Now, my instructions.\\
+==== 6401 ====
+Currently, no power runs through the\\
+transporter nucleus.\\
+==== 6402 ====
+It is completely stopped.\\
+==== 6403 ====
+If you are able to restart it, you may obtain\\
+that which you desire.\\
+==== 6404 ====
+Well, I know you'll do your best.\\
+==== 6405 ====
+Good luck to you.\\
+==== 6406 ====
+It worked!\\
+==== 6407 ====
+Yes, but...\\
+==== 6408 ====
+Now announcing...the current casualties...\\
+==== 6409 ====
+C-Team: Carlos, Junpei\\
+==== 6410 ====
+Q-Team: Q, Mira, Eric\\
+==== 6411 ====
+D-Team: Phi\\
+==== 6412 ====
+These six are now deceased.\\
+==== 6413 ====
+Wh-What...\\
+==== 6414 ====
+It can't be...\\
+==== 6415 ====
+The X-Door has been opened...and\\
+subsequently closed.\\
+==== 6416 ====
+The successful escapee is...Akane Kurashiki.\\
+==== 6417 ====
+The Decision Game has now been concluded.\\
+==== 6418 ====
+Thank you for participating.\\
+==== 6419 ====
+This isn't what we wanted to happen...\\
+==== 6420 ====
+We didn't want this...at all...\\
+==== 6421 ====
+You tricked us, Zero!\\
+==== 6422 ====
+This is a lie... It's got to be...\\
+==== 6423 ====
+I refuse to believe this is true...\\
+==== 6424 ====
+Sigma!\\
+==== 6425 ====
+Hey, Phi! Where the hell are you?\\
+==== 6426 ====
+Answer me!\\
+==== 6427 ====
+Phi! PHI!\\
+==== 6428 ====
+Are you trapped somewhere?!\\
+==== 6429 ====
+If you can't speak, just make a noise!\\
+==== 6430 ====
+Please, Phi! Please!\\
+==== 6431 ====
+Answer me, dammit!\\
+==== 6433 ====
+Diana...!\\
+==== 6434 ====
+Hey, what's wrong?! Are you all right?!\\
+==== 6435 ====
+Diana... Diana...!\\
+==== 6436 ====
+You okay...?\\
+==== 6437 ====
+Yes. Thank you...\\
+==== 6438 ====
+And Phi...?\\
+==== 6439 ====
+This door will never open again, then...\\
+==== 6440 ====
+Yeah...\\
+==== 6441 ====
+Why did Akane leave alone...\\
+==== 6442 ====
+No idea...\\
+==== 6443 ====
+There's no way to tell what happened over in\\
+Ward C.\\
+==== 6444 ====
+We only know one thing.\\
+==== 6445 ====
+Carlos and Junpei are dead. That's it.\\
+==== 6446 ====
+So, you believe the announcement?\\
+==== 6447 ====
+Well, if what it said earlier is true, then that\\
+means Q-Team is dead as well.\\
+==== 6448 ====
+But unlike C-Team, we can figure out exactly\\
+how Q-Team died.\\
+==== 6449 ====
+They were executed.\\
+==== 6450 ====
+Likely because of the vote at 13:30.\\
+==== 6451 ====
+Diana, I believe you picked Q-Team then,\\
+right?\\
+==== 6452 ====
+Yes...\\
+==== 6453 ====
+But I–!\\
+==== 6454 ====
+I know.\\
+==== 6455 ====
+You just did as the note suggested.\\
+==== 6456 ====
+The real betrayer is...\\
+==== 6457 ====
+Carlos...\\
+==== 6458 ====
+Not good. It's almost time for us to get\\
+injected again.\\
+==== 6459 ====
+We don't have time to waste.\\
+==== 6460 ====
+Come with me.\\
+==== 6461 ====
+Sigma, what are you doing...\\
+==== 6462 ====
+The X-Door will never open again.\\
+==== 6463 ====
+Now all we can do here is just wait to die.\\
+==== 6464 ====
+Wait, you don't mean you're planning to\\
+transport?!\\
+==== 6465 ====
+What other choice do we have?\\
+==== 6466 ====
+We have one! To wait for Akane!\\
+==== 6467 ====
+I'm sure the police or a rescue team will–!\\
+==== 6468 ====
+We can't count on that.\\
+==== 6469 ====
+But why...!\\
+==== 6470 ====
+This is the treeform timeline then...\\
+==== 6471 ====
+Listen to me, Sigma!\\
+==== 6472 ====
+This is not the time for pointless arguing!\\
+==== 6473 ====
+We're escaping this horrible history!\\
+==== 6474 ====
+We're going to where Phi exists!\\
+==== 6475 ====
+Sigma...\\
+==== 6476 ====
+I've selected the transfer point.\\
+==== 6477 ====
+All we have to do is pull this lever.\\
+==== 6478 ====
+Then we need to run to the input pods...\\
+==== 6479 ====
+Wait!\\
+==== 6480 ====
+I'm going to go even if you aren't!\\
+==== 6481 ====
+What...\\
+==== 6482 ====
+I'm starting it. You ready?\\
+==== 6484 ====
+Diana, what are you...\\
+==== 6485 ====
+This has to be Zero's trap...\\
+==== 6486 ====
+A trap...?\\
+==== 6487 ====
+Don't you think so?!\\
+==== 6488 ====
+Zero's the one who made us start this thing!\\
+==== 6489 ====
+If we transport now, we'll be doing exactly\\
+what Zero wants!\\
+==== 6490 ====
+Dei firev neeb sahega madelos noc.\\
+==== 6491 ====
+Dereg girt noisolp xe.\\
+==== 6492 ====
+What in the...\\
+==== 6493 ====
+I... I don't know what's going on but...\\
+==== 6494 ====
+Pretty sure we should get out of here...\\
+==== 6495 ====
+Let's go, Diana!\\
+==== 6496 ====
+Sigma, it's after 01:30...\\
+==== 6497 ====
+Yeah, seems it is...\\
+==== 6498 ====
+You're not surprised? We didn't get injected\\
+with the drugs...\\
+==== 6499 ====
+No. I remembered the announcement from\\
+earlier...\\
+==== 6500 ====
+The Decision Game has now been concluded.\\
+==== 6501 ====
+Oh...\\
+==== 6502 ====
+The game's already over so...\\
+==== 6503 ====
+It'll be fine.\\
+==== 6504 ====
+Akane will come back.\\
+==== 6505 ====
+I wonder...?\\
+==== 6506 ====
+I'm not so sure I believe that.\\
+==== 6507 ====
+Okay. Let's go.\\
+==== 6508 ====
+Let's hurry!\\
+==== 6509 ====
+What in the world is going on...\\
+==== 6510 ====
+We went into the input pods, and now we came\\
+right back out of the same ones.\\
+==== 6511 ====
+But not the export pods...\\
+==== 6512 ====
+Did the process fail...?\\
+==== 6513 ====
+No wait. Hold on a sec...\\
+==== 6514 ====
+Let me think about this for a minute, okay?\\
+==== 6515 ====
+Yeah yeah... I get it now...\\
+==== 6516 ====
+You understand what happened?\\
+==== 6517 ====
+Remember what Zero said?\\
+==== 6518 ====
+This transporter isn't one that simply\\
+teleports various objects...\\
+==== 6519 ====
+What is transferred is only the atomic data.\\
+The object itself does not get transported.\\
+==== 6520 ====
+I remember one time with my grandma years\\
+ago.\\
+==== 6521 ====
+The first time she sent me a fax, she said,\\
+==== 6522 ====
+"The paper came back, Sigma. Maybe it didn't\\
+go through successfully."\\
+==== 6523 ====
+It's the same thing.\\
+==== 6524 ====
+Just like how the fax doesn't send the actual\\
+paper, we too...\\
+==== 6525 ====
+Our original bodies remain...and only the read\\
+data went to the transfer point...?\\
+==== 6526 ====
+But there's one thing I don't get.\\
+==== 6527 ====
+Why is this "me"...the one that stays...\\
+==== 6528 ====
+If our data did end up transferring correctly,\\
+==== 6529 ====
+it wouldn't have been a surprise to see we\\
+were in the transfer point world.\\
+==== 6530 ====
+So why are we still...here?\\
+==== 6531 ====
+Sorry, I know how strange this sounds...\\
+==== 6532 ====
+It's clearly an esoteric conundrum.\\
+==== 6533 ====
+Even after thinking extensively on it, I'm not\\
+sure I'd figure it out.\\
+==== 6534 ====
+But I do know one thing for sure–\\
+==== 6535 ====
+We've run out of cards in our deck.\\
+==== 6536 ====
+Sigma. It's after 02:30.\\
+==== 6537 ====
+I guess we're not going to be injected with\\
+the drugs.\\
+==== 6538 ====
+The game is over.\\
+==== 6539 ====
+There's no more reason to make us sleep.\\
+==== 6540 ====
+Akane will come back...right?\\
+==== 6541 ====
+If she doesn't, then we'll be stuck here...\\
+==== 6542 ====
+Um, Sigma... Do you want to try again?\\
+==== 6543 ====
+Try what...?\\
+==== 6544 ====
+Turning on the transporter.\\
+==== 6545 ====
+It's pointless. We've tried a bunch of times\\
+already.\\
+==== 6546 ====
+We did everything we could, but it's still as\\
+dead as a doornail.\\
+==== 6547 ====
+A massive amount of energy is required to do\\
+a transfer.\\
+==== 6548 ====
+Once a transportation has occurred, it takes\\
+roughly 10 months to recharge.\\
+==== 6549 ====
+So, what should we do for now...?\\
+==== 6550 ====
+I checked out the counter at the bar.\\
+==== 6551 ====
+Seems like we're good on food for a while.\\
+==== 6552 ====
+How long will it last...?\\
+==== 6553 ====
+With frugal eating, we'll have enough for 9,\\
+no 10 months.\\
+==== 6554 ====
+That long?\\
+==== 6555 ====
+I did say frugally, didn't I?\\
+==== 6556 ====
+My calculations are based on half a can a day.\\
+==== 6557 ====
+You remembered to include Gab, right?\\
+==== 6558 ====
+Of course. There's no way I could abandon\\
+him.\\
+==== 6559 ====
+Let's rest for now.\\
+==== 6560 ====
+We'll figure things out when we wake up.\\
+==== 6561 ====
+What is it...?\\
+==== 6562 ====
+Does something seem different about this\\
+now?\\
+==== 6563 ====
+Like what?\\
+==== 6564 ====
+I thought there were balls inside here...\\
+==== 6565 ====
+Maybe it was your imagination?\\
+==== 6566 ====
+Eat.\\
+==== 6567 ====
+I'm not hungry...\\
+==== 6568 ====
+Just do it.\\
+==== 6569 ====
+I knew you'd be in here.\\
+==== 6570 ====
+I actually don't really like this room...\\
+==== 6571 ====
+But when I'm here, I feel like there's a chance\\
+I could remember...\\
+==== 6572 ====
+Do you mean Phi...?\\
+==== 6573 ====
+How did you...?\\
+==== 6574 ====
+I feel the same.\\
+==== 6575 ====
+For some reason, I can see her face when I\\
+come here.\\
+==== 6576 ====
+Do you know what this is...?\\
+==== 6577 ====
+Hey, that's Phi's brooch!\\
+==== 6578 ====
+Why do you have it...\\
+==== 6579 ====
+I don't know...\\
+==== 6580 ====
+It was in my pocket for some reason...\\
+==== 6581 ====
+Phi's safe, right...?\\
+==== 6582 ====
+I truly wish that's true...\\
+==== 6583 ====
+PLEASE! OPEN THE DOOR! OPEN IT!\\
+==== 6584 ====
+Why are you doing this to us?!\\
+==== 6585 ====
+You can hear me, can't you Zero?!\\
+==== 6586 ====
+I know you're hiding somewhere just\\
+watching us!\\
+==== 6587 ====
+You could at least tell us why!\\
+==== 6588 ====
+ZERO! ZEROOO!\\
+==== 6589 ====
+I wonder how long it's been now...\\
+==== 6590 ====
+Two weeks.\\
+==== 6591 ====
+You kept track?\\
+==== 6592 ====
+I've been marking the wall.\\
+==== 6593 ====
+It's so peaceful...\\
+==== 6594 ====
+Really?\\
+==== 6595 ====
+Does that sound weird?\\
+==== 6596 ====
+There's no war here. No violent murders, no\\
+rapes, no innocent children being abducted.\\
+==== 6597 ====
+It's all going on in the outside world though.\\
+==== 6598 ====
+But at least this way we don't have to know\\
+about it.\\
+==== 6599 ====
+That's why it's peaceful.\\
+==== 6600 ====
+No horrible bosses, no annoying drama\\
+between coworkers.\\
+==== 6601 ====
+You don't have to worry about seeing how\\
+happy your friends are on social media...\\
+==== 6602 ====
+Like, I have a new boyfriend, or my child just\\
+turned one...\\
+==== 6603 ====
+Look at all this amazing food I ate at this\\
+gorgeous restaurant...\\
+==== 6604 ====
+I got tired of seeing it...\\
+==== 6605 ====
+It's all just like this.\\
+==== 6606 ====
+That's...\\
+==== 6607 ====
+Do you know Maeterlinck's "The Blue Bird"?\\
+==== 6608 ====
+This is a music box using it as a motif.\\
+==== 6609 ====
+What is it?\\
+==== 6610 ====
+Oh, nothing...\\
+==== 6611 ====
+So, what about it is the same?\\
+==== 6612 ====
+You know how in the end, the bird was in Tyltyl\\
+and Mytyl's home all along?\\
+==== 6613 ====
+They travelled all across the world in search\\
+of it...\\
+==== 6614 ====
+This feels similar...\\
+==== 6615 ====
+I guess I mean to say, "Happiness is closer\\
+than you think."\\
+==== 6616 ====
+In this shelter?\\
+==== 6617 ====
+Yes.\\
+==== 6618 ====
+I'm sorry, Diana, but your interpretation is\\
+wrong.\\
+==== 6619 ====
+In the original work, the blue bird escapes the\\
+cage and flies away.\\
+==== 6620 ====
+"Happiness will slip through your fingers the\\
+moment you believe you have it."\\
+==== 6621 ====
+It's implying that the process of dreaming is\\
+true happiness.\\
+==== 6622 ====
+Well, you just ruined my dream then...\\
+==== 6623 ====
+Ha ha. Touche.\\
+==== 6624 ====
+Sorry.\\
+==== 6625 ====
+You won't disappear, will you...?\\
+==== 6626 ====
+Sigma...\\
+==== 6627 ====
+Not gonna eat it?\\
+==== 6628 ====
+Hey! What are you doing?!\\
+==== 6629 ====
+I'm sick of only eating this crap that tastes\\
+like dog food!\\
+==== 6630 ====
+Diana...\\
+==== 6631 ====
+We've been trapped in here for a month now!\\
+==== 6632 ====
+What in the world is Akane doing?!\\
+==== 6633 ====
+It's possible that she doesn't remember\\
+anything about it...\\
+==== 6634 ====
+I'm sure she still had the bracelet on when\\
+she left here...\\
+==== 6635 ====
+If so, then there's a chance that Zero\\
+injected her again so she'd for–\\
+==== 6636 ====
+No, that's not it.\\
+==== 6637 ====
+Akane... Akane betrayed us...\\
+==== 6638 ====
+She murdered Carlos and Junpei, and\\
+abandoned us, just to escape on her own.\\
+==== 6639 ====
+Maybe Carlos voted for Q-Team because she\\
+manipulated him into doing it...\\
+==== 6640 ====
+Diana...what's gotten into you all of a\\
+sudden?\\
+==== 6641 ====
+Half a month ago, you were happy, saying it\\
+was peaceful–\\
+==== 6642 ====
+That was then! This is now!\\
+==== 6643 ====
+Has something changed...?\\
+==== 6644 ====
+No! Nothing's changed!\\
+==== 6645 ====
+Not a single thing! That's why I'm annoyed!\\
+==== 6646 ====
+Yesterday, today, it's all the same!\\
+==== 6647 ====
+The same scenery! The same can!\\
+==== 6648 ====
+I feel like I'm losing my mind!\\
+==== 6649 ====
+It's all Rebecca's fault...\\
+==== 6650 ====
+She was the head nurse...\\
+==== 6651 ====
+She was the one to suggest I join this\\
+experiment.\\
+==== 6652 ====
+I'm not so sure you should be blaming her.\\
+==== 6653 ====
+You had another reason for signing up for the\\
+experiment, didn't you?\\
+==== 6654 ====
+You're single now, but Diana, you were\\
+married before, weren't you?\\
+==== 6655 ====
+Y-Yes...\\
+==== 6656 ====
+But why do you know that...?\\
+==== 6657 ====
+When you were married, your husband often\\
+resorted to beating you.\\
+==== 6658 ====
+He was an alcoholic, and recently\\
+unemployed.\\
+==== 6659 ====
+He screwed up at work, garnering a large\\
+debt, if I recall correctly.\\
+==== 6660 ====
+When the two of you dated,\\
+==== 6661 ====
+he came across as serious and kind. But no\\
+longer.\\
+==== 6662 ====
+He drank to his eyeballs, was always\\
+gambling,\\
+==== 6663 ====
+and would laugh while he kicked and punched\\
+you. For no reason. That was his true face.\\
+==== 6664 ====
+Of course you left him.\\
+==== 6665 ====
+But even after the divorce, he persisted in\\
+following you around.\\
+==== 6666 ====
+He'd ask you for money, sex... And if you said\\
+no, he beat you black and blue.\\
+==== 6667 ====
+He's even stopped by the hospital cafeteria.\\
+==== 6668 ====
+You were having lunch with a coworker of\\
+yours.\\
+==== 6669 ====
+He showed up out of the blue, screaming his\\
+head off, and flipped the table.\\
+==== 6670 ====
+Every time he went off on you, he'd always\\
+end with,\\
+==== 6671 ====
+"I love you. I love you so much, Diana..." and\\
+weep.\\
+==== 6672 ====
+His pain called out to you, and you'd always\\
+find yourself caving in.\\
+==== 6673 ====
+In order to cut all contact with him,\\
+==== 6674 ====
+you figured the only way it'd work would be to\\
+seclude yourself.\\
+==== 6675 ====
+That's when Rebecca brought it up.\\
+==== 6676 ====
+"I heard about a job at an experiment facility\\
+called Dcom." So you–\\
+==== 6677 ====
+STOP! STOP IT!\\
+==== 6678 ====
+What is the meaning of this...?\\
+==== 6679 ====
+Why do you know...\\
+==== 6680 ====
+Would you believe me if I said I heard it from\\
+you?\\
+==== 6681 ====
+Stop playing around.\\
+==== 6682 ====
+You should probably stop now...\\
+==== 6683 ====
+Can't you leave me alone?\\
+==== 6684 ====
+Hey, what are you doing?!\\
+==== 6685 ====
+You're not acting like yourself.\\
+==== 6686 ====
+You're the super weird one here!\\
+==== 6687 ====
+It's been a whole month and a half!\\
+==== 6688 ====
+How can you be so calm about all of this?!\\
+==== 6689 ====
+I have some experience with this kind of\\
+thing.\\
+==== 6690 ====
+Stop talking your nonsense!\\
+==== 6691 ====
+Give it back!\\
+==== 6692 ====
+No.\\
+==== 6693 ====
+I said give it back!\\
+==== 6694 ====
+Hey, look what you did!\\
+==== 6695 ====
+Hey, stop!\\
+==== 6697 ====
+You're so silly. You thought I was serious?\\
+==== 6698 ====
+Like I'd actually lick that?\\
+==== 6699 ====
+Diana, you're...\\
+==== 6700 ====
+I can't take it anymore! I'm so sick of this!\\
+==== 6701 ====
+Hey... Sleep with me?\\
+==== 6702 ====
+Do you hate me...?\\
+==== 6703 ====
+Of course not...\\
+==== 6704 ====
+Then sleep with me!\\
+==== 6705 ====
+Come on! Hurry!\\
+==== 6706 ====
+Oh. I see...\\
+==== 6707 ====
+You don't have the balls. Coward.\\
+==== 6708 ====
+Then how about...\\
+==== 6709 ====
+Won't you kill me?\\
+==== 6710 ====
+Please...kill me.\\
+==== 6711 ====
+What are you saying...\\
+==== 6712 ====
+I'd rather be killed by someone now than wait\\
+to die, wasting away in this–! \\
+==== 6713 ====
+Just cut it out!\\
+==== 6714 ====
+Wait! Where are you going?!\\
+==== 6716 ====
+I'm sorry....\\
+==== 6717 ====
+It's all my fault.\\
+==== 6718 ====
+Forgive me, Diana...\\
+==== 6719 ====
+I could see how you felt.\\
+==== 6720 ====
+I knew you were crying out for help.\\
+==== 6721 ====
+But not once did I offer a hand.\\
+==== 6722 ====
+I couldn't.\\
+==== 6723 ====
+If we got too close, then I felt like something\\
+would shatter...\\
+==== 6724 ====
+You said the shelter was peaceful.\\
+==== 6725 ====
+That happiness could be found here.\\
+==== 6726 ====
+I knew you were putting on a brave face.\\
+==== 6727 ====
+In reality, the one who believed what you\\
+said...was me.\\
+==== 6728 ====
+It's just like you said. I'm not brave.\\
+==== 6729 ====
+I'm a coward and a wimp.\\
+==== 6730 ====
+Deep down inside, I was scared of change.\\
+==== 6731 ====
+I didn't want to lose you...\\
+==== 6732 ====
+Like that time...\\
+==== 6733 ====
+Like that blue bird...\\
+==== 6734 ====
+I'm so sorry, Sigma...\\
+==== 6735 ====
+I... I–\\
+==== 6736 ====
+I have a dream.\\
+==== 6737 ====
+You want to go to the moon, right?\\
+==== 6738 ====
+You've been obsessed with it since you were\\
+a kid.\\
+==== 6739 ====
+Even your name, Diana, comes from the\\
+goddess of the moon.\\
+==== 6740 ====
+Hey, Sigma. Can you tell me now?\\
+==== 6741 ====
+Why you know so much about me...\\
+==== 6742 ====
+I've lived with you for three years.\\
+==== 6743 ====
+So I know almost everything about you.\\
+==== 6744 ====
+Huh...?\\
+==== 6745 ====
+It's not your fault you don't understand.\\
+==== 6746 ====
+I'm talking about the future.\\
+==== 6747 ====
+But this history doesn't mean it's an\\
+extension of that one.\\
+==== 6748 ====
+It's a different one...\\
+==== 6749 ====
+Okay, so hypothetically...\\
+==== 6750 ====
+Let's say right now we're on this knee.\\
+==== 6751 ====
+If you continue on the path, you'll only reach\\
+the end of the right toes.\\
+==== 6752 ====
+You'll never go to the left ones.\\
+==== 6753 ====
+I was just talking about the left leg path.\\
+==== 6754 ====
+Sorry.\\
+==== 6755 ====
+I started talking nonsense again...\\
+==== 6756 ====
+Sigma, are you really from the future...?\\
+==== 6757 ====
+You believe me?\\
+==== 6758 ====
+Yeah, I do.\\
+==== 6759 ====
+I think it rather makes the dream better...\\
+==== 6760 ====
+I...need to tell you something. Sigma...\\
+==== 6761 ====
+I may be...\\
+==== 6762 ====
+You did amazing, Diana!\\
+==== 6763 ====
+It's a healthy boy!\\
+==== 6764 ====
+W-Wait, hold on, something...\\
+==== 6765 ====
+What's wrong...?!\\
+==== 6766 ====
+I think...I think there's another...\\
+==== 6767 ====
+Cute...\\
+==== 6768 ====
+They're so cute...\\
+==== 6769 ====
+Yes.\\
+==== 6770 ====
+Who'd have thought you'd have fraternal\\
+twins.\\
+==== 6771 ====
+You didn't realize?\\
+==== 6772 ====
+Well, I did have a hunch.\\
+==== 6773 ====
+But I couldn't be sure...\\
+==== 6774 ====
+It doesn't matter as I'm just glad you gave\\
+birth safely, even in a place like this.\\
+==== 6775 ====
+It's all because of you, Sigma.\\
+==== 6776 ====
+Thank you.\\
+==== 6777 ====
+Stop. I didn't do anything...\\
+==== 6778 ====
+You gave me your food.\\
+==== 6779 ====
+As soon as you knew I was pregnant...\\
+==== 6780 ====
+You were the one who did all the work.\\
+==== 6781 ====
+Thank you. Truly. I couldn't be more proud.\\
+==== 6782 ====
+You know how people claim "unconditional\\
+love"?\\
+==== 6783 ====
+I hated that phrase.\\
+==== 6784 ====
+I thought it was a lie.\\
+==== 6785 ====
+I thought, there's no way something like that\\
+exists.\\
+==== 6786 ====
+I'm a selfish bastard.\\
+==== 6787 ====
+Every time I help someone, in the back of my\\
+mind I'm expecting recompense.\\
+==== 6788 ====
+Whether it be gratitude, praise, or for a\\
+higher power to approve of me.\\
+==== 6789 ====
+But now I know.\\
+==== 6790 ====
+There really is such a thing as unconditional\\
+love in this world.\\
+==== 6791 ====
+There's no doubt in my mind that I'd give my\\
+life for them.\\
+==== 6792 ====
+Not for gratitude, or praise.\\
+==== 6793 ====
+I don't believe in God, so it's not for God\\
+either.\\
+==== 6794 ====
+I need nothing in return.\\
+==== 6795 ====
+I don't care if I fade away.\\
+==== 6796 ====
+I just want them to be safe...\\
+==== 6797 ====
+And to survive... That's all I ask.\\
+==== 6798 ====
+Gab, listen to me.\\
+==== 6799 ====
+You know that biscuit I just gave you?\\
+==== 6800 ====
+That was the last one.\\
+==== 6801 ====
+There's nothing else left.\\
+==== 6802 ====
+Thanks for everything.\\
+==== 6803 ====
+We've gone through so much pain. You\\
+always listened to me when I vented to you.\\
+==== 6804 ====
+You've saved me many times...\\
+==== 6805 ====
+So thank you.\\
+==== 6806 ====
+Diana, I want to show you something.\\
+==== 6807 ====
+Follow me.\\
+==== 6808 ====
+The transporter's turned on.\\
+==== 6809 ====
+I came by earlier and noticed it.\\
+==== 6810 ====
+It appears to be completely charged.\\
+==== 6811 ====
+Sigma, don't tell me...\\
+==== 6812 ====
+That's right.\\
+==== 6813 ====
+I'm transporting these two.\\
+==== 6814 ====
+What...\\
+==== 6815 ====
+Don't worry.\\
+==== 6816 ====
+Transporting them doesn't mean they'll\\
+disappear.\\
+==== 6817 ====
+Their original bodies stay behind after\\
+they're scanned.\\
+==== 6818 ====
+Then–\\
+==== 6819 ====
+Are you going to say it's pointless?\\
+==== 6820 ====
+We're out of food.\\
+==== 6821 ====
+If we simply do nothing...\\
+==== 6822 ====
+You understand...?\\
+==== 6823 ====
+I'm sure you remember, but it'll take another\\
+10 months to recharge.\\
+==== 6824 ====
+So you're saying this would be the last time\\
+we can use it, then?\\
+==== 6825 ====
+Which means we can't stay with them...\\
+==== 6826 ====
+I know.\\
+==== 6827 ====
+Each pod must only hold one body within it.\\
+==== 6828 ====
+Two or more people cannot go into a single\\
+pod.\\
+==== 6829 ====
+Where do we send them?\\
+==== 6830 ====
+Not the future, it's too dangerous.\\
+==== 6831 ====
+Then the past...?\\
+==== 6832 ====
+There's no point to send them to the near\\
+future.\\
+==== 6833 ====
+Sometime before Zero obtains this device–\\
+They'll have to go before the year 2009...\\
+==== 6834 ====
+Did you think of a name?\\
+==== 6835 ====
+What about you...\\
+==== 6836 ====
+Remember? We promised, I'd name him if it\\
+was a boy, and you would if it was a girl.\\
+==== 6837 ====
+Then, we'll start with the boy...\\
+==== 6838 ====
+Sigma, your name is from the Greek letter\\
+"Σ," right?\\
+==== 6839 ====
+So I thought, why don't I name our son "Δ"...\\
+==== 6840 ====
+My first initial is "D"–\\
+==== 6841 ====
+And then to connect that "D" to a Greek\\
+letter...\\
+==== 6842 ====
+Delta...? I like it.\\
+==== 6843 ====
+What about the girl?\\
+==== 6844 ====
+Oddly enough, I was considering a Greek\\
+letter, too.\\
+==== 6845 ====
+I want to use the one that means the most to\\
+me...\\
+==== 6846 ====
+Is it...\\
+==== 6847 ====
+"Φ."\\
+==== 6848 ====
+I'd like to name our daughter after her...\\
+==== 6849 ====
+Phi...\\
+==== 6850 ====
+I think it's perfect.\\
+==== 6851 ====
+It's a wonderful name.\\
+==== 6852 ====
+Oh, hold on just a minute.\\
+==== 6853 ====
+We gave them their names.\\
+==== 6854 ====
+It wouldn't be right if someone changed them,\\
+would it?\\
+==== 6855 ====
+That's...\\
+==== 6856 ====
+Phi's brooch.\\
+==== 6857 ====
+You're sending it with her...?\\
+==== 6858 ====
+Yes...\\
+==== 6859 ====
+And Delta, I want to give him this...\\
+==== 6860 ====
+The blue bird music box...\\
+==== 6861 ====
+Are you ready...?\\
+==== 6862 ====
+Let's begin.\\
+==== 7891 ====
+Would you stop talking nonsense!\\
+==== 7892 ====
+Zero! You won't get away with this! I swear\\
+I'll...!\\
+==== 7893 ====
+May you rest in peace.\\
+==== 7894 ====
+Plaudite, acta est fabula.\\
+==== 7895 ====
+NOOOOOO!\\
+==== 7897 ====
+What's wrong?! You okay?!\\
+==== 7898 ====
+We're alive...\\
+==== 7899 ====
+Huh...?\\
+==== 7900 ====
+We really are alive, right...?\\
+==== 7901 ====
+Hey. Are you sure you're all right...?\\
+==== 7902 ====
+It was...a bad dream.\\
+==== 7903 ====
+What happened...?\\
+==== 7904 ====
+Our necks...\\
+==== 7905 ====
+No, never mind.\\
+==== 16354 ====
+and subsequently stumbled upon it.\\
+==== 1010100 ====
+Well, the door isn't locked, so we aren't\\
+trapped in here.\\
+==== 1010101 ====
+Hmm... Zero said if we restart the\\
+transporter nucleus then...\\
+==== 1010102 ====
+"You may obtain that which you desire"... What\\
+does he mean by that?\\
+==== 1010103 ====
+No clue. But there's no point in leaving right\\
+now. We should search around.\\
+==== 1010200 ====
+If we can start the nucleus, we might get\\
+what we desire, huh...\\
+==== 1010201 ====
+The door isn't locked, but we need to search\\
+the room.\\
+==== 1020100 ====
+This locker won't open.\\
+==== 1020101 ====
+I doubt we have to be concerned. It's\\
+probably just a change of clothes.\\
+==== 1020200 ====
+It's just a locker.\\
+==== 1030100 ====
+What's this machine... Do you know, Sigma?\\
+==== 1030101 ====
+I don't. It looks fragile. I think something\\
+goes into the vertical and horizontal axes.\\
+==== 1030102 ====
+Oh, you're right! That means we probably\\
+can't use it now...\\
+==== 1030200 ====
+I bet we can fit something into the vertical\\
+and horizontal axes here.\\
+==== 1030201 ====
+Let's see if we can find something that fits.\\
+==== 1030300 ====
+I think we can fit something onto each axis of\\
+this machine...\\
+==== 1030301 ====
+How about we try those things we just found?\\
+==== 1030400 ====
+Maybe we should put the reels we just found\\
+on here?\\
+==== 1030401 ====
+Yeah, it looks like they might fit.\\
+==== 1030500 ====
+Let's try to put the reels we found into this\\
+machine.\\
+==== 1030501 ====
+There are five reels, so it should fit.\\
+==== 1030502 ====
+It went in perfectly!\\
+==== 1030600 ====
+Let's try to put the reels we found into this\\
+machine.\\
+==== 1030601 ====
+It does have four reels, so it should fit.\\
+==== 1030602 ====
+Well, that was easy enough.\\
+==== 1030700 ====
+The tridecagon reels are in place on the\\
+vertical axis.\\
+==== 1030701 ====
+Nothing's on the horizontal one yet.\\
+==== 1030800 ====
+The decagon reels are in place on the\\
+horizontal axis.\\
+==== 1030801 ====
+Nothing's on the vertical one yet.\\
+==== 1030900 ====
+Now we have both sets of reels in...\\
+==== 1030901 ====
+Let's see if we can do anything with it. Maybe\\
+we'll figure out something.\\
+==== 1031000 ====
+Time to try this thing again.\\
+==== 1031100 ====
+Turning the horizontal ones changes the\\
+vertical... Are they matching something?\\
+==== 1031101 ====
+These are numbers, so maybe the number\\
+is being converted somehow?\\
+==== 1031102 ====
+Converting? The decagon has 0 to 9, but the\\
+tridecagon has 13 numbers.\\
+==== 1031103 ====
+Yeah, the vertical reels show 0 to 12...\\
+==== 1031200 ====
+The horizontal axis has 5 digits from 0 to 9,\\
+and the vertical has 4 digits from 0 to 12.\\
+==== 1031201 ====
+Chapter 4 says there are two sets of\\
+mathematical formats.\\
+==== 1031202 ====
+Those would be the horizontal and vertical\\
+axes on the machine then?\\
+==== 1031203 ====
+What's different between them though?\\
+==== 1031300 ====
+The decagon and tridecagon reels\\
+correspond to each other...\\
+==== 1031301 ====
+So 10 and 13? Maybe it's changing from\\
+10-decimal to 13-decimal?\\
+==== 1031302 ====
+Then if we set a number on the horizontal\\
+axis, it'll change into 13-decimal!\\
+==== 1031400 ====
+I knew it. Horizontal is 10-decimal and\\
+vertical is 13-decimal.\\
+==== 1031401 ====
+Now we only need to know what numbers to\\
+convert.\\
+==== 1031402 ====
+A 5 digit 10-decimal number... I think we saw\\
+something like that in the room earlier...\\
+==== 1031500 ====
+We can convert a 5 digit 10-decimal number\\
+to a 4 digit 13-decimal number...\\
+==== 1031501 ====
+Hold on, what was the number those symbols\\
+above the nucleus translated to?\\
+==== 1031502 ====
+Let's check it again.\\
+==== 1031600 ====
+When we put 27951 into the horizontal axis...\\
+==== 1031601 ====
+The vertical one displayed "human moon\\
+moon," "human human," "star," "double circle."\\
+==== 1040100 ====
+It's a monitor. It's probably connected to a\\
+computer?\\
+==== 1040101 ====
+...It's not responding. I think it's broken.\\
+==== 1040200 ====
+I don't think we can use this.\\
+==== 1050100 ====
+These cabinets won't open.\\
+==== 1050101 ====
+And here I was thinking we could take a break\\
+if there was some canned soup in there.\\
+==== 1050102 ====
+And how exactly are we supposed to heat\\
+that up...\\
+==== 1050200 ====
+The cabinets won't open. No use wondering\\
+what's inside. It's time to keep searching.\\
+==== 1060100 ====
+There's a lot of stuff here...\\
+==== 1060101 ====
+I don't see anything useful.\\
+==== 1060102 ====
+I kind of feel like organizing it right now.\\
+==== 1060200 ====
+There really isn't anything we can use here...\\
+==== 1070100 ====
+What's this?\\
+==== 1070101 ====
+I've no idea... I've never seen it before.\\
+==== 1070102 ====
+Nothing happens when you touch it. The\\
+surface is cold.\\
+==== 1070200 ====
+I wonder what this is. Nothing happens no\\
+matter what we do.\\
+==== 1070300 ====
+The pattern on the board matches the back of\\
+the cards.\\
+==== 1070301 ====
+Oh, you're right. There's a white bracket\\
+here as well.\\
+==== 1070302 ====
+Looks to be about the size of the cards.\\
+==== 1070400 ====
+There's a white bracket on this board. How\\
+about we try placing a card here.\\
+==== 1070500 ====
+Isn't this bracket just about the size of those\\
+cards we found?\\
+==== 1070501 ====
+Let's try putting one here.\\
+==== 1070600 ====
+Hmm... Let's try again.\\
+==== 1070700 ====
+Wh-What just happened...?\\
+==== 1070701 ====
+The symbols collided together, and the one\\
+on the other side disappeared...\\
+==== 1070702 ====
+Does that mean our card was stronger?\\
+==== 1070800 ====
+The symbol we used is still here...\\
+==== 1070801 ====
+This means we won...right?\\
+==== 1070900 ====
+What does this mean?\\
+==== 1070901 ====
+The symbol we used disappeared.\\
+==== 1070902 ====
+Maybe it means the symbol on the other side\\
+was stronger?\\
+==== 1071000 ====
+The symbol on the opposite side is still here.\\
+==== 1071001 ====
+We lost? But why...\\
+==== 1071100 ====
+The symbols crashed together...and then\\
+they both disappeared.\\
+==== 1071101 ====
+What does that mean? They were the same\\
+symbol...\\
+==== 1071200 ====
+Both of them disappeared.\\
+==== 1071201 ====
+So the same symbols cancel each other out?\\
+==== 1080100 ====
+Is this the nucleus Zero described? It looks\\
+creepy...\\
+==== 1080101 ====
+He said the nucleus of the transporter\\
+controls its function.\\
+==== 1080102 ====
+According to him, we need to restart it. How\\
+are we going to do that?\\
+==== 1080200 ====
+Zero claims it was made in an alternate\\
+world, but I don't believe that's true...\\
+==== 1080201 ====
+So Zero was lying about everything?\\
+==== 1080202 ====
+I don't know...\\
+==== 1080203 ====
+...We've checked all the other rooms. This is\\
+the only one left. Let's see what we can find.\\
+==== 1080300 ====
+The nucleus looks different...\\
+==== 1080301 ====
+You're right. There are some symbols above\\
+it now.\\
+==== 1080302 ====
+Does that mean we restarted it?\\
+==== 1080303 ====
+Probably not completely. Zero's not come\\
+back to talk to us yet.\\
+==== 1080400 ====
+There are symbols on the nucleus, but...\\
+==== 1080401 ====
+What do we do now...\\
+==== 1080500 ====
+It's not just me, is it? These symbols look like\\
+the pictures on the cards.\\
+==== 1080501 ====
+You're right. They're each a separate shape.\\
+==== 1080502 ====
+Just what do they mean?\\
+==== 1080600 ====
+The symbols are the same as the ones on the\\
+cards. They're all lined up.\\
+==== 1080601 ====
+I think this is connected to something... Let's\\
+see if we can find some clues first.\\
+==== 1080700 ====
+According to Chapter 2, these are marks\\
+designating numbers in an alien civilization.\\
+==== 1080701 ====
+Numbers... I wonder which symbol represents\\
+which number?\\
+==== 1080800 ====
+Didn't Chapter 2 say symbols lined up need\\
+to be multiplied?\\
+==== 1080801 ====
+If that applies here, then these 5 symbols\\
+could be 1 single number.\\
+==== 1080802 ====
+Well that's good at least, but we still don't\\
+know what number goes with what symbol.\\
+==== 1080900 ====
+We know what each number means now.\\
+==== 1080901 ====
+We solved the question and know it's showing\\
+11 x 11 x 11 x 7 x 3.\\
+==== 1080902 ====
+Um... And how much is that...?\\
+==== 1081000 ====
+I know! The answer to 11 x 11 x 11 x 7 x 3 is...\\
+==== 1081001 ====
+27951, I believe. We should remember this.\\
+==== 1081100 ====
+These symbols mean 11 x 11 x 11 x 7 x 3\\
+which equals 27951.\\
+==== 1081101 ====
+Correct. And we converted the number with\\
+the translator.\\
+==== 1081102 ====
+The symbols this translated into were... Um...\\
+==== 1081200 ====
+We converted the number 27951 into symbols\\
+and translated it.\\
+==== 1081201 ====
+We should check the 4 symbols they were\\
+translated into again.\\
+==== 1081300 ====
+Oh, something came out.\\
+==== 1081301 ====
+...Hm. I think the cards can fit here.\\
+==== 1081400 ====
+...Let's try inserting the cards again.\\
+==== 1081500 ====
+What?! That actually worked?\\
+==== 1081501 ====
+I only did what came to mind first...\\
+==== 1081502 ====
+Knowledge from an alternate history... No, it\\
+must've been just luck.\\
+==== 1081503 ====
+So, now what happens?\\
+==== 1081600 ====
+Oh, I think I did it!\\
+==== 1081601 ====
+Yeah, it looks as if you were successful. Now\\
+what will happen...\\
+==== 1081700 ====
+Huh... What should we input here...\\
+==== 1081701 ====
+I'm pretty sure we use the cards, but I still\\
+don't really understand this.\\
+==== 1081800 ====
+What do we need to input here...\\
+==== 1081801 ====
+Maybe this has to do with the symbols above\\
+the nucleus.\\
+==== 1081802 ====
+Oh, yes, they do seem to be connected. Then\\
+we should consider the symbol meanings?\\
+==== 1081900 ====
+Hmm, I don't get it...\\
+==== 1081901 ====
+I believe the symbols there can be converted\\
+into numbers, and we just put those in?\\
+==== 1081902 ====
+But these slots are vertical. Are we missing\\
+something...?\\
+==== 1082000 ====
+It's wrong again...\\
+==== 1082001 ====
+Well, we gathered that the symbols up there\\
+are "11 x 11 x 11 x 7 x 3" in numbers...\\
+==== 1082002 ====
+Is that answer 4 digits? If not, we'll have to\\
+change it to fit.\\
+==== 1082100 ====
+...Huh? I think that was wrong.\\
+==== 1082101 ====
+Why don’t we try entering the symbols we got\\
+after we translated 27951?\\
+==== 1082102 ====
+Oh. I get it. The vertical axis has 4 spaces,\\
+too! I remember the symbols were...\\
+==== 1082200 ====
+What are those... They look like...tree\\
+branches?\\
+==== 1082201 ====
+I have no idea. Nor do I know what their\\
+function is...\\
+==== 1082202 ====
+Maybe this device...is alive?\\
+==== 1082203 ====
+A bio-computer? But how would that–no, let's\\
+not think too much about it.\\
+==== 1082300 ====
+Those tree branch-like things up at the\\
+ceiling... Just what are they...\\
+==== 1090100 ====
+This monitor isn't displaying anything.\\
+==== 1090101 ====
+I think it's connected to the input pods back\\
+there...\\
+==== 1090102 ====
+Do you think it'll power up if we restart the\\
+nucleus?\\
+==== 1090200 ====
+The monitor isn't displaying anything.\\
+==== 1100100 ====
+This was an...input pod, right? I think a\\
+person could lie down in there.\\
+==== 1100101 ====
+It looks like a lidded bed, just like Zero said.\\
+==== 1100102 ====
+It sounds a lot like a coffin.\\
+==== 1100103 ====
+I'm used to getting into a pod, but now I just\\
+feel terrible...\\
+==== 1100200 ====
+It's called an input pod. It looks like a bed\\
+with a lid.\\
+==== 1110100 ====
+This monitor isn't displaying anything.\\
+==== 1110101 ====
+I think it's connected to the output pods back\\
+there...\\
+==== 1110102 ====
+Do you think it'll power up if we restart the\\
+nucleus?\\
+==== 1110200 ====
+The monitor isn't displaying anything.\\
+==== 1120100 ====
+This is an output pod. It looks like an insect\\
+pupa, or chrysalis.\\
+==== 1120101 ====
+Oh... Then when you use the transporter, you\\
+are reborn from it as well.\\
+==== 1120102 ====
+Ah, that's an interesting point of view. Maybe\\
+that was the idea behind its design.\\
+==== 1120103 ====
+That also brings the idea that organisms that\\
+form pupa exist in foreign civilizations...\\
+==== 1120200 ====
+It's an output pod. It's designed to look like a\\
+pupa.\\
+==== 1130100 ====
+This is the material tank. Zero told us it\\
+stores various elements found on Earth...\\
+==== 1130101 ====
+Can you really make a real human being with\\
+those materials? I mean TRULY real.\\
+==== 1130102 ====
+Oxygen, carbon, hydrogen, nitrogen, etc...\\
+Current technology can tell us human makeup.\\
+==== 1130103 ====
+It's impossible to make a human exactly, so I\\
+suppose it depends on your definition of real.\\
+==== 1130104 ====
+What makes us real... I don't think that\\
+question can be answered.\\
+==== 1130200 ====
+The material tank... It stores a variety of the\\
+elements that exist on Earth.\\
+==== 1140100 ====
+What is this stand...?\\
+==== 1140101 ====
+It's likely some sort of device, but I'm not\\
+sure what kind...\\
+==== 1140200 ====
+I wonder what this stand is for...\\
+==== 1140300 ====
+I think this is a hologram? And the stand is\\
+projecting it.\\
+==== 1140301 ====
+You're right. But I didn't think we had\\
+advanced technology like this already...\\
+==== 1140400 ====
+It's a hologram projecting device.\\
+==== 1140500 ====
+This...is a hologram stereoscopy.\\
+==== 1140501 ====
+Wow! Incredible! There's a picture in the air...\\
+Is it okay to touch?\\
+==== 1140502 ====
+It should be fine, but why? It is only a picture\\
+after all. You can't feel it.\\
+==== 1140503 ====
+Isn't poking your hand through the hologram\\
+fun? He he! Come on, try it!\\
+==== 1140600 ====
+Let's look at this again.\\
+==== 1140700 ====
+The book lit up... Maybe there's something\\
+else we didn't check.\\
+==== 1140800 ====
+We need to match each of the 12 symbols to\\
+a number...\\
+==== 1140801 ====
+Hm. Let's think about it.\\
+==== 1140900 ====
+What? Something's happening over at the\\
+nucleus.\\
+==== 1140901 ====
+I wonder what it is? Let's go see.\\
+==== 1141000 ====
+Oh, this time the monitor on the machine over\\
+there turned on.\\
+==== 1141001 ====
+We should check it out.\\
+==== 1141100 ====
+The horizontal and vertical numbers, and the\\
+other way of counting... What is it saying?\\
+==== 1141101 ====
+Hmm. It could be we need to figure out the\\
+alternate dimension's method of counting.\\
+==== 1141102 ====
+This could be a clue to activating the\\
+nucleus...?\\
+==== 1141200 ====
+The counting method the beings from the\\
+alternate dimension are using...\\
+==== 1141201 ====
+We need to convert the symbols from the\\
+nucleus and place the correct cards...\\
+==== 1141300 ====
+Is that a security camera up there?\\
+==== 1141301 ====
+No, it's pointing downward. Security cameras\\
+don't usually do that.\\
+==== 1141302 ====
+Then what is it?\\
+==== 1141400 ====
+What would this be if it's not a security\\
+camera?\\
+==== 1141500 ====
+This is likely a projector. It's reflecting off\\
+of the light coming from the stand below.\\
+==== 1141501 ====
+It sounds pretty complex...\\
+==== 1141600 ====
+This is a hologram projector.\\
+==== 1150100 ====
+It says "Place cards here."\\
+==== 1150101 ====
+Cards... Do you think something will happen\\
+if we do what it says?\\
+==== 1150102 ====
+I can't tell from just this. If we have some of\\
+these cards, we may as well try it out.\\
+==== 1150200 ====
+It says "Place cards here."\\
+==== 1150300 ====
+A device that says "Place cards here." One\\
+light is on.\\
+==== 1150400 ====
+A device that says "Place cards here." Two\\
+lights are on.\\
+==== 1150500 ====
+A device that says "Place cards here." Three\\
+lights are on.\\
+==== 1150600 ====
+A device that says "Place cards here." Four\\
+lights are on.\\
+==== 1150700 ====
+A device that says "Place cards here." Five\\
+lights are on.\\
+==== 1150800 ====
+A device that says "Place cards here." Six\\
+lights are on.\\
+==== 1150900 ====
+A device that says "Place cards here." Seven\\
+lights are on.\\
+==== 1151000 ====
+A device that says "Place cards here." Eight\\
+lights are on.\\
+==== 1151100 ====
+A device that says "Place cards here." Nine\\
+lights are on.\\
+==== 1151200 ====
+A device that says "Place cards here." Ten\\
+lights are on.\\
+==== 1151300 ====
+A device that says "Place cards here." Eleven\\
+lights are on.\\
+==== 1151400 ====
+A device that says "Place cards here."\\
+Twelve lights are on.\\
+==== 1151500 ====
+Now it says "Accepted." All the lights are on.\\
+==== 1151600 ====
+It says "Place cards here." Let's try with this\\
+card?\\
+==== 1151601 ====
+Yeah, go ahead.\\
+==== 1151602 ====
+Oh, one of the lights above turned on.\\
+==== 1151603 ====
+Huh? Did the color of this card change?\\
+==== 1151604 ====
+I thought it was already like this?\\
+==== 1151605 ====
+No, it was something darker, I think...?\\
+==== 1151606 ====
+Regardless, we still don't know everything.\\
+Let's find more cards.\\
+==== 1151700 ====
+One more light turned on. Maybe we need to\\
+turn them all on.\\
+==== 1151701 ====
+That's my guess... I noticed something too.\\
+==== 1151702 ====
+Placing the card here changes it to a\\
+different color.\\
+==== 1151703 ====
+Oh, you're right! Now we can tell which ones\\
+we've already done!\\
+==== 1151704 ====
+True, but that's all the information we have\\
+right now. Let's keep going.\\
+==== 1151800 ====
+All right, a light turned on.\\
+==== 1151900 ====
+Let there be light!\\
+==== 1152000 ====
+Now we have five of them lit!\\
+==== 1152100 ====
+The sixth one is on now.\\
+==== 1152200 ====
+And the seventh.\\
+==== 1152300 ====
+Eighth...\\
+==== 1152400 ====
+...It's on.\\
+==== 1152500 ====
+...Okay.\\
+==== 1152600 ====
+...\\
+==== 1152700 ====
+Augh, just how many are there?! How many\\
+times must we do this! Damn you, Zero!\\
+==== 1152701 ====
+C-Calm down, Sigma! I think there's only one\\
+more left!\\
+==== 1152800 ====
+Here goes the last one!\\
+==== 1152801 ====
+Huh? What's that?\\
+==== 1152802 ====
+A book...? Let's check it out.\\
+==== 1152900 ====
+What? Nothing is happening.\\
+==== 1152901 ====
+We used that card earlier. It seems that each\\
+card triggers it only once.\\
+==== 1153000 ====
+Ah, we used this card already.\\
+==== 1160100 ====
+What is this big machine?\\
+==== 1160101 ====
+It's off so I can't be sure, but I think it's a 3D\\
+printer.\\
+==== 1160102 ====
+I've heard of those! You can make anything\\
+you want with them!\\
+==== 1160103 ====
+Well yes, but you need the data to create too.\\
+The power's off, so we can't use it anyway.\\
+==== 1160200 ====
+This machine might be a 3D printer. The\\
+power is off.\\
+==== 1160300 ====
+It looks like the power is on here.\\
+==== 1160301 ====
+It's likely a 3D printer. We might be able to\\
+control it using the monitor.\\
+==== 1160400 ====
+The 3D printer looks like it's on. Why don't we\\
+check out the monitor there?\\
+==== 1160500 ====
+We can probably make one more. Let's look\\
+at the monitor.\\
+==== 1160600 ====
+We made two different sets of reels using\\
+this 3D printer.\\
+==== 1160700 ====
+It's a monitor, right? It's not showing\\
+anything.\\
+==== 1160701 ====
+I don't think the machine itself is on.\\
+==== 1160800 ====
+This monitor's not showing anything because\\
+the power isn't on.\\
+==== 1160900 ====
+Something's on the monitor...?\\
+==== 1160901 ====
+I think it's displaying the object it's going to\\
+make. It's a 3D printer after all.\\
+==== 1160902 ====
+Does that mean it's going to make it now?\\
+==== 1160903 ====
+I think so. Let's try it.\\
+==== 1160904 ====
+Looks like something came out!\\
+==== 1160905 ====
+So it made what was displayed on the\\
+monitor.\\
+==== 1161000 ====
+Something else appeared on the monitor!\\
+==== 1161001 ====
+Hm, is this...the same thing as before?\\
+==== 1161002 ====
+Um, it looks a little different to me.\\
+==== 1161003 ====
+Let's just try to make it.\\
+==== 1161004 ====
+Okay, it's all done.\\
+==== 1161005 ====
+I knew it, it IS different from the last one.\\
+==== 1161100 ====
+The monitor isn't displaying anything\\
+anymore.\\
+==== 1161200 ====
+This is the machine's output point.\\
+==== 1161201 ====
+Output? So something is going to come out of\\
+it?\\
+==== 1161202 ====
+We'll figure that out once we turn the power\\
+on.\\
+==== 1161300 ====
+So this is where the made objects come out\\
+from? I wonder what it'll make.\\
+==== 1161400 ====
+This is likely the output point of the printer. If\\
+we turn it on, something might come out.\\
+==== 1161401 ====
+Oh! What will it be?\\
+==== 1161402 ====
+Maybe we can control it with the monitor.\\
+Let's see.\\
+==== 1161500 ====
+Just waiting here isn't going to accomplish\\
+anything. Let's check the monitor.\\
+==== 1161600 ====
+A decagon part came out.\\
+==== 1161601 ====
+I was right. It is the output point of the\\
+printer.\\
+==== 1161602 ====
+I think we can still make something. How\\
+about we check the monitor.\\
+==== 1161700 ====
+The output point of the 3D printer. I think we\\
+can still make more things at the monitor.\\
+==== 1161800 ====
+This is where the reels came from.\\
+==== 1170100 ====
+What's this...? A card?\\
+==== 1170200 ====
+Oh, there's a card here too...\\
+==== 1170300 ====
+There's a card over here.\\
+==== 1170400 ====
+Another card.\\
+==== 1180100 ====
+This drawer doesn't open...\\
+==== 1180101 ====
+Then let's search someplace else.\\
+==== 1180200 ====
+It looks like this drawer doesn't open.\\
+There's no point to looking here anymore.\\
+==== 1190100 ====
+The alien civilization that created this\\
+transporter utilized 13 symbols, each one\\
+representing a number from 0 to 12.\\
+Their relationships are as follows:\\
+==== 1190200 ====
+In order to operate the nucleus, 4 cards must\\
+be placed on the sensor.\\
+\\
+The alien society has two methods for\\
+expressing numbers however.\\
+\\
+By converting the number (symbols)\\
+displayed by the nucleus to a second format,\\
+you will determine the correct cards to\\
+place.\\
+==== 1190300 ====
+The alien civilization lines up symbols as a\\
+means of multiplication, therefore the\\
+nucleus symbols must be multiplied together\\
+to obtain the answer.\\
+\\
+But what about the numbers in a column?\\
+==== 1190400 ====
+Humanity's use of 10 as a decimal base is\\
+simply because we have 10 fingers.\\
+\\
+The intelligent beings in this alternate world\\
+have 13 fingers and multiple arms.\\
+\\
+But then what exactly are the numbers for\\
+the other method based on?\\
+==== 2010100 ====
+This card is very mysterious... It's thin, and\\
+cold.\\
+==== 2010101 ====
+And really hard. Is that some kind of wind\\
+mark drawn on it?\\
+==== 2010200 ====
+It's a card with a wind mark.\\
+==== 2020100 ====
+What's the design on this card?\\
+==== 2020101 ====
+It could be a sun, if you use astrological\\
+symbols.\\
+==== 2020200 ====
+A card with a sun mark.\\
+==== 2030100 ====
+It's thin and strangely hard. A little cold... I\\
+think this is made from an unknown element.\\
+==== 2030101 ====
+The design looks like a crescent moon.\\
+==== 2030200 ====
+A card with a crescent moon mark.\\
+==== 2040100 ====
+I've never seen anything like this before...\\
+Maybe it really is from another dimension?\\
+==== 2040101 ====
+...We can't know that for sure. But I think this\\
+mark designates "human."\\
+==== 2040102 ====
+Does that mean people on the alien world\\
+also look like humans?\\
+==== 2040200 ====
+A card with a human mark.\\
+==== 2050100 ====
+This design looks like two crescent moons\\
+side by side.\\
+==== 2050101 ====
+I think it's either two moons, or a solar\\
+eclipse?\\
+==== 2050200 ====
+A card with a 2 crescent moons mark.\\
+==== 2060100 ====
+This looks a pentagram. This kind of mark is\\
+used all over the world, isn't it?\\
+==== 2060101 ====
+Right. It's one of the simplest diagrams for\\
+showing the relation between the 5 elements.\\
+==== 2060102 ====
+So even other worlds use this...\\
+==== 2060200 ====
+A card with a pentagram mark.\\
+==== 2070100 ====
+This is a human mark together with a moon\\
+mark.\\
+==== 2070101 ====
+This kind of looks like a powered up martial\\
+artist firing off a shockwave.\\
+==== 2070102 ====
+Uh, well, that's...a thought, sure. I wonder\\
+what it really represents.\\
+==== 2070200 ====
+A card with a human and crescent moon\\
+mark.\\
+==== 2080100 ====
+What's this...?\\
+==== 2080101 ====
+I'm not sure... A flower, maybe?\\
+==== 2080102 ====
+Flower... I guess now that you've said it, it\\
+does kind of look like one.\\
+==== 2080200 ====
+A card with a flower mark.\\
+==== 2090100 ====
+This is...three crescent moons together?\\
+==== 2090101 ====
+Maybe there are three moons in this "alien\\
+dimension."\\
+==== 2090200 ====
+A card with a 3 crescent moons mark.\\
+==== 2100100 ====
+This looks like two people next to each other.\\
+Just like the two of us right now.\\
+==== 2100101 ====
+...I wish one more was here.\\
+==== 2100102 ====
+Ah... I'm sorry. I didn't mean to imply...\\
+==== 2100200 ====
+A card with a 2 humans mark.\\
+==== 2110100 ====
+A crescent moon and a star.\\
+==== 2110101 ====
+I want to see the real night sky again...\\
+==== 2110102 ====
+Same here.\\
+==== 2110200 ====
+A card with a crescent moon and star mark.\\
+==== 2120100 ====
+What's this? It's not a human...right?\\
+==== 2120101 ====
+It looks like a bird and human hybrid. Like\\
+something from mythology.\\
+==== 2120200 ====
+A card with a birdman mark.\\
+==== 2130100 ====
+A human and two crescent moons... What\\
+could this be a symbol for?\\
+==== 2130101 ====
+ Maybe two nights passing?\\
+==== 2130102 ====
+This is kind of fun if we can imagine things\\
+like this.\\
+==== 2130200 ====
+A card with a human and 2 crescent moons\\
+mark.\\
+==== 2140100 ====
+Five decagon rings...\\
+==== 2140101 ====
+Each side has a mark like those cards.\\
+==== 2140200 ====
+A total of five decagon rings. Each side has a\\
+mark like the cards.\\
+==== 2150100 ====
+Four tridecagon rings...\\
+==== 2150101 ====
+Each side has a mark like those cards.\\
+==== 2150200 ====
+A total of four tridecagon rings. Each side\\
+has a mark like the cards.\\

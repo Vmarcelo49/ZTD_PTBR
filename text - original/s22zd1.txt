@@ -1,0 +1,1893 @@
+==== 3117 ====
+This room is...\\
+==== 3118 ====
+The Trash Disposal Room.\\
+==== 3119 ====
+Isn't that what it's called on the map?\\
+==== 3120 ====
+Wait, where's Phi...?\\
+==== 3121 ====
+I don't know...\\
+==== 3122 ====
+You don't know...?\\
+==== 3123 ====
+When I woke up, she was already gone.\\
+==== 3124 ====
+Maybe she managed to get out of this room.\\
+==== 3125 ====
+Do you think we can?\\
+==== 3126 ====
+It opened...\\
+==== 3127 ====
+Sigma! It opened!\\
+==== 3128 ====
+And?\\
+==== 3129 ====
+Er, um, well, I didn't really expect it to, so...\\
+==== 3130 ====
+Phi!\\
+==== 3131 ====
+What the hell are you doing in there?!\\
+==== 3132 ====
+Cutting my next album. What do you think I'm\\
+doing?!\\
+==== 3133 ====
+I'm locked in here!\\
+==== 3134 ====
+You're locked in...?\\
+==== 3135 ====
+Why...?\\
+==== 3136 ====
+How should I know?!\\
+==== 3137 ====
+This is where I was when I woke up!\\
+==== 3138 ====
+Stuck inside this incinerator!\\
+==== 3139 ====
+Hang on, we'll get you out now!\\
+==== 3140 ====
+Damn it, it's locked!\\
+==== 3141 ====
+Is there a keyhole?\\
+==== 3142 ====
+I don't see one.\\
+==== 3143 ====
+Probably an electronic lock.\\
+==== 3144 ====
+I've got a bad feeling about this...\\
+==== 3145 ====
+Incinerator startup...will now commence.\\
+==== 3146 ====
+Incineration in...thirty minutes.\\
+==== 3147 ====
+It's gonna be okay, Phi!\\
+==== 3148 ====
+Stay calm!\\
+==== 3149 ====
+You're the one flailing and freaking out here!\\
+==== 3150 ====
+Anyway, we have to do something!\\
+==== 3151 ====
+Either stop the incinerator startup...\\
+==== 3152 ====
+Or unlock the door...\\
+==== 3153 ====
+Okay, I'll see if I can do anything on this side!\\
+==== 3154 ====
+I'm counting on you!\\
+==== 3155 ====
+That should be my line!\\
+==== 3156 ====
+I'd like to avoid the worst sunburn of my life\\
+in here!\\
+==== 3157 ====
+Let's hurry!\\
+==== 3158 ====
+Right!\\
+==== 3159 ====
+It appears the preparations are complete.\\
+==== 3160 ====
+Zero...\\
+==== 3161 ====
+But first, I will tell you a story about the past.\\
+==== 3162 ====
+Seventeen years ago, a woman was killed.\\
+==== 3163 ====
+As a result, after a falsely accused man was\\
+sentenced to death,\\
+==== 3164 ====
+A taxi driver died in an accident along with\\
+his passenger, a surgeon.\\
+==== 3165 ====
+The child who awaited a critical operation\\
+also perished.\\
+==== 3166 ====
+Six people all together...\\
+==== 3167 ====
+Why did these six die?\\
+==== 3168 ====
+Because of a snail.\\
+==== 3169 ====
+A single, solitary snail took the lives of six\\
+people.\\
+==== 3170 ====
+No not just six...but six billion...\\
+==== 3171 ====
+Six billion people will lose their lives as a\\
+result of that lone snail.\\
+==== 3172 ====
+Life is simply unfair. Don't you think?\\
+==== 3174 ====
+Now then, to explain the rules.\\
+==== 3175 ====
+It should be clear that a revolver is set up\\
+beside the chair right now.\\
+==== 3176 ====
+It contains six rounds.\\
+==== 3177 ====
+Three are live, and three are blank, though\\
+they are randomized within the chamber.\\
+==== 3178 ====
+Pull the trigger, and the odds a live round will\\
+fire from the gun are six to three, or 50%. \\
+==== 3179 ====
+Oh, and the door to the incinerator...\\
+==== 3180 ====
+It automatically opens the moment it detects\\
+the sound of the revolver's discharge.\\
+==== 3181 ====
+Live round or blank, it doesn't matter which\\
+is fired.\\
+==== 3182 ====
+Three minutes remain until the incinerator\\
+fires.\\
+==== 3183 ====
+What will you do? Pull the trigger, or\\
+refrain...?\\
+==== 3184 ====
+Diana, both of their lives rest upon your\\
+decision.\\
+==== 3185 ====
+Shit! Goddammit!\\
+==== 3186 ====
+There's no time, Diana.\\
+==== 3187 ====
+Pull the trigger.\\
+==== 3188 ====
+What...?!\\
+==== 3189 ====
+Logically, which one has more to gain?\\
+==== 3190 ====
+If we don't pull that trigger,\\
+==== 3191 ====
+I'd obviously stay alive. My chance at\\
+survival would clearly be 100%.\\
+==== 3192 ====
+But then it'd guarantee Phi's death, as her\\
+survival rate would be 0.\\
+==== 3193 ====
+What happens if we do pull it then?\\
+==== 3194 ====
+The incinerator door would open, and Phi\\
+escapes.\\
+==== 3195 ====
+Chance of survival - 100%.\\
+==== 3196 ====
+And this choice still allows for the possibility\\
+that I may live.\\
+==== 3197 ====
+A blank round, and my head doesn't\\
+suddenly have a new hole.\\
+==== 3198 ====
+It's 50:50.\\
+==== 3199 ====
+So you understand, right?\\
+==== 3200 ====
+It's either "100 and 0" or "100 and 50." It's\\
+obvious which one is the wiser choice.\\
+==== 3201 ====
+Who the hell cares about logic?! You're\\
+acting like you want to die!\\
+==== 3202 ====
+How dare you not even consider everyone\\
+else's feelings, Sigma!\\
+==== 3203 ====
+What if the shot is a live bullet?!\\
+==== 3204 ====
+Do you really want Diana to end up blowing\\
+your head off with her own hands?!\\
+==== 3205 ====
+You think she'd be able to handle that?!\\
+==== 3206 ====
+Use your brain and think about everyone\\
+you'd leave behind!\\
+==== 3207 ====
+But Phi... If I don't pull the trigger, you'll...\\
+==== 3208 ====
+Don't worry about me...\\
+==== 3209 ====
+No...\\
+==== 3210 ====
+Diana, please, listen to me.\\
+==== 3211 ====
+What would be the most ideal outcome from\\
+this?\\
+==== 3212 ====
+Isn't it obvious?\\
+==== 3213 ====
+That both of you stay alive.\\
+==== 3214 ====
+Okay, then think. Which one of those choices\\
+has that result as a possibility?\\
+==== 3215 ====
+If you don't pull it at all, one of us will\\
+definitely die.\\
+==== 3216 ====
+If you really want to save both of us–\\
+==== 3217 ====
+I'll have to...pull the trigger...\\
+==== 3218 ====
+Diana, no!\\
+==== 3219 ====
+You shut up!\\
+==== 3220 ====
+Incineration begins in...twenty seconds.\\
+==== 3221 ====
+Don't worry. Just trust me.\\
+==== 3222 ====
+No! Don't do it!\\
+==== 3223 ====
+Incinerator door...is open.\\
+==== 3224 ====
+Incineration process...terminated.\\
+==== 3225 ====
+Sigma...\\
+==== 3226 ====
+Sigma!\\
+==== 3227 ====
+Hey! You all right?! Are you hurt?\\
+==== 3228 ====
+Ow...\\
+==== 3229 ====
+Huh...?\\
+==== 3230 ====
+Damn, my ears really hurt. They're killing\\
+me...\\
+==== 3231 ====
+That might've ruptured my eardrum...\\
+==== 3233 ====
+What the hell were you thinking, Diana?! Why\\
+did you pull that trigger?\\
+==== 3234 ====
+We got lucky that it was a blank, but if it'd\\
+been live, then Sigma–\\
+==== 3235 ====
+Hey, it's all right. Everything turned out fine.\\
+==== 3236 ====
+It is not fine!\\
+==== 3237 ====
+There's no way I'll accept that the end\\
+justified the means!\\
+==== 3238 ====
+Listen, Sigma!\\
+==== 3239 ====
+Diana made the decision. It was her choice to\\
+pull that trigger!\\
+==== 3240 ====
+That means she didn't care that there was a\\
+50% chance you'd die!\\
+==== 3241 ====
+So, where are you going with this?\\
+==== 3242 ====
+It was to save you...\\
+==== 3243 ====
+And she did. She saved your life.\\
+==== 3244 ====
+Hell, you should probably be thanking her.\\
+==== 3245 ====
+I didn't ask for any help...\\
+==== 3246 ====
+Someone's not being honest...\\
+==== 3247 ====
+No, I really–!\\
+==== 3248 ====
+Now announcing...the current casualties...\\
+==== 3249 ====
+Q-Team: Q, Mira, Eric\\
+==== 3250 ====
+These three are now deceased.\\
+==== 3251 ====
+As a result...three X-Passes...will be\\
+revealed.\\
+==== 3252 ====
+EYE... KILL... FOOL...\\
+==== 3253 ====
+That is all.\\
+==== 3254 ====
+Damn. I can't believe it...\\
+==== 3255 ====
+So, because of the vote at 13:30...they were\\
+executed...\\
+==== 3256 ====
+But, even Q...?\\
+==== 3257 ====
+He had to deal with a handicap...\\
+==== 3258 ====
+He probably didn't even realize something\\
+was wrong...\\
+==== 3260 ====
+What the heck. What is this?!\\
+==== 3261 ====
+Take it off! I said take it off!\\
+==== 3262 ====
+AUGH! OPEN DAMN IIIT!\\
+==== 3264 ====
+May you rest in peace.\\
+==== 3265 ====
+Mors certa, hora incerta.\\
+==== 3266 ====
+AHHHH!\\
+==== 3268 ====
+Wh-What's wrong, Diana?!\\
+==== 3270 ====
+You too...?\\
+==== 3271 ====
+What's going–\\
+==== 3273 ====
+What...\\
+==== 3274 ====
+What's...happening...\\
+==== 3275 ====
+I think...we were poisoned...\\
+==== 3276 ====
+Poisoned?!\\
+==== 3277 ====
+Probably while...we were asleep...\\
+==== 3278 ====
+Why...?\\
+==== 3279 ====
+Who really cares right now...\\
+==== 3280 ====
+We only...\\
+==== 3281 ====
+We only need to save...\\
+==== 3282 ====
+Gab...!\\
+==== 3283 ====
+Wait...\\
+==== 3284 ====
+These are...\\
+==== 3285 ====
+Yes...\\
+==== 3286 ====
+We're... We're saved...!\\
+==== 3287 ====
+These are the antidote...!\\
+==== 3288 ====
+Gab... He brought us the antidote!\\
+==== 3289 ====
+Come on... Let's drink these...\\
+==== 3290 ====
+Wait, hold on...\\
+==== 3291 ====
+What did it say on the note...?\\
+==== 3292 ====
+"These are the antidote. Please drink them.\\
+Akane."\\
+==== 3293 ====
+It's fine. It's from Akane...\\
+==== 3294 ====
+We can trust her...\\
+==== 3295 ====
+The handwriting is definitely hers...\\
+==== 3296 ====
+Carlos could've threatened her to write it...\\
+==== 3297 ====
+What are you trying to say...?\\
+==== 3298 ====
+When we voted, Carlos chose Q-Team...\\
+==== 3299 ====
+Their note said that they'd vote for D-Team...\\
+==== 3300 ====
+Then that whole note...was a lie...?\\
+==== 3301 ====
+I don't know...\\
+==== 3302 ====
+But it's not a stretch to imagine that Carlos\\
+intends to kill all of us...\\
+==== 3303 ====
+He what...?\\
+==== 3304 ====
+If we get knocked off, then C-Team can get\\
+out of here...\\
+==== 3305 ====
+So you're saying that these aren't an\\
+antidote, but...\\
+==== 3306 ====
+Exactly. They might be poison...\\
+==== 3307 ====
+No, I can't believe that...\\
+==== 3308 ====
+We already had a concoction pumped into our\\
+veins that's killing us...\\
+==== 3309 ====
+Why bother doubling down on the poison...\\
+==== 3310 ====
+Let's count on C-Team...\\
+==== 3311 ====
+Regardless, if we don't do anything we'll–\\
+==== 3313 ====
+You choose...Diana...\\
+==== 3314 ====
+Huh...?\\
+==== 3315 ====
+You saved all of us before...\\
+==== 3316 ====
+I'll trust you to do it...\\
+==== 3317 ====
+But...\\
+==== 3318 ====
+I...\\
+==== 3319 ====
+I'm going to trust in C-Team, too!\\
+==== 3320 ====
+Let's drink them!\\
+==== 3321 ====
+I still don't get it.\\
+==== 3322 ====
+What in the world is C-Team thinking?\\
+==== 3323 ====
+Did they have a fight...?\\
+==== 3324 ====
+You mean Akane and Carlos took opposite\\
+stances...?\\
+==== 3325 ====
+That's the only explanation that makes\\
+sense.\\
+==== 3326 ====
+Akane sent Gab with the antidote in order to\\
+save us.\\
+==== 3327 ====
+But that would've been an incredibly\\
+unfavorable outcome for Carlos.\\
+==== 3328 ====
+If that wasn't what he wanted, then he\\
+wouldn't have voted for Q-Team.\\
+==== 3329 ====
+Aren't you thinking too hard?\\
+==== 3330 ====
+I really doubt that Carlos intended for Q-Team\\
+to be executed.\\
+==== 3331 ====
+How can you be so sure?\\
+==== 3332 ====
+He's an honorable firefighter who saves\\
+lives.\\
+==== 3333 ====
+Simpleminded as always.\\
+==== 3334 ====
+We've only known and lived with him for five\\
+days...\\
+==== 3335 ====
+How could we have any idea what he's\\
+thinking?\\
+==== 3336 ====
+No, it's not an issue of time.\\
+==== 3337 ====
+It's just not that easy to see a person's true\\
+self.\\
+==== 3338 ====
+Even yours, Phi?\\
+==== 3339 ====
+Yeah...\\
+==== 3340 ====
+Does that mean you're hiding something from\\
+us?\\
+==== 3341 ====
+Yes.\\
+==== 3342 ====
+What is it?\\
+==== 3343 ====
+Don't laugh, okay?\\
+==== 3344 ====
+My hair is...actually red.\\
+==== 3346 ====
+I said not to laugh!\\
+==== 3347 ====
+But, I mean...\\
+==== 3348 ====
+It's a big deal for me okay? I have a complex\\
+over it!\\
+==== 3349 ====
+So that color...\\
+==== 3350 ====
+It's dyed.\\
+==== 3351 ====
+I figured I may as well make it something\\
+unique.\\
+==== 3352 ====
+Well, I'm a redhead, too.\\
+==== 3353 ====
+Yeah...\\
+==== 3354 ====
+You're being rude to Diana.\\
+==== 3355 ====
+Well, it looks good on her, of course.\\
+==== 3356 ====
+I mean, try to picture it.\\
+==== 3357 ====
+My face...but with red hair.\\
+==== 3358 ====
+I think it'd be super cute...\\
+==== 3359 ====
+Hmm, not too bad.\\
+==== 3360 ====
+It'd be a good look for you.\\
+==== 3361 ====
+Ah good. It seems you three are okay.\\
+==== 3362 ====
+Zero...\\
+==== 3363 ====
+It's good for you to rejoice while you can.\\
+==== 3364 ====
+You can look forward to a dark future ahead.\\
+==== 3365 ====
+What does that mean...\\
+==== 3366 ====
+Now, it is time for you to sleep.\\
+==== 3367 ====
+When next you wake, know that you will have\\
+no memory of these past ninety minutes.\\
+==== 3368 ====
+Pleasant dreams...\\
+==== 3369 ====
+Diana...! What are you doing...?!\\
+==== 3370 ====
+I think Phi...was right about them...\\
+==== 3371 ====
+There's...poison...in the vials...\\
+==== 3372 ====
+Then what the hell would you call the reason\\
+we're writhing and groaning...?\\
+==== 3373 ====
+Maybe it's some kind of...pain drug...\\
+==== 3374 ====
+It shouldn't kill us...if...we just...\\
+==== 3375 ====
+Incinerator door...is open.\\
+==== 3376 ====
+Incineration process...terminated.\\
+==== 3377 ====
+No... It can't be...\\
+==== 3378 ====
+Why?! Why did you do it?!\\
+==== 3379 ====
+You murderer! Murderer!\\
+==== 3380 ====
+I wasn't... I didn't matter at all!\\
+==== 3381 ====
+I didn't...! I didn't...!\\
+==== 3382 ====
+So why... Why did you...\\
+==== 3384 ====
+Please wait for me...Sigma...\\
+==== 3385 ====
+I'll be joining you...soon...\\
+==== 3386 ====
+Wait, Diana! Stop!\\
+==== 3387 ====
+Diana... Diana...\\
+==== 3389 ====
+Incineration...commencing.\\
+==== 3390 ====
+Come on! Stop this! Please!\\
+==== 3391 ====
+Zero! Zero! You can hear me, right?!\\
+==== 3392 ====
+I don't care what happens to me!\\
+==== 3393 ====
+So please!\\
+==== 3394 ====
+Save Phi! Just save Phi!\\
+==== 3395 ====
+That's all I needed to hear from you, Sigma.\\
+==== 3396 ====
+Thank you.\\
+==== 3397 ====
+Phi...\\
+==== 3398 ====
+And Diana, you can't blame yourself. No\\
+matter what.\\
+==== 3399 ====
+You made the right decision.\\
+==== 3400 ====
+It's weird, but...I feel like we'll see each\\
+other again.\\
+==== 3401 ====
+So I'm not going to say good-bye.\\
+==== 3402 ====
+I want the two of you to keep on living.\\
+==== 3403 ====
+I love you...\\
+==== 3404 ====
+Phi...\\
+==== 3406 ====
+Incineration...complete.\\
+==== 3407 ====
+Door...now opening.\\
+==== 3408 ====
+Phi...?\\
+==== 3409 ====
+What are you doing over here?\\
+==== 3410 ====
+I just wanted to be alone for a while.\\
+==== 3411 ====
+Something the matter?\\
+==== 3412 ====
+No, not really...\\
+==== 3413 ====
+It's been three days since I came to Dcom...\\
+==== 3414 ====
+But nothing's happened. Nothing strange at\\
+all...\\
+==== 3415 ====
+Um, isn't that a good thing?\\
+==== 3416 ====
+What's that?\\
+==== 3417 ====
+It's a memento from my mother...I think.\\
+==== 3418 ====
+You're not sure?\\
+==== 3419 ====
+An old couple raised me. They were\\
+researchers.\\
+==== 3420 ====
+But we weren't related by blood at all...\\
+==== 3421 ====
+They were your foster parents...?\\
+==== 3422 ====
+They told me what happened.\\
+==== 3423 ====
+They said that my mother died immediately\\
+after giving birth to me...\\
+==== 3424 ====
+And she left me this brooch...\\
+==== 3425 ====
+I...see...\\
+==== 3426 ====
+What about your father...?\\
+==== 3427 ====
+I don't know. There aren't any leads either...\\
+==== 3428 ====
+Oh, I think I see something written on the\\
+back of this?\\
+==== 3429 ====
+It's Latin.\\
+==== 3430 ====
+What does it mean?\\
+==== 3431 ====
+"Not even Jupiter can find a lost opportunity."\\
+==== 3432 ====
+What was my mother trying to tell me? I've\\
+thought about it for so long.\\
+==== 3433 ====
+Maybe there's no specific point to it at all.\\
+==== 3434 ====
+But, I still feel like I'm missing some kind of\\
+important message within it...\\
+==== 3435 ====
+"Not even gods can return to the past, so live\\
+in the moment so you have no regrets."\\
+==== 3436 ====
+That's not the right interpretation?\\
+==== 3437 ====
+Well, if you take it at face value.\\
+==== 3438 ====
+I guess that'd make sense, if I was a normal\\
+human being.\\
+==== 3439 ====
+Does that mean that you're not?\\
+==== 3440 ====
+Hey, Diana. I want to ask you something...\\
+==== 3441 ====
+Would you mind...giving me a hug?\\
+==== 3442 ====
+...Huh?\\
+==== 3443 ====
+I'm just...really tired...\\
+==== 3444 ====
+Thanks...\\
+==== 3445 ====
+This feels...really relaxing...\\
+==== 3446 ====
+If this is all you need, then it's no problem...\\
+==== 3447 ====
+Could we maybe...stay like this for a while?\\
+==== 3448 ====
+I don't mind.\\
+==== 3449 ====
+Hey, this isn't normal, right?\\
+==== 3450 ====
+It is.\\
+==== 3451 ====
+You're a completely normal girl, Phi.\\
+==== 3452 ====
+You're really nice...\\
+==== 3453 ====
+People tell me it's a fault of mine.\\
+==== 3454 ====
+Thanks...\\
+==== 3455 ====
+You already said that.\\
+==== 3456 ====
+Okay. Goodnight, then...\\
+==== 3457 ====
+Goodnight, Phi.\\
+==== 3460 ====
+Now announcing...the current casualties...\\
+==== 3461 ====
+D-Team: Phi\\
+==== 3462 ====
+Q-Team: Q, Mira, Eric\\
+==== 3463 ====
+These four are now deceased.\\
+==== 3464 ====
+As a result...four X-Passes...will be\\
+revealed.\\
+==== 3465 ====
+FUTURE...EYE... KILL... FOOL...\\
+==== 3466 ====
+That is all.\\
+==== 3467 ====
+Q-Team, huh...\\
+==== 3468 ====
+They must've been executed... The vote at\\
+13:30...\\
+==== 3469 ====
+Stabbed us in the back, huh Carlos...\\
+==== 3470 ====
+Plans are proceeding smoothly.\\
+==== 3471 ====
+And it's all thanks to you, Diana.\\
+==== 3472 ====
+Zero...\\
+==== 3473 ====
+Now, it is time for you to sleep.\\
+==== 3474 ====
+When next you wake, know that you will have\\
+no memory of these past ninety minutes.\\
+==== 3475 ====
+Pleasant dreams...\\
+==== 7891 ====
+Would you stop talking nonsense!\\
+==== 7892 ====
+Zero! You won't get away with this! I swear\\
+I'll...!\\
+==== 7893 ====
+May you rest in peace.\\
+==== 7894 ====
+Plaudite, acta est fabula.\\
+==== 7895 ====
+NOOOOOO!\\
+==== 7897 ====
+What's wrong?! You okay?!\\
+==== 7898 ====
+We're alive...\\
+==== 7899 ====
+Huh...?\\
+==== 7900 ====
+We really are alive, right...?\\
+==== 7901 ====
+Hey. Are you sure you're all right...?\\
+==== 7902 ====
+It was...a bad dream.\\
+==== 7903 ====
+What happened...?\\
+==== 7904 ====
+Our necks...\\
+==== 7905 ====
+No, never mind.\\
+==== 13163 ====
+his wife took her own life.\\
+==== 1010100 ====
+This door isn't locked, so we can go into the\\
+hall whenever we want, but...\\
+==== 1010101 ====
+No way we're abandoning Phi! We have to stop\\
+the process or open the incinerator door!\\
+==== 1010200 ====
+It's not locked, but this isn't the time to\\
+leave!\\
+==== 1010300 ====
+It's not locked, but leaving won't help... The\\
+time remaining is... Oh, for crying out loud!\\
+==== 1020100 ====
+This is...oh, I get it. This shows how trash is\\
+categorized.\\
+==== 1020101 ====
+We could put Phi under the– Gah, this is no\\
+time for jokes!\\
+==== 1020102 ====
+...Let's just hurry and save her.\\
+==== 1020200 ====
+This poster shows how trash is categorized.\\
+==== 1020300 ====
+Oh! There are letters floating above the\\
+poster!\\
+==== 1020301 ====
+...Huh? Where?\\
+==== 1020302 ====
+Right here. The "tic" in "plastic" is circled and\\
+in big letters.\\
+==== 1020303 ====
+Ah, you must be able to see that because of\\
+the goggles you have on.\\
+==== 1020304 ====
+I think you call this...augmented reality? But\\
+why do only these letters appear?\\
+==== 1020400 ====
+I can see "tic" floating in the air while I have\\
+the goggles on.\\
+==== 1020401 ====
+If it's such a big effort to see it, it must be\\
+some sort of hint.\\
+==== 1020500 ====
+Some letters are floating when I look through\\
+the goggles.\\
+==== 1020501 ====
+Right. Maybe it's some kind of hint...\\
+==== 1020502 ====
+Let's look at it again if we forget.\\
+==== 1020600 ====
+Some letters are floating on the poster when\\
+I use the goggles to look at it.\\
+==== 1020700 ====
+The letters I saw were the hint to open the\\
+shutter.\\
+==== 1020800 ====
+This is the poster categorizing trash, and...\\
+Augh, why am I even looking at this!\\
+==== 1020900 ====
+It's a poster about the categories for trash.\\
+==== 1021000 ====
+With the goggles on, I can see "tic" floating\\
+in the air here.\\
+==== 1021001 ====
+Hm. This appears to be some kind of\\
+augmented reality tech.\\
+==== 1021002 ====
+And it was the hint for opening the shutter.\\
+==== 1030100 ====
+I think there's something in the box hanging\\
+from the ceiling.\\
+==== 1030101 ====
+That's... I think it's a revolver. If it's real,\\
+maybe we can use it for something.\\
+==== 1030102 ====
+But we can't reach it from here.\\
+==== 1030103 ====
+Right. And even if we got to it, there's a\\
+padlock on it. Hmm, what should we do...\\
+==== 1030200 ====
+I think there's a revolver in the box, but we\\
+can't reach it and it has a padlock...\\
+==== 1030300 ====
+This was hanging from the ceiling. I could\\
+maybe use the gun if I can get it out...!\\
+==== 1040100 ====
+I wonder if there's something we can use\\
+inside this locker...\\
+==== 1040200 ====
+It's a toolbox!\\
+==== 1040300 ====
+Is this a mask...with goggles?\\
+==== 1040400 ====
+There isn't anything else here that we can\\
+use.\\
+==== 1050100 ====
+This looks like a dust chute.\\
+==== 1050101 ====
+If it is, do you think it's connected to the\\
+inside of the incinerator?\\
+==== 1050102 ====
+Possibly, but it looks like it's locked...\\
+==== 1050103 ====
+Oh, I think we can input some numbers here.\\
+==== 1050200 ====
+Hmm... Well, let's try something else.\\
+==== 1050300 ====
+Hey Sigma, over here! I can see some images\\
+in the air!\\
+==== 1050301 ====
+What are they?\\
+==== 1050302 ====
+Um... A screwdriver and two screws, I think.\\
+==== 1050303 ====
+Maybe it's some sort of clue. Let's take note\\
+of it.\\
+==== 1050304 ====
+I think we can put some numbers in here. Why\\
+don't we give it a try?\\
+==== 1050400 ====
+I can see a screwdriver and two screws.\\
+==== 1050401 ====
+And we can put some numbers in here. Let's\\
+try it again.\\
+==== 1050500 ====
+I saw a screwdriver and screws when I had\\
+the goggles on.\\
+==== 1050501 ====
+Maybe they have something to do with the\\
+number that goes here... Let's give it a try.\\
+==== 1050600 ====
+Let's try it again.\\
+==== 1050700 ====
+Oh... I guess that was right. I just put\\
+something in randomly...\\
+==== 1050701 ====
+The result is all that matters. We'll just take\\
+it as good luck.\\
+==== 1050702 ====
+I guess... And now we can send things to the\\
+other side! A step forward!\\
+==== 1050800 ====
+Oh, it's open! I knew these were the correct\\
+numbers!\\
+==== 1050801 ====
+Well done. Now we can send things to the\\
+other side.\\
+==== 1050900 ====
+U-Um... Guessing won't work, I suppose.\\
+==== 1050901 ====
+We don't have enough information yet. Let's\\
+look for a hint.\\
+==== 1051000 ====
+That wasn't it... It must have something to do\\
+with the screwdriver and screws I saw...\\
+==== 1051001 ====
+Then that means we don't have enough\\
+information. We can't get lucky every time.\\
+==== 1051002 ====
+You're right. Let's search around for more\\
+clues to open this.\\
+==== 1051100 ====
+Huh. I guess that was wrong... A three digit\\
+number...\\
+==== 1051101 ====
+If it's numbers, then does the "g" there stand\\
+for a unit of measurement?\\
+==== 1051102 ====
+Oh, so "g" is for grams then?\\
+==== 1051200 ====
+Wrong again. If "g" is grams, then we should\\
+be entering a weight here.\\
+==== 1051201 ====
+How about we input the weight of the objects\\
+you saw with the goggles on?\\
+==== 1051202 ====
+The weight... Do you think Phi would know\\
+something?\\
+==== 1051300 ====
+I think we can send items to the other side\\
+using this dust chute.\\
+==== 1051400 ====
+Phi! I'm dropping the gas torch into the dust\\
+chute! Please take it!\\
+==== 1051401 ====
+Got it...!\\
+==== 1051500 ====
+Let's get this toolbox to Phi.\\
+==== 1051501 ====
+Yeah. She should be able to open it since she\\
+has a screwdriver over there.\\
+==== 1051502 ====
+Phi! I'm sending the toolbox down the chute.\\
+Please take it!\\
+==== 1051503 ====
+Got it!\\
+==== 1051600 ====
+Oh, the goggles don't fit in the chute...\\
+==== 1051601 ====
+They look too big.\\
+==== 1051700 ====
+Hey Phi! Do you want this coin?\\
+==== 1051701 ====
+No!\\
+==== 1051702 ====
+Okay!\\
+==== 1051800 ====
+I don't think we need to send this coin to Phi.\\
+She told us she doesn't want it.\\
+==== 1052000 ====
+Oh! If I hold onto the chain and drop this down,\\
+I'll be able to pull it back up!\\
+==== 1052001 ====
+Phi, I'm dropping the box down! Could you\\
+open the lock for us?!\\
+==== 1052002 ====
+All right, I'm on it!\\
+==== 1052003 ====
+...But just how am I gonna open it. Let me just\\
+examine it first.\\
+==== 1052100 ====
+Whoa, hold on! I can't send this gun through!\\
+I need to see if I can use it on this side...\\
+==== 1052200 ====
+If I pull the chain up, I can get the gun!\\
+==== 1052300 ====
+I-I should...send Phi what...she needs...\\
+Anything... W-Was there anything else...\\
+==== 1052400 ====
+This is not the time for sending things over...!\\
+==== 1052500 ====
+Phi! I'm dropping something down the dust\\
+chute! Please take it!\\
+==== 1052501 ====
+Chute...? Sorry, I can't see my hand in front\\
+of my face in here. It's too dark!\\
+==== 1052502 ====
+Can you see about making it brighter in here\\
+first?\\
+==== 1052600 ====
+We can send things to Phi with this, but we\\
+better make it brighter in there first...\\
+==== 1052700 ====
+Should we send the toolbox to Phi?\\
+==== 1052701 ====
+Yeah. We don't have a screwdriver here, so\\
+let's see if she can get it open...\\
+==== 1052702 ====
+Phi! I'm dropping a toolbox down the chute!\\
+Please take it!\\
+==== 1052703 ====
+Got it!\\
+==== 1052800 ====
+This toolbox... I wonder if Phi could open it...\\
+==== 1052801 ====
+Phi! I'm dropping a toolbox down the chute!\\
+Please take it!\\
+==== 1052802 ====
+Got it!\\
+==== 1052900 ====
+...It's not opening. It looks like it's locked.\\
+==== 1053000 ====
+These goggles are showing me a screwdriver\\
+and some screws here.\\
+==== 1053001 ====
+Maybe that's the hint to opening it...?\\
+==== 1053002 ====
+Oh, well, we opened it already. I guess it\\
+doesn't matter now.\\
+==== 1053100 ====
+The goggles are too large to fit down the\\
+chute!\\
+==== 1060100 ====
+There are a bunch of meters here.\\
+==== 1060101 ====
+Is this a thermometer? It must measure the\\
+temperature inside the incinerator...\\
+==== 1060102 ====
+Is that a coin at the base of the needle...?\\
+Why would it be there?\\
+==== 1060200 ====
+This is probably a thermometer. There's a\\
+coin at the base of the needle.\\
+==== 1060300 ====
+Oh, the coin came off.\\
+==== 1060400 ====
+It's a thermometer. I don't think we can\\
+change it anymore.\\
+==== 1060500 ====
+A thermometer... This isn't going to help me!\\
+Oh! I need to hurry and do something!\\
+==== 1070100 ====
+...Huh. I think moving this slider changes the\\
+letter.\\
+==== 1070101 ====
+I wonder what it's for?\\
+==== 1070102 ====
+Maybe getting the correct combination will\\
+stop the incineration... Ah, not likely.\\
+==== 1070103 ====
+But it's still worth a shot to see if it does.\\
+==== 1070200 ====
+Hmm... Let's try this again?\\
+==== 1070300 ====
+I think the letters can be changed on this\\
+meter.\\
+==== 1070301 ====
+Yeah, it looks like we need to use the sliders.\\
+==== 1070302 ====
+Three letters... I feel like I just saw them\\
+somewhere.\\
+==== 1070400 ====
+Let's try this again.\\
+==== 1070500 ====
+Oooh, I've had enough! How about...this!\\
+==== 1070501 ====
+Oh, the shutter opened!\\
+==== 1070502 ====
+What? How'd you know the answer? It\\
+couldn't be a coincidence...\\
+==== 1070503 ====
+But it was... I just got lucky. I didn't expect it\\
+to open either...\\
+==== 1070504 ====
+I-I see... What are the chances, huh?\\
+==== 1070505 ====
+Okay, now it's brighter in here! I'll look for\\
+something... Uh, guys? You okay?\\
+==== 1070600 ====
+Er, this SHOULD be the right answer...\\
+==== 1070601 ====
+Good job. The shutter opened.\\
+==== 1070602 ====
+I did it!\\
+==== 1070603 ====
+Now that I can see in here, I'll try to look for\\
+something useful.\\
+==== 1070700 ====
+Hmm... Well, that was wrong...\\
+==== 1070701 ====
+I don't think we have all the information. We\\
+need to find a clue first...\\
+==== 1070800 ====
+Oh, that's wrong again...\\
+==== 1070801 ====
+Three letters... We better look around for\\
+more clues.\\
+==== 1070900 ====
+Huh, I guess that was wrong.\\
+==== 1070901 ====
+Three letters... You saw them before, right?\\
+==== 1070902 ====
+Yes, I saw them.... Um...\\
+==== 1071000 ====
+I got it wrong...again.\\
+==== 1071001 ====
+Hey, didn't you see something while wearing\\
+those goggles? Over at the poster...\\
+==== 1071002 ====
+Oh yes, it had three letters on it! Let's go\\
+look at it again.\\
+==== 1071100 ====
+We don't really need to mess with this again.\\
+==== 1071200 ====
+We already did this one... Next!\\
+==== 1080100 ====
+Phi is over on the other side of this shutter...\\
+==== 1080101 ====
+I don't think we can use our hands to open\\
+this... But Phi should see better once it is.\\
+==== 1080200 ====
+We can't open the shutter with our bare\\
+hands. We need to find a way to get it open...\\
+==== 1080300 ====
+We can see Phi from here. HEY! ARE YOU\\
+OKAY?!\\
+==== 1080301 ====
+Damn you, Zero. She looks so nervous locked\\
+in a place like that! I have to get her out!\\
+==== 1080302 ====
+Right! We have to either find her a way out or\\
+stop the incineration process!\\
+==== 1080303 ====
+Hey, uh, I can't really hear you guys, but could\\
+you get your butts moving and do something?!\\
+==== 1080400 ====
+Phi... We need to get her out of there.\\
+==== 1080500 ====
+Phi and Sigma can't move at all right now...\\
+I... It's all up to me!\\
+==== 1090100 ====
+Phi, are you all right?\\
+==== 1090101 ====
+You can see I'm just fine. The stench from the\\
+trash pile in the back is gagging me though.\\
+==== 1090102 ====
+Thank God... We need to get you out quick...\\
+Have you found anything helpful over there?\\
+==== 1090103 ====
+Nothing yet. It's too dark to look around. Can\\
+you see if you can make it brighter in here?\\
+==== 1090104 ====
+Okay, got it. We'll see what we can do.\\
+==== 1090200 ====
+Phi, did you find anything?\\
+==== 1090201 ====
+No... But I can do a more thorough search if\\
+you can get the lights on in here...\\
+==== 1090300 ====
+How are you doing over there, Phi?\\
+==== 1090301 ====
+All right. I'm looking around on this side.\\
+==== 1090400 ====
+Phi! Have you found something over there?!\\
+==== 1090401 ====
+No, I think that's everything on this side...\\
+Dammit, there's no time...!\\
+==== 1090500 ====
+What should I do... The time is...! Phi, did you\\
+find anything in there?!\\
+==== 1090501 ====
+Did you pull the box up? See if the gun can do\\
+anything!\\
+==== 1090502 ====
+O-Okay!\\
+==== 1090600 ====
+What should I... Phi! Have you... Did you find\\
+anything?!\\
+==== 1090601 ====
+Calm down, Diana. You have the gun there,\\
+right? See if it can do anything!\\
+==== 1090602 ====
+Gun... Okay, use the gun. Yes, okay, but on\\
+what...\\
+==== 1090700 ====
+What should I do with this gun...!\\
+==== 1090701 ====
+Diana! There's no time! Look around carefully,\\
+there must be something left!\\
+==== 1100100 ====
+...Is this a gas torch?\\
+==== 1110100 ====
+The door's locked, but there's no keyhole...\\
+Probably an electronic lock.\\
+==== 1110101 ====
+This door connects to the incinerator, right?\\
+If we can open it, then Phi can...\\
+==== 1110200 ====
+The door connects to the incinerator... It's\\
+locked.\\
+==== 1110300 ====
+Open... Please open! Hurry! Or they're going\\
+to...to...!\\
+==== 1120100 ====
+What's this...? Is that a button?\\
+==== 1120101 ====
+Hmm, looks like it. There are four screws\\
+holding the cover in place.\\
+==== 1120200 ====
+We can see a button here, but the cover over\\
+it is screwed on...\\
+==== 1120300 ====
+Oh, could we use this coin to unscrew it...?\\
+==== 1120301 ====
+Yes! They're off!\\
+==== 1120302 ====
+Seems like we didn't need a screwdriver\\
+after all.\\
+==== 1120400 ====
+There's a button under the cover, but we\\
+have to take the screws out first.\\
+==== 1120401 ====
+We don't have a screwdriver here... Could we\\
+use something else to take them off?\\
+==== 1130100 ====
+We removed the cover, but...should we really\\
+up and press this button so carelessly...\\
+==== 1130101 ====
+I'd like for a tiny guillotine to come out when\\
+you push it and chop off your hand...\\
+==== 1130102 ====
+Wh-What...?! I-I'm going to forget you said\\
+that thank you very much. I'm pushing it!\\
+==== 1130103 ====
+Oh good, my hand's still intact.\\
+==== 1130104 ====
+Something came out of the floor. What is it?\\
+It kind of looks like a chair from here.\\
+==== 1130200 ====
+Pushing the button again doesn't lower the\\
+chair.\\
+==== 1130300 ====
+Maybe this button releases the restraints...\\
+Of course it doesn't! Come ON!\\
+==== 1140100 ====
+Hm? The floor isn't level here. Like it could\\
+open up.\\
+==== 1140101 ====
+Maybe it's a trap?\\
+==== 1140102 ====
+...We better not stand on it if we can help it.\\
+==== 1140200 ====
+There's a section of the floor that isn't\\
+level. Does it mean something?\\
+==== 1150100 ====
+This is a chair...isn't it? We should try sitting\\
+on it.\\
+==== 1150101 ====
+Wha– Hey! Don't be hasty!\\
+==== 1150102 ====
+...Nothing's happening.\\
+==== 1150103 ====
+I-I see. It's harmless... Why is it here, then?\\
+==== 1150104 ====
+Do you want to try it out, too? It's a little\\
+hard though.\\
+==== 1150105 ====
+Eh, sure. Maybe we can figure something out\\
+by sitting on it...\\
+==== 1150106 ====
+Uh.\\
+==== 1150107 ====
+What?!\\
+==== 1150108 ====
+Wh-What the hell! I can't move!\\
+==== 1150109 ====
+Incineration in...three minutes.\\
+==== 1150110 ====
+What?! Hey Sigma! Diana! What the hell's\\
+going on!\\
+==== 1150111 ====
+I think we tripped something! I'm restrained,\\
+but Diana's fine!\\
+==== 1150112 ====
+What did you say?!\\
+==== 1150113 ====
+N-No... Why did it... It was fine when I sat on\\
+it, so why...?!\\
+==== 1150114 ====
+Take a deep breath, Diana. We can get past\\
+this if we just deal with it calmly.\\
+==== 1150115 ====
+Urg... O-Okay...hold on! I'll find a way to get\\
+the two of you out!\\
+==== 1150116 ====
+I'm counting on you. Phi first, she doesn't\\
+have much time left...!\\
+==== 1150117 ====
+Don't forget to look behind you! The box that\\
+hung from the ceiling dropped!\\
+==== 1150200 ====
+And now Sigma's trapped too... Oh, what\\
+should I do...\\
+==== 1150201 ====
+Stop focusing on me, Diana! I'm only being\\
+restrained. Phi! She doesn't have much time!\\
+==== 1150202 ====
+Y-You're right... I need to stop that!\\
+==== 1150300 ====
+Sigma...\\
+==== 1150301 ====
+I told you, don't worry about me! Phi doesn't\\
+have much time...!\\
+==== 1150400 ====
+Hey Diana, let me see the gun you got from\\
+the box.\\
+==== 1150401 ====
+Huh? This?\\
+==== 1150402 ====
+Hmm, you know what. The muzzle might fit the\\
+keyhole right next to me.\\
+==== 1150403 ====
+Ah... I think it just might! Okay, I'll try it!\\
+==== 1150500 ====
+Diana, just insert the gun into the keyhole\\
+with "STOP"! Hurry up!\\
+==== 1150600 ====
+D-Diana, have you lost your mind?! Why are\\
+you staring at me with those goggles?\\
+==== 1150601 ====
+I-I'm sorry! I don't even know what I'm doing\\
+right now...\\
+==== 1150700 ====
+Mrff, what-oof, are gaaah doing– STOP.\\
+What are you doing with my face?!\\
+==== 1150701 ====
+I-I'm sorry...! I just thought maybe there's\\
+something...\\
+==== 1150702 ====
+If you have the time to mess with people's\\
+faces, then go search somewhere else!\\
+==== 1150800 ====
+Oh...! Uh, wow, your chest is...strong.\\
+==== 1150801 ====
+...Satisfied?\\
+==== 1150900 ====
+Oh Sigma, what should I do...\\
+==== 1150901 ====
+Stay calm. First, you'll have to let go of my\\
+hand. It's okay, just look for some clues.\\
+==== 1151000 ====
+...What are you doing?\\
+==== 1151001 ====
+Um... I just thought, maybe an important clue\\
+would be hidden somewhere...\\
+==== 1151002 ====
+...Well, there IS something important there.\\
+==== 1151003 ====
+O-Oh my God, I'm sorry! It's not like that! I\\
+didn't mean... It's not like that!\\
+==== 1160100 ====
+It says "STOP" here, so maybe it'll stop the\\
+incineration process!\\
+==== 1160101 ====
+Hm, if it does then that's one less thing to\\
+worry about. Let's find the key that fits this.\\
+==== 1160102 ====
+We'd definitely feel calmer once Phi is safe.\\
+Wait a second... Isn't this keyhole too big?\\
+==== 1160200 ====
+It's a keyhole with "STOP" written above it.\\
+But doesn't the hole look too big for a key...?\\
+==== 1160300 ====
+Augh...! If only I had the key that goes with\\
+this, maybe I could stop the incineration...!\\
+==== 1160400 ====
+Oh...! Maybe that could fit into this keyhole...\\
+==== 1160500 ====
+I think the gun will go in here... Please fit...!\\
+==== 1170100 ====
+Can you hear me, Diana? How's it going\\
+there?\\
+==== 1170101 ====
+We're searching everywhere...\\
+==== 1170200 ====
+Dammit! There's nothing here! Diana! What\\
+about that side?!\\
+==== 1170201 ====
+Augh, what should I do...  There's no time!\\
+==== 1170300 ====
+I need to open the chained box first. Diana's\\
+waiting on the other side of the chute.\\
+==== 1180100 ====
+Diana and Sigma are over there... Damn! Why\\
+am I here...\\
+==== 1180101 ====
+But it's better that I'm the only one who got\\
+locked in.\\
+==== 1180102 ====
+Diana... Sigma... I'm counting on you guys.\\
+==== 1180200 ====
+I can see much better now that the shutter is\\
+out of the way.\\
+==== 1180201 ====
+...Even if I broke the glass on this I doubt I'd\\
+be able to fit through.\\
+==== 1180300 ====
+Dammit, Sigma said he can't move, but is he\\
+really okay? I should focus on myself first...\\
+==== 1190100 ====
+This is the hole for the dust chute...? It's\\
+impossible to send things from this side.\\
+==== 1190200 ====
+It's the hole for the dust chute...\\
+==== 1190201 ====
+Phi, can you hear me?\\
+==== 1190202 ====
+Yeah, what is it?\\
+==== 1190203 ====
+This is your time! Crawl over here through this\\
+hole! You got this!\\
+==== 1190204 ====
+You old bastard... That's impossible. I'd just\\
+get stuck because of my big chest.\\
+==== 1190205 ====
+Enough! Do you even know what big is... Gah.\\
+Diana, could you take off your clothes?\\
+==== 1190206 ====
+What? Me?! W-Wait, what are you two talking\\
+about?! We need to be serious about this!\\
+==== 1190300 ====
+...I don't think I'll fit through the hole.\\
+==== 1190400 ====
+Things would be better if I could get through\\
+this hole... Damn, I can't space out now!\\
+==== 1200100 ====
+There's nothing I can use in this pile of trash.\\
+...Man, it really stinks.\\
+==== 1200200 ====
+There's only trash here...and the stench is...\\
+==== 1210100 ====
+Maybe I could get out if I removed the iron\\
+bars... But they're bolted on tight.\\
+==== 1210200 ====
+...No use. These bars won't come off.\\
+==== 1220100 ====
+It's a thermometer. But why is one in here? To\\
+check the temperature of the trash?\\
+==== 1220101 ====
+I should keep in mind what temperature it's\\
+going to be when the incineration starts...\\
+==== 1220200 ====
+It's a thermometer. But why is it in the\\
+incinerator...?\\
+==== 1220300 ====
+Maybe I can heat this thermometer up...?\\
+==== 1220301 ====
+...The temperature is going up.\\
+==== 1220302 ====
+...\\
+==== 1220303 ====
+Hey Phi! You okay?!\\
+==== 1220304 ====
+Huh? Well, I'm not bacon yet... Did something\\
+happen?\\
+==== 1220305 ====
+The needle on the thermometer here is\\
+shooting up! Is it getting hot in there?!\\
+==== 1220306 ====
+No, I'm fine. I see, so it's connected to the\\
+thermometer outside.\\
+==== 1220307 ====
+I'm so glad... Huh? The coin here is...\\
+==== 1220400 ====
+A thermometer... I think Diana said something\\
+about one...\\
+==== 1220401 ====
+...Is this related?\\
+==== 1220500 ====
+A thermometer... Is the needle on the note\\
+the one on the thermometer over there?\\
+==== 1220501 ====
+Then maxing out the needle would mean...\\
+==== 1220600 ====
+If the thermometer on that side is connected\\
+to the one here, then when I heat it up...\\
+==== 1220601 ====
+...The temperature is going up.\\
+==== 1220602 ====
+I wonder how much heat I need to max the\\
+needle over there out.\\
+==== 1220603 ====
+...\\
+==== 1220604 ====
+Hey Phi! You okay?!\\
+==== 1220605 ====
+Huh? Well, I'm not bacon yet... Did something\\
+happen?\\
+==== 1220606 ====
+The needle on the thermometer here is\\
+shooting up! Is it getting hot in there?!\\
+==== 1220607 ====
+No, I'm fine. I see, so it IS connected to the\\
+thermometer outside.\\
+==== 1220608 ====
+I'm so glad... Huh? The coin here is...\\
+==== 1220700 ====
+This thermometer is probably just for solving\\
+the gimmick in the other room...\\
+==== 1230100 ====
+So this is the spot where the flames will come\\
+out from... I wonder how powerful this is.\\
+==== 1230101 ====
+Maybe there's something I can hide in or\\
+behind if the incineration starts up...\\
+==== 1230102 ====
+...Yeah, I didn't think so.\\
+==== 1230103 ====
+I know, maybe if I stuff the trash into the\\
+furnace... Dammit, it stinks to high heaven!\\
+==== 1230104 ====
+I need to stop firing myself up or else I really\\
+will be...\\
+==== 1230105 ====
+...Stay calm, Phi.\\
+==== 1230200 ====
+This looks like where the flames will come\\
+from... Am I going to burn up to ash...?\\
+==== 1230300 ====
+Hey, this is...!\\
+==== 1240100 ====
+There's something strange about this wall.\\
+As if something is attached to it...\\
+==== 1240101 ====
+Huh, something's screwed on here.\\
+==== 1240200 ====
+This section of the wall is screwed on.\\
+==== 1240300 ====
+This wall is screwed on. I doubt it's\\
+connected to the outside though.\\
+==== 1240301 ====
+...May as well take it off.\\
+==== 1240302 ====
+Is this some sort of clue? 188 pounds...?\\
+==== 1240303 ====
+...I'll hold on to the screws just in case.\\
+==== 1240400 ====
+Well, 188 pounds is about 85 kilograms. What\\
+is with this weight? ...Oh, maybe.\\
+==== 1240401 ====
+Sigma! How much do you weigh?\\
+==== 1240402 ====
+HUH? What's with this all the sudden... How\\
+much do YOU weigh?\\
+==== 1240403 ====
+Call HR, this is sexual harassment, old man.\\
+Just answer. Is it 188 pounds?\\
+==== 1240404 ====
+Yeah, more or less... How'd you know?\\
+==== 1240405 ====
+Is it a coincidence it says that? No, it can't\\
+be. It must be part of Zero's plan...\\
+==== 1240500 ====
+This is just about how much Sigma weighs...\\
+==== 1240600 ====
+The 188 pounds. Sigma's weight. Damn, I\\
+knew it wasn't a coincidence. We screwed up!\\
+==== 1240700 ====
+Only this section of the wall is weird, and it\\
+has screws... That's screaming "Look at me!"\\
+==== 1240701 ====
+I think I can take it off...\\
+==== 1240800 ====
+This part of the wall has screws... I think I\\
+can remove it with the screwdriver.\\
+==== 1250100 ====
+This looks like a weight station... Why is one\\
+of these inside an incinerator...\\
+==== 1250101 ====
+Oh! I must have to weigh something!\\
+==== 1250200 ====
+I don't particularly want to weigh myself.\\
+==== 1250300 ====
+I should try weighing something here.\\
+==== 1250400 ====
+It's a weight station. I'll try weighing this\\
+screwdriver.\\
+==== 1250401 ====
+133 grams...\\
+==== 1250500 ====
+This screwdriver weighs 133 grams.\\
+==== 1250600 ====
+A weight station. I'm going to weigh these\\
+screws.\\
+==== 1250601 ====
+Okay, 22 grams. So each one is 11 grams.\\
+==== 1250700 ====
+Two screws weigh 22 grams.\\
+==== 1250800 ====
+Now to see how much this gas torch weighs...\\
+==== 1250801 ====
+360 grams...\\
+==== 1250900 ====
+This gas torch weighs 360 grams.\\
+==== 1260100 ====
+A toolbox. There better be some tools inside\\
+that I can use...\\
+==== 1260101 ====
+Hm... It's not opening. It's screwed shut.\\
+==== 1260200 ====
+It's screwed shut. Heh... Imagine that, a\\
+toolbox that needs a tool to open.\\
+==== 1260300 ====
+Okay, what's inside... Huh? It's some kind of\\
+puzzle in here.\\
+==== 1260400 ====
+Doesn't look like the tools are set\\
+correctly... It's just like a puzzle.\\
+==== 1260500 ====
+I'll try again.\\
+==== 1260600 ====
+Good. They're all in place now.\\
+==== 1260601 ====
+Oh, the bottom compartment opened.\\
+==== 1260602 ====
+It says "Max out the needle!" Needle... Hmm...\\
+==== 1260603 ====
+Diana! Is there a needle over there?\\
+==== 1260604 ====
+A needle? No, I don't think so... Oh, but\\
+there's a needle over on the meter.\\
+==== 1260605 ====
+Which meter?\\
+==== 1260606 ====
+Um, I think it's for a thermometer?\\
+==== 1260607 ====
+I see...\\
+==== 1260700 ====
+...They're not fitting right.\\
+==== 1260800 ====
+They won't fit...\\
+==== 1260801 ====
+I should find the tool that fits in the top left\\
+corner to start.\\
+==== 1260900 ====
+Everything fits. I don't have to deal with this\\
+anymore.\\
+==== 1261000 ====
+Okay, all of them are set correctly.\\
+==== 1261001 ====
+Oh, the bottom compartment opened.\\
+==== 1261002 ====
+It says "Max out the needle!" Needle... Hmm...\\
+==== 1261003 ====
+Diana! Is there a needle over there?\\
+==== 1261004 ====
+A needle? No, I don't think so... Oh, but\\
+there's a needle over on the meter.\\
+==== 1261005 ====
+Which meter?\\
+==== 1261006 ====
+Um, I think it's for a thermometer? But the\\
+needle's already maxed out and not moving.\\
+==== 1261007 ====
+Ah, then I've already heated it up... Damn,\\
+this note's no help.\\
+==== 1261100 ====
+A toolbox. I hope there are tools in there that\\
+I can use...\\
+==== 1261101 ====
+Huh? The cover is screwed on tight.\\
+==== 1261200 ====
+The cover's screwed shut and won't open...\\
+Dammit, I don't have time for this...\\
+==== 1261300 ====
+Okay, the inside... This...is a puzzle? At a\\
+time like this?!\\
+==== 1261400 ====
+The tools aren't in correctly. Does that mean\\
+I have to fix them? I need to hurry.\\
+==== 1261500 ====
+There's no time... But I'll try again.\\
+==== 1261600 ====
+...Damn! They aren't fitting right.\\
+==== 1261700 ====
+I can't do this... No, calm down...\\
+==== 1261701 ====
+I have to start with the tool that fits into the\\
+top left corner first.\\
+==== 1261800 ====
+There's nothing useful here.\\
+==== 1270100 ====
+A padlock... I can't open it without a key. Oh?\\
+==== 1270101 ====
+The keyhole is shaped like a hexagon... Hm.\\
+==== 1270200 ====
+A padlock... The hole is in the shape of a\\
+hexagon. Will anything fit here...\\
+==== 1270300 ====
+If I use the grip like so...\\
+==== 1270301 ====
+Yes! It's open!\\
+==== 1270302 ====
+Diana, I opened the lock! Pull the chain up!\\
+==== 1270303 ====
+Got it!\\
+==== 1280100 ====
+This isn't the time to examine it. Oh man, my\\
+nerves are about to snap.\\
+==== 1280101 ====
+I need to find a way to open that box...!\\
+==== 1280200 ====
+There's no time. I must open that box...!\\
+==== 1290100 ====
+This must be the exit... Nope, locked.\\
+==== 1290101 ====
+I don't see a keyhole, so it has to be\\
+electronically locked.\\
+==== 1290200 ====
+That's the exit, but it's locked.\\
+==== 1290300 ====
+Open up! OPEN! ...Damn! It's not budging.\\
+I'm not going to be burned to death in here!\\
+==== 1300100 ====
+This looks like a control console. But\\
+nothing's happening when we touch it.\\
+==== 1300200 ====
+Open... Please open! Why is this... What\\
+should I do?!\\
+==== 1310100 ====
+Fluorescent lights. They're pretty normal.\\
+==== 1310200 ====
+There must be a way... A way to...! Please...\\
+No, I can't give up...!\\
+==== 1320100 ====
+This is... Oh, I see. When it opens, the ashes\\
+go down here.\\
+==== 1320101 ====
+...Here's hoping that doesn't end up being\\
+me.\\
+==== 1320200 ====
+This is for disposing of the incinerated\\
+trash... I need to get out of here soon.\\
+==== 2010100 ====
+It's a small gas torch.\\
+==== 2010101 ====
+This makes me want to sear some meat or\\
+fish...\\
+==== 2010102 ====
+If we make it out safely, I definitely want to\\
+eat something nice.\\
+==== 2010200 ====
+It's a small gas torch. We need to handle it\\
+carefully.\\
+==== 2010300 ====
+A small gas torch.\\
+==== 2010301 ====
+Fight fire with fire, they say... As if. Like this\\
+tiny torch will outburn an incinerator.\\
+==== 2010400 ====
+It's a small gas torch. I can burn or heat\\
+something up with it...\\
+==== 2010500 ====
+A small gas torch. I put it on the weight\\
+station and it weighs 360 grams.\\
+==== 2020100 ====
+It's a toolbox. We can't open it because it's\\
+screwed shut.\\
+==== 2020101 ====
+And the tool to open it is INSIDE the box...\\
+Damn you, Zero.\\
+==== 2020200 ====
+It's a toolbox. We can't open it because it's\\
+screwed shut.\\
+==== 2020300 ====
+It's a toolbox. It's screwed shut.\\
+==== 2020301 ====
+Could we open it with the coin we have?\\
+==== 2020302 ====
+Oh, let's try it!\\
+==== 2020303 ====
+...Hmm, looks like the coin is too thick. We\\
+need an actual screwdriver for it.\\
+==== 2030100 ====
+This looks like a gas mask... Why would\\
+something like this be here?\\
+==== 2030101 ====
+Why not try it on? You might look good.\\
+==== 2030102 ====
+If you think complimenting everything a\\
+woman wears is okay, you're very wrong, sir.\\
+==== 2030200 ====
+It's a goggle mask... What can we use this\\
+for?\\
+==== 2030300 ====
+I can see things floating in the air when I put\\
+this on!\\
+==== 2030301 ====
+It probably has some kind of AR function...\\
+Augmented Reality.\\
+==== 2040100 ====
+Nothing special about a flathead\\
+screwdriver. The grip is hexagonal.\\
+==== 2040101 ====
+It's just a tool for taking screws off.\\
+==== 2040200 ====
+A flathead screwdriver with a hexagonal\\
+grip.\\
+==== 2040300 ====
+A flathead screwdriver with a hexagonal\\
+grip. It weighs 133 grams.\\
+==== 2050100 ====
+Two screws I removed from the wall... Maybe\\
+I can use them for something?\\
+==== 2050200 ====
+Two screws I removed from the wall...\\
+==== 2050300 ====
+Two screws I removed from the wall. Their\\
+total weight is 22 grams.\\
+==== 2060100 ====
+This just looks like a regular coin.\\
+==== 2060101 ====
+I doubt there's anything to it. But I bet we can\\
+use it for something.\\
+==== 2060200 ====
+It's a regular coin. Maybe we can use it for\\
+something?\\
+==== 2070100 ====
+The chained box that was hanging from the\\
+ceiling... I need to get the lock open.\\
+==== 2070101 ====
+I think the keyhole is hexagonal... Oh, the\\
+time is...!\\
+==== 2070200 ====
+How can I open this chained box...! The hole\\
+for the key is hexagonal...\\
+==== 2080100 ====
+A revolver... It's heavy, so it must be real.\\
+Maybe I can shoot Sigma's restraints...\\
+==== 2080101 ====
+No, I don't think that would work... There's no\\
+time and I can't think straight! What do I do?!\\
+==== 2080200 ====
+A revolver... I can't just go around firing it,\\
+so what should I do with it?!\\
+==== 2080300 ====
+A revolver... What should I do... Huh?\\
+==== 2080301 ====
+The muzzle... Maybe it'll fit...\\
+==== 2080400 ====
+Maybe the muzzle of this gun will fit in the\\
+keyhole...!\\
