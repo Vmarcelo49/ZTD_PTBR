@@ -16,9 +16,7 @@ func check(e error) {
 }
 func getAITrad(line string) string {
 	AILine, err := sendRequest(line)
-	if err != nil {
-		println(err)
-	}
+	check(err)
 	return AILine
 }
 
@@ -97,9 +95,9 @@ func traduzir(arquivo string) {
 	var lastIndex string
 	var stringBuffer string
 	var makingNewSTR bool
-	for i := range lines {
+	for _, line := range lines {
 		if makingNewSTR {
-			if !isZTDString(lines[i]) {
+			if !isZTDString(line) {
 				tradOBJ := newTrad(lastIndex, stringBuffer)
 				tradOBJS = append(tradOBJS, tradOBJ)
 				makingNewSTR = false
@@ -107,11 +105,11 @@ func traduzir(arquivo string) {
 
 			}
 		}
-		if !isZTDString(lines[i]) {
-			lastIndex = trimmIndex(lines[i])
+		if !isZTDString(line) {
+			lastIndex = trimmIndex(line)
 		}
-		if isZTDString(lines[i]) {
-			trimmedStr := strings.Replace(lines[i], "\\", "", -1)
+		if isZTDString(line) {
+			trimmedStr := strings.Replace(line, "\\", "", -1)
 			makingNewSTR = true
 			stringBuffer = stringBuffer + " " + trimmedStr
 
