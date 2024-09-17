@@ -1,36 +1,34 @@
 package main
 
 import (
-	"fmt"
 	"os"
+	"log"
 	"path/filepath"
 	"strings"
 )
 
-func saveFile(linhas []translationOBJ, filename string) {
+func saveFile(lines []translationOBJ, filename string) {
 	nomeArquivo := filepath.Base(filename)
 	arquivo, err := os.Create("translatedText/" + nomeArquivo)
 	if err != nil {
-		//odeio como essa bosta reporta erros nativamente
-		fmt.Println("Erro na criação do arquivo:", nomeArquivo, arquivo)
-		panic(err)
+		log.Panic("Erro na criação do arquivo:", nomeArquivo)
 	}
 	defer arquivo.Close()
-	for _, linha := range linhas {
+	for _, linha := range lines {
 		arquivo.WriteString("==== " + linha.index + " ====\n")
 		linhaQuebrada := quebraLinha(linha.aiTranslated)
 		arquivo.WriteString(linhaQuebrada + "\\\\\n")
 	}
-	fmt.Println("Terminado arquivo ", nomeArquivo)
+	log.Println("Terminado arquivo ", nomeArquivo)
 
 }
 
-func quebraLinha(str string) string {
-	if len(str) <= 50 {
+func quebraLinha(linha string) string {
+	if len(linha) <= 50 {
 		return str
 	}
 
-	palavras := strings.Fields(str)
+	palavras := strings.Fields(linha)
 	var resultado string
 	//Não lembro de onde peguei essa parte, mas caraca como funciona bem
 	contador := 0

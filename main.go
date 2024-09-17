@@ -71,17 +71,13 @@ func buscarArquivosTXT() ([]string, error) {
 	diretorio := "./text/"
 	var arquivosTXT []string
 
-	// Lê o conteúdo do diretório
 	arquivos, err := os.ReadDir(diretorio)
 	if err != nil {
 		return nil, err
 	}
 
-	// Itera sobre os arquivos no diretório
 	for _, arquivo := range arquivos {
-		// Verifica se o arquivo tem a extensão ".txt"
 		if strings.HasSuffix(arquivo.Name(), ".txt") {
-			// Adiciona o caminho completo do arquivo ao slice
 			arquivosTXT = append(arquivosTXT, filepath.Join(diretorio, arquivo.Name()))
 		}
 	}
